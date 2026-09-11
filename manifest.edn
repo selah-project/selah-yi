@@ -1,0 +1,112 @@
+#:rendering{:label "ייִדיש",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-10", :to "2026-09-11"},
+            :id "yi.v1",
+            :catalog {:ui nil},
+            :license "CC BY-SA 4.0 (The Selah Yiddish Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23212, "glm-5.3" 1},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/yi.md",
+             :rails-commit "2d8777e0",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אונד" "און",
+              "איסט" "איז",
+              "אל" "אל",
+              "אלהים" "אלהים",
+              "אלוה" "אלוה",
+              "יה" "יה",
+              "יהוה" "יהוה",
+              "ניכט" "נישט",
+              "צבאות" "צבאות",
+              "שדי" "שדי"},
+             :open-questions
+             ["B1 הבל → הויך (63 tokens) — defensible (hoykh < Hauch, breath) but homographic with high; 9 tokens keep הבל inline"
+              "B2 orthography split — 488 verses (2.1%) unpointed ksiv; both lawful, uniformity is the question"
+              "B3 ערד/לאַנד split for ארץ 1,189/893 (+51 inline) — sense-tracking but ungoverned"
+              "B4 Hebrew demonstratives inline 151 of 1,709 (הזה/האלה/ההוא)"
+              "B5 supplied-word ⟨…⟩ marking 48x lighter than the en floor (729 vs 35,177) — fleet invariant or per-chair?"
+              "B9 Prov 8:22 קנני → created vs floor possessed — live interpretive fork"
+              "B12 צבאות: 254 bare inline / 26 bracketed / 3 translated — pick one"
+              "B6-B13 remainder (yi-tekoa-report.md tally)"]},
+            :status :live,
+            :adjudication
+            {:chair 69,
+             :first :shared-script,
+             :polarity :alef-beys-home,
+             :seal
+             {:et-flow 11866,
+              :gehinnom 0,
+              :yat 0,
+              :verses 23213,
+              :thermometer [0 0 0],
+              :aleph-tav [],
+              :latin 0,
+              :empty-glosses [5 5],
+              :yahweh-name-seat [6828 6828],
+              :elohim-flow 2304,
+              :et-row 11866,
+              :yahweh-flow 6828,
+              :spine-vs-en [23213 23213],
+              :erasure [0 0 0 0 0 0 0 0]},
+             :tekoa
+             {:verdict "SEATS",
+              :headline
+              "the alignment spine is the cleanest of any chair I have inspected; the Name stands in its own letters where the language's own tradition would have hidden it",
+              :class-a-applied 2000,
+              :class-b-filed 13,
+              :report
+              "data/experiments/yi-seating/yi-tekoa-report.md"},
+             :cruxes
+             ["IDENTITY HELD — 6,828 Name seats ≡ 6,828 flow occurrences, exact; avoidance apparatus (ה׳/השם/אדושם/אלוקים/יי/דער אויבערשטער/גאָט) zero at every seat; the one השם is the Gizonite (1 Chr 11:34)"
+              "points-are-letters — 1,509 Hebrew-only marks stripped by whitelist cleaner preserving the seven Yiddish points; a generic strip-niqqud is itself the danger on this chair"
+              "suffixed-את wraps: 157 gloss + 109 flow wraps → bare ⟨את⟩ + pronoun; 55 flows hand-seated vs the actual Hebrew את positions (incl the Josh 13:21 נשיאים splice)"
+              "Dan 3:12 SIXTEENTH — יתהון bare pronoun זיי, no ⟨את⟩/⟨ית⟩, per siblings"
+              "re-press 24: 4 Name-dropped flows, 4 raw-Hebrew, 8 wrong-language (2 Kgs 20:1-4 English; romanized Ezek 11:15 + Hos 13:13-15 — script-home), 5 truncations"
+              "German bleed showed as script-switching not vocabulary: thermometer 0/0/0, 93 Latin welds repaired"
+              "surplus-Name flows repaired to exactness: 2 Sam 6:9, Jer 44:21, Prov 15:9, 1 Chr 5:41, Isa 30:18 (the phrase elohei-mishpat mis-carried as the Name)"]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-yi",
+              :ref "v1-final",
+              :commit "8803d40a",
+              :tags ["v1-final"],
+              :branches ["main"]},
+             :parents []},
+            :lang :yi}
