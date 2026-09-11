@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "דער פֿינפֿטער צו מלכּיָה, דער זעקסטער צו מיאָמין.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "צו מלכּיָה"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "דער פֿינפֿטער"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "צו מיאָמין"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "דער זעקסטער"
+    }
+  ],
+  "timestamp": "2026-09-11T05:00:53.237240466Z",
+  "model": "glm-5.3"
+}

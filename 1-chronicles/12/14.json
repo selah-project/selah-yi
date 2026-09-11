@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "ירמיהו דער צענטער, מכבני דער עלפֿטער.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "ירמיהו"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "דער צענטער"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "מכבני"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "דער עלפֿטער"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "עלף"
+    }
+  ],
+  "timestamp": "2026-09-11T01:37:53.254413472Z",
+  "model": "glm-5.3"
+}

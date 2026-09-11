@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 26,
+  "translation": "און יהוה האָט גערעדט צו משה און צו אלעזר זון פֿון אהרן דער כהן, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און צו"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "אלעזר"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "אהרן"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "דער כהן"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:25:56.260631422Z",
+  "model": "glm-5.3"
+}

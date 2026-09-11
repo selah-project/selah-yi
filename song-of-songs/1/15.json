@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "זע, שיין ביסטו, מײַן פֿרײַנדין; זע, שיין ביסטו; דײַנע אויגן זײַנען טויבן.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "זע"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "שיין"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "מײַן פֿרײַנדין"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "זע"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "שיין"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "דײַנע אויגן"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "טויבן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:50:48.210298427Z",
+  "model": "glm-5.3"
+}

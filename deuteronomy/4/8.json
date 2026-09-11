@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 4:8",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און װעלכער איז אַ גרױס פֿאָלק װאָס האָט חוקים און משפטים צדיקע, װי אַלע די תּורה די, װאָס איך שטעל הײַנט פֿאַר אײַך?",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "און װעלכער"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "פֿאָלק"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרױס"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "װאָס"
+    },
+    {
+      "surface": "לו",
+      "gloss": "האָט"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "חוקים"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "און משפטים"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "צדיקע"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "װי אַלע"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "די תּורה"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "די"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "װאָס"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "שטעל"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "פֿאַר אײַך"
+    },
+    {
+      "surface": "היום",
+      "gloss": "הײַנט"
+    }
+  ],
+  "timestamp": "2026-09-10T20:34:02.631472384Z",
+  "model": "glm-5.3"
+}

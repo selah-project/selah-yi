@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "און דאָס זענען זיי וואָס איר זאָלט נישט עסן פֿון זיי: דער נשר, און דער פרס, און די עזניה.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "און דאָס"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "זאָלט עסן"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "פֿון זיי"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "דער נשר"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "און דער פרס"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "און די עזניה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:37:41.372399784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "און יהוה האָט גערעדט צו משה לאמר:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לאמר"
+    }
+  ],
+  "timestamp": "2026-09-10T20:26:57.283629877Z",
+  "model": "glm-5.3"
+}

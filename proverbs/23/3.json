@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "בזע נישט נאָך זײַנע מטעמים, ווײַל עס איז אָנגעפֿילט מיט ליגענץ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "בזע"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "נאָך זײַנע מטעמים"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ווײַל עס"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "אָנגעפֿילט"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "מיט ליגענץ"
+    }
+  ],
+  "timestamp": "2026-09-11T14:44:30.230906079Z",
+  "model": "glm-5.3"
+}

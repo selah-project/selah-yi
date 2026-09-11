@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און אויף דער חיל פֿון שבט די קינדער פֿון יששכר — נתנאל זון פֿון צוער.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "חיל"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "שבט"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "יששכר"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "נתנאל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "צוער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:15:53.802665234Z",
+  "model": "glm-5.3"
+}

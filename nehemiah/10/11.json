@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 10:11",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און זייערע ברידער: שבניה, הודיה, קליטא, פלאיה, חנן.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "און זייערע ברידער"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "שבניה"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "הודיה"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "קליטא"
+    },
+    {
+      "surface": "פלאיה",
+      "gloss": "פלאיה"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "חנן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:19.177560211Z",
+  "model": "glm-5.3"
+}

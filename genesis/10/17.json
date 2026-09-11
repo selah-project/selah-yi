@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און ⟨את⟩ דעם חיווי, און ⟨את⟩ דעם ערקי, און ⟨את⟩ דעם סיני.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דעם חיווי"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "דעם חיווי"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דעם ערקי"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "דעם ערקי"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דעם סיני"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "דעם סיני"
+    }
+  ],
+  "timestamp": "2026-09-10T19:13:52.367947893Z",
+  "model": "glm-5.3"
+}

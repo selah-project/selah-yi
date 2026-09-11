@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און ירמיהו האָט צו זיי געזאָגט: אַזוי זאָלט איר זאָגן צו צדקיהו:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און … האָט געזאָגט"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ירמיהו"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "צו זיי"
+    },
+    {
+      "surface": "כה",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "זאָלט איר זאָגן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "צדקיהו"
+    }
+  ],
+  "timestamp": "2026-09-11T03:35:59.464016708Z",
+  "model": "glm-5.3"
+}

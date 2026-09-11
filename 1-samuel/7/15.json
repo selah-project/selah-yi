@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און שמואל האָט געריכטן ⟨את⟩ ישׂראל אַלע טעג פֿון זײַן לעבן.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "און האָט געריכטן"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "שמואל"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ישׂראל"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "טעג פֿון"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "זײַן לעבן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:50:13.052973847Z",
+  "model": "glm-5.3"
+}

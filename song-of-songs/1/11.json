@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "רײַהן פֿון גאָלד וועלן מיר מאַכן פֿאַר דיר, מיט פּונקטלעך פֿון דעם זילבער.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "רײַהן"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "פֿון גאָלד"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "וועלן מיר מאַכן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "פֿאַר דיר"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "פּונקטלעך"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "פֿון דעם זילבער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:50:44.388108596Z",
+  "model": "glm-5.3"
+}

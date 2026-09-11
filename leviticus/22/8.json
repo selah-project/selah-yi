@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "אַ נבלה און אַ טרפה זאָל ער נישט עסן, זיך צו טומאה מיט איר; איך בין יהוה",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "אַ נבלה"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "און אַ טרפה"
+    },
+    {
+      "surface": "לא",
+      "gloss": "זאָל ער נישט"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "עסן"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "זיך צו טומאה"
+    },
+    {
+      "surface": "בה",
+      "gloss": "מיט איר"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:06:02.145761743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "בן־חסד אין ארובות; אים געהערט שכה און די גאנצע לאנד פון חפר.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "בן־חסד"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "בן־חסד"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "אין ארובות"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים געהערט"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "שכה"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "און די גאנצע"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "לאנד"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "פון חפר"
+    }
+  ],
+  "timestamp": "2026-09-10T21:39:50.341076267Z",
+  "model": "glm-5.3"
+}

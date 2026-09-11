@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "אַ מזמור פֿון דוד. גיט צו יהוה, קינדער פֿון אלים; גיט צו יהוה כּבֿוד און עוז.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "אַ מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "גיט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "צו יהוה"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "פֿון אלים"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "גיט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "צו יהוה"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "כּבֿוד"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "און עוז"
+    }
+  ],
+  "timestamp": "2026-09-11T04:18:57.295775645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "נישט זאָל זײַן אין דײַן טאַש אַ שטיין און אַ שטיין, אַ גרויסע און אַ קלײַנע.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "זאָל זײַן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "אין דײַן טאַש"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "אַ שטיין"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "און אַ שטיין"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "אַ גרויסע"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "און אַ קלײַנע"
+    }
+  ],
+  "timestamp": "2026-09-10T20:43:09.709206046Z",
+  "model": "glm-5.3"
+}

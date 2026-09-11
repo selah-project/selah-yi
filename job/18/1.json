@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "און בלדד השוחי האט געענטפֿערט און געזאגט:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "האט געענטפֿערט"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "בלדד"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "השוחי"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "און געזאגט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:41:54.380141520Z",
+  "model": "glm-5.3"
+}

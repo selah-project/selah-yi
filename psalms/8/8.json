@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "צאָן און רינדער, אַלע צוזאַמען, און אויך די חיות פֿון פֿעלד.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "צאָן"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "און רינדער"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "אַלע צוזאַמען"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "און אויך"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "די חיות"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "פֿון פֿעלד"
+    }
+  ],
+  "timestamp": "2026-09-11T04:14:50.219699221Z",
+  "model": "glm-5.3"
+}

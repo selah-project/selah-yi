@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "דניאל, גנתון, ברוך,",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "דניאל"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "גנתון"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ברוך"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:58.873944600Z",
+  "model": "glm-5.3"
+}

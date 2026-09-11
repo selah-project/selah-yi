@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און אלישמע, און אלידע, און אליפלט.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "און אלישמע"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "און אלידע"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "און אליפלט"
+    }
+  ],
+  "timestamp": "2026-09-10T21:28:25.779146235Z",
+  "model": "glm-5.3"
+}

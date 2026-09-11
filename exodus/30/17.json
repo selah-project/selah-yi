@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "און יהוה האָט גערעדט צו משה צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:19:25.825454763Z",
+  "model": "glm-5.3"
+}

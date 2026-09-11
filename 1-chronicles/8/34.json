@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און דער זון פֿון יהונתן — מריב בעל; און מריב בעל האָט געהאַט ⟨את⟩ מיכה.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "און דער זון פֿון"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "יהונתן"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "מריב"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "בעל"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "און מריב"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "בעל"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "מיכה"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "מיכה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:51.280575532Z",
+  "model": "glm-5.3"
+}

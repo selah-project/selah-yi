@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "דער מלך פֿון מקדה, איינער; דער מלך פֿון בית־אל, איינער;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "דער מלך"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "פֿון מקדה"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "דער מלך"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:53:06.383348254Z",
+  "model": "glm-5.3"
+}

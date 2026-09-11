@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "זאַמלט זיך, זאַמלט זיך, דאָס פֿאָלק וואָס איז נישט באַגערט;",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "זאַמלט זיך"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "זאַמלט זיך"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "דאָס פֿאָלק"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "באַגערט"
+    }
+  ],
+  "timestamp": "2026-09-10T23:41:15.624080364Z",
+  "model": "glm-5.3"
+}

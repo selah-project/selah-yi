@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "צלמון דער אחחי, מהרי דער נטפתי,",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "צלמון"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "דער אחחי"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "מהרי"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "דער נטפתי"
+    }
+  ],
+  "timestamp": "2026-09-10T21:37:58.416556174Z",
+  "model": "glm-5.3"
+}

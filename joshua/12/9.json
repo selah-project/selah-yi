@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "דער מלך פֿון יריחו, איינער; דער מלך פֿון האַי, וואָס איז בײַ דער זײַט פֿון בית אל, איינער;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "יריחו"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "העי",
+      "gloss": "האַי"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "בײַ דער זײַט"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    }
+  ],
+  "timestamp": "2026-09-11T14:29:03.262523675Z",
+  "model": "glm-5.3"
+}

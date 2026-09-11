@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "דרום, הירשן, הערט דאָס וואָרט פֿון יהוה:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "דרום"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "הירשן"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "הערט"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T03:57:19.984329428Z",
+  "model": "glm-5.3"
+}

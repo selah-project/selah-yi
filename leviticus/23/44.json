@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "און משה האָט גערעדט ⟨את⟩ די מועדים פֿון יהוה צו די קינדער פֿון ישׂראל.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "די מועדים פֿון יהוה"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "די מועדים"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-10T20:08:07.086126091Z",
+  "model": "glm-5.3"
+}

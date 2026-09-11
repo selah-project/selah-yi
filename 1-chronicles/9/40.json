@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און דער זון פֿון יהונתן איז געווען מריב בעל, און מרי בעל האָט געהאַט ⟨את⟩ מיכה.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "און דער זון"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "פֿון יהונתן"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "מריב"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "בעל"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "און מרי"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "בעל"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "מיכה"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "מיכה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:35:04.654088680Z",
+  "model": "glm-5.3"
+}

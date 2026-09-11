@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "קינדער פֿון שפטיה: דרײַ הונדערט צוויי און זיבעציק.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "שפטיה"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "זיבעציק"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "און צוויי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:15:40.412306800Z",
+  "model": "glm-5.3"
+}

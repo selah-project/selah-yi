@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "חסד און אמת היטן דעם מלך, און מיט חסד שטיצט מען זײַן כּסא.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "חסד"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "און אמת"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "היטן"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "דעם מלך"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "און שטיצט מען"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "מיט חסד"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "זײַן כּסא"
+    }
+  ],
+  "timestamp": "2026-09-11T14:56:42.110721222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "צעשנײַד זי ⟨את⟩ אין שטיקלעך און גיס אויף איר שמן — אַ מנחה איז זי.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "צעשנײַד"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "זי (אין שטיקלעך)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "אין שטיקלעך"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "און גיס"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "אויף איר"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "שמן"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "אַ מנחה"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "איז זי"
+    }
+  ],
+  "timestamp": "2026-09-10T19:56:10.739170867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 41,
+  "translation": "ער זעט ⟨את⟩ אַלע הויכע; ער איז אַ מלך איבער אַלע קינדער פֿון גאַוואַ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אַלע הויכע"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "הויכע"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ער זעט"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "אַ מלך"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "גאַוואַ"
+    }
+  ],
+  "timestamp": "2026-09-11T04:43:57.579796533Z",
+  "model": "glm-5.3"
+}

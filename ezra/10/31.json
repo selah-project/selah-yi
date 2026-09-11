@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 10:31",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און די זין פֿון חרם: אליעזר, ישיה, מלכיה, שמעיה, שמעון.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "פֿון חרם"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "אליעזר"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ישיה"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "מלכיה"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "שמעיה"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "שמעון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:19:14.123336255Z",
+  "model": "glm-5.3"
+}

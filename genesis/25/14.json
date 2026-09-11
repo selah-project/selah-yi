@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "און משמע, און דומה, און משא.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "און משמע"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "און דומה"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "און משא"
+    }
+  ],
+  "timestamp": "2026-09-10T19:20:26.535310072Z",
+  "model": "glm-5.3"
+}

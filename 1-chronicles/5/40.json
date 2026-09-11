@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און עזריה האָט געבאָרן ⟨את⟩ שריה, און שריה האָט געבאָרן ⟨את⟩ יהוצדק.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "און עזריה"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "שריה"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "שריה"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "און שריה"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יהוצדק"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "יהוצדק"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:08.642816576Z",
+  "model": "glm-5.3"
+}

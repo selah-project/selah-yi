@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "אַלע טהורע פֿערדלעך — פֿויגל — מעגט איר עסן.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "פֿויגל"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "טהורע"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "מעגט איר עסן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:37:43.139913071Z",
+  "model": "glm-5.3"
+}

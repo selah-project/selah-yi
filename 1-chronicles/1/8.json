@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "די זין פֿון חם: כוש און מצרים, פוט און כנען.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "חם",
+      "gloss": "חם"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "כוש"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "און מצרים"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "פוט"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "און כנען"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:28.817785243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 36:22",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 36,
+  "translation": "זע, אל הויכט זיך מיט זײַן כּוח; ווער איז ווי אים — אַ מלמד?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "זע"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "ישגיב",
+      "gloss": "הויכט זיך"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "מיט זײַן כּוח"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ווי אים"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "אַ מלמד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:47:30.710600537Z",
+  "model": "glm-5.3"
+}

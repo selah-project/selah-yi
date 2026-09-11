@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "און יואב בן צרויה האָט געוואוסט, אַז דאָס האַרץ פֿון דעם מלך איז אויף אבשלום.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "האָט געוואוסט"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "יואב"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "צרויה"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "לב",
+      "gloss": "האַרץ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "פֿון דעם מלך"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "אבשלום"
+    }
+  ],
+  "timestamp": "2026-09-10T21:32:23.299097703Z",
+  "model": "glm-5.3"
+}

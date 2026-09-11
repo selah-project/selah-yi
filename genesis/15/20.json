@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "און ⟨את⟩ דעם חתי, און ⟨את⟩ דעם פּרזי, און ⟨את⟩ די רפֿאים,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דעם חתי"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "דעם חתי"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דעם פּרזי"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "דעם פּרזי"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "די רפֿאים"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "די רפֿאים"
+    }
+  ],
+  "timestamp": "2026-09-10T19:16:00.832694882Z",
+  "model": "glm-5.3"
+}

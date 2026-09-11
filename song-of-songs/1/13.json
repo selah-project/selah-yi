@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "אַ בינדל מור איז מײַן געליבטער פֿאַר מיר; צווישן מײַנע בריסט וועט ער נאַכטן.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "אַ בינדל"
+    },
+    {
+      "surface": "המר",
+      "gloss": "מור"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "מײַן געליבטער"
+    },
+    {
+      "surface": "לי",
+      "gloss": "פֿאַר מיר"
+    },
+    {
+      "surface": "בין",
+      "gloss": "צווישן"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "מײַנע בריסט"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "וועט ער נאַכטן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:50:48.209960886Z",
+  "model": "glm-5.3"
+}

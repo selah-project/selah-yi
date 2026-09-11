@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "ווײַל איר הויז זינקט אַראָפּ צום טויט, און אירע וועגן — צו די רפאים.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "זינקט אַראָפּ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "מות",
+      "gloss": "טויט"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "איר הויז"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און צו"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "רפאים"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "אירע וועגן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:23:50.776788180Z",
+  "model": "glm-5.3"
+}

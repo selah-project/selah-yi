@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 128,
+  "translation": "און זע קינדער צו דײַנע קינדער־קינדער. שלום אויף ישׂראל!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "און זע"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "קינדער"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "צו דײַנע קינדער־קינדער"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "שלום"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-11T00:18:36.244033705Z",
+  "model": "glm-5.3"
+}

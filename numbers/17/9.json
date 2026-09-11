@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "און יהוה האָט גערעדט צו משה צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:32:14.856115956Z",
+  "model": "glm-5.3"
+}

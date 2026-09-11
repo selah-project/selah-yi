@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און זײַן עלטסטער זון: עבדון, און צור, און קיש, און בעל, און נר, און נדב.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "און זײַן זון"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "דער עלטסטער"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "עבדון"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "און צור"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "און קיש"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "און בעל"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "און נר"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "און נדב"
+    }
+  ],
+  "timestamp": "2026-09-11T04:59:09.750608400Z",
+  "model": "glm-5.3"
+}

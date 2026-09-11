@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "ער וועט מיר בויען אַ בית, און איך וועל פֿעסטשטעלן ⟨את⟩ זײַן כּסא ביז עולם.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "וועט בויען"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "בית",
+      "gloss": "אַ בית"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "און איך וועל פֿעסטשטעלן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "זײַן כּסא"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "זײַן כּסא"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "עולם"
+    }
+  ],
+  "timestamp": "2026-09-11T01:40:12.021259494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "אויפֿן ערשטן טאָג אַ מקרא־קודש; קיין מלאכה פֿון עבודה זאָלט איר נישט טון.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "אויפֿן טאָג"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ערשטן"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "מקרא"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "קודש"
+    },
+    {
+      "surface": "כל",
+      "gloss": "קיין"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "מלאכה"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "פֿון עבודה"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "זאָלט איר טון"
+    }
+  ],
+  "timestamp": "2026-09-11T02:29:06.705420142Z",
+  "model": "glm-5.3"
+}

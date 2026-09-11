@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "פֿאַרוואָס זאָל זיך באַקלאָגן אַ לעבעדיקער מענטש, אַ גבֿר, צוליב זײַן חטא?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "פֿאַרוואָס"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "זאָל זיך באַקלאָגן"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "מענטש"
+    },
+    {
+      "surface": "חי",
+      "gloss": "לעבעדיקער"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "גבֿר"
+    },
+    {
+      "surface": "על",
+      "gloss": "צוליב"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "זײַן חטא"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:32.876748773Z",
+  "model": "glm-5.3"
+}

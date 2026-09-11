@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון בנוי, זעקס הונדערט פֿערציק און אַכט.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "בנוי"
+    },
+    {
+      "surface": "שש",
+      "gloss": "זעקס"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "פֿערציק"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "און אַכט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:45.712989971Z",
+  "model": "glm-5.3"
+}

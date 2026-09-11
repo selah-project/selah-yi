@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "א משא פון נינוה: דער ספר חזון פון נחום האלקשי.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "א משא"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "פון נינוה"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "דער ספר"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "חזון"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "פון נחום"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "האלקשי"
+    }
+  ],
+  "timestamp": "2026-09-10T23:36:26.905821595Z",
+  "model": "glm-5.3"
+}

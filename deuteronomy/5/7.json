@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "נישט זאָל זײַן פֿאַר דיר אַנדערע אלהים אויף מײַן פּנים.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "זאָל זײַן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "פֿאַר דיר"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "אַנדערע"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "פני",
+      "gloss": "מײַן פּנים"
+    }
+  ],
+  "timestamp": "2026-09-11T14:50:54.006865091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "דאָס זיינען די זין פון אביחיל, זון פון חורי, זון פון ירוח, זון פון גלעד, זון פון מיכאל, זון פון ישישי, זון פון יחדו, זון פון בוז.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין פון"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "אביחיל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פון"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "חורי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פון"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "ירוח"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פון"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "גלעד"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פון"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "מיכאל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פון"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "ישישי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פון"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "יחדו"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פון"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "בוז"
+    }
+  ],
+  "timestamp": "2026-09-11T04:58:37.292645108Z",
+  "model": "glm-5.3"
+}

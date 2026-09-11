@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און עובד האָט געהאַט ⟨את⟩ ישי, און ישי האָט געהאַט ⟨את⟩ דוד.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "און עובד"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ישי"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ישי"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "און ישי"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דוד"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "דוד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:52:39.068162086Z",
+  "model": "glm-5.3"
+}

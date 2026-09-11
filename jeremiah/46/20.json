@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 46,
+  "translation": "אַ זייער שיינע קאַלבע איז מצרים; קרץ פֿון צפון קומט, ער קומט שוין.",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "קאַלבע"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "זייער שיינע"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "שיינקייט"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "מצרים"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "קרץ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "פֿון צפון"
+    },
+    {
+      "surface": "בא",
+      "gloss": "קומט"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ער קומט שוין"
+    }
+  ],
+  "timestamp": "2026-09-11T03:41:41.733304672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און ⟨את⟩ דעם איינציקן ים, און ⟨את⟩ די צוועלף אקסן אונטער דעם ים,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "דעם ים"
+    },
+    {
+      "surface": "הים",
+      "gloss": "דעם ים"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "איינציקן"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "די אקסן"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "די אקסן"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צען"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "אונטער"
+    },
+    {
+      "surface": "הים",
+      "gloss": "דעם ים"
+    }
+  ],
+  "timestamp": "2026-09-11T03:00:21.657677755Z",
+  "model": "glm-5.3"
+}

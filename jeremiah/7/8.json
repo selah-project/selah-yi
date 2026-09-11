@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "זעט, איר שטיצט זיך אײַך אויף ווערטער פֿון ליגענץ, לויט וואָס ס׳העלפֿט נישט.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "זעט"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "איר"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "שטיצט זיך"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "אײַך"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ווערטער"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "פֿון ליגענץ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "לויט וואָס נישט"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ס׳העלפֿט"
+    }
+  ],
+  "timestamp": "2026-09-11T03:29:48.999234989Z",
+  "model": "glm-5.3"
+}

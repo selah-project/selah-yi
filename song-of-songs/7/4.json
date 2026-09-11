@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "דײַנע צוויי בריסט זײַנען ווי צוויי הירשלעך, צווילינגען פֿון אַ צביָה.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "דײַנע בריסט"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ווי צוויי"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "הירשלעך"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "צווילינגען"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "פֿון אַ צביָה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:53:12.410754567Z",
+  "model": "glm-5.3"
+}

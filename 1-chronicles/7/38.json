@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און די זין פֿון יתר: יפנה, און פספה, און ארא.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "פֿון יתר"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "יפנה"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "און פספה"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "און ארא"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:44.879152772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "א פֿייער תמיד זאָל ברענען אויפֿן מזבח, זאָל נישט דערלעשט ווערן.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "א פֿייער"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "תמיד"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "זאָל ברענען"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויפֿן"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "מזבח"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "זאָל דערלעשט ווערן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:58:03.050007039Z",
+  "model": "glm-5.3"
+}

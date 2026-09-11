@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 120,
+  "translation": "שאַרפֿע פֿייל פֿון א גיבור, מיט גלייען פֿון רתמים.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "פֿייל"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "פֿון א גיבור"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "שאַרפֿע"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "גלייען פֿון"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "רתמים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:18:25.443517945Z",
+  "model": "glm-5.3"
+}

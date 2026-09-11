@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 135,
+  "translation": "לויבט יה, לויבט ⟨את⟩ דעם נאָמען פֿון יהוה; לויבט, דינער פֿון יהוה,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "לויבט"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "לויבט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם נאָמען פֿון יהוה"
+    },
+    {
+      "surface": "שם",
+      "gloss": "נאָמען"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "לויבט"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "דינער"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:19:45.247811439Z",
+  "model": "glm-5.3"
+}

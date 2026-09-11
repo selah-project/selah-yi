@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 46,
+  "translation": "און די זין פֿון דן: חושים.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "דן",
+      "gloss": "דן"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "חושים"
+    }
+  ],
+  "timestamp": "2026-09-11T02:13:26.591672970Z",
+  "model": "glm-5.3"
+}

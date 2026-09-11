@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "פֿון די זין פֿון בני: מעדי, עמרם און ואואל.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "פֿון די זין"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "מעדי"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "עמרם"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "און ואואל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:18:39.036377149Z",
+  "model": "glm-5.3"
+}

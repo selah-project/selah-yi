@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און אַשחור, דער פֿאַטער פֿון תקוע, זײַנען געווען צוויי ווײַבער: חלאה און נערה.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "און אַשחור"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "פֿאַטער"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "תקוע"
+    },
+    {
+      "surface": "היו",
+      "gloss": "זײַנען געווען"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ווײַבער"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "חלאה"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "און נערה"
+    }
+  ],
+  "timestamp": "2026-09-11T04:57:57.053565808Z",
+  "model": "glm-5.3"
+}

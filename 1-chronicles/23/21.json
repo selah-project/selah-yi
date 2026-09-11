@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "די זין פֿון מררי: מחלי און מושי; די זין פֿון מחלי: אלעזר און קיש.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "מררי"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "מחלי"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "און מושי"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "מחלי"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "אלעזר"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "און קיש"
+    }
+  ],
+  "timestamp": "2026-09-11T01:42:21.620149895Z",
+  "model": "glm-5.3"
+}

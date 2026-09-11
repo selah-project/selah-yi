@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "משלם, אביה, מימן.",
+  "tokens": [
+    {
+      "surface": "משלם",
+      "gloss": "משלם"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "אביה"
+    },
+    {
+      "surface": "מימן",
+      "gloss": "מימן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:58.874065837Z",
+  "model": "glm-5.3"
+}

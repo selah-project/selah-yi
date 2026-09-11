@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און עזריה האָט געבאָרן ⟨את⟩ אמריה, און אמריה האָט געבאָרן ⟨את⟩ אחיטוב.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "און האָט געבאָרן"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "עזריה"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אמריה"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "אמריה"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "און אמריה"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אחיטוב"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "אחיטוב"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:08.642243875Z",
+  "model": "glm-5.3"
+}

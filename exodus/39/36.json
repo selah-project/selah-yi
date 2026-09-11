@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 39,
+  "translation": "⟨את⟩ דעם טיש, ⟨את⟩ אַלע זײַנע כלים און ⟨את⟩ דעם לחם הפּנים.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם טיש"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "דעם טיש"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אַלע זײַנע כלים"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "זײַנע כלים"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דעם לחם הפּנים"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "דעם לחם"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "הפּנים"
+    }
+  ],
+  "timestamp": "2026-09-10T19:55:35.862355663Z",
+  "model": "glm-5.3"
+}

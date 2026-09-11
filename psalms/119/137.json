@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 119,
+  "translation": "צדיק ביסט דו, יהוה, און ישר זײַנען דײַנע משפטים.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "צדיק"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "און ישר"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "דײַנע משפטים"
+    }
+  ],
+  "timestamp": "2026-09-11T04:31:25.820655818Z",
+  "model": "glm-5.3"
+}

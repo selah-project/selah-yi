@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "ירמות, און עדלם, שוכה און עזקה.",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "ירמות"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "און עדלם"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "שוכה"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "און עזקה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:54:59.993910743Z",
+  "model": "glm-5.3"
+}

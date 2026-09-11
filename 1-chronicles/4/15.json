@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און די זין פֿון כלב, זון פֿון יפֿנה: עירו, אלה און נעם; און די זין פֿון אלה: קנז.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "פֿון כלב"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "פֿון יפֿנה"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "עירו"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "אלה"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "און נעם"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "פֿון אלה"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "קנז"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:17.670852562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "די זין פֿון אצר: בלהן און זעון, יעקן; די זין פֿון דישון: עוץ און ארן.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "אצר"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "בלהן"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "און זעון"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "יעקן"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "דישון"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "עוץ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "און ארן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:40.393248079Z",
+  "model": "glm-5.3"
+}

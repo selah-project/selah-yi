@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און חפרים, און שיאן, און אנחרת.",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "און חפרים"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "און שיאן"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "און אנחרת"
+    }
+  ],
+  "timestamp": "2026-09-11T02:45:24.062529400Z",
+  "model": "glm-5.3"
+}

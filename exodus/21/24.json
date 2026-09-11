@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "אויג תּחת אויג, צאָן תּחת צאָן, האַנט תּחת האַנט, פֿוס תּחת פֿוס.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "אויג"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "תּחת"
+    },
+    {
+      "surface": "עין",
+      "gloss": "אויג"
+    },
+    {
+      "surface": "שן",
+      "gloss": "צאָן"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "תּחת"
+    },
+    {
+      "surface": "שן",
+      "gloss": "צאָן"
+    },
+    {
+      "surface": "יד",
+      "gloss": "האַנט"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "תּחת"
+    },
+    {
+      "surface": "יד",
+      "gloss": "האַנט"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "פֿוס"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "תּחת"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "פֿוס"
+    }
+  ],
+  "timestamp": "2026-09-10T19:45:01.652002626Z",
+  "model": "glm-5.3"
+}

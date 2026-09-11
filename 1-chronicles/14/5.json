@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "און יבחר, און אלישוע, און אלפלט,",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "און יבחר"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "און אלישוע"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "און אלפלט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:37:31.115552960Z",
+  "model": "glm-5.3"
+}

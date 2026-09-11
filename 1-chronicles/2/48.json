@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "כלבס פּילגש מעכה האָט געבוירן שבר און ⟨את⟩ תרחנה.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "פּילגש"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "כלב"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "מעכה"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "האָט געבוירן"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "שבר"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "תרחנה"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "תרחנה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:28.033296271Z",
+  "model": "glm-5.3"
+}

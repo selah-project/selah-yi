@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "א וואָרט פֿון יהוה, וואָס איז געווען צו יואל, זון פֿון פתואל.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "א וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "היה",
+      "gloss": "איז געווען"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "יואל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "פתואל"
+    }
+  ],
+  "timestamp": "2026-09-10T23:27:21.610325098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "א גאָלדענע לעפֿל, איינע, צען שקל, פֿול מיט קטורת.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "לעפֿל"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "איינע"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "צען"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "גאָלדענע"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "פֿול"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "קטורת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:13:34.376875162Z",
+  "model": "glm-5.3"
+}

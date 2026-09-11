@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "און עזריה, עזרא און משולם,",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "און עזריה"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "עזרא"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "און משולם"
+    }
+  ],
+  "timestamp": "2026-09-11T04:57:51.656463030Z",
+  "model": "glm-5.3"
+}

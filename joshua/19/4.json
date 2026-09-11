@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און אלתולד, און בתול, און חרמה.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "און אלתולד"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "און בתול"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "און חרמה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:51.833874416Z",
+  "model": "glm-5.3"
+}

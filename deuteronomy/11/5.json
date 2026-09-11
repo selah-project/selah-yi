@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און וואָס ער האָט געטאָן צו אײַך אין מדבר, ביז אײַר קומען ביז צו דעם אָרט דעם דאָזיקן.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "און וואָס"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "האָט געטאָן"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "צו אײַך"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "אין מדבר"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "אײַר קומען"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז צו"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "דעם אָרט"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "דעם דאָזיקן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:36:46.180352441Z",
+  "model": "glm-5.3"
+}

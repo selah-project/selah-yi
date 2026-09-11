@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "און לייג אַ מעסער צו דײַן קעלע, אויב דו ביסט אַ בעל נפֿש.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "און לייג"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "אַ מעסער"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "צו דײַן קעלע"
+    },
+    {
+      "surface": "אם",
+      "gloss": "אויב"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "אַ בעל"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפֿש"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו ביסט"
+    }
+  ],
+  "timestamp": "2026-09-11T04:37:22.024262670Z",
+  "model": "glm-5.3"
+}

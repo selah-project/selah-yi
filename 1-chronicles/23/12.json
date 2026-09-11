@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "די זין פֿון קהת: עמרם, יצהר, חברון און עזיאל — פֿיר.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "פֿון קהת"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "עמרם"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "יצהר"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "חברון"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "און עזיאל"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "פֿיר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:53.624839038Z",
+  "model": "glm-5.3"
+}

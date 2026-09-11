@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "פֿאַרן דרײַצנטן — שובאל, זײַנע זין און זײַנע ברידער — צוועלף.",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "פֿאַרן דרײַצנטן"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(דרײַצן)"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "שובאל"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "זײַנע זין"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "און זײַנע ברידער"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צען"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:46.313004254Z",
+  "model": "glm-5.3"
+}

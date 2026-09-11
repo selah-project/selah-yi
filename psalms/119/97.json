@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 119,
+  "translation": "ווי האָב איך ליב דײַן תּורה! אלע טאָג איז זי מײַן התבוננות.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "האָב איך ליב"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "דײַן תּורה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אלע"
+    },
+    {
+      "surface": "היום",
+      "gloss": "טאָג"
+    },
+    {
+      "surface": "היא",
+      "gloss": "זי"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "מײַן התבוננות"
+    }
+  ],
+  "timestamp": "2026-09-11T00:17:48.168708931Z",
+  "model": "glm-5.3"
+}

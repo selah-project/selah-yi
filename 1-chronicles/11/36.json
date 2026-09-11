@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "חפר דער מכרתי, אחיה דער פלני.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "חפר"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "דער מכרתי"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "אחיה"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "דער פלני"
+    }
+  ],
+  "timestamp": "2026-09-11T04:59:04.599889215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די קינדער פֿון אמר, טויזנט פֿופֿציק און צוויי.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "אמר"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "טויזנט"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "פֿופֿציק"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "און צוויי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:14:53.212055529Z",
+  "model": "glm-5.3"
+}

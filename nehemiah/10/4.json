@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "פשחור, אמריה, מלכיה,",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "פשחור"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "אמריה"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "מלכיה"
+    }
+  ],
+  "timestamp": "2026-09-11T04:57:11.583316740Z",
+  "model": "glm-5.3"
+}

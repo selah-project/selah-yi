@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "און יהוה האָט גערעדט צו יהושע לאמר:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "יהושע"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לאמר"
+    }
+  ],
+  "timestamp": "2026-09-11T02:46:14.621376945Z",
+  "model": "glm-5.3"
+}

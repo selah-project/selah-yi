@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "בלוטיקע מענטשן האָסן דעם תּמים, און ישרים זוכן זײַן נפֿש.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "מענטשן"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "בלוטיקע"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "האָסן"
+    },
+    {
+      "surface": "תם",
+      "gloss": "דעם תּמים"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "און ישרים"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "זוכן"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "זײַן נפֿש"
+    }
+  ],
+  "timestamp": "2026-09-11T00:32:45.718698305Z",
+  "model": "glm-5.3"
+}

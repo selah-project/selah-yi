@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "איז כלנה נישט ווי כרכמיש? איז חמת נישט ווי ארפד? איז שומרון נישט ווי דמשק?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "איז … נישט"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "ווי כרכמיש"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "כלנה"
+    },
+    {
+      "surface": "אם",
+      "gloss": "איז"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "ווי ארפד"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "חמת"
+    },
+    {
+      "surface": "אם",
+      "gloss": "איז"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "ווי דמשק"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "שומרון"
+    }
+  ],
+  "timestamp": "2026-09-10T22:11:19.644165230Z",
+  "model": "glm-5.3"
+}

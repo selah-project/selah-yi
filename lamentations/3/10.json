@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "אַ בער וואָס לויערט איז ער מיר געוואָרן, אַ לייב אין באַהאַלטענע ערטער.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "אַ בער"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "וואָס לויערט"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "אַ לייב"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "אין באַהאַלטענע ערטער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:06.838637917Z",
+  "model": "glm-5.3"
+}

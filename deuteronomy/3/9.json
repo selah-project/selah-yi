@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "די צידונים רופֿן חרמון שריון, און דער אמרי רופֿט אים שניר.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "די צידונים"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "רופֿן"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "חרמון"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "שריון"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "און דער אמרי"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "רופֿט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "שניר"
+    }
+  ],
+  "timestamp": "2026-09-10T20:32:48.780981667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "און משה און אַהרן זײַנען געקומען צום פּנים פֿונעם אָהל מועד.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "און זײַנען געקומען"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "און אַהרן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צום"
+    },
+    {
+      "surface": "פני",
+      "gloss": "פּנים פֿון"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "אָהל"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "מועד"
+    }
+  ],
+  "timestamp": "2026-09-10T20:21:20.055057708Z",
+  "model": "glm-5.3"
+}

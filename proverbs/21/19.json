@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "בעסער צו זיצן אין א מדבר־לאַנד ווי מיט א פֿרוי פֿון מחלוקות און כעס.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "בעסער"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "צו זיצן"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אין א … לאַנד"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "מדבר"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ווי מיט א פֿרוי"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "פֿון מחלוקות"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "און כעס"
+    }
+  ],
+  "timestamp": "2026-09-11T00:30:43.541742813Z",
+  "model": "glm-5.3"
+}

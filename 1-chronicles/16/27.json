@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "הוד און הדר זײַנען פֿאַר אים; תּקף און פֿרייד זײַנען אין זײַן אָרט.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "הוד"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "און הדר"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "פֿאַר אים"
+    },
+    {
+      "surface": "עז",
+      "gloss": "תּקף"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "און פֿרייד"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "אין זײַן אָרט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:37:56.983149890Z",
+  "model": "glm-5.3"
+}

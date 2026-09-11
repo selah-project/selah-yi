@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און נח האָט געהאַט דרײַ זין: ⟨את⟩ שם, ⟨את⟩ חם און ⟨את⟩ יפת.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "נח",
+      "gloss": "נח"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "זין"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "שם"
+    },
+    {
+      "surface": "שם",
+      "gloss": "שם"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "חם"
+    },
+    {
+      "surface": "חם",
+      "gloss": "חם"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "יפת"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "יפת"
+    }
+  ],
+  "timestamp": "2026-09-11T02:06:38.816821761Z",
+  "model": "glm-5.3"
+}

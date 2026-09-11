@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "און רוח אלהים איז געווען אויף עזריהו בן עודד.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "און עזריהו"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "עודד"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "איז געווען"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "אויף אים"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "רוח"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:53:14.272600637Z",
+  "model": "glm-5.3"
+}

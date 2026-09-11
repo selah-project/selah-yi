@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און אלישמע און אלידע און אליפלט — נײַן.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "און אלישמע"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "און אלידע"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "און אליפלט"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "נײַן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:09.196993393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "אַלץ חרם אין ישׂראל זאָל דיר זײַן.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "אַלץ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "חרם ⟨געווידמעט דיר⟩"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "אין ישׂראל"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "זאָל זײַן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:22:13.692709625Z",
+  "model": "glm-5.3"
+}

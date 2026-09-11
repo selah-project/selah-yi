@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "ראובן, שמעון, לוי און יהודה.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ראובן"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "שמעון"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "לוי"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "און יהודה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:35:01.649320833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "דו זאָלסט עס נישט עסן; אויף דער ערד זאָלסטו עס אויסגיסן ווי וואַסער.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "זאָלסטו עס עסן"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "דער ערד"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "זאָלסטו עס אויסגיסן"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ווי וואַסער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:37:56.485819944Z",
+  "model": "glm-5.3"
+}

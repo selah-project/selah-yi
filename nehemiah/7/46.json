@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די נתינים: בני ציחא, בני חשופא, בני טבעות.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "די נתינים"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "ציחא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "חשופא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "טבעות"
+    }
+  ],
+  "timestamp": "2026-09-11T14:46:59.007602445Z",
+  "model": "glm-5.3"
+}

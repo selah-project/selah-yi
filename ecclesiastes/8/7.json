@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "ווײַל ער ווייס נישט וואָס וועט זײַן; ווײַל ווען עס וועט זײַן — ווער וועט אים זאָגן?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ער ... נישט"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ווייס"
+    },
+    {
+      "surface": "מה",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "וועט זײַן"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "עס וועט זײַן"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "וועט זאָגן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:01:27.294825020Z",
+  "model": "glm-5.3"
+}

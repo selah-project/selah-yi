@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון סנאה, דרײַ טויזנט נײַן הונדערט און דרײַסיג.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "סנאה"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "טויזנט"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "נײַן"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "און דרײַסיג"
+    }
+  ],
+  "timestamp": "2026-09-11T01:25:05.546715592Z",
+  "model": "glm-5.3"
+}

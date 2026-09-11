@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 45,
+  "translation": "גורט דײַן שווערד אויף דײַן ירך, גיבור, דײַן הוד און דײַן הדר.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "גורט"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "דײַן שווערד"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "דײַן ירך"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "גיבור"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "דײַן הוד"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "און דײַן הדר"
+    }
+  ],
+  "timestamp": "2026-09-10T23:58:25.299702594Z",
+  "model": "glm-5.3"
+}

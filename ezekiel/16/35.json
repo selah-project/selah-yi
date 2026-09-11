@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "דעריבער, זונה, הער דאָס וואָרט פֿון יהוה.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "דעריבער"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "זונה"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "הער"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T23:06:24.003380225Z",
+  "model": "glm-5.3"
+}

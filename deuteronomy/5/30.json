@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "גיי, זאָג זיי: קערט צוריק צו זיך, צו אײַערע געצעלטן.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "גיי"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "זאָג"
+    },
+    {
+      "surface": "להם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "קערט צוריק"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "צו זיך"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "צו אײַערע געצעלטן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:34:41.091618738Z",
+  "model": "glm-5.3"
+}

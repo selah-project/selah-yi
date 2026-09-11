@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "יואל דער ראש, און שפם דער צווייטער, און יעני און שפט אין הבשן.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "יואל"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "דער ראש"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "און שפם"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "דער צווייטער"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "און יעני"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "און שפט"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "אין הבשן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:47.820704157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "ווײַל ווער עס איז באַשטימט צו אַלע לעבעדיקע — בײַ אים איז דאָ בטחון; ווײַל אַ לעבעדיקער הונט איז בעסער פֿון אַ טויטן לייב.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "עס"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "איז באַשטימט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "לעבעדיקע"
+    },
+    {
+      "surface": "יש",
+      "gloss": "איז דאָ"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "בטחון"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "אַ הונט"
+    },
+    {
+      "surface": "חי",
+      "gloss": "לעבעדיקער"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "איז"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "בעסער"
+    },
+    {
+      "surface": "מן",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "אַ לייב"
+    },
+    {
+      "surface": "המת",
+      "gloss": "טויטן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:01:43.558495826Z",
+  "model": "glm-5.3"
+}

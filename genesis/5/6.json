@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און שת האָט געלעבט פֿופֿף און צען יאָר, און ער האָט געהאַט ⟨את⟩ אנושׁ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "און ער האָט געלעבט"
+    },
+    {
+      "surface": "שת",
+      "gloss": "שת"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "פֿופֿף"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "און צען יאָר"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "און ער האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אנוש"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "אנוש"
+    }
+  ],
+  "timestamp": "2026-09-10T19:10:26.047543891Z",
+  "model": "glm-5.3"
+}

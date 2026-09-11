@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "מײַן שילד איז בײַ אלהים, דער ראַטעווער פֿון ישרי לב.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "מײַן שילד"
+    },
+    {
+      "surface": "על",
+      "gloss": "בײַ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "דער ראַטעווער"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "פֿון ישרי"
+    },
+    {
+      "surface": "לב",
+      "gloss": "לב"
+    }
+  ],
+  "timestamp": "2026-09-10T23:46:48.035654107Z",
+  "model": "glm-5.3"
+}

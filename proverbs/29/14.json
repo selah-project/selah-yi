@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 29:14",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "אַ מלך וואָס דינט די אָרעמע אין אמת — זײַן כּסא שטייט פֿעסט פֿאַר אייביק.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "אַ מלך"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "דינט"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "אין אמת"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "די אָרעמע"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "זײַן כּסא"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "פֿאַר אייביק"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "שטייט פֿעסט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:33:05.120392560Z",
+  "model": "glm-5.3"
+}

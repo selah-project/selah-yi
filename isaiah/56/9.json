@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 56,
+  "translation": "כּל חיות פֿון פֿעלד, קומט צו פֿרעסן, כּל חיות פֿון וואַלד.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "כּל"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "חיות"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "פֿון פֿעלד"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "קומט"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "צו פֿרעסן"
+    },
+    {
+      "surface": "כל",
+      "gloss": "כּל"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "חיות"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "פֿון וואַלד"
+    }
+  ],
+  "timestamp": "2026-09-10T22:27:31.551511819Z",
+  "model": "glm-5.3"
+}

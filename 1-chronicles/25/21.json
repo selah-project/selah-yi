@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 25:21",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "צום פֿערצענטן מתתיהו, זײַנע זין און זײַנע ברידער — צוועלף.",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "צום פֿערצענטן"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "עשר"
+    },
+    {
+      "surface": "מתתיהו",
+      "gloss": "מתתיהו"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "זײַנע זין"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "און זײַנע ברידער"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "עשר"
+    }
+  ],
+  "timestamp": "2026-09-11T05:03:40.138410447Z",
+  "model": "glm-5.3"
+}

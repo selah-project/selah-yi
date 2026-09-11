@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און ⟨את⟩ דעם ארודי, און ⟨את⟩ דעם צמרי, און ⟨את⟩ דעם חמתי.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "דעם ארודי"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "דעם ארודי"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "דעם צמרי"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "דעם צמרי"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "דעם חמתי"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "דעם חמתי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:46.751819252Z",
+  "model": "glm-5.3"
+}

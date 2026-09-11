@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "איך בין געוואָרן אַ שפּאָט פֿאַר כּל מײַן פֿאָלק, זייער ליד — דעם גאַנצן טאָג.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "איך בין געוואָרן"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "אַ שפּאָט"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "פֿאַר כּל"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "מײַן פֿאָלק"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "זייער ליד"
+    },
+    {
+      "surface": "כל",
+      "gloss": "דעם גאַנצן"
+    },
+    {
+      "surface": "היום",
+      "gloss": "טאָג"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:08.393759643Z",
+  "model": "glm-5.3"
+}

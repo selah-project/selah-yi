@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "שריה, עזריה, ירמיה,",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "שריה"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "עזריה"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ירמיה"
+    }
+  ],
+  "timestamp": "2026-09-11T04:57:11.583076349Z",
+  "model": "glm-5.3"
+}

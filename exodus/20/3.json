@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "ס׳זאָלן דיר נישט זײַן קיין אַנדערע אלהים אויף מײַן פּנים",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "זאָלן זײַן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "אַנדערע"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "פני",
+      "gloss": "מײַן פּנים"
+    }
+  ],
+  "timestamp": "2026-09-10T19:43:57.362435854Z",
+  "model": "glm-5.3"
+}

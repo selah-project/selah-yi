@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "דו זאלסט נישט דערמאָרדן.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "דערמאָרדן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:33:10.162670821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "ער איז יהוה אונדזער אלהים; זײַנע משפּטים זײַנען איבער דער גאַנצער ערד.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "אונדזער אלהים"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "איבער דער גאַנצער"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ערד"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "זײַנע משפּטים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:38:24.657519204Z",
+  "model": "glm-5.3"
+}

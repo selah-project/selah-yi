@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "אויף דער ריינער מנורה זאָל ער אָרדענען ⟨את⟩ די לאָמפּן פֿאַר יהוה תּמיד.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "דער מנורה"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ריינער"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "זאָל ער אָרדענען"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "די לאָמפּן"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "די לאָמפּן"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "תּמיד"
+    }
+  ],
+  "timestamp": "2026-09-10T20:09:21.025686647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און יהוה זיצט לעולם; געגרינדעט האָט ער למשפֿט זײַן כסא.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "און יהוה"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "לעולם"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "זיצט"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "געגרינדעט האָט ער"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "למשפֿט"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "זײַן כסא"
+    }
+  ],
+  "timestamp": "2026-09-11T04:15:20.078197008Z",
+  "model": "glm-5.3"
+}

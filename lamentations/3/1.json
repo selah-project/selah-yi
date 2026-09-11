@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "איך בין דער מאַן וואָס האָט געזען לײַדן אונטער דעם שבט פֿון זײַן צאָרן.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "דער מאַן"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "האָט געזען"
+    },
+    {
+      "surface": "עני",
+      "gloss": "לײַדן"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "אונטער דעם שבט"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "פֿון זײַן צאָרן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:42.875577816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 92,
+  "translation": "אַ בהמישער מענטש ווייסט נישט, און אַ נאַר פֿאַרשטייט נישט דאָס: ⟨את⟩ דאָס.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "אַ מענטש"
+    },
+    {
+      "surface": "בער",
+      "gloss": "בהמיש"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ווייסט"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "און אַ נאַר"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "פֿאַרשטייט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דאָס"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "דאָס"
+    }
+  ],
+  "timestamp": "2026-09-11T00:10:47.001072003Z",
+  "model": "glm-5.3"
+}

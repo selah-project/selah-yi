@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "פֿון מלוכי — יונתן; פֿון שבניה — יוסף.",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "פֿון מלוכי"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "יונתן"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "פֿון שבניה"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "יוסף"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:58.039470486Z",
+  "model": "glm-5.3"
+}

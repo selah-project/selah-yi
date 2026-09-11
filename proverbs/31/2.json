@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "וואָס, מײַן זון? און וואָס, זון פֿון מײַן בויך? און וואָס, זון פֿון מײַנע נדרים?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "מײַן זון"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "און וואָס"
+    },
+    {
+      "surface": "בר",
+      "gloss": "זון"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "פֿון מײַן בויך"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "און וואָס"
+    },
+    {
+      "surface": "בר",
+      "gloss": "זון"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "פֿון מײַנע נדרים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:34:50.528044980Z",
+  "model": "glm-5.3"
+}

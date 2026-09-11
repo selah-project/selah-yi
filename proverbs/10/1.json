@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "משלי שלמה. א חכם זון מאכט פריילעך דעם פאטער, און א נארישער זון איז א קורת־רוח פון זיין מאמען.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "משלי"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "שלמה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "חכם"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "מאכט פריילעך"
+    },
+    {
+      "surface": "אב",
+      "gloss": "פאטער"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "און א זון"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "נארישער"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "קורת־רוח"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "זיין מאמען"
+    }
+  ],
+  "timestamp": "2026-09-11T00:26:08.196402635Z",
+  "model": "glm-5.3"
+}

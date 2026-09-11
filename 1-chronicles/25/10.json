@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "דער דריטער זכור, זיינע זין און זיינע ברידער, צוועלף.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "דער דריטער"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "זכור"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "זיינע זין"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "און זיינע ברידער"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צען"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:35.126083652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "אַ משא פֿון דעם וואָרט פֿון יהוה צו ישׂראל, דורך דער האַנט פֿון מלאכי.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "משא"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "דורך דער האַנט"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "מלאכי"
+    }
+  ],
+  "timestamp": "2026-09-10T23:46:00.686511949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "פון די קינדער פון לוי — פיר טויזנט און זעקס הונדערט.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "פון"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פון"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "לוי"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "פיר"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "טויזנט"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "און זעקס"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:36:54.291129897Z",
+  "model": "glm-5.3"
+}

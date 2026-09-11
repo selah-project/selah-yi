@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און יהוה האָט גערעדט צו משה צו זאָגן: איך בין יהוה; רעד צו פרעה, קעניג פֿון מצרים, ⟨את⟩ אַלץ וואָס איך רעד צו דיר.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "רעד"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "פרעה"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "קעניג"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "פֿון מצרים"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אַלץ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלץ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "רעד"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "צו דיר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:36:10.680447792Z",
+  "model": "glm-5.3"
+}

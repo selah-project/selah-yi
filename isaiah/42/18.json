@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 42,
+  "translation": "טויבע, הערט; און בלינדע, קוקט איין, כדי צו זען.",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "טויבע"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "הערט"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "און בלינדע"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "קוקט איין"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "כדי צו זען"
+    }
+  ],
+  "timestamp": "2026-09-10T22:23:16.112855425Z",
+  "model": "glm-5.3"
+}

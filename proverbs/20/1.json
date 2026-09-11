@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "א לעצער איז דער ווײַן, א רויש איז דער שכר, און ווער ס'שוגה אין אים ווערט נישט קלוג.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "א לעצער"
+    },
+    {
+      "surface": "היין",
+      "gloss": "דער ווײַן"
+    },
+    {
+      "surface": "המה",
+      "gloss": "רוישט"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "דער שכר"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "און ווער"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "שוגה"
+    },
+    {
+      "surface": "בו",
+      "gloss": "אין אים"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ווערט קלוג"
+    }
+  ],
+  "timestamp": "2026-09-11T00:30:19.848630174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "זי גרייט איר ברויט אין זומער, זי זאַמלט איר עסן אין קציר.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "גרייט"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "אין זומער"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "איר ברויט"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "זי זאַמלט"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "אין קציר"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "איר עסן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:24:49.862163314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און ער האָט געבויט ⟨את⟩ בית לחם, און ⟨את⟩ עיטם, און ⟨את⟩ תקוע,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "און ער האָט געבויט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "בית לחם"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "לחם"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "עיטם"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "עיטם"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "תקוע"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "תקוע"
+    }
+  ],
+  "timestamp": "2026-09-11T01:48:51.444362252Z",
+  "model": "glm-5.3"
+}

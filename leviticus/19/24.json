@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און אין פֿערטן יאָר וועט זײַן אַל זײַן פֿרוכט קודש הלולים פֿאַר יהוה.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "און אין ... יאָר"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "פֿערטן"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "וועט זײַן"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַל"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "זײַן פֿרוכט"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "קודש"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "הלולים"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "פֿאַר יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T02:26:17.011128967Z",
+  "model": "glm-5.3"
+}

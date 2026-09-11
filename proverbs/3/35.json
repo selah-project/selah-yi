@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 3:35",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "כּבֿוד וועלן חכמים ירשן, און כּסילים הייבן אויף שמד־קלון.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "כּבֿוד"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "חכמים"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "וועלן ירשן"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "און כּסילים"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "הייבן אויף"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "קלון"
+    }
+  ],
+  "timestamp": "2026-09-11T00:23:40.359736921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "און יהוה האט געזאגט צו מיר: בעט נישט פאר דעם פאלק הא צום גוטן.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האט געזאגט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "אל",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "בעט"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "פאר"
+    },
+    {
+      "surface": "העם",
+      "gloss": "דעם פאלק"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "הא"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "צום גוטן"
+    }
+  ],
+  "timestamp": "2026-09-10T22:40:11.550143765Z",
+  "model": "glm-5.3"
+}

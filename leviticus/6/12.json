@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און יהוה האָט גערעדט צו משה, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:24:09.147603220Z",
+  "model": "glm-5.3"
+}

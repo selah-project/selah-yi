@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "דרײַ מאָל אין יאָר זאָלסטו פֿאַר מיר פֿאַרן אַ רגל.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "רגל"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "זאָלסטו פֿאַרן"
+    },
+    {
+      "surface": "לי",
+      "gloss": "פֿאַר מיר"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "אין יאָר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:45:42.584825447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 131,
+  "translation": "זאָל ישׂראל דערוואַרטן אויף יהוה, פֿון איצט אָן און ביז עולם.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "זאָל דערוואַרטן"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "פֿון איצט אָן"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "און ביז"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "עולם"
+    }
+  ],
+  "timestamp": "2026-09-11T00:18:52.632517846Z",
+  "model": "glm-5.3"
+}

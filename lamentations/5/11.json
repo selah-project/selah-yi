@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "ווײַבער אין ציון האָבן זיי געשנדעט, בתולות אין די שטעט פֿון יהודה.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "ווײַבער"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "אין ציון"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "האָבן זיי געשנדעט"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "בתולות"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "אין די שטעט"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "פֿון יהודה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:01.773690031Z",
+  "model": "glm-5.3"
+}

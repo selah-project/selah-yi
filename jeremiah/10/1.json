@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "הערט ⟨את⟩ דאָס וואָרט וואָס יהוה רעדט איבער אײַך, הײַז ישׂראל.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "הערט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דאָס וואָרט"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "רעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "איבער אײַך"
+    },
+    {
+      "surface": "בית",
+      "gloss": "הײַז"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-10T22:38:36.660513817Z",
+  "model": "glm-5.3"
+}

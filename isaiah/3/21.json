@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "די טבעות און די נייז־רינגען פֿון דער נאָז,",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "די טבעות"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "און די רינגען"
+    },
+    {
+      "surface": "האף",
+      "gloss": "פֿון דער נאָז"
+    }
+  ],
+  "timestamp": "2026-09-10T22:08:30.830462471Z",
+  "model": "glm-5.3"
+}

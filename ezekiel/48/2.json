@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 48,
+  "translation": "און אויפֿן גבול פֿון דן, פֿון דער מזרח־זײַט ביז דער זײַט פֿון ים: אשר, איינער.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "און אויפֿן"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "גבול"
+    },
+    {
+      "surface": "דן",
+      "gloss": "פֿון דן"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "פֿון דער זײַט"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "מזרח"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "דער זײַט"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "פֿון ים"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אשר"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    }
+  ],
+  "timestamp": "2026-09-10T23:22:45.469090783Z",
+  "model": "glm-5.3"
+}

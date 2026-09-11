@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "זון מיכאל, זון בעשיה, זון מלכיה.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "מיכאל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "בעשיה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "מלכיה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:21.326514663Z",
+  "model": "glm-5.3"
+}

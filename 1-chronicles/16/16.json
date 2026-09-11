@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "וואָס ער האָט געשניטן מיט אבֿרהם ⟨את⟩, און זײַן שבועה צו יצחק.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "האָט געשניטן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אבֿרהם"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "מיט אבֿרהם"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "און זײַן שבועה"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "צו יצחק"
+    }
+  ],
+  "timestamp": "2026-09-11T01:38:24.657910610Z",
+  "model": "glm-5.3"
+}

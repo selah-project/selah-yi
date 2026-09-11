@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און ארפּכשד האָט געבוירן ⟨את⟩ שלח, און שלח האָט געבוירן ⟨את⟩ עבר.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "און ארפּכשד"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "האָט געבוירן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "שלח"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "שלח"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "און שלח"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "האָט געבוירן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "עבר"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "עבר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:13:45.814017660Z",
+  "model": "glm-5.3"
+}

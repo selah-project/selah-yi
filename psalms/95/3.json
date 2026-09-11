@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 95,
+  "translation": "ווײַל אַ גרויסער אל איז יהוה, און אַ גרויסער מלך איבער אַלע געטער.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אַ גרויסער אל"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרויסער"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "און אַ גרויסער מלך"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרויסער"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "געטער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:10:39.934150084Z",
+  "model": "glm-5.3"
+}

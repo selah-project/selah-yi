@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "און יהוה האָט גערעדט צו משה, און געזאָגט:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און יהוה האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "און געזאָגט"
+    }
+  ],
+  "timestamp": "2026-09-11T02:19:25.877758359Z",
+  "model": "glm-5.3"
+}

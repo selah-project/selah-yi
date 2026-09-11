@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און נחשון האָט געהאַט ⟨את⟩ שלמא, און שלמא האָט געהאַט ⟨את⟩ בעז.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "און נחשון"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "שלמא"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "שלמא"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "און שלמא"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "בעז"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "בעז"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:18.493914859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "און אַלע שרץ־פֿייגעלעך זײַנען טמא פֿאַר אײַך; זיי טאָרן נישט געגעסן ווערן.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "און אַלע"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "שרץ־פֿייגעלעך"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "פֿליענדיקע"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "טמא"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "זיי זײַנען"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "פֿאַר אײַך"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "טאָרן געגעסן ווערן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:37:43.139772947Z",
+  "model": "glm-5.3"
+}

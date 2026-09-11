@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון ארח, זעקס הונדערט צוויי און פֿופֿציק.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ארח"
+    },
+    {
+      "surface": "שש",
+      "gloss": "זעקס"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "פֿופֿציק"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "און צוויי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:23:00.173995720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און יהוה האט גערעדט צו משה, זאגנדיק:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "זאגנדיק"
+    }
+  ],
+  "timestamp": "2026-09-10T20:16:19.349434810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 94,
+  "translation": "אל פֿון נקמות איז יהוה; אל פֿון נקמות, שײַן אויס!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "פֿון נקמות"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "פֿון נקמות"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "שײַן אויס"
+    }
+  ],
+  "timestamp": "2026-09-11T00:10:35.434300585Z",
+  "model": "glm-5.3"
+}

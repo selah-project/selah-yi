@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 38,
+  "translation": "שנעל צו מײַן הילף, אדני, מײַן תשועה!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "שנעל"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "צו מײַן הילף"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "מײַן תשועה"
+    }
+  ],
+  "timestamp": "2026-09-11T14:41:06.325954051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און די זין פֿון יששכר: תולע און פואה, ישיב און שמרון — פֿיר.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "יששכר"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "תולע"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "און פואה"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ישיב"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "און שמרון"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "פֿיר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:14.264397011Z",
+  "model": "glm-5.3"
+}

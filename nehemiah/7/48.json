@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון לבנה, די קינדער פֿון חגבה, די קינדער פֿון שלמי,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "לבנה"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "חגבה"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "שלמי"
+    }
+  ],
+  "timestamp": "2026-09-11T04:55:43.444505128Z",
+  "model": "glm-5.3"
+}

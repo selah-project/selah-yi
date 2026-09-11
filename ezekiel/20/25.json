@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "און אויך איך האָב זיי געגעבן חוקים נישט גוטע, און משפטים וואָס מען לעבט נישט מיט זיי.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "און אויך"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "האָב געגעבן"
+    },
+    {
+      "surface": "להם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "חוקים"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "גוטע"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "און משפטים"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "לעבן"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "מיט זיי"
+    }
+  ],
+  "timestamp": "2026-09-10T23:09:52.163213550Z",
+  "model": "glm-5.3"
+}

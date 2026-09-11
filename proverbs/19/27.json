@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "הער אױף, מײַן זון, צו הערן מוסר — צו גײן אַסטרײַך פֿון די װערטער פֿון דעת.",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "הער אױף"
+    },
+    {
+      "surface": "בני",
+      "gloss": "מײַן זון"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "צו הערן"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "מוסר"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "צו גײן אַסטרײַך"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "פֿון די װערטער"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "דעת"
+    }
+  ],
+  "timestamp": "2026-09-11T00:29:41.954114070Z",
+  "model": "glm-5.3"
+}

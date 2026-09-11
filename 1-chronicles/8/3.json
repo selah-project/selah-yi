@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און געוואָרן זײַנען זין פֿאַר בלע: אדר, און גרא, און אביהוד.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "און געוואָרן זײַנען"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "זין"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "פֿאַר בלע"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "אדר"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "און גרא"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "און אביהוד"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:41.509412968Z",
+  "model": "glm-5.3"
+}

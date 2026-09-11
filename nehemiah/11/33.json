@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "חצור, רמה, גתים.",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "חצור"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "רמה"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "גתים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:14.899784459Z",
+  "model": "glm-5.3"
+}

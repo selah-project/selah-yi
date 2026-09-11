@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "כּוח און הדר זײַנען איר לבוש, און זי לאַכט צום לעצטן טאָג.",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "כּוח"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "און הדר"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "איר לבוש"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "און זי לאַכט"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "צום טאָג"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "לעצטן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:34:20.309800957Z",
+  "model": "glm-5.3"
+}

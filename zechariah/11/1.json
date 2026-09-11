@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "טוּ, לבנון, דײַנע טירן, און פֿײַער זאָל פֿאַרצעסן דײַנע אַרזים!",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "טוּ אויף"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "לבנון"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "דײַנע טירן"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "און זאָל פֿאַרצעסן"
+    },
+    {
+      "surface": "אש",
+      "gloss": "פֿײַער"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "דײַנע אַרזים"
+    }
+  ],
+  "timestamp": "2026-09-11T15:10:38.504720264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "בעסער אַ טרוקנעס ביסל און רואיקייט דערמיט ווי אַ פֿול הױז מיט שאַכטעס פֿון מחלוקת.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "בעסער"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ביסל"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "טרוקנעס"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "און רואיקייט"
+    },
+    {
+      "surface": "בה",
+      "gloss": "דערמיט"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ווי אַ הױז"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "פֿול"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "שאַכטעס"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "מחלוקת"
+    }
+  ],
+  "timestamp": "2026-09-11T00:29:07.045996508Z",
+  "model": "glm-5.3"
+}

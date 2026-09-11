@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "אַ שפֿה פֿון אמת שטייט פֿאַר אייביק, און אַ צונג פֿון שקר — נאָר ביז אַ רגע.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "אַ שפֿה"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "פֿון אמת"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "שטייט"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "פֿאַר אייביק"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "און"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "נאָר ביז אַ רגע"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "אַ צונג"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "פֿון שקר"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:06.929041902Z",
+  "model": "glm-5.3"
+}

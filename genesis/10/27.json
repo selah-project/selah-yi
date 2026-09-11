@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און ⟨את⟩ הדורם, און ⟨את⟩ אוזל, און ⟨את⟩ דקלה.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "הדורם"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "הדורם"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "אוזל"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "אוזל"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דקלה"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "דקלה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:13:54.085738889Z",
+  "model": "glm-5.3"
+}

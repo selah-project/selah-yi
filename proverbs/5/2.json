@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "צו היטן עצה, און דײַנע ליפּן זאָלן היטן דעת.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "צו היטן"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "עצה"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "און דעת"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "דײַנע ליפּן"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "זאָלן היטן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:24:23.082091071Z",
+  "model": "glm-5.3"
+}

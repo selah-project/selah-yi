@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און איבער דער מחנה פֿון שבט פֿון די קינדער פֿון שמעון — שלומיאל זון פֿון צורישדי.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "און איבער"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "דער מחנה"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "שבט"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "שמעון"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "שלומיאל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "צורי"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "שדי"
+    }
+  ],
+  "timestamp": "2026-09-10T20:16:07.996265018Z",
+  "model": "glm-5.3"
+}

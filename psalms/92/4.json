@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 92,
+  "translation": "אויף אַן עשור און אויף אַ נבל, אויף הגיון מיט כינור.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "אַן עשור"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "אַ נבל"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "הגיון"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "מיט כינור"
+    }
+  ],
+  "timestamp": "2026-09-11T00:10:31.323288133Z",
+  "model": "glm-5.3"
+}

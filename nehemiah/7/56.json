@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "קינדער פֿון נציח, קינדער פֿון חטיפא.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "נציח"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "חטיפא"
+    }
+  ],
+  "timestamp": "2026-09-11T01:25:06.520858413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "גיב אָפּמערק, איוב, הער מיר; שװײַג, און איך װעל רעדן.",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "גיב אָפּמערק"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "איוב"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "הער"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "שװײַג"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "און איך"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "װעל רעדן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:47:11.935757023Z",
+  "model": "glm-5.3"
+}

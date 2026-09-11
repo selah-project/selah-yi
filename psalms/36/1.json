@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 36,
+  "translation": "פֿאַרן מנצח, פֿאַרן עבֿד פֿון יהוה, פֿאַר דוד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "פֿאַרן עבֿד"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿאַר דוד"
+    }
+  ],
+  "timestamp": "2026-09-11T14:41:34.278152749Z",
+  "model": "glm-5.3"
+}

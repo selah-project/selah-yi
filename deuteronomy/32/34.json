@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 32,
+  "translation": "איז עס נישט אײַנגעלייגט בײַ מיר, פֿאַרשלאָסן אין מײַנע אויצרות?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "איז עס נישט"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "עס"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "אײַנגעלייגט"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "בײַ מיר"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "פֿאַרשלאָסן"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "אין מײַנע אויצרות"
+    }
+  ],
+  "timestamp": "2026-09-10T20:47:08.960041418Z",
+  "model": "glm-5.3"
+}

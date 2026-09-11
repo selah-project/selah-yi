@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "צדוק זײַן זון, אחימעץ זײַן זון.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "צדוק"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "אחימעץ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:27.134928479Z",
+  "model": "glm-5.3"
+}

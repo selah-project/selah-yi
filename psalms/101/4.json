@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 101,
+  "translation": "א פארדרייט לב זאל זיך אפדרייען פון מיר; רע וועל איך נישט וויסן.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "לב"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "פארדרייט"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "זאל זיך אפדרייען"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "פון מיר"
+    },
+    {
+      "surface": "רע",
+      "gloss": "רע"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "וועל איך וויסן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:12:20.693045324Z",
+  "model": "glm-5.3"
+}

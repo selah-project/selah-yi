@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און ⟨את⟩ פורתא און ⟨את⟩ אדליא און ⟨את⟩ ארידתא",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "פורתא"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "פורתא"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "אדליא"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "אדליא"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ארידתא"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "ארידתא"
+    }
+  ],
+  "timestamp": "2026-09-11T04:49:15.447990620Z",
+  "model": "glm-5.3"
+}

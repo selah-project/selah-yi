@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "בינד זיי אויף דײַנע פֿינגער, שרײַב זיי אויף דער טאַפֿל פֿון דײַן האַרץ.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "בינד זיי"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "דײַנע פֿינגער"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "שרײַב זיי"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "טאַפֿל"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "דײַן האַרץ"
+    }
+  ],
+  "timestamp": "2026-09-11T04:35:45.148628085Z",
+  "model": "glm-5.3"
+}

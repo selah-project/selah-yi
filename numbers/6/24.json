@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "יהוה זאָל דיך בענטשן און דיך היטן.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "זאָל ער דיך בענטשן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "און דיך היטן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:13:27.032182056Z",
+  "model": "glm-5.3"
+}

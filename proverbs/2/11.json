@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "מזמה וועט וואַכן איבער דיר, תבונה וועט דיר היטן,",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "מזמה"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "וועט וואַכן איבער"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "איבער דיר"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "תבונה"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "וועט דיר היטן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:23:12.087995191Z",
+  "model": "glm-5.3"
+}

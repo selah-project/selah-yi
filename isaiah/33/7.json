@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "זע, די אראלים שרײַען אַרויס; די שלוחים פֿון שלום וויינען ביטער.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "זע"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "די אראלים"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "שרײַען"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "אַרויס"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "די שלוחים פֿון"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "שלום"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ביטער"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "וויינען"
+    }
+  ],
+  "timestamp": "2026-09-10T22:17:46.573908905Z",
+  "model": "glm-5.3"
+}

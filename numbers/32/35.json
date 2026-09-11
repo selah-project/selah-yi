@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 32,
+  "translation": "און ⟨את⟩ עטרת שופן, און ⟨את⟩ יעזר, און יגבהה.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "עטרת שופן"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "עטרת"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "שופן"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "יעזר"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "יעזר"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "און יגבהה"
+    }
+  ],
+  "timestamp": "2026-09-11T15:38:45.249407819Z",
+  "model": "glm-5.3"
+}

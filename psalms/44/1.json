@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 44,
+  "translation": "פֿאַרן מנצח, פֿאַר די זין פֿון קרח, א משכיל.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿאַר די זין"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "פֿון קרח"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "א משכיל"
+    }
+  ],
+  "timestamp": "2026-09-10T23:57:24.148623190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "צנן, און חדשה, און מגדל־גד,",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "צנן"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "און חדשה"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "און מגדל"
+    },
+    {
+      "surface": "גד",
+      "gloss": "גד"
+    }
+  ],
+  "timestamp": "2026-09-10T20:54:40.767358326Z",
+  "model": "glm-5.3"
+}

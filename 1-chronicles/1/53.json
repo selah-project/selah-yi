@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "הויפּטמאַן קנז, הויפּטמאַן תימן, הויפּטמאַן מבצר.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "הויפּטמאַן"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "קנז"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "הויפּטמאַן"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "תימן"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "הויפּטמאַן"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "מבצר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:40.877213870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "הערט מוסר און זײַט חכמים, און זאָלט עס נישט אָפּוואַרפֿן.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "הערט"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "מוסר"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "און זײַט חכמים"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און זאָלט נישט"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "אָפּוואַרפֿן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:35.061462897Z",
+  "model": "glm-5.3"
+}

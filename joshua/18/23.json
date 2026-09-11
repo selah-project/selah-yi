@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "און העוים, און הפּרה, און עפֿרה.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "און העוים"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "און הפּרה"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "און עפֿרה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:05.675050630Z",
+  "model": "glm-5.3"
+}

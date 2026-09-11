@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "אויך חמת גרענעצט זיך דאַרט; צור און צידון — ווייל זי איז זייער קלוג.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "חמת"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "גרענעצט זיך"
+    },
+    {
+      "surface": "בה",
+      "gloss": "דאַרט"
+    },
+    {
+      "surface": "צר",
+      "gloss": "צור"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "און צידון"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווייל"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "זייער קלוג"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "זייער"
+    }
+  ],
+  "timestamp": "2026-09-10T23:43:55.660498870Z",
+  "model": "glm-5.3"
+}

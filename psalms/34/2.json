@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "איך וועל בענטשן ⟨את⟩ יהוה אַלעמאָל; תמיד זײַן לוי אין מײַן מויל.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "איך וועל בענטשן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יהוה"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "אַלעמאָל"
+    },
+    {
+      "surface": "עת",
+      "gloss": "אַלעמאָל"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "תמיד"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "זײַן לוי"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "אין מײַן מויל"
+    }
+  ],
+  "timestamp": "2026-09-10T23:54:54.815511874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און נח האָט געלעבט נאָך דער מבול דרײַ הונדערט יאָר און פֿופֿציק יאָר.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "און ער האָט געלעבט"
+    },
+    {
+      "surface": "נח",
+      "gloss": "נח"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "נאָך"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "דער מבול"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "און פֿופֿציק"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:12:01.363266040Z",
+  "model": "glm-5.3"
+}

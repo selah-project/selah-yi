@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "קהלת האָט געזוכט צו געפֿינען ווערטער פֿון חפֿץ, און געשריבן מיט יושר — ווערטער פֿון אמת.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "האָט געזוכט"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "קהלת"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "צו געפֿינען"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ווערטער פֿון"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "חפֿץ"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "און געשריבן"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "יושר"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ווערטער פֿון"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "אמת"
+    }
+  ],
+  "timestamp": "2026-09-11T04:47:21.621751613Z",
+  "model": "glm-5.3"
+}

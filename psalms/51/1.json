@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 51,
+  "translation": "פֿאַרן מנצח, אַ מזמור פֿון דוד;",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "אַ מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    }
+  ],
+  "timestamp": "2026-09-11T04:22:29.019547628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די קינדער פֿון בית לחם, הונדערט עשרים און דרײַ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "לחם"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "עשרים"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "און דרײַ"
+    }
+  ],
+  "timestamp": "2026-09-11T01:13:56.351879582Z",
+  "model": "glm-5.3"
+}

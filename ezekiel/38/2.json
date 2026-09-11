@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 38:2",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 38,
+  "translation": "זון פֿון אדם, זעץ דײַן פּנים קעגן גוג, לאַנד פֿון המגוג, נשיא ראש משך און תבל, און זײַ נביא אויף אים:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "פֿון אדם"
+    },
+    {
+      "surface": "שים",
+      "gloss": "זעץ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "דײַן פּנים"
+    },
+    {
+      "surface": "אל",
+      "gloss": "קעגן"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "גוג"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "לאַנד"
+    },
+    {
+      "surface": "המגוג",
+      "gloss": "פֿון המגוג"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "נשיא"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ראש"
+    },
+    {
+      "surface": "משך",
+      "gloss": "משך"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "און תבל"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "און זײַ נביא"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "אויף אים"
+    }
+  ],
+  "timestamp": "2026-09-10T23:18:06.178291790Z",
+  "model": "glm-5.3"
+}

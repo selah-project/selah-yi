@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "יהוה זאָל אויפֿהייבן זײַן פּנים צו דיר, און זאָל דיר געבן שלום.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "זאָל אויפֿהייבן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "זײַן פּנים"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "צו דיר"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "און זאָל…שטעלן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "שלום"
+    }
+  ],
+  "timestamp": "2026-09-10T20:13:27.264226864Z",
+  "model": "glm-5.3"
+}

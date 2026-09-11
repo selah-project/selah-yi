@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "אין צוועלפֿטן טאָג: דער נשיא פֿון די קינדער פֿון נפתלי, אחירע זון פֿון עינן.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "אין טאָג"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צען"
+    },
+    {
+      "surface": "יום",
+      "gloss": "טאָג"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "דער נשיא"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿון די קינדער"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "נפתלי"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "אחירע"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "עינן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:15:36.366648708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "און דאָס וואָרט פֿון יהוה איז געוואָרן צו ירמיהו, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און איז געוואָרן"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ירמיהו"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T22:48:11.994660345Z",
+  "model": "glm-5.3"
+}

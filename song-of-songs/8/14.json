@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "לויף, מײַן ליבער, און זײַ גלײַך צו א צבי אדער צו א יונגער הירש אויף די באַלשאַמען בערג!",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "לויף"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "מײַן ליבער"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "און זײַ גלײַך"
+    },
+    {
+      "surface": "לך",
+      "gloss": "צו"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "צו א צבי"
+    },
+    {
+      "surface": "או",
+      "gloss": "אדער"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "צו א יונגער"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "הירש"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "די בערג"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "באַלשאַמען"
+    }
+  ],
+  "timestamp": "2026-09-11T00:52:41.830129606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 32,
+  "translation": "און דער נדיב ראַט נדיבות, און ער וועט אויף נדיבות שטיין.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "און דער נדיב"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "נדיבות"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ראַט"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "און ער"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "נדיבות"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "וועט שטיין"
+    }
+  ],
+  "timestamp": "2026-09-10T22:18:51.139720109Z",
+  "model": "glm-5.3"
+}

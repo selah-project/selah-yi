@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "כּעס איז בעסער ווי געלעכטער, ווײַל מיט אַ בייזן פּנים ווערט דאָס האַרץ גוט.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "איז בעסער"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "כּעס"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ווי געלעכטער"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "מיט אַ בייזן"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "פּנים"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ווערט ... גוט"
+    },
+    {
+      "surface": "לב",
+      "gloss": "דאָס האַרץ"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:45.407595789Z",
+  "model": "glm-5.3"
+}

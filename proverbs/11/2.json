@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "ווען זדון קומט, קומט קלון; און מיט ⟨את⟩ די צנועים איז חכמה.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "קומט"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "זדון"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "קומט"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "קלון"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "די צנועים"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "צנועים"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:20.478094468Z",
+  "model": "glm-5.3"
+}

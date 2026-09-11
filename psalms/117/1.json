@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 117,
+  "translation": "לויבט ⟨את⟩ יהוה, אַלע פֿעלקער; פֿאַרהערליכט אים, אַלע אומות.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "לויבט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יהוה"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "פֿעלקער"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "פֿאַרהערליכט אים"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "אומות"
+    }
+  ],
+  "timestamp": "2026-09-11T00:15:53.598145417Z",
+  "model": "glm-5.3"
+}

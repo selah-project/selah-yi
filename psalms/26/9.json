@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 26,
+  "translation": "זאַמל נישט מײַן נפֿש מיט די חטאים, און מײַן לעבן מיט די בלוט־מענטשן.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "זאַמל"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "די חטאים"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "מײַן נפֿש"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "און מיט"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "מענטשן"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "בלוט"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "מײַן לעבן"
+    }
+  ],
+  "timestamp": "2026-09-10T23:52:27.908606870Z",
+  "model": "glm-5.3"
+}

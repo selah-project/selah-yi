@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "פּחד און פַּחַת איז געוואָרן אונדז, דער שאַץ און דער שבֿר.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "פּחד"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "און פַּחַת"
+    },
+    {
+      "surface": "היה",
+      "gloss": "איז געוואָרן"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "אונדז"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "דער שאַץ"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "און דער שבֿר"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:03.939750274Z",
+  "model": "glm-5.3"
+}

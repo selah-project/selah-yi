@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 94,
+  "translation": "און זיי זאָגן: יה זעט נישט, און דער אלהי פֿון יעקב פֿאַרשטייט נישט.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "און זיי זאָגן"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "זעט"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "פֿאַרשטייט"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "דער אלהי פֿון"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    }
+  ],
+  "timestamp": "2026-09-11T00:09:50.390785538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "דו האָסט געהערט זייער שפּאָט, יהוה, אַלע זייער מחשבות קעגן מיר.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "דו האָסט געהערט"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "זייער שפּאָט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "זייער מחשבות"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "קעגן מיר"
+    }
+  ],
+  "timestamp": "2026-09-11T04:46:06.574639276Z",
+  "model": "glm-5.3"
+}

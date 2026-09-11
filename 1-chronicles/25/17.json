@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "דער צענטער צו שמעי, זײַנע זין און זײַנע ברידער — צוועלף.",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "דער צענטער"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "שמעי"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "זײַנע זין"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "און זײַנע ברידער"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צען"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:46.312393388Z",
+  "model": "glm-5.3"
+}

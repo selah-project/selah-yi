@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 119,
+  "translation": "דײַן צדקה ⟨איז⟩ צדק לעולמים, און דײַן תורה ⟨איז⟩ אמת.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "דײַן צדקה"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "צדק"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "לעולמים"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "און דײַן תורה"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "אמת"
+    }
+  ],
+  "timestamp": "2026-09-11T00:17:53.476169459Z",
+  "model": "glm-5.3"
+}

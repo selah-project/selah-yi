@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 61,
+  "translation": "טעג אויף די טעג פֿונעם מלך זאָלסטו צולייגן; זײַנע יאָרן ווי דור און דור.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "די טעג"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "פֿונעם מלך"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "זאָלסטו צולייגן"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "זײַנע יאָרן"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "דר",
+      "gloss": "דור"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "און דור"
+    }
+  ],
+  "timestamp": "2026-09-11T00:02:28.288586819Z",
+  "model": "glm-5.3"
+}

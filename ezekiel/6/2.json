@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "זון פֿון מענטש, זעץ דײַן פּנים קעגן די בערג פֿון ישׂראל און נבֿיאות צו זיי:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "פֿון מענטש"
+    },
+    {
+      "surface": "שים",
+      "gloss": "זעץ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "דײַן פּנים"
+    },
+    {
+      "surface": "אל",
+      "gloss": "קעגן"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "די בערג"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "פֿון ישׂראל"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "און נבֿיאות"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "צו זיי"
+    }
+  ],
+  "timestamp": "2026-09-11T14:55:09.382281236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און תמר, זײַן שנירה, האָט אים געבוירן ⟨את⟩ פּרץ און ⟨את⟩ זרח; אַלע זין פֿון יהודה — פֿינף.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "און תמר"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "זײַן שנירה"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "האָט געבוירן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "פּרץ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "פּרץ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "זרח"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "זרח"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "פֿון יהודה"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "פֿינף"
+    }
+  ],
+  "timestamp": "2026-09-11T04:58:48.033427797Z",
+  "model": "glm-5.3"
+}

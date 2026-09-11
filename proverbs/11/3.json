@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "תומת פון ישרים פירט זיי; און סלף פון בוגדים פאַרדערט זיי.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "תומת"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ישרים"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "פירט זיי"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "און סלף"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "בוגדים"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "פאַרדערט זיי"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:20.478248489Z",
+  "model": "glm-5.3"
+}

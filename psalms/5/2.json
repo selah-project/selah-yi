@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "מײַנע ווערטער וועסטו הערן, יהוה; פֿאַרשטיי מײַן הגיג.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "מײַנע ווערטער"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "וועסטו הערן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "פֿאַרשטיי"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "מײַן הגיג"
+    }
+  ],
+  "timestamp": "2026-09-10T23:47:37.337858857Z",
+  "model": "glm-5.3"
+}

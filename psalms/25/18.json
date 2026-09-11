@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "זע מײַן עני און מײַן עמל, און טראָג אַוועק אַלע מײַנע זינד.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "מײַן עני"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "און מײַן עמל"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "און טראָג אַוועק"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "מײַנע זינד"
+    }
+  ],
+  "timestamp": "2026-09-10T23:52:34.898181246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און שמע האָט געהאַט ⟨את⟩ רחם, דער פֿאָטער פֿון ירקעם; און רקם האָט געהאַט ⟨את⟩ שמי.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "און שמע"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "רחם"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "רחם"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "דער פֿאָטער פֿון"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "ירקעם"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "און רקם"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "שמי"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "שמי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:59.083905053Z",
+  "model": "glm-5.3"
+}

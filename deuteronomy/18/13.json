@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "גאַנץ זאָלסטו זײַן מיט יהוה דײַן אלהים.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "גאַנץ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "זאָלסטו זײַן"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "דײַן אלהים"
+    }
+  ],
+  "timestamp": "2026-09-10T20:40:51.892337060Z",
+  "model": "glm-5.3"
+}

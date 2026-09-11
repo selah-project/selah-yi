@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 38,
+  "translation": "וווּ איז דער וועג וווּ אויר וווינט, און חושך — וווּ איז זײַן אָרט?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "וווּ איז"
+    },
+    {
+      "surface": "זה",
+      "gloss": "דער"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "וועג"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "וווינט"
+    },
+    {
+      "surface": "אור",
+      "gloss": "אויר"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "און חושך"
+    },
+    {
+      "surface": "אי",
+      "gloss": "וווּ איז"
+    },
+    {
+      "surface": "זה",
+      "gloss": "זײַן"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "אָרט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:50:05.518429388Z",
+  "model": "glm-5.3"
+}

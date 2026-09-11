@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "יהוה האט חרטה געהאט וועגן דעם: עס זאל נישט זיין, האט יהוה געזאגט.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "האט חרטה געהאט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "על",
+      "gloss": "וועגן"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "דעם"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "זאל זיין"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האט געזאגט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T23:31:49.350569844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "עדוא, גנתון, אביה.",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "עדוא"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "גנתון"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "אביה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:33.603503470Z",
+  "model": "glm-5.3"
+}

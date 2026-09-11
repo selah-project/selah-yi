@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "פֿון די יצהרים: שלמות; פֿון די זין פֿון שלמות — יחת.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "פֿון די יצהרים"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "שלמות"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿון די זין"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "שלמות"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "יחת"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:33.079891837Z",
+  "model": "glm-5.3"
+}

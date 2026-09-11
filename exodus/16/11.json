@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "און יהוה האט גערעדט צו משה, צו זאגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאגן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:42:47.082015805Z",
+  "model": "glm-5.3"
+}

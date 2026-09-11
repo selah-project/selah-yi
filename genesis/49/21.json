@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 49,
+  "translation": "נפתלי איז אַ הירשן אָפּגעשיקט, גיבנדיק שיינע ווערטער.",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "נפתלי"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "אַ הירשן"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "אָפּגעשיקט"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "גיבנדיק"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ווערטער"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "שיינע"
+    }
+  ],
+  "timestamp": "2026-09-10T19:34:25.598064155Z",
+  "model": "glm-5.3"
+}

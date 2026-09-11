@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 38,
+  "translation": "א מזמור פֿון דוד, צום דערמאָנען.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "צום דערמאָנען"
+    }
+  ],
+  "timestamp": "2026-09-10T23:56:44.332698715Z",
+  "model": "glm-5.3"
+}

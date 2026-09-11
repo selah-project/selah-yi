@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די קינדער פֿון ארח, זיבן הונדערט פֿופֿציק און זיבעציק.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ארח"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "זיבן"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "פֿופֿציק"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "און זיבעציק"
+    }
+  ],
+  "timestamp": "2026-09-11T01:14:15.379300603Z",
+  "model": "glm-5.3"
+}

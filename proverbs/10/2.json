@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "אוצרות פון רשע ניצן נישט, און צדקה ראטעווט פון טויט.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ניצן נישט"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "אוצרות"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "פון רשע"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "און צדקה"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ראטעווט"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "פון טויט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:26:08.196685920Z",
+  "model": "glm-5.3"
+}

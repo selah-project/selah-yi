@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 116,
+  "translation": "איך האָב ליב, ווײַל יהוה הערט מײַן קול, מײַן תּחינה ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "איך האָב ליב"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "הערט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "מײַן קול"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "מײַן קול"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "מײַן תּחינה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:16:32.381783296Z",
+  "model": "glm-5.3"
+}

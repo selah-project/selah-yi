@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און אין בתואל, און אין חרמה, און אין ציקלג.",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "און אין בתואל"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "און אין חרמה"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "און אין ציקלג"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:07.768182225Z",
+  "model": "glm-5.3"
+}

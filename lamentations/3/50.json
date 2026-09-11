@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "ביז יהוה וועט אַרויסקוקן און זען פֿון הימל.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "וועט אַרויסקוקן"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "און זען"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "פֿון הימל"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:11.891325291Z",
+  "model": "glm-5.3"
+}

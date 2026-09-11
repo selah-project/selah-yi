@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 115,
+  "translation": "אבער מיר וועלן בענטשן יה, פֿון איצט און ביז פֿאַר אייביק; לויבט יה!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "אבער מיר"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "וועלן בענטשן"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "פֿון איצט"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "און ביז"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "פֿאַר אייביק"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "לויבט"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    }
+  ],
+  "timestamp": "2026-09-11T14:43:19.648592500Z",
+  "model": "glm-5.3"
+}

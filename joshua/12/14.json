@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "דער מלך פֿון חרמה, איינער; דער מלך פֿון ערד, איינער;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "דער מלך"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "פֿון חרמה"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "דער מלך"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "פֿון ערד"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:53:06.383090310Z",
+  "model": "glm-5.3"
+}

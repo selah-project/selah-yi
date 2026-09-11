@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "דו האָסט געזען, יהוה, מיין אונרעכט; ריכט מיין משפּט.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "דו האָסט געזען"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "מיין אונרעכט"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ריכט"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "מיין משפּט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:32.371659625Z",
+  "model": "glm-5.3"
+}

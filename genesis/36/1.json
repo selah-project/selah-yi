@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 36,
+  "translation": "און דאָס זײַנען די תּולדות פֿון עשו — ער איז אדום.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "און דאָס זײַנען"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "די תּולדות"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "פֿון עשו"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "אדום"
+    }
+  ],
+  "timestamp": "2026-09-10T19:26:31.286278399Z",
+  "model": "glm-5.3"
+}

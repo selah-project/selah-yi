@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און פֿון די לויים: שמעיה זון פֿון חשוב, זון פֿון עזריקם, זון פֿון חשביה, זון פֿון בוני.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "און פֿון"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "די לויים"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "שמעיה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "חשוב"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "עזריקם"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "חשביה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "בוני"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:49.539334048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "װאָרום זייערע פֿיס לויפֿן צו רעה, און זיי אײַלן צו גיסן בלוט —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "װאָרום"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "זייערע פֿיס"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "צו רעה"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "לויפֿן"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "און זיי אײַלן"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "צו גיסן"
+    },
+    {
+      "surface": "דם",
+      "gloss": "בלוט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:22:50.900140273Z",
+  "model": "glm-5.3"
+}

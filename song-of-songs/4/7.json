@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "אַלץ אין דיר איז שיין, מײַן רעיה, און אַ מום איז נישטאָ אין דיר.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "אַלץ אין דיר"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "איז שיין"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "מײַן רעיה"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "און אַ מום"
+    },
+    {
+      "surface": "אין",
+      "gloss": "איז נישטאָ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "אין דיר"
+    }
+  ],
+  "timestamp": "2026-09-11T00:52:09.152279957Z",
+  "model": "glm-5.3"
+}

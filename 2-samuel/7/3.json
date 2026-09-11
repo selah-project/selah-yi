@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און נתן האט געזאגט צום מלך: אַלץ וואס איז אין דײַן האַרץ — גיי, טוט; ווײַל יהוה איז מיט דיר.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "האט געזאגט"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "נתן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צום"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלץ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואס"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "אין דײַן האַרץ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "גיי"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "טוט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "איז מיט דיר"
+    }
+  ],
+  "timestamp": "2026-09-10T21:29:16.152173132Z",
+  "model": "glm-5.3"
+}

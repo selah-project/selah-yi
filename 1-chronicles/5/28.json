@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און די זין פֿון קהת: עמרם, יצהר, חברון און עזיאל.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "פֿון קהת"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "עמרם"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "יצהר"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "און חברון"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "און עזיאל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:45.155028480Z",
+  "model": "glm-5.3"
+}

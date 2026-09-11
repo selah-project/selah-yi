@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און די זין פֿון אונם זײַנען געווען שמי און ידע; און די זין פֿון שמי: נדב און אבישור.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "זײַנען געווען"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "אונם"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "שמי"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "און ידע"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "שמי"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "נדב"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "און אבישור"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:50.841636556Z",
+  "model": "glm-5.3"
+}

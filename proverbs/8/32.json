@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און אצינד, קינדער, הערט צו מיר, װײַל אַשׂרי זײַנען די װאָס היטן מײַנע װעגן.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "און אצינד"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "קינדער"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "הערט צו"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "און אַשׂרי"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "מײַנע װעגן"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "היטן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:55.696152869Z",
+  "model": "glm-5.3"
+}

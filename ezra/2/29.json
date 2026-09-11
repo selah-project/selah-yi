@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די קינדער פֿון נבו, צוויי און פֿופֿציק.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "נבו"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "פֿופֿציק"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "און צוויי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:14:13.133423514Z",
+  "model": "glm-5.3"
+}

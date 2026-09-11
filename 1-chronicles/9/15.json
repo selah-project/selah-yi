@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און בקבקר, חרש און גלל, און מתניה זון פֿון מיכא, זון פֿון זכרי, זון פֿון אסף;",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "און בקבקר"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "חרש"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "און גלל"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "און מתניה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "מיכא"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "זכרי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "אסף"
+    }
+  ],
+  "timestamp": "2026-09-11T04:59:46.625487787Z",
+  "model": "glm-5.3"
+}

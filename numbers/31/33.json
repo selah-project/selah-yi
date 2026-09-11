@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "און רינדער — צוויי און זיבעציק טויזנט.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "און רינדער"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "און זיבעציק"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "טויזנט"
+    }
+  ],
+  "timestamp": "2026-09-10T20:28:16.651772167Z",
+  "model": "glm-5.3"
+}

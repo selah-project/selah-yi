@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און דו, הויב אויף אַ קינה איבער די נשיאים פֿון ישׂראל:",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "און דו"
+    },
+    {
+      "surface": "שא",
+      "gloss": "הויב אויף"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "אַ קינה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "די נשיאים"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "פֿון ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-11T03:53:58.401675606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 35,
+  "translation": "און מײַן צונג זאָל רעדן דײַן צדקה, כּל היום דײַן לויב.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "און מײַן צונג"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "זאָל רעדן"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "דײַן צדקה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "כּל"
+    },
+    {
+      "surface": "היום",
+      "gloss": "היום"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "דײַן לויב"
+    }
+  ],
+  "timestamp": "2026-09-10T23:55:14.243706568Z",
+  "model": "glm-5.3"
+}

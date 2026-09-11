@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "זעט, איר אַלע זײַנט קינדער פֿון ישׂראל; גיט אַ וואָרט און אַ עצה דאָ!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "זעט"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "איר אַלע"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "פֿון ישׂראל"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "גיט"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "פֿאַר אײַך"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "אַ וואָרט"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "און אַ עצה"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "דאָ"
+    }
+  ],
+  "timestamp": "2026-09-10T21:09:32.030214346Z",
+  "model": "glm-5.3"
+}

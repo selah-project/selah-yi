@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און דאָס זײַנען די נעמען פֿון די זין פֿון גרשם: לבני און שמעי.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "און דאָס"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "די נעמען"
+    },
+    {
+      "surface": "בני",
+      "gloss": "פֿון די זין"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "פֿון גרשם"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "לבני"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "און שמעי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:21.438462954Z",
+  "model": "glm-5.3"
+}

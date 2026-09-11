@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און ⟨את⟩ פּרשנדתא און ⟨את⟩ דלפון און ⟨את⟩ אספתא",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "פּרשנדתא"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "פּרשנדתא"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "דלפון"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "דלפון"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "אספתא"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "אספתא"
+    }
+  ],
+  "timestamp": "2026-09-11T04:49:15.447717996Z",
+  "model": "glm-5.3"
+}

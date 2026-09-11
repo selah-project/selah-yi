@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "זאָלסט אָפּשנײַדן ⟨את⟩ איר האַנט; דײַן אויג זאָל איר נישט שאָנען.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "זאָלסט אָפּשנײַדן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "איר האַנט"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "איר האַנט"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "זאָל שאָנען"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "דײַן אויג"
+    }
+  ],
+  "timestamp": "2026-09-10T20:42:46.076858376Z",
+  "model": "glm-5.3"
+}

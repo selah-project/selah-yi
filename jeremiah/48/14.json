@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 48,
+  "translation": "ווי זאָגט איר: העלדן זײַנען מיר, און מענטשן פֿון כּוח צום קריג!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "זאָגט איר"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "העלדן"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "און מענטשן פֿון"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "כּוח"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "צום קריג"
+    }
+  ],
+  "timestamp": "2026-09-10T22:55:22.988358390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 114,
+  "translation": "בערג, אַז איר טאַנצט ווי אילים? היגלען, ווי לעמער?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "בערג"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "איר טאַנצט"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "ווי אילים"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "היגלען"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ווי קינדער"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "פֿון צאן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:15:26.431191425Z",
+  "model": "glm-5.3"
+}

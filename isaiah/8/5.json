@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און יהוה האָט ווידער צוגעגעבן רעדן צו מיר, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "האָט ווידער צוגעגעבן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "רעדן"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ווידער"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T22:10:33.365342580Z",
+  "model": "glm-5.3"
+}

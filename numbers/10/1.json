@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און יהוה האָט גערעדט צו משה, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:33:03.072507909Z",
+  "model": "glm-5.3"
+}

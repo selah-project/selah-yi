@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "כבשים פֿאַר דײַן בגד, און דער מחיר פֿון אַ פֿעלד — עתודים.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "כבשים"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "פֿאַר דײַן בגד"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "און דער מחיר"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "פֿון אַ פֿעלד"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "עתודים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:33:12.698005622Z",
+  "model": "glm-5.3"
+}

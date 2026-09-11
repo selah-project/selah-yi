@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און ⟨את⟩ די מכנות האט ער געמאכט, און ⟨את⟩ די כירות האט ער געמאכט אויף די מכנות.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "די מכנות"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "די מכנות"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "האט ער געמאכט"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "די כירות"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "די כירות"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "האט ער געמאכט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "די מכנות"
+    }
+  ],
+  "timestamp": "2026-09-11T01:47:02.379122738Z",
+  "model": "glm-5.3"
+}

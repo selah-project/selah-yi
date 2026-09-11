@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "דעריבער האָט ער געהייסן דעם אָרט באר שבע, ווײַל דאָרט האָבן ביידע געשוואָרן.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "כן",
+      "gloss": "דעריבער"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "האָט געהייסן"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "דעם אָרט"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "יענעם"
+    },
+    {
+      "surface": "באר",
+      "gloss": "באר"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "שבע"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "שם",
+      "gloss": "דאָרט"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "האָבן געשוואָרן"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ביידע"
+    }
+  ],
+  "timestamp": "2026-09-10T19:18:32.910247749Z",
+  "model": "glm-5.3"
+}

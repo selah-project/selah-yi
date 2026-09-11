@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און ער איז אַרױס פֿון פֿרעה, און ער האָט געבעטן צו יהוה.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "און ער איז אַרױס"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "פֿרעה"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "און ער האָט געבעטן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T02:15:30.493586539Z",
+  "model": "glm-5.3"
+}

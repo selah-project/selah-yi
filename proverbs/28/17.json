@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "אַ מענטש געדריקט מיט בלוט פֿון אַ נפֿש — ביזן בור וועט ער אַנטלויפן; מען זאָל אים נישט שטיצן.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "אַ מענטש"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "געדריקט"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "מיט בלוט"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפֿש"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "בור",
+      "gloss": "בור"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "וועט ער אַנטלויפן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "זאָל נישט"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "שטיצן"
+    },
+    {
+      "surface": "בו",
+      "gloss": "אים"
+    }
+  ],
+  "timestamp": "2026-09-11T04:39:01.494634496Z",
+  "model": "glm-5.3"
+}

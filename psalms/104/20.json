@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 104,
+  "translation": "דו שטעלסט חושך, און עס ווערט נאַכט; אין איר ראָמשן כל חיות יער.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "דו שטעלסט"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "חושך"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "און עס ווערט"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "נאַכט"
+    },
+    {
+      "surface": "בו",
+      "gloss": "אין איר"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ראָמשן"
+    },
+    {
+      "surface": "כל",
+      "gloss": "כל"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "חיות"
+    },
+    {
+      "surface": "יער",
+      "gloss": "יער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:12:20.250820710Z",
+  "model": "glm-5.3"
+}

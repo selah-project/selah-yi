@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און דער זון פֿון שלמה איז געווען רחבעם; אביה זײַן זון, אסא זײַן זון, יהושפט זײַן זון.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "און דער זון פֿון"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "שלמה"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "רחבעם"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "אביה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "אסא"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "יהושפט"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:06.994762902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "און משה איז געגאַנגען און האָט גערעדט ⟨את⟩ די רייד, די דאָזיקע, צו גאַנץ ישׂראל.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "און איז געגאַנגען"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "די רייד"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "די רייד"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "די דאָזיקע"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "כל",
+      "gloss": "גאַנץ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-10T20:47:03.749682703Z",
+  "model": "glm-5.3"
+}

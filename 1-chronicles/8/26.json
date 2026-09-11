@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און שמשרי, און שחריה, און עתליה.",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "און שמשרי"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "און שחריה"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "און עתליה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:41.949508612Z",
+  "model": "glm-5.3"
+}

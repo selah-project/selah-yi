@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 49,
+  "translation": "און ער זאָל נאָך לעבן לנצח, נישט זען די שאול.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "און ער זאָל נאָך לעבן"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "נאָך"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "לנצח"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "זען"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "די שאול"
+    }
+  ],
+  "timestamp": "2026-09-10T23:58:00.179846099Z",
+  "model": "glm-5.3"
+}

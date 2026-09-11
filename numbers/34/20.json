@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "און פֿאַרן שבט פֿון די קינדער פֿון שמעון, שמואל זון פֿון עמיהוד.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "און פֿאַרן שבט"
+    },
+    {
+      "surface": "בני",
+      "gloss": "פֿון די קינדער"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "שמעון"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "שמואל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "עמיהוד"
+    }
+  ],
+  "timestamp": "2026-09-10T20:30:07.695928534Z",
+  "model": "glm-5.3"
+}

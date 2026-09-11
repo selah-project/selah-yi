@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און דער נשיא פֿון בית־אָב פֿאַר דעם גרשני: אליסף זון פֿון לאל.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "און דער נשיא"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "אב",
+      "gloss": "אָב"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "פֿאַר דעם גרשני"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "אליסף"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "פֿון לאל"
+    }
+  ],
+  "timestamp": "2026-09-10T20:11:58.954720330Z",
+  "model": "glm-5.3"
+}

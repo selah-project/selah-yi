@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "עזיא העשתרתי, שמע און יעואל, זין פֿון חותם הערערי;",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "עזיא"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "העשתרתי"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "שמע"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "און יעואל"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין פֿון"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "חותם"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "הערערי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:31.680187559Z",
+  "model": "glm-5.3"
+}

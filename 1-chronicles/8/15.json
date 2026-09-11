@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און זבדיה, און ערד, און עדר.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "און זבדיה"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "און ערד"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "און עדר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:06.532147432Z",
+  "model": "glm-5.3"
+}

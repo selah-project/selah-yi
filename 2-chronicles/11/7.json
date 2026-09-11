@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און ⟨את⟩ בית צור, און ⟨את⟩ שוכו, און ⟨את⟩ עדולם,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "בית צור"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "צור",
+      "gloss": "צור"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "שוכו"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "שוכו"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "עדולם"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "עדולם"
+    }
+  ],
+  "timestamp": "2026-09-11T01:48:51.444476475Z",
+  "model": "glm-5.3"
+}

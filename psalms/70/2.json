@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 70,
+  "translation": "אלהים, צו ראַטעווען מיך; יהוה, צו מײַן הילף — גיכער!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "צו ראַטעווען מיך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "צו מײַן הילף"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "גיכער"
+    }
+  ],
+  "timestamp": "2026-09-11T04:25:41.166379694Z",
+  "model": "glm-5.3"
+}

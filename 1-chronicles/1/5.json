@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "די זין פֿון יפת: גמר און מגוג און מדי און יון און תבל און משך און תירס.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "יפת"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "גמר"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "און מגוג"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "און מדי"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "און יון"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "און תבל"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "און משך"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "און תירס"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:28.817227020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "װאָרויס, אויב דו רופֿסט צו בינה, צו תּבונה גיבסט דו דײַן קול —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "װאָרויס"
+    },
+    {
+      "surface": "אם",
+      "gloss": "אויב"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "צו בינה"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "דו רופֿסט"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "צו תּבונה"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "גיבסט דו"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "דײַן קול"
+    }
+  ],
+  "timestamp": "2026-09-11T00:23:58.064024268Z",
+  "model": "glm-5.3"
+}

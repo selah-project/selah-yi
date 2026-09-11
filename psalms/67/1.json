@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 67,
+  "translation": "פֿאַרן מנצח, מיט נגינות; אַ מזמור, אַ ליד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "מיט נגינות"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "אַ מזמור"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "אַ ליד"
+    }
+  ],
+  "timestamp": "2026-09-11T14:42:08.857587890Z",
+  "model": "glm-5.3"
+}

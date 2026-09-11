@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "פֿון די כהנים: ידעיה בן יויריב, יכין.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "די כהנים"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ידעיה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "יויריב"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "יכין"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:03.528839940Z",
+  "model": "glm-5.3"
+}

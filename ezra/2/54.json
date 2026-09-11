@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די קינדער פֿון נציח, די קינדער פֿון חטיפא.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "נציח"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "חטיפא"
+    }
+  ],
+  "timestamp": "2026-09-11T01:16:36.041049796Z",
+  "model": "glm-5.3"
+}

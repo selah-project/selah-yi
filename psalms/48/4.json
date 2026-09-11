@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 48,
+  "translation": "אלהים אין אירע שלאָסן ⟨איז⟩ באַקאַנט ווי א שוץ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "אין אירע שלאָסן"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "באַקאַנט"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "ווי א שוץ"
+    }
+  ],
+  "timestamp": "2026-09-10T23:58:41.501648090Z",
+  "model": "glm-5.3"
+}

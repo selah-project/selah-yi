@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "מײַן חלק איז יהוה, האָט געזאָגט מײַן נפֿש; דעריבער וואַרט איך אויף אים.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "מײַן חלק"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "מײַן נפֿש"
+    },
+    {
+      "surface": "על",
+      "gloss": "דעריבער"
+    },
+    {
+      "surface": "כן",
+      "gloss": "דעריבער"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "וואַרט איך אויף"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אויף אים"
+    }
+  ],
+  "timestamp": "2026-09-11T14:45:36.070193907Z",
+  "model": "glm-5.3"
+}

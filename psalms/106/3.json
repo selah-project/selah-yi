@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 106,
+  "translation": "אַשרי די וואָס היטן משפט, טון צדקה אין יעדער צײַט.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "אַשרי"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "די וואָס היטן"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "משפט"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "טון"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "צדקה"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "אין יעדער"
+    },
+    {
+      "surface": "עת",
+      "gloss": "צײַט"
+    }
+  ],
+  "timestamp": "2026-09-11T14:43:39.400733113Z",
+  "model": "glm-5.3"
+}

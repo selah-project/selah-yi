@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 96,
+  "translation": "ווײַל גרויס איז יהוה און שטאַרק געלויבט, ער איז איינגעשריקט איבער אַלע אלהים.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרויס"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "און געלויבט"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "שטאַרק"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "איינגעשריקט"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:10:11.812756259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און געבוירן זײַנען אים זיבן זין און דרײַ טעכטער.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "און געבוירן זײַנען"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "זיבן"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "זין"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "און דרײַ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "טעכטער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:35:55.635089780Z",
+  "model": "glm-5.3"
+}

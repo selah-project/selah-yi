@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "שלמא, פֿאָטער פֿון בית לחם; חרף, פֿאָטער פֿון בית גדר.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "שלמא"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "פֿאָטער פֿון"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "לחם"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "חרף"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "פֿאָטער פֿון"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "גדר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:24.930035106Z",
+  "model": "glm-5.3"
+}

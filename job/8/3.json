@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "צי דרייט אל איבער משפט? און צי דרייט שדי איבער גערעכטיקייט?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "צי"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "דרייט איבער"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "משפט"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "און צי"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "שדי"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "דרייט איבער"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "גערעכטיקייט"
+    }
+  ],
+  "timestamp": "2026-09-11T04:40:21.731940692Z",
+  "model": "glm-5.3"
+}

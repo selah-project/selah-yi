@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 105,
+  "translation": "זינגט אים, שפּילט אים, שפּרעכט פֿון אַלע זײַנע וווּנדער.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "זינגט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "שפּילט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "שפּרעכט"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "פֿון אַלע"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "זײַנע וווּנדער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:13:26.764117298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און אויף אַלע הויכע בערג, און אויף אַלע אויפֿגעהויבענע היגלעך.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "בערג"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "הויכע"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "היגלעך"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "אויפֿגעהויבענע"
+    }
+  ],
+  "timestamp": "2026-09-10T22:06:54.487859093Z",
+  "model": "glm-5.3"
+}

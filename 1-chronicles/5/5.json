@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "מיכה זײַן זון, ראיה זײַן זון, בעל זײַן זון.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "מיכה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ראיה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "בעל"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:18.787477389Z",
+  "model": "glm-5.3"
+}

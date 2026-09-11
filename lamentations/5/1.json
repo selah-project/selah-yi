@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "געדענק, יהוה, וואָס איז געשען אונדז; קוק און זע ⟨את⟩ אונדזער שאַנדע.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "געדענק"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "מה",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "היה",
+      "gloss": "איז געשען"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "אונדז"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "קוק"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "און זע"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אונדזער שאַנדע"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "אונדזער שאַנדע"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:07.569359848Z",
+  "model": "glm-5.3"
+}

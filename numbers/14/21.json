@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "אבער, ווי איך לעב, די כּבֿוד פֿון יהוה וועט זיך פֿילן ⟨את⟩ די גאַנצע ערד.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "אבער"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ווי איך לעב"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "וועט זיך פֿילן"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "כּבֿוד"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "די גאַנצע ערד"
+    },
+    {
+      "surface": "כל",
+      "gloss": "גאַנצע"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "די ערד"
+    }
+  ],
+  "timestamp": "2026-09-10T20:19:53.603480049Z",
+  "model": "glm-5.3"
+}

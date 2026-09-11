@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "איך קען ציילן אַלע מײַנע ביינער; זיי קוקן און שטערן אויף מיר.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "איך קען ציילן"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "מײַנע ביינער"
+    },
+    {
+      "surface": "המה",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "קוקן"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "שטערן"
+    },
+    {
+      "surface": "בי",
+      "gloss": "אויף מיר"
+    }
+  ],
+  "timestamp": "2026-09-10T23:51:38.574725322Z",
+  "model": "glm-5.3"
+}

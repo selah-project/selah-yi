@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "און דויד, זון פֿון ישי, האָט געקעניגט אויף גאַנץ ישׂראל.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "און דויד"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ישי"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "האָט געקעניגט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "כל",
+      "gloss": "גאַנץ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:44:57.643670843Z",
+  "model": "glm-5.3"
+}

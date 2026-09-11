@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די קינדער פֿון מגביש, הונדערט שש און פֿופֿציק.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "מגביש"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "פֿופֿציק"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "און שש"
+    }
+  ],
+  "timestamp": "2026-09-11T01:14:13.133623735Z",
+  "model": "glm-5.3"
+}

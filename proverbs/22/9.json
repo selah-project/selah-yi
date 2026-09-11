@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "אַ גוטער עין ווערט געבענטשט, ווײַל ער גיט פֿון זײַן ברויט דעם אָרעמן.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "אַ גוטער"
+    },
+    {
+      "surface": "עין",
+      "gloss": "עין"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ווערט געבענטשט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "גיט"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "פֿון זײַן ברויט"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "דעם אָרעמן"
+    }
+  ],
+  "timestamp": "2026-09-11T14:44:08.527348362Z",
+  "model": "glm-5.3"
+}

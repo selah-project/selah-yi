@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "ווײַל דו ביסט נישט אַן אל וואָס האָט חפֿץ אין רשע, בײַ דיר וועט נישט געדינגען קיין רע.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "האָט חפֿץ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "אין רשע"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו ביסט"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "וועט געדינגען בײַ דיר"
+    },
+    {
+      "surface": "רע",
+      "gloss": "קיין רע"
+    }
+  ],
+  "timestamp": "2026-09-10T23:47:32.011480289Z",
+  "model": "glm-5.3"
+}

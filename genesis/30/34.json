@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "און לבן האָט געזאָגט: זע, אויב עס זאָל נאָר זײַן ווי דײַן וואָרט.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "לבן"
+    },
+    {
+      "surface": "הן",
+      "gloss": "זע"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אויב נאָר"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "עס זאָל זײַן"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ווי דײַן וואָרט"
+    }
+  ],
+  "timestamp": "2026-09-10T19:23:53.337952179Z",
+  "model": "glm-5.3"
+}

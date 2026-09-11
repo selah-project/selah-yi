@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "די קינדער פֿון שמעון: נמואל און ימין, יריב, זרח, שאול.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "פֿון שמעון"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "נמואל"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "און ימין"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "יריב"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "זרח"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "שאול"
+    }
+  ],
+  "timestamp": "2026-09-11T14:56:10.231242053Z",
+  "model": "glm-5.3"
+}

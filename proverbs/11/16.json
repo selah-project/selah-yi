@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "אַ פֿרוי מיט חן האַלט כּבֿוד, און עריצים (ווײַטע מענטשן) האַלטן רײַכטום.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "אַ פֿרוי מיט"
+    },
+    {
+      "surface": "חן",
+      "gloss": "חן"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "האַלט"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "כּבֿוד"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "און עריצים"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "האַלטן"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "רײַכטום"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:22.071887358Z",
+  "model": "glm-5.3"
+}

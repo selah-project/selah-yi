@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "צו וויסן חכמה און מוסר, צו פֿאַרשטיין די ווערטער פֿון בינה;",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "צו וויסן"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "און מוסר"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "צו פֿאַרשטיין"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "די ווערטער פֿון"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "בינה"
+    }
+  ],
+  "timestamp": "2026-09-11T04:35:54.360241060Z",
+  "model": "glm-5.3"
+}

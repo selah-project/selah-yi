@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "אַלץ דאָס איז געקומען אויף נבוכדנצר דעם מלך.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "אַלץ דאָס"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "איז געקומען"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "נבוכדנצר"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "דעם מלך"
+    }
+  ],
+  "timestamp": "2026-09-11T04:51:03.381301575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די קינדער פֿון חרם, טויזנט און זיבעצן.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "חרם"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "טויזנט"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "און זיבעצן"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "זיבעצן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:14:53.212368221Z",
+  "model": "glm-5.3"
+}

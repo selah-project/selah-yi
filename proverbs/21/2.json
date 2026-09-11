@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "יעדער װעג פֿון אַ מענטש איז גראָד אין זײַנע אויגן, און יהוה װאָגט די הערצער.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "יעדער"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "װעג"
+    },
+    {
+      "surface": "איש",
+      "gloss": "מענטש"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "גראָד"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "אין זײַנע אויגן"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "און װאָגט"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "די הערצער"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:30:40.083172500Z",
+  "model": "glm-5.3"
+}

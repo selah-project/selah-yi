@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "שבר תּחת שבר, אויג תּחת אויג, צאָן תּחת צאָן; ווי ער גיט אַ מוּם אין אַ מענטש, אַזוי זאָל אים געגעבן ווערן.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "שבר"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "תּחת"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "שבר"
+    },
+    {
+      "surface": "עין",
+      "gloss": "אויג"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "תּחת"
+    },
+    {
+      "surface": "עין",
+      "gloss": "אויג"
+    },
+    {
+      "surface": "שן",
+      "gloss": "צאָן"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "תּחת"
+    },
+    {
+      "surface": "שן",
+      "gloss": "צאָן"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ער גיט"
+    },
+    {
+      "surface": "מום",
+      "gloss": "אַ מוּם"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "אין אַ מענטש"
+    },
+    {
+      "surface": "כן",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "זאָל געגעבן ווערן"
+    },
+    {
+      "surface": "בו",
+      "gloss": "אים"
+    }
+  ],
+  "timestamp": "2026-09-10T20:08:35.718397639Z",
+  "model": "glm-5.3"
+}

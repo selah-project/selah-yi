@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "נתנאל דער פֿערטער, רדי דער פֿינפֿטער.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "נתנאל"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "דער פֿערטער"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "רדי"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "דער פֿינפֿטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:32.809188657Z",
+  "model": "glm-5.3"
+}

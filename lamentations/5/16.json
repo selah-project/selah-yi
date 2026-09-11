@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "געפֿאַלן איז די קרוין פֿון אונדזער קאָפּ; אוי צו אונדז, ווײַל מיר האָבן חטא געטאָן!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "געפֿאַלן"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "קרוין"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "פֿון אונדזער קאָפּ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "אוי"
+    },
+    {
+      "surface": "נא",
+      "gloss": "אָט"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "צו אונדז"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "מיר האָבן חטא געטאָן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:57:49.876488430Z",
+  "model": "glm-5.3"
+}

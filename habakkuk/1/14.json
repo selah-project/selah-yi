@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און דו מאַכסט מענטשן ווי פֿיש פֿון ים, ווי רעמש, וואָס האָט קיין הערשער איבער זיך.",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "און דו מאַכסט"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "מענטשן"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "ווי פֿיש"
+    },
+    {
+      "surface": "הים",
+      "gloss": "פֿון ים"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "ווי רעמש"
+    },
+    {
+      "surface": "לא",
+      "gloss": "קיין"
+    },
+    {
+      "surface": "משל",
+      "gloss": "הערשער"
+    },
+    {
+      "surface": "בו",
+      "gloss": "איבער זיך"
+    }
+  ],
+  "timestamp": "2026-09-10T23:36:00.906783505Z",
+  "model": "glm-5.3"
+}

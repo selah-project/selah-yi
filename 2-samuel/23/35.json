@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "חצרו דער כרמלי, פּערי דער ארבי.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "חצרו"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "דער כרמלי"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "פּערי"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "דער ארבי"
+    }
+  ],
+  "timestamp": "2026-09-10T21:38:09.446915991Z",
+  "model": "glm-5.3"
+}

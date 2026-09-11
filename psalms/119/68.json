@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 119,
+  "translation": "גוט ביסטו, און טום גוטס; לערן מיך דײַנע חוקים.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ביסטו"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "און טום גוטס"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "לערן מיך"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "דײַנע חוקים"
+    }
+  ],
+  "timestamp": "2026-09-11T04:31:30.292519288Z",
+  "model": "glm-5.3"
+}

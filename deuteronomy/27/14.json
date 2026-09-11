@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "און די לויים זאָלן ענטפֿערן און זאָגן צו אַלע מענטשן פֿון ישׂראל מיט אַ הויכער שטימע:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "זאָלן ענטפֿערן"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "די לויים"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "און זאָגן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "איש",
+      "gloss": "מענטשן"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "פֿון ישׂראל"
+    },
+    {
+      "surface": "קול",
+      "gloss": "שטימע"
+    },
+    {
+      "surface": "רם",
+      "gloss": "הויכער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:43:56.963736428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "און צדוק זון פֿון אחיטוב און אבימלך זון פֿון אביתר כהנים, און שושא סופר.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "און צדוק"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "פֿון אחיטוב"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "און אבימלך"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "פֿון אביתר"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "כהנים"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "און שושא"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "סופר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:39:08.556862943Z",
+  "model": "glm-5.3"
+}

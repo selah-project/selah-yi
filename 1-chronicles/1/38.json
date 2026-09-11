@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און די זין פֿון שעיר: לוטן, שובל, צבעון, ענה, דישן, אצר און דישן.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "שעיר"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "לוטן"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "און שובל"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "און צבעון"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "און ענה"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "און דישן"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "און אצר"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "און דישן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:44.488809446Z",
+  "model": "glm-5.3"
+}

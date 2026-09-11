@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 52,
+  "translation": "דו האסט ליב רע כּעדער גוט, און ליגענט מער ווי רעדן גערעכטקייט — סלה.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "דו האסט ליב"
+    },
+    {
+      "surface": "רע",
+      "gloss": "רע"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "כּעדער גוט"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ליגענט"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "מער ווי רעדן"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "גערעכטקייט"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "סלה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:00:16.296654241Z",
+  "model": "glm-5.3"
+}

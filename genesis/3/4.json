@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און דער נחש האָט געזאָגט צו דער פֿרוי: נישט שטאַרבן וועט איר שטאַרבן;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "דער נחש"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "דער פֿרוי"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "מות",
+      "gloss": "שטאַרבן"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "וועט איר שטאַרבן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:10:57.672855754Z",
+  "model": "glm-5.3"
+}

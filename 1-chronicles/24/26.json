@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "זין פֿון מררי: מחלי און מושי; זין פֿון יעזיהו, זײַן זון בנו.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "זין פֿון"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "מררי"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "מחלי"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "און מושי"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין פֿון"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "יעזיהו"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:37.990734763Z",
+  "model": "glm-5.3"
+}

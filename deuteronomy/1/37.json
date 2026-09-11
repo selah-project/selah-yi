@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "אויך אויף מיר האָט יהוה זיך געצאָרנט צוליב אײַך, צו זאָגן: אויך דו וועסט נישט אַרײַנגיין דאָרט.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "בי",
+      "gloss": "אויף מיר"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "האָט זיך געצאָרנט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "צוליב אײַך"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    },
+    {
+      "surface": "גם",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "וועסט אַרײַנגיין"
+    },
+    {
+      "surface": "שם",
+      "gloss": "דאָרט"
+    }
+  ],
+  "timestamp": "2026-09-10T20:31:40.289630941Z",
+  "model": "glm-5.3"
+}

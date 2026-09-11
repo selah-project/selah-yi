@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 23:37",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "צלך דער עמני, נחרי דער בארותער, נושא די כלים פֿון יואב זון פֿון צרויה.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "צלק"
+    },
+    {
+      "surface": "העמני",
+      "gloss": "דער עמני"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "נחרי"
+    },
+    {
+      "surface": "הבארתי",
+      "gloss": "דער בארותער"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "נושא"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "די כלים"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "יואב"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "צרויה"
+    }
+  ],
+  "timestamp": "2026-09-11T02:59:08.103117296Z",
+  "model": "glm-5.3"
+}

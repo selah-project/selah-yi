@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "עלף טעג פֿון חורב, דורך דעם וועג פֿון הר שעיר, ביז קדש ברנע.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "עלף (איין)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "עלף"
+    },
+    {
+      "surface": "יום",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "פֿון חורב"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "דורך דעם וועג"
+    },
+    {
+      "surface": "הר",
+      "gloss": "הר"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "שעיר"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "קדש"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "ברנע"
+    }
+  ],
+  "timestamp": "2026-09-10T20:32:36.537096547Z",
+  "model": "glm-5.3"
+}

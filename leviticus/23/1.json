@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "און יהוה האָט גערעדט צו משה זאָגנדיק:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "זאָגנדיק"
+    }
+  ],
+  "timestamp": "2026-09-10T20:07:32.492480062Z",
+  "model": "glm-5.3"
+}

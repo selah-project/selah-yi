@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "דער פֿופֿצנטער פֿאַר בלגה, דער זעכצנטער פֿאַר אמר.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "פֿאַר בלגה"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "פֿינף"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צן"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "פֿאַר אמר"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "זעקס"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צן"
+    }
+  ],
+  "timestamp": "2026-09-11T05:01:07.477698252Z",
+  "model": "glm-5.3"
+}

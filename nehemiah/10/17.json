@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "אדניה, בגוי, עדין,",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "אדניה"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "בגוי"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "עדין"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:20.519795189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "קרום איז דער האַרץ מער ווי אַלץ, און אומגעהיילט איז ער — ווער קען אים דערקענען?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "קרום"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "דער האַרץ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "מער ווי אַלץ"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "אומגעהיילט"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "קען אים דערקענען"
+    }
+  ],
+  "timestamp": "2026-09-10T22:40:26.210450264Z",
+  "model": "glm-5.3"
+}

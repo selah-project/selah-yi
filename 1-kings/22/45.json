@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "און יהושפט האָט געמאַכט שלום מיט דעם מלך פון ישׂראל.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "האָט געמאַכט שלום"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "יהושפט"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-10T21:53:39.018982266Z",
+  "model": "glm-5.3"
+}

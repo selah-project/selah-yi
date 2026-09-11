@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 32,
+  "translation": "און זיי וועלן זײַן מיר צו אַ פֿאָלק, און איך וועל זיי זײַן צו אלהים",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "און זיי וועלן זײַן"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "צו אַ פֿאָלק"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "און איך"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "וועל זיי זײַן"
+    },
+    {
+      "surface": "להם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "צו אלהים"
+    }
+  ],
+  "timestamp": "2026-09-10T22:48:47.111348467Z",
+  "model": "glm-5.3"
+}

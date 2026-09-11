@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון חרם, דרײַ הונדערט און צוואַנציק.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "חרם"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "צוואַנציק"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:43.410976767Z",
+  "model": "glm-5.3"
+}

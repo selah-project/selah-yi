@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "איין צאָג צו פֿאַרביטן אײַך.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "צאָג"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "פֿון די ציגן"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "צו פֿאַרביטן"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "אײַך"
+    }
+  ],
+  "timestamp": "2026-09-10T20:26:31.025621309Z",
+  "model": "glm-5.3"
+}

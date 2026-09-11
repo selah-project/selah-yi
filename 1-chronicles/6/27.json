@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "זון איתן, זון זמה, זון שמעי.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "איתן"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "זמה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "שמעי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:21.326878265Z",
+  "model": "glm-5.3"
+}

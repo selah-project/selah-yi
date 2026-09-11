@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "גענוג פֿאַר אײַך — גייט אַרום ⟨את⟩ דעם בארג האָט מען שוין געהאט; קערט אײַך צפון.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "גענוג"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "פֿאַר אײַך"
+    },
+    {
+      "surface": "סב",
+      "gloss": "גייט אַרום"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם בארג הזה"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "דעם בארג"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "דעם"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "קערט אײַך"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "אײַך"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "צפון"
+    }
+  ],
+  "timestamp": "2026-09-10T20:31:41.029487438Z",
+  "model": "glm-5.3"
+}

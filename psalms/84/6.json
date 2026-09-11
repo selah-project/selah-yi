@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 84,
+  "translation": "צו גליק דער מענטש וואָס האָט זײַן כּוח אין דיך, מסילות אין זייער האַרץ.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "צו גליק"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "דער מענטש"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "כּוח"
+    },
+    {
+      "surface": "לו",
+      "gloss": "זײַן"
+    },
+    {
+      "surface": "בך",
+      "gloss": "אין דיך"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "מסילות"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "אין זייער האַרץ"
+    }
+  ],
+  "timestamp": "2026-09-11T00:09:12.723756449Z",
+  "model": "glm-5.3"
+}

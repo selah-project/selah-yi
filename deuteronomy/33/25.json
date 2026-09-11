@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "אײַזן און קופֿער זאָלן זײַן דײַנע שיך, און ווי דײַנע טעג, אַזוי דײַן כּח.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "אײַזן"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "און קופֿער"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "דײַנע שיך"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "און ווי דײַנע טעג"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "דײַן כּח"
+    }
+  ],
+  "timestamp": "2026-09-10T20:48:09.326623230Z",
+  "model": "glm-5.3"
+}

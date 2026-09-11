@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און ⟨את⟩ גת, און ⟨את⟩ מרשה, און ⟨את⟩ זיף.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "גת"
+    },
+    {
+      "surface": "גת",
+      "gloss": "גת"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "מרשה"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "מרשה"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "זיף"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "זיף"
+    }
+  ],
+  "timestamp": "2026-09-11T01:48:51.444582754Z",
+  "model": "glm-5.3"
+}

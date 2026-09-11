@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "איך געדענק, איך געדענק, און געבויגן איז מײַן נפֿש אין מיר.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "איך געדענק"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "איך געדענק"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "און געבויגן איז"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "אין מיר"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "מײַן נפֿש"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:31.938498086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 46,
+  "translation": "און די זין פֿון זבולן: סרד און אלון און יחלאל.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "זבולן"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "סרד"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "און אלון"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "און יחלאל"
+    }
+  ],
+  "timestamp": "2026-09-10T19:32:03.867758305Z",
+  "model": "glm-5.3"
+}

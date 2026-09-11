@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "הודיה, בני, בנינו.",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "הודיה"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "בנינו"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:41.746361109Z",
+  "model": "glm-5.3"
+}

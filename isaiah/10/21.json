@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "אַ שארית וועט צוריקקערן, די שארית פֿון יעקב, צו אל גבור.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "אַ שארית"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "וועט צוריקקערן"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "די שארית"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "גבור"
+    }
+  ],
+  "timestamp": "2026-09-10T22:11:54.852430517Z",
+  "model": "glm-5.3"
+}

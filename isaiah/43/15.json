@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 43,
+  "translation": "איך בין יהוה, אײַער הייליקער, בורא פֿון ישׂראל, אײַער מלך.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "אײַער הייליקער"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "בורא"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "פֿון ישׂראל"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "אײַער מלך"
+    }
+  ],
+  "timestamp": "2026-09-10T22:22:31.665274470Z",
+  "model": "glm-5.3"
+}

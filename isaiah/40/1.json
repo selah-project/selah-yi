@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 40,
+  "translation": "טרייסט, טרייסט מײַן פֿאָלק, זאָגט אייער אלהים.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "טרייסט"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "טרייסט"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "מײַן פֿאָלק"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "זאָגט"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "אייער אלהים"
+    }
+  ],
+  "timestamp": "2026-09-10T22:22:57.364859192Z",
+  "model": "glm-5.3"
+}

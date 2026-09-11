@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און דאָס וואָרט פֿון יהוה איז געוואָרן צו יונה בן אמתי, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און דאָס איז געוואָרן"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "יונה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "אמתי"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T23:34:00.629575983Z",
+  "model": "glm-5.3"
+}

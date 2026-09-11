@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 115,
+  "translation": "א פּה האָבן זיי, און זיי רעדן נישט; אויגן האָבן זיי, און זיי זען נישט.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "א פּה"
+    },
+    {
+      "surface": "להם",
+      "gloss": "האָבן זיי"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "רעדן"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "אויגן"
+    },
+    {
+      "surface": "להם",
+      "gloss": "האָבן זיי"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "זען"
+    }
+  ],
+  "timestamp": "2026-09-11T00:15:24.722265373Z",
+  "model": "glm-5.3"
+}

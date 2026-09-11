@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און די זין פֿון לוטן: חרי און הומם; און די שוועסטער פֿון לוטן ⟨איז⟩ תמנע.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "לוטן"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "חרי"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "און הומם"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "און די שוועסטער פֿון"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "לוטן"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "תמנע"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:44.488994207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און איך האָב געזאָגט צו דעם מלאך וואָס רעדט אין מיר: לוואַן טראָגן זיי ⟨את⟩ דעם איפה?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "און איך האָב געזאָגט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "דעם מלאך"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "וואָס רעדט"
+    },
+    {
+      "surface": "בי",
+      "gloss": "אין מיר"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "לוואַן"
+    },
+    {
+      "surface": "המה",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "טראָגן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם איפה"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "דעם איפה"
+    }
+  ],
+  "timestamp": "2026-09-10T23:42:35.464549906Z",
+  "model": "glm-5.3"
+}

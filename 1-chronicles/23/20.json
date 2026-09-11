@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "די זין פֿון עזיאל: מיכה דער ערשטער און ישיה דער צווייטער.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "עזיאל"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "מיכה"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "דער ערשטער"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "און ישיה"
+    },
+    {
+      "surface": "השני",
+      "gloss": "דער צווייטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:42:22.201679960Z",
+  "model": "glm-5.3"
+}

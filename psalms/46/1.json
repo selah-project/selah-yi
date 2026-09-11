@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 46,
+  "translation": "פֿאַרן מנצח, פֿאַר די קינדער פֿון קרח, אויף עלמות, א זמרה.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿאַר די קינדער פֿון"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "קרח"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "עלמות"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "א זמרה"
+    }
+  ],
+  "timestamp": "2026-09-10T23:58:08.717556791Z",
+  "model": "glm-5.3"
+}

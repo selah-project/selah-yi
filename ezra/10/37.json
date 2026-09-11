@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "מתניה, מתני, און ויעשו.",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "מתניה"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "מתני"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "און ויעשו"
+    }
+  ],
+  "timestamp": "2026-09-11T01:18:40.748550386Z",
+  "model": "glm-5.3"
+}

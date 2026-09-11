@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "די חמה פֿון א מלך איז מלאכים פֿון מות, און א חכם מאַן וועט זי באַפֿרידיקן.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "חמה"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "מלאכים"
+    },
+    {
+      "surface": "מות",
+      "gloss": "מות"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "און א מאַן"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "חכם"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "וועט זי באַפֿרידיקן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:28:42.390434980Z",
+  "model": "glm-5.3"
+}

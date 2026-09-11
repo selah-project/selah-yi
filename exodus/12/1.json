@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "און יהוה האָט געזאָגט צו משה און צו אהרן אין לאַנד מצרים, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און צו"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "אהרן"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אין לאַנד"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "מצרים"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:40:01.561852539Z",
+  "model": "glm-5.3"
+}

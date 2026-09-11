@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 77,
+  "translation": "האט פארגעסן אל צו באגנאדיקן? אדער פארמאכט אין כעס זײַנע רחמים? סלה.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "האט פארגעסן"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "צו באגנאדיקן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "אם",
+      "gloss": "אדער"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "פארמאכט"
+    },
+    {
+      "surface": "באף",
+      "gloss": "אין כעס"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "זײַנע רחמים"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "סלה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:04:55.104549395Z",
+  "model": "glm-5.3"
+}

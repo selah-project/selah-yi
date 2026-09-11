@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "שם, ארפכשד, שלח.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "שם"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "ארפכשד"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "שלח"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:41.472287858Z",
+  "model": "glm-5.3"
+}

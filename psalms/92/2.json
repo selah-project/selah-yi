@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 92,
+  "translation": "גוט צו דאַנקען יהוה, און צו זינגען צו דײַן נאָמען, עליון,",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "צו דאַנקען"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "און צו זינגען"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "צו דײַן נאָמען"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "עליון"
+    }
+  ],
+  "timestamp": "2026-09-11T00:10:31.323009197Z",
+  "model": "glm-5.3"
+}

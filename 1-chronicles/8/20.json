@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און אליעני און צלתי און אליאל.",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "און אליעני"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "און צלתי"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "און אליאל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:18.721703390Z",
+  "model": "glm-5.3"
+}

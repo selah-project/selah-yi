@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און די זין פֿון גמר: אשכנז און דיפת און תוגרמה.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "גמר"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "אשכנז"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "און דיפת"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "און תוגרמה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:28.817485546Z",
+  "model": "glm-5.3"
+}

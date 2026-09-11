@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "דײַן גרױס גלײַכט זיך אַ תמר, און דײַנע ברוסט צו אשכולות.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "דײַן"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "גרױס"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "גלײַכט זיך"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "אַ תמר"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "און דײַנע ברוסט"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "צו אשכולות"
+    }
+  ],
+  "timestamp": "2026-09-11T00:53:13.445704212Z",
+  "model": "glm-5.3"
+}

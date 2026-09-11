@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "געזעגענט ביסטו אין דער שטאָט, און געזעגענט ביסטו אויפֿן פֿעלד.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "געזעגענט"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ביסטו"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "אין דער שטאָט"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "און געזעגענט"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ביסטו"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "אויפֿן פֿעלד"
+    }
+  ],
+  "timestamp": "2026-09-10T20:45:14.010982706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "אין יענעם טאָג — אַ ווײַנגאָרטן פֿון חן! זינגט איר צו איר.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "אין יענעם טאָג"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "יענעם"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "אַ ווײַנגאָרטן"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "פֿון חן"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "זינגט איר"
+    },
+    {
+      "surface": "לה",
+      "gloss": "צו איר"
+    }
+  ],
+  "timestamp": "2026-09-11T03:17:22.727003173Z",
+  "model": "glm-5.3"
+}

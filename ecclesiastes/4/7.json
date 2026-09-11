@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און איך האָב זיך אויסגעקערט, איך, און געזען אַ הויך אונטער דער זון.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "און איך האָב זיך אויסגעקערט"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "און געזען"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "אַ הויך"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "אונטער"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "דער זון"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:33.750076317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און די זין פֿון יכניה, אסיר ⟨דער געפֿאַנגענער⟩: שאלתיאל זײַן זון.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "יכניה"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "אסיר"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "שאלתיאל"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:31.923893143Z",
+  "model": "glm-5.3"
+}

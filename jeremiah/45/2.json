@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 45,
+  "translation": "אַזוי האָט געזאָגט יהוה, דער אלהי פֿון ישׂראל, וועגן דיר, ברוך:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "דער אלהי"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "פֿון ישׂראל"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "וועגן דיר"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ברוך"
+    }
+  ],
+  "timestamp": "2026-09-10T22:54:14.657187658Z",
+  "model": "glm-5.3"
+}

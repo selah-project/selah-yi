@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און די זין פֿון שימון: אמנון און רנה, בן־חנן און תלון; און די זין פֿון ישעי: זוחת און בן־זוחת.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "שימון"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "אמנון"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "און רנה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן־"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "חנן"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "און תלון"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ישעי"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "זוחת"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "און בן־"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "זוחת"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:23.178714192Z",
+  "model": "glm-5.3"
+}

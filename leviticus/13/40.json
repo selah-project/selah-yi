@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 13:40",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "און אַ מאַן, װען זײַן קאָפּ װערט גלעט־קאָלד — ער איז קרח, טהור איז ער.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "און אַ מאַן"
+    },
+    {
+      "surface": "כי",
+      "gloss": "װען"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "װערט גלעט־קאָלד"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "זײַן קאָפּ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "קרח"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "טהור"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:01:17.712885849Z",
+  "model": "glm-5.3"
+}

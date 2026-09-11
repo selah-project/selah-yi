@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "און אויב וואַשט ער נישט און באַדט נישט זײַן פֿלייש, וועט ער טראָגן זײַן עוון.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "און אויב"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "וואַשט ער"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "זײַן פֿלייש"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "באַדט"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "וועט ער טראָגן"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "זײַן עוון"
+    }
+  ],
+  "timestamp": "2026-09-11T02:27:39.421904686Z",
+  "model": "glm-5.3"
+}

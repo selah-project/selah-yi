@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און אין עין רמון, און אין צרעה, און אין ירמות.",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "און אין עין"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "רמון"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "און אין צרעה"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "און אין ירמות"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:15.796501689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "איר מויל עפֿנט זיך מיט חכמה, און תורת חסד איז אויף איר לשון.",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "איר מויל"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "עפֿנט זיך"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "מיט חכמה"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "און תורת"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "חסד"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "איר לשון"
+    }
+  ],
+  "timestamp": "2026-09-11T00:34:20.310073601Z",
+  "model": "glm-5.3"
+}

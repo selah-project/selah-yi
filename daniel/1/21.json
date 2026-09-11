@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און דניאל איז געבליבן ביזן ערשטן יאָר פֿון כורש דעם מלך.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "איז געבליבן"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "דניאל"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביזן"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ערשטן"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "פֿון כורש"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "דעם מלך"
+    }
+  ],
+  "timestamp": "2026-09-11T01:04:08.556695834Z",
+  "model": "glm-5.3"
+}

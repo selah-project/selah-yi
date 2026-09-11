@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און די זין פֿון אלקנה: עמשי און אחימות.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "אלקנה"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "עמשי"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "און אחימות"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:32.979200349Z",
+  "model": "glm-5.3"
+}

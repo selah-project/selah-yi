@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "אויך, אויב צוויי ליגן צוזאַמען, איז זיי וואַרעם; און פֿאַר איינעם — ווי וועט ער זיך וואַרען?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "אם",
+      "gloss": "אויב"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ליגן"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "איז וואַרעם"
+    },
+    {
+      "surface": "להם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "און פֿאַר איינעם"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "וועט ער זיך וואַרען"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:16.521032325Z",
+  "model": "glm-5.3"
+}

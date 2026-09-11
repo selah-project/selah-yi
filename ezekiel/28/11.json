@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "און דאס ווארט פֿון יהוה איז געווארן צו מיר, צו זאגן:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און ... איז געווארן"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ווארט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאגן"
+    }
+  ],
+  "timestamp": "2026-09-11T03:56:39.549498933Z",
+  "model": "glm-5.3"
+}

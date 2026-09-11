@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "א האַנט־פֿול גאָלד, צען ⟨שקל⟩, פֿול קטורת.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "האַנט־פֿול"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "א"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "צען"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "גאָלד"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "פֿול"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "קטורת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:15:38.416679854Z",
+  "model": "glm-5.3"
+}

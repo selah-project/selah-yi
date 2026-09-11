@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "ווײַל אַ קול מודיע פֿון דן, און פֿון הר אפֿרים מאַכט מען געהערן אומגליק.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "קול",
+      "gloss": "אַ קול"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "מודיע"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "פֿון דן"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "און מאַכט מען געהערן"
+    },
+    {
+      "surface": "און",
+      "gloss": "אומגליק"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "פֿון הר"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "אפֿרים"
+    }
+  ],
+  "timestamp": "2026-09-10T22:35:12.726659420Z",
+  "model": "glm-5.3"
+}

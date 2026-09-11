@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "און אויפֿן אַכטן טאָג ווערט געמיל דאָס פֿלייש פֿון זײַן ערלה.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "און אויפֿן טאָג"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "אַכטן"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ווערט געמיל"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "דאָס פֿלייש"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "פֿון זײַן ערלה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:00:59.979158845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און כנען האָט געבאַרן ⟨את⟩ צידן זײַן בכור, און ⟨את⟩ חת.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "און כנען"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "האָט געבאַרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "צידן"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "צידן"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "זײַן בכור"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "חת"
+    },
+    {
+      "surface": "חת",
+      "gloss": "חת"
+    }
+  ],
+  "timestamp": "2026-09-10T19:13:51.254578345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "דאָס איז די בהמה װאָס איר זאָלט עסן: רינד, אַ לאַמל פֿון די שעפֿן און אַ ציגל פֿון די ציגן.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "די בהמה"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "װאָס"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "זאָלט עסן"
+    },
+    {
+      "surface": "שור",
+      "gloss": "רינד"
+    },
+    {
+      "surface": "שה",
+      "gloss": "אַ לאַמל"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "פֿון די שעפֿן"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "און אַ ציגל"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "פֿון די ציגן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:37:52.987078725Z",
+  "model": "glm-5.3"
+}

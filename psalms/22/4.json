@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "און דו ביסט קדוש, יושב אויף די תהלות פֿון ישׂראל.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "און דו"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "קדוש"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "יושב"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "די תהלות"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "פֿון ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-10T23:51:42.390845841Z",
+  "model": "glm-5.3"
+}

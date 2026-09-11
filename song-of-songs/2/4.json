@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "ער האָט מיך געבראַכט צום הויז פֿון ווײַן, און זײַן דגל איבער מיר איז ליבשאַפֿט.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "ער האָט מיך געבראַכט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "בית",
+      "gloss": "הויז"
+    },
+    {
+      "surface": "היין",
+      "gloss": "פֿון ווײַן"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "און זײַן דגל"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "איבער מיר"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ליבשאַפֿט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:51:30.496273312Z",
+  "model": "glm-5.3"
+}

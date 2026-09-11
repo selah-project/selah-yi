@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און די זין פֿון אפּים: ישעי; און די זין פֿון ישעי: ששן; און די זין פֿון ששן: אחלי.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "אפּים"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ישעי"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ישעי"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "ששן"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "ששן"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "אחלי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:47.285008834Z",
+  "model": "glm-5.3"
+}

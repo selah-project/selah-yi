@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "פֿאַרן שבט אָשׁר: סתור, זון פֿון מיכאל.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "פֿאַרן שבט"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אָשׁר"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "סתור"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "מיכאל"
+    }
+  ],
+  "timestamp": "2026-09-10T20:17:29.747850267Z",
+  "model": "glm-5.3"
+}

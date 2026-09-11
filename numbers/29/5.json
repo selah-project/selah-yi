@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 29:5",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "און איין באָק פֿון די ציגן, אַ חטאת, צו מכפּר זײַן אײַך.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "און איין באָק"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "פֿון די ציגן"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "אַ חטאת"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "צו מכפּר זײַן"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "אײַך"
+    }
+  ],
+  "timestamp": "2026-09-10T20:27:12.962541512Z",
+  "model": "glm-5.3"
+}

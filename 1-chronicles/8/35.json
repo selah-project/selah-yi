@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און די זין פֿון מיכה: פיתון און מלך און תארע און אחז.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "מיכה"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "פיתון"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "און מלך"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "און תארע"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "און אחז"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:51.280716869Z",
+  "model": "glm-5.3"
+}

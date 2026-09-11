@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 26,
+  "translation": "און ער איז ארויף פֿון דאָרט קיין באר־שבע.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "און ער איז ארויף"
+    },
+    {
+      "surface": "משם",
+      "gloss": "פֿון דאָרט"
+    },
+    {
+      "surface": "באר",
+      "gloss": "באר"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "שבע"
+    }
+  ],
+  "timestamp": "2026-09-11T02:10:19.870464386Z",
+  "model": "glm-5.3"
+}

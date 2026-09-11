@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "נעמט פאר אייך פון פאלק צוועלף מענטשן, איין מאן, איין מאן פון א שבט:",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "נעמט"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "פאר אייך"
+    },
+    {
+      "surface": "מן",
+      "gloss": "פון"
+    },
+    {
+      "surface": "העם",
+      "gloss": "פאלק"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוועלף"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(צוועלף)"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "מענטשן"
+    },
+    {
+      "surface": "איש",
+      "gloss": "איין מאן"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "(איין)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "איין מאן"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "(איין)"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "פון א שבט"
+    }
+  ],
+  "timestamp": "2026-09-10T20:49:24.297200457Z",
+  "model": "glm-5.3"
+}

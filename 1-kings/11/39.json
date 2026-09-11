@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און איך וועל ענטפֿערן ⟨את⟩ דודס זרע פֿאַר דעם; נאָר נישט אַלע טעג.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "און איך וועל ענטפֿערן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דודס זרע"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "זרע"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "דודס"
+    },
+    {
+      "surface": "למען",
+      "gloss": "פֿאַר דעם"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "דעם"
+    },
+    {
+      "surface": "אך",
+      "gloss": "נאָר"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "טעג"
+    }
+  ],
+  "timestamp": "2026-09-10T21:47:16.139917109Z",
+  "model": "glm-5.3"
+}

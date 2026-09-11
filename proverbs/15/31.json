@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "אַן אויער וואָס הערט די תוכחה פֿון לעבן, וועט ווײַלן בײַם חכמים.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "אַן אויער"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "וואָס הערט"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "די תוכחה"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "פֿון לעבן"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "בײַם"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "חכמים"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "וועט ווײַלן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:28:45.666191758Z",
+  "model": "glm-5.3"
+}

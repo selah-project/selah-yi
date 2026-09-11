@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "זע, אַלע די זאַכן טוט אל, צװי מאָל — דרײַ מאָל מיט אַ גבר.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "זע"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "די זאַכן"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "טוט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "צװי מאָל"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "דרײַ מאָל"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "אַ גבר"
+    }
+  ],
+  "timestamp": "2026-09-11T00:47:11.935421827Z",
+  "model": "glm-5.3"
+}

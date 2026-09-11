@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "אַ שוחד פֿון דער טאַש נעמט דער רשע, צו פֿאַרדריין די װעגן פֿון משפּט.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "אַ שוחד"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "פֿון דער טאַש"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "דער רשע"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "נעמט"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "צו פֿאַרדריין"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "די װעגן"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "פֿון משפּט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:28:30.480212065Z",
+  "model": "glm-5.3"
+}

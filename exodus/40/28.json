@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 40,
+  "translation": "און ער האָט געשטעלט ⟨את⟩ דעם מסך פֿונעם פּתח צום משכן.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "האָט געשטעלט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם מסך"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "מסך"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "פֿונעם פּתח"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "צום משכן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:55:25.610243184Z",
+  "model": "glm-5.3"
+}

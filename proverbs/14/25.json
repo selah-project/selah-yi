@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "אַ עד אמת ראַט אויף נפשות, און וואָס יפחט לויגנס איז גאַנץ מרמה.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "ראַט אויף"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "נפשות"
+    },
+    {
+      "surface": "עד",
+      "gloss": "אַ עד"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "אמת"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "יפחט"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "לויגנס"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "מרמה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:55.509936622Z",
+  "model": "glm-5.3"
+}

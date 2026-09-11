@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "א גאָלדענע לעפֿל־שיסל, צען גאָלדענע שקל, פֿול מיט קטורת.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "לעפֿל־שיסל"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "א"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "צען"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "גאָלדענע"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "פֿול"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "קטורת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:13:37.469254799Z",
+  "model": "glm-5.3"
+}

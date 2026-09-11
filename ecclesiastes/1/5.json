@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און די זון גייט אויף, און די זון גייט אונטער, און זי שנעפֿט צו איר אָרט — דאָרט גייט זי ווידער אויף.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "גייט אויף"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "די זון"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "גייט אונטער"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "די זון"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און צו"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "איר אָרט"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "שנעפֿט"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "גייט אויף"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "זי"
+    },
+    {
+      "surface": "שם",
+      "gloss": "דאָרט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:12.453884817Z",
+  "model": "glm-5.3"
+}

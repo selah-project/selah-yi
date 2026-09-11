@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "די זין פֿון אברהם: יצחק און ישמעאל.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "אברהם"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "יצחק"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "און ישמעאל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:36.486366249Z",
+  "model": "glm-5.3"
+}

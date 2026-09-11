@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "ווער וואַכט דאָס געבאָט, וועט נישט דערפֿאַרן קיין בייזע זאַך; און צײַט און משפּט ווײַס דאָס האַרץ פֿון אַ חכם.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ווער וואַכט"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "דאָס געבאָט"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "וועט דערפֿאַרן"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "זאַך"
+    },
+    {
+      "surface": "רע",
+      "gloss": "בייזע"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "און צײַט"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "און משפּט"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ווײַס"
+    },
+    {
+      "surface": "לב",
+      "gloss": "האַרץ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "חכם"
+    }
+  ],
+  "timestamp": "2026-09-11T01:01:27.294335794Z",
+  "model": "glm-5.3"
+}

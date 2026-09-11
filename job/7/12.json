@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "בין איך דער ים, אָדער אַ תּנין, אַז דו שטעלסט אויף מיר אַ וואַך?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "דער ים"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "אם",
+      "gloss": "אָדער"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "אַ תּנין"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "דו שטעלסט"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "אויף מיר"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "אַ וואַך"
+    }
+  ],
+  "timestamp": "2026-09-11T00:36:56.562851688Z",
+  "model": "glm-5.3"
+}

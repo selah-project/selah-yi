@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און משה האָט גערעדט צו די קינדער פֿון ישׂראל צו מאַכן דעם פּסח.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "צו מאַכן"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "דעם פּסח"
+    }
+  ],
+  "timestamp": "2026-09-10T20:16:55.726228957Z",
+  "model": "glm-5.3"
+}

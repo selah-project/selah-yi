@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "איך האָב געזען קנעכט רײַטן אויף פֿערד, און שרים גיין ווי קנעכט אויף דער ערד.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "איך האָב געזען"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "קנעכט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "פֿערד"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "און שרים"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "גיין"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "ווי קנעכט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "דער ערד"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:14.782503197Z",
+  "model": "glm-5.3"
+}

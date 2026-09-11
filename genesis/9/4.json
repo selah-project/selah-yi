@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "אָבער פֿלייש — מיט זײַן נפֿש, זײַן בלוט — זאָלט איר נישט עסן.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "אָבער"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "פֿלייש"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "מיט זײַן נפֿש"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "זײַן בלוט"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "זאָלט איר עסן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:12:57.481441210Z",
+  "model": "glm-5.3"
+}

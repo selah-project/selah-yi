@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "און אויב מבטל ער ⟨את⟩ זיי נאָך זײַן הערן, וועט ער טראָגן ⟨את⟩ איר עוון.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "און אויב"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "מבטל"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ער"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ זיי",
+      "marks": ""
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "נאָך"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "זײַן הערן"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "וועט ער טראָגן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "איר עוון"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "איר עוון"
+    }
+  ],
+  "timestamp": "2026-09-10T20:29:17.783633134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און הדד איז געשטארבן; און די אלופים פֿון אדום זײַנען געווען: אלוף תמנע, אלוף עלוה, אלוף יתת.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "איז געשטארבן"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "הדד"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "זײַנען געווען"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "די אלופים פֿון"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "אדום"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "תמנע"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "עלוה"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "יתת"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:49.185085612Z",
+  "model": "glm-5.3"
+}

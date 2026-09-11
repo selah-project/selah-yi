@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "און יהוה אלהי הצבאות ⟨פֿון די מחנות⟩ — יהוה איז זײַן זכרון.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "און יהוה"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "אלהי"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "הצבאות"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "זײַן זכרון"
+    }
+  ],
+  "timestamp": "2026-09-10T23:26:13.348079160Z",
+  "model": "glm-5.3"
+}

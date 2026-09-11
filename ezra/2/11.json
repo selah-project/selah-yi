@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די קינדער פֿון בבי, זעקס הונדערט צוואַנציק און דרײַ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "בבי"
+    },
+    {
+      "surface": "שש",
+      "gloss": "זעקס"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "צוואַנציק"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "און דרײַ"
+    }
+  ],
+  "timestamp": "2026-09-11T01:14:50.218235122Z",
+  "model": "glm-5.3"
+}

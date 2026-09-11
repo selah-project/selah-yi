@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "האָב איך דיר נישט געשריבן שוין דריי מאָל, מיט עצות און דעה?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "האָב איך נישט"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "געשריבן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "שוין דריי מאָל"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "מיט עצות"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "און דעה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:30:46.498717141Z",
+  "model": "glm-5.3"
+}

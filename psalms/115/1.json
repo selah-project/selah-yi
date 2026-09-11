@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 115,
+  "translation": "נישט אונדז, יהוה, נישט אונדז, נאָר דײַן נאָמען גיב כּבֿוד, אויף דײַן חסד, אויף דײַן אמת.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "אונדז"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "אונדז"
+    },
+    {
+      "surface": "כי",
+      "gloss": "נאָר"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "דײַן נאָמען"
+    },
+    {
+      "surface": "תן",
+      "gloss": "גיב"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "כּבֿוד"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "דײַן חסד"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "דײַן אמת"
+    }
+  ],
+  "timestamp": "2026-09-11T00:15:22.776933500Z",
+  "model": "glm-5.3"
+}

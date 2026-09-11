@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "פֿון דוד. צו דיר, יהוה, הייב איך אויף מײַן נפֿש.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "צו דיר"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "מײַן נפֿש"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "הייב איך אויף"
+    }
+  ],
+  "timestamp": "2026-09-10T23:52:53.773849643Z",
+  "model": "glm-5.3"
+}

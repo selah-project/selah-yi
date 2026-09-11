@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און אויב דײַן קרבן איז אַ מנחה אויפֿן מחבת — סלת פֿאַרמישט מיט שמן, אָן חמץ זאָל זײַן.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "און אויב"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "אַ מנחה"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויפֿן"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "מחבת"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "דײַן קרבן"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "סלת"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "פֿאַרמישט"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "מיט שמן"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "אָן חמץ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "זאָל זײַן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:56:10.738783529Z",
+  "model": "glm-5.3"
+}

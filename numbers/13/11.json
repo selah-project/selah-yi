@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "פֿאַרן שבט פֿון יוסף, פֿאַרן שבט פֿון מנשה: גדי, זון פֿון סוסי.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "פֿאַרן שבט פֿון"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "יוסף"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "פֿאַרן שבט פֿון"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "מנשה"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "גדי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "סוסי"
+    }
+  ],
+  "timestamp": "2026-09-10T20:17:32.134021365Z",
+  "model": "glm-5.3"
+}

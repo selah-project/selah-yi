@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון יעלא, די קינדער פֿון דרקון, די קינדער פֿון גדל.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "יעלא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "דרקון"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "גדל"
+    }
+  ],
+  "timestamp": "2026-09-11T04:57:10.780967338Z",
+  "model": "glm-5.3"
+}

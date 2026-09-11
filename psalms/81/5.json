@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 81,
+  "translation": "ווײַל אַ חוק פֿאַר ישׂראל איז עס, אַ משפּט פֿון דעם אלהי יעקב.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "חק",
+      "gloss": "חוק"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "פֿאַר ישׂראל"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "עס"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "משפּט"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "פֿון דעם אלהי"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    }
+  ],
+  "timestamp": "2026-09-11T00:07:29.833245776Z",
+  "model": "glm-5.3"
+}

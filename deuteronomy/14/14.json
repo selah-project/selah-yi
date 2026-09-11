@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "און ⟨את⟩ יעדן ראָבֿ לויט זײַן מין,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "יעדן ראָבֿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "יעדן"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ראָבֿ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "לויט זײַן מין"
+    }
+  ],
+  "timestamp": "2026-09-10T20:37:45.186435216Z",
+  "model": "glm-5.3"
+}

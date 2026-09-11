@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 23:32",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "אליחבא דער שעלבני; פֿון די זין פֿון ישן — יהונתן.",
+  "tokens": [
+    {
+      "surface": "אליחבא",
+      "gloss": "אליחבא"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "דער שעלבני"
+    },
+    {
+      "surface": "בני",
+      "gloss": "פֿון די זין פֿון"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ישן"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "יהונתן"
+    }
+  ],
+  "timestamp": "2026-09-10T21:38:03.129133801Z",
+  "model": "glm-5.3"
+}

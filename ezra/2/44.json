@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "קינדער פֿון קרס, קינדער פֿון סיעהא, קינדער פֿון פדון.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "קרס"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "סיעהא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "פדון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:16:52.243246761Z",
+  "model": "glm-5.3"
+}

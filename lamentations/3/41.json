@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "מיר האָבן אויפֿגעהויבן אונדזער האַרץ צו די הענט, צו אל אין די הימלען.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "האָבן אויפֿגעהויבן"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "אונדזער האַרץ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "די הענט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "אין די הימלען"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:09.428942802Z",
+  "model": "glm-5.3"
+}

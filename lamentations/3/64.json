@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "גיב זיי צוריק גמול, יהוה, לויט דעם מעשה פון זייערע הענט.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "גיב צוריק"
+    },
+    {
+      "surface": "להם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "גמול"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "לויט דעם מעשה"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "פון זייערע הענט"
+    }
+  ],
+  "timestamp": "2026-09-11T04:46:34.989864868Z",
+  "model": "glm-5.3"
+}

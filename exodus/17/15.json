@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "און משה האָט געבויט אַ מזבח און האָט גערופֿן זײַן נאָמען יהוה נסי.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "האָט געבויט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "אַ מזבח"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "האָט גערופֿן"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "זײַן נאָמען"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "נסי"
+    }
+  ],
+  "timestamp": "2026-09-10T19:42:46.223963030Z",
+  "model": "glm-5.3"
+}

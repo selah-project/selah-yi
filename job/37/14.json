@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 37:14",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 37,
+  "translation": "הער צו דעם, איוב; שטיי און באַטראַכט די נפלאות פֿון אל.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "הער צו"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "דעם"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "איוב"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "שטיי"
+    },
+    {
+      "surface": "והתבונן",
+      "gloss": "און באַטראַכט"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "נפלאות"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    }
+  ],
+  "timestamp": "2026-09-11T00:48:25.232470732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 49,
+  "translation": "ער קומט צום דור פֿון זײַנע עלטערן; ביז נצח וועלן זיי נישט זען ליכט.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ער קומט"
+    },
+    {
+      "surface": "עד",
+      "gloss": "צום"
+    },
+    {
+      "surface": "דור",
+      "gloss": "דור"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "פֿון זײַנע עלטערן"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "נצח"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "וועלן זיי זען"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ליכט"
+    }
+  ],
+  "timestamp": "2026-09-10T23:58:17.768138333Z",
+  "model": "glm-5.3"
+}

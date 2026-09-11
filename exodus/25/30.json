@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "און דו זאָלסט לײַגן אויפֿן טיש ברויט פֿנים פֿאַר מיר אַלעמאָל.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "און דו זאָלסט לײַגן"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויפֿן"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "טיש"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ברויט"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "פֿנים"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "אַלעמאָל"
+    }
+  ],
+  "timestamp": "2026-09-10T19:48:04.503547417Z",
+  "model": "glm-5.3"
+}

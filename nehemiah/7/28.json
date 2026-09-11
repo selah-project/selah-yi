@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די מענער פֿון בית עזמות, צוויי און פֿערציק.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "די מענער פֿון"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "עזמות"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "פֿערציק"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "און צוויי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:46.758590692Z",
+  "model": "glm-5.3"
+}

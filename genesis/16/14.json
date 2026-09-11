@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "דעריבער האָט מען גערופֿן דעם ברונעם באר לחי ראי; זעט, ער ליגט צווישן קדש און צווישן ברד.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "דערפֿאַר"
+    },
+    {
+      "surface": "כן",
+      "gloss": "דעריבער"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "האָט מען גערופֿן"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "צו דעם ברונעם"
+    },
+    {
+      "surface": "באר",
+      "gloss": "באר"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "לחי"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ראי"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "זעט"
+    },
+    {
+      "surface": "בין",
+      "gloss": "צווישן"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "קדש"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "און צווישן"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ברד"
+    }
+  ],
+  "timestamp": "2026-09-10T19:16:01.932578603Z",
+  "model": "glm-5.3"
+}

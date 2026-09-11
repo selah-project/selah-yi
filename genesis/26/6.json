@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 26,
+  "translation": "און יצחק האָט זיך באַזעצט אין גרר.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "האָט זיך באַזעצט"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "יצחק"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "אין גרר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:21:32.546005215Z",
+  "model": "glm-5.3"
+}

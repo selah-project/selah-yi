@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און איר האָט געזעסן אין קדש פֿיל טעג, ווי די טעג וואָס איר האָט דאָרט געזעסן.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "און איר האָט געזעסן"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "אין קדש"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "פֿיל"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "ווי די טעג"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "איר האָט געזעסן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:31:14.659276807Z",
+  "model": "glm-5.3"
+}

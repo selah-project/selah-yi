@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "אוריה החתי — צוזאמען דרײַאוןדרײַציק און זיבן.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "אוריה"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "החתי"
+    },
+    {
+      "surface": "כל",
+      "gloss": "צוזאמען"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "דרײַאונדרײַציק"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "און זיבן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:59:05.629635969Z",
+  "model": "glm-5.3"
+}

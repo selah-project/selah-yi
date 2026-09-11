@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "אַ מענטש וואָס פֿעלט לב, שלאָגט כּף, ווערט אַ ערובֿה פֿאַר זײַן רעהו.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "אַ מענטש"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "פֿעלט"
+    },
+    {
+      "surface": "לב",
+      "gloss": "לב"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "שלאָגט"
+    },
+    {
+      "surface": "כף",
+      "gloss": "כּף"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ווערט אַ ערובֿה"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ערובֿה"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "זײַן רעהו"
+    }
+  ],
+  "timestamp": "2026-09-11T14:44:05.581634922Z",
+  "model": "glm-5.3"
+}

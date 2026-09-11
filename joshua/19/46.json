@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און מי הירקון, און הרקון, מיט דעם גרענעץ נאָך יפו צו.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "און מי"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "הירקון"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "און הרקון"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "דעם גרענעץ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "נאָך… צו"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "יפו"
+    }
+  ],
+  "timestamp": "2026-09-10T20:56:32.225853084Z",
+  "model": "glm-5.3"
+}

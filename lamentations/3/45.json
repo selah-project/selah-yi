@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "אַסחי און אַ מאָס האָסטו געמאַכט אונדז אין מיטן פֿון די פֿעלקער.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "סחי"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "און אַ מאָס"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "האָסטו געמאַכט אונדז"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "אין מיטן פֿון"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "די פֿעלקער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:03.939350984Z",
+  "model": "glm-5.3"
+}

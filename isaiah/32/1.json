@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 32,
+  "translation": "זע, לצדק וועט רעגירן אַ מלך, און שרים — למשפּט וועלן זיי הערשן.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "זע"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "לצדק"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "וועט רעגירן"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "אַ מלך"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "און שרים"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "למשפּט"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "וועלן הערשן"
+    }
+  ],
+  "timestamp": "2026-09-11T03:18:04.625017983Z",
+  "model": "glm-5.3"
+}

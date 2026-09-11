@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 148,
+  "translation": "לויט אים די זון און דער לבֿנה; לויט אים אַלע שטערן פֿון ליכט.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "לויט אים"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "די זון"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "און דער לבֿנה"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "לויט אים"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "שטערן"
+    },
+    {
+      "surface": "אור",
+      "gloss": "פֿון ליכט"
+    }
+  ],
+  "timestamp": "2026-09-11T04:33:18.503778484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 147,
+  "translation": "דער וואָס גיט שניי ווי וואָל; רייפֿן ווי אַש זשעטערט ער.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "דער וואָס גיט"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "שניי"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "ווי וואָל"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "רייפֿן"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "ווי אַש"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "זשעטערט ער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:22:10.860887722Z",
+  "model": "glm-5.3"
+}

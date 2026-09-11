@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "ערד, ערד, ערד, הער דאָס וואָרט פֿון יהוה!",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ערד"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ערד"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ערד"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "הער"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T03:34:50.359225802Z",
+  "model": "glm-5.3"
+}

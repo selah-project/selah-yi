@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און מײַן נפש איז זייער באַאַנגשט — און דו, יהוה, ביז ווענען?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "און מײַן נפש"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "איז באַאַנגשט"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "זייער"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און דו"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ווענען"
+    }
+  ],
+  "timestamp": "2026-09-10T23:47:13.672285585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 136,
+  "translation": "ער גיט ברויט צו אַלע פֿלייש, ווײַל צו נצח איז זײַן חסד.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ער גיט"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ברויט"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "צו אַלע"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "פֿלייש"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "צו נצח"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "זײַן חסד"
+    }
+  ],
+  "timestamp": "2026-09-11T04:34:09.036797320Z",
+  "model": "glm-5.3"
+}

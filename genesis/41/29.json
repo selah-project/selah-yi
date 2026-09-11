@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 41,
+  "translation": "זעט, זיבן יאָר קומען פֿון אַ גרויסן איבערפֿל אין דער גאַנצער לאַנד מצרים.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "זעט"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "זיבן"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "באות",
+      "gloss": "קומען"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "איבערפֿל"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרויס"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "אין דער גאַנצער"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "לאַנד"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "מצרים"
+    }
+  ],
+  "timestamp": "2026-09-10T19:30:04.584840952Z",
+  "model": "glm-5.3"
+}

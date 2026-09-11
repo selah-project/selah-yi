@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און שלום האָט געבאָרן ⟨את⟩ חלקיה, און חלקיה האָט געבאָרן ⟨את⟩ עזריה.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "און שלום"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "חלקיה"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "חלקיה"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "און חלקיה"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "עזריה"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "עזריה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:08.642664849Z",
+  "model": "glm-5.3"
+}

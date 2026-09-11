@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 62,
+  "translation": "פֿאַרן מנצח, אויף ידותון, אַ מזמור פֿון דוד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "ידותון"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "אַ מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:02:07.638967784Z",
+  "model": "glm-5.3"
+}

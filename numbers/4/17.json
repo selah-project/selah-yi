@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און יהוה האָט גערעדט צו משה און צו אהרן, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און צו"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "אהרן"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:12:48.488696895Z",
+  "model": "glm-5.3"
+}

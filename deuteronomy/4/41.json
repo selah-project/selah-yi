@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "דעמאָלט האָט משה אפֿגעשיידט דרײַ שטעט איבער דעם ירדן, קעגן אויפֿגאַנג פֿון דער זון.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "דעמאָלט"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "האָט אפֿגעשיידט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "שטעט"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "דעם ירדן"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "קעגן אויפֿגאַנג"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "פֿון דער זון"
+    }
+  ],
+  "timestamp": "2026-09-10T20:33:19.842496056Z",
+  "model": "glm-5.3"
+}

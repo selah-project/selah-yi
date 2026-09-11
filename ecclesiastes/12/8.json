@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "אַ הויך פֿון הויכן, האָט געזאָגט דער קוהלת, דער גאַנצער איז אַ הויך.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "אַ הויך"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "פֿון הויכן"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "דער קוהלת"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "דער גאַנצער"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "אַ הויך"
+    }
+  ],
+  "timestamp": "2026-09-11T04:47:33.191214756Z",
+  "model": "glm-5.3"
+}

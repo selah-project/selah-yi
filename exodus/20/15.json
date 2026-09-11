@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "דו זאלסט נישט גנבֿענען.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "דו זאלסט גנבֿענען"
+    }
+  ],
+  "timestamp": "2026-09-10T19:42:30.907751791Z",
+  "model": "glm-5.3"
+}

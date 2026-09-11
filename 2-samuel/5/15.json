@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און יבחר, און אלישוע, און נפג, און יפיע.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "און יבחר"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "און אלישוע"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "און נפג"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "און יפיע"
+    }
+  ],
+  "timestamp": "2026-09-10T21:28:25.779047322Z",
+  "model": "glm-5.3"
+}

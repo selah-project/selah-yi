@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "ווער ליבט איבערטריטונג, ליבט מחלוקת; ווער ערהויכט זײַן טיר, זוכט חורבן.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ליבט"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "איבערטריטונג"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ליבט"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "מחלוקת"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "ערהויכט"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "זײַן טיר"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "זוכט"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "חורבן"
+    }
+  ],
+  "timestamp": "2026-09-11T04:37:46.975189977Z",
+  "model": "glm-5.3"
+}

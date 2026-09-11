@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "און משה האט גערעדט צו יהוה, צו זאגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האט גערעדט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאגן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:27:01.049283633Z",
+  "model": "glm-5.3"
+}

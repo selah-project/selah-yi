@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און די זין פֿון יהויקים: יכניה זײַן זון, צדקיה זײַן זון.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "יהויקים"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "יכניה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "צדקיה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T04:57:48.363285193Z",
+  "model": "glm-5.3"
+}

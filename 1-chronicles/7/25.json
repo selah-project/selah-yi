@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און רפח זײַן זון, און רשף, און תלח זײַן זון, און תחן זײַן זון.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "און רפח"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "און רשף"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "און תלח"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "און תחן"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:44.783241761Z",
+  "model": "glm-5.3"
+}

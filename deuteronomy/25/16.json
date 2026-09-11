@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "ווײַל אַ גרוהס פֿאַר יהוה דײַן אלהים איז יעדער וואָס טוט די זאַכן, יעדער וואָס טוט עוולה.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "גרוהס"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "דײַן אלהים"
+    },
+    {
+      "surface": "כל",
+      "gloss": "יעדער"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "וואָס טוט"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "די זאַכן"
+    },
+    {
+      "surface": "כל",
+      "gloss": "יעדער"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "וואָס טוט"
+    },
+    {
+      "surface": "עול",
+      "gloss": "עוולה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:43:09.709720694Z",
+  "model": "glm-5.3"
+}

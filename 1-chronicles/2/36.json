@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און עתי האָט געהאַט זכרים ⟨את⟩ נתן, און נתן האָט געהאַט זכרים ⟨את⟩ זבד.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "און עתי"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "האָט געהאַט זכרים"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "נתן"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "נתן"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "און נתן"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט זכרים"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "זבד"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "זבד"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:40.773911648Z",
+  "model": "glm-5.3"
+}

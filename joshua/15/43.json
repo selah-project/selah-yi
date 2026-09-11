@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "און יפתח, און אשנה און נציב.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "און יפתח"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "און אשנה"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "און נציב"
+    }
+  ],
+  "timestamp": "2026-09-10T20:54:54.237248353Z",
+  "model": "glm-5.3"
+}

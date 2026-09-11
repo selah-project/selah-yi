@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און רמת, און עין גנים, און עין חדה, און בית פצץ.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "און רמת"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "און עין"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "גנים"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "און עין"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "חדה"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "און בית"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "פצץ"
+    }
+  ],
+  "timestamp": "2026-09-10T20:56:09.179421859Z",
+  "model": "glm-5.3"
+}

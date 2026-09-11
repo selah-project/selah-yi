@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "וואָס פֿאַר נוץ האָט דער טוער פֿון דעם וואָס ער אַרבעט?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "וואָס פֿאַר"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "נוץ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "דער טוער"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "פֿון דעם וואָס"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "אַרבעט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:35.257318934Z",
+  "model": "glm-5.3"
+}

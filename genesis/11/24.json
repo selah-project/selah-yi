@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און נחור האָט געלעבט נײַן און צוואַנציק יאָר, און האָט געהאַט ⟨את⟩ תרח.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "האָט געלעבט"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "נחור"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "נײַן"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "און צוואַנציק"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "און האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "תרח"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "תרח"
+    }
+  ],
+  "timestamp": "2026-09-10T19:13:46.258378828Z",
+  "model": "glm-5.3"
+}

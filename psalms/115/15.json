@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 115,
+  "translation": "זעגענט זײַט איר פֿון יהוה, דעם מאַכער פֿון הימל און ערד.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "זעגענט"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "איר"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "דעם מאַכער"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "הימל"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "און ערד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:15:55.742708412Z",
+  "model": "glm-5.3"
+}

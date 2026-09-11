@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און די זין פֿון קהת: עמרם, יצהר, חברון און עזיאל.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "פֿון קהת"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "עמרם"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "יצהר"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "חברון"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "און עזיאל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:21.438597247Z",
+  "model": "glm-5.3"
+}

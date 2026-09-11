@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די מענער פֿון מכמס: הונדערט צוואַנציק און צוויי.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "די מענער פֿון"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "מכמס"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "צוואַנציק"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "און צוויי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:14:15.675808759Z",
+  "model": "glm-5.3"
+}

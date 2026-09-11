@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "לענגער פֿון דער ערד איז איר מאָס, און ברייטער פֿון ים.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "לענגער"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "פֿון דער ערד"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "איר מאָס"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "און ברייטער"
+    },
+    {
+      "surface": "מני",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:39:15.353747782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "דו קענסט נישט שאכטן ⟨את⟩ דאָס פּסח אין איינעם פֿון דײַנע טויערן, וואָס יהוה דײַן אלהים גיט דיר.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "קענסט"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "שאכטן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דאָס פּסח"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "דאָס פּסח"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "אין איינעם פֿון"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "דײַנע טויערן"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "דײַן אלהים"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "גיט"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    }
+  ],
+  "timestamp": "2026-09-10T20:38:53.923271418Z",
+  "model": "glm-5.3"
+}

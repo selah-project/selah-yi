@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "ער היט אַלע זײַנע בײַנער; נישט איינער פֿון זיי איז צעבראָכן.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "היט"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "זײַנע בײַנער"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "איינער"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "פֿון זיי"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "איז צעבראָכן"
+    }
+  ],
+  "timestamp": "2026-09-10T23:54:12.726727817Z",
+  "model": "glm-5.3"
+}

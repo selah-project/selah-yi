@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "רוב מענטשן רופֿן אַ מאַן זײַן חסד, און אַ מאַן פֿון אמונים — ווער טרעפֿט?",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "רוב"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "מענטשן"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "רופֿן"
+    },
+    {
+      "surface": "איש",
+      "gloss": "אַ מאַן"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "זײַן חסד"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "און אַ מאַן"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "אמונים"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "טרעפֿט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:29:57.382650513Z",
+  "model": "glm-5.3"
+}

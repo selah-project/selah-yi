@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און משה האָט געזאָגט צו דער עדה: דאָס איז דאָס וואָרט וואָס יהוה האָט געהייסן צו טון.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "דער עדה"
+    },
+    {
+      "surface": "זה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "האָט געהייסן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "צו טון"
+    }
+  ],
+  "timestamp": "2026-09-10T20:00:16.514169635Z",
+  "model": "glm-5.3"
+}

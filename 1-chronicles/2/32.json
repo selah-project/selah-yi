@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און די זין פֿון ידע, דער ברודער פֿון שמי: יתר און יונתן; און יתר איז געשטאָרבן אָן קינדער.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ידע"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "דער ברודער"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "שמי"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "יתר"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "און יונתן"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "און ער איז געשטאָרבן"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "יתר"
+    },
+    {
+      "surface": "לא",
+      "gloss": "אָן"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "קינדער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:47.285133548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "און מען האָט לבן געזאָגט אין דריטן טאָג, אַז יעקב איז אנטלויפן.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "און מען האָט געזאָגט"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "לבן"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "אין טאָג"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "דריטן"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "איז אנטלויפן"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    }
+  ],
+  "timestamp": "2026-09-10T19:24:36.910736508Z",
+  "model": "glm-5.3"
+}

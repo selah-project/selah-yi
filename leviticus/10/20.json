@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און משה האָט געהערט, און עס איז גוט געווען אין זײַנע אויגן.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "האָט געהערט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "איז גוט געווען"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "אין זײַנע אויגן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:24:56.154450070Z",
+  "model": "glm-5.3"
+}

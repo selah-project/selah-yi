@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און יבחר און אלישמע און אליפלט.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "און יבחר"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "און אלישמע"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "און אליפלט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:09.196749346Z",
+  "model": "glm-5.3"
+}

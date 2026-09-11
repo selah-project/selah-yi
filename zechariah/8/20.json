@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "אַזוי זאָגט יהוה צבאות: נאָך וועלן פֿעלקער קומען און אײַנוווינער פֿון פֿילע שטעט.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "זאָגט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "צבאות"
+    },
+    {
+      "surface": "עד",
+      "gloss": "נאָך"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "וועלן קומען"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "פֿעלקער"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "און אײַנוווינער"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "פֿון שטעט"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "פֿילע"
+    }
+  ],
+  "timestamp": "2026-09-10T23:44:04.688368453Z",
+  "model": "glm-5.3"
+}

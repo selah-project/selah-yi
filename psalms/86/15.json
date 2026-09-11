@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 86,
+  "translation": "און דו, אדני, ביסט אַן אל רחום און חנון, לאַנגמוטיק, און פֿול מיט חסד און אמת.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "און דו"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אַן אל"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "רחום"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "און חנון"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "לאַנג"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "פֿון כּעס"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "און פֿול"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "מיט חסד"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "און אמת"
+    }
+  ],
+  "timestamp": "2026-09-11T00:08:19.839598853Z",
+  "model": "glm-5.3"
+}

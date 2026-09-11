@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 108,
+  "translation": "גרויס איבער די הימל איז דײַן חסד, און ביז די וואלקנס דײַן אמת.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "אז"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרויס"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "די הימל"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "דײַן חסד"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "און ביז"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "די וואלקנס"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "דײַן אמת"
+    }
+  ],
+  "timestamp": "2026-09-11T00:15:04.399154401Z",
+  "model": "glm-5.3"
+}

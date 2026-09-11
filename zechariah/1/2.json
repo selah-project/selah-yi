@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "קצף האָט יהוה געהאַט אויף אײַערע פֿעטער — קצף.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "קצף האָט… געהאַט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "אײַערע פֿעטער"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "קצף"
+    }
+  ],
+  "timestamp": "2026-09-11T14:54:30.540013058Z",
+  "model": "glm-5.3"
+}

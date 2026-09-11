@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "אַ צײַט צו הרגענען, און אַ צײַט צו היילן; אַ צײַט צו צעברעכן, און אַ צײַט צו בויען.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "אַ צײַט"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "צו הרגענען"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "און אַ צײַט"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "צו היילן"
+    },
+    {
+      "surface": "עת",
+      "gloss": "אַ צײַט"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "צו צעברעכן"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "און אַ צײַט"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "צו בויען"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:43.824355846Z",
+  "model": "glm-5.3"
+}

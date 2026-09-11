@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 4:26",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און די זין פֿון משמע: חמואל זײַן זון, זכור זײַן זון, שמעי זײַן זון.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "משמע"
+    },
+    {
+      "surface": "חמואל",
+      "gloss": "חמואל"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "זכור"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "שמעי"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T04:58:13.139252272Z",
+  "model": "glm-5.3"
+}

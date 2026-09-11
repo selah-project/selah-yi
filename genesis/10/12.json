@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און ⟨את⟩ רסן, צווישן נינוה און צווישן כלח — דאָס איז די גרויסע שטאָט.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "רסן"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "רסן"
+    },
+    {
+      "surface": "בין",
+      "gloss": "צווישן"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "נינוה"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "און צווישן"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "כלח"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "דאָס איז"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "די שטאָט"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "גרויסע"
+    }
+  ],
+  "timestamp": "2026-09-10T19:13:56.901418946Z",
+  "model": "glm-5.3"
+}

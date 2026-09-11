@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "joshua 15:51",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "און גשן, און חלן, און גלה — עלף שטעט מיט זייערע דערפֿער.",
+  "tokens": [
+    {
+      "surface": "וגשן",
+      "gloss": "און גשן"
+    },
+    {
+      "surface": "וחלן",
+      "gloss": "און חלן"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "און גלה"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "שטעט"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "עלף"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "איין־און־צען"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "מיט זייערע דערפֿער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:54:44.977510714Z",
+  "model": "glm-5.3"
+}

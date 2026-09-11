@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "א פארמ פון יעדן בהמה וואס איז אויף דער ערד, א פארם פון יעדן געפליגלטן פויגל וואס פליט אין די הימלען",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "א פארם"
+    },
+    {
+      "surface": "כל",
+      "gloss": "יעדן"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "בהמה"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואס"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אויף דער ערד"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "א פארם"
+    },
+    {
+      "surface": "כל",
+      "gloss": "יעדן"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "פויגל"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "געפליגלטן"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואס"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "פליט"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "אין די הימלען"
+    }
+  ],
+  "timestamp": "2026-09-10T20:33:54.292068803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און דער רעגן איז געווען אויף דער ערד פֿערציק טעג און פֿערציק נעכט.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און עס איז געווען"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "דער רעגן"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "דער ערד"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "פֿערציק"
+    },
+    {
+      "surface": "יום",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "און פֿערציק"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "נעכט"
+    }
+  ],
+  "timestamp": "2026-09-10T19:11:42.428533569Z",
+  "model": "glm-5.3"
+}

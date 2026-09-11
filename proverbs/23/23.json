@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "קויף אמת, און פֿאַרקויף זי נישט — אויך חכמה און מוסר און בינה.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "אמת"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "קויף"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "זאָלסט פֿאַרקויפֿן"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "און מוסר"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "און בינה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:31:11.783852546Z",
+  "model": "glm-5.3"
+}

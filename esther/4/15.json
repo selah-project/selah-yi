@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און אסתר האָט געהייסן צוריקזאָגן צו מרדכי:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "און האָט געהייסן זאָגן"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "אסתר"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "צוריקזאָגן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "מרדכי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:02:24.941643645Z",
+  "model": "glm-5.3"
+}

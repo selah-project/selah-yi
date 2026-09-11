@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 22:23",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "און דאָס װאָרט פֿון יהוה איז געקומען צו מיר צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און איז געװען"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס װאָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T23:09:25.722628170Z",
+  "model": "glm-5.3"
+}

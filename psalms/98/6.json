@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 98,
+  "translation": "מיט חצוצרות און קול פֿון שופֿר, בלאָזט אויף פֿאַרן מלך יהוה.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "מיט חצוצרות"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "און קול"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "פֿון שופֿר"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "בלאָזט אויף"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ן מלך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:11:47.857466977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 27:19",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "פֿאַר זבולן — ישמעיהו בן עבדיהו; פֿאַר נפתלי — ירימות בן עזריאל.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "פֿאַר זבולן"
+    },
+    {
+      "surface": "ישמעיהו",
+      "gloss": "ישמעיהו"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "עבדיהו"
+    },
+    {
+      "surface": "לנפתלי",
+      "gloss": "פֿאַר נפתלי"
+    },
+    {
+      "surface": "ירימות",
+      "gloss": "ירימות"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "עזריאל",
+      "gloss": "עזריאל"
+    }
+  ],
+  "timestamp": "2026-09-11T05:03:45.022836606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "אַזױ האָט געזאָגט יהוה צבאות: פֿרעג נאָך ⟨את⟩ די כהנים תורה, לאמר:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "אַזױ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "צבאות"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "פֿרעג"
+    },
+    {
+      "surface": "נא",
+      "gloss": "נאָך"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "די כהנים"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "די כהנים"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "תורה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לאמר"
+    }
+  ],
+  "timestamp": "2026-09-10T23:41:41.045501969Z",
+  "model": "glm-5.3"
+}

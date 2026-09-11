@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 113,
+  "translation": "צו זעצן זיי מיט גבירים, מיט די גבירים פֿון זײַן פֿאָלק.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "צו זעצן זיי"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "גבירים"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "די גבירים"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "פֿון זײַן פֿאָלק"
+    }
+  ],
+  "timestamp": "2026-09-11T00:14:41.319621788Z",
+  "model": "glm-5.3"
+}

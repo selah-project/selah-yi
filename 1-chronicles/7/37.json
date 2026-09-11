@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "בצר, און הוד, און שמא, און שלשה, און יתרן, און בארא.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "בצר"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "און הוד"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "און שמא"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "און שלשה"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "און יתרן"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "און בארא"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:44.878936488Z",
+  "model": "glm-5.3"
+}

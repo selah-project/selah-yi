@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "די קעפֿטייכן פֿונעם פֿאָלק: פרעש, פחת מואב, עילם, זתוא, בני.",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "קעפֿטייכן"
+    },
+    {
+      "surface": "העם",
+      "gloss": "פֿונעם פֿאָלק"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "פרעש"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "פחת"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "מואב"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "עילם"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "זתוא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:41.746537625Z",
+  "model": "glm-5.3"
+}

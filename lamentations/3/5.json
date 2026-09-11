@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "ער האָט אויפֿגעבויט קעגן מיר און מיך אַרומגענומען מיט גאַל און פּלאָג.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ער האָט אויפֿגעבויט"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "קעגן מיר"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "און מיך אַרומגענומען"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "גאַל"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "און פּלאָג"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:02.684486070Z",
+  "model": "glm-5.3"
+}

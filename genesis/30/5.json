@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "און בלהה איז שוואַנגער געוואָרן און האָט יעקב געבוירן אַ זון.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "איז שוואַנגער געוואָרן"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "בלהה"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "האָט געבוירן"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "יעקב"
+    },
+    {
+      "surface": "בן",
+      "gloss": "אַ זון"
+    }
+  ],
+  "timestamp": "2026-09-10T19:22:48.308380664Z",
+  "model": "glm-5.3"
+}

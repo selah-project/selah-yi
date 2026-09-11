@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 63,
+  "translation": "אַ מזמור פֿון דוד, ווען ער איז געווען אין מדבר יהודה.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "אַ מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ווען ער איז געווען"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "אין מדבר"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "יהודה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:02:25.482801951Z",
+  "model": "glm-5.3"
+}

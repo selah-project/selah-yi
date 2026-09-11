@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "און אַ מאַן אָדער אַ פֿרוי, ווען עס ווערט אין אים אַ נגע אויפֿן קאָפּ אָדער אין באָרד",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "און אַ מאַן"
+    },
+    {
+      "surface": "או",
+      "gloss": "אָדער"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "אַ פֿרוי"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "עס ווערט"
+    },
+    {
+      "surface": "בו",
+      "gloss": "אין אים"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "אַ נגע"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "אויפֿן קאָפּ"
+    },
+    {
+      "surface": "או",
+      "gloss": "אָדער"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "אין באָרד"
+    }
+  ],
+  "timestamp": "2026-09-10T20:02:47.755084045Z",
+  "model": "glm-5.3"
+}

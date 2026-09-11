@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "און איין עשרון פֿאַרן איינעם כבש, פֿאַר די זיבן כבשים —",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "און איין עשרון"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "פֿאַרן כבש"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "איינעם"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "פֿאַר די זיבן"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "כבשים"
+    }
+  ],
+  "timestamp": "2026-09-10T20:27:04.955068827Z",
+  "model": "glm-5.3"
+}

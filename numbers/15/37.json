@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "און יהוה האָט געזאָגט צו משה צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:32:47.751894965Z",
+  "model": "glm-5.3"
+}

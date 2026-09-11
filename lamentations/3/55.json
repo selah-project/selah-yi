@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "איך האָב גערופן דײַן נאָמען, יהוה, פֿון דער גרוב פֿון די טיפֿענישן.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "איך האָב גערופן"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "דײַן נאָמען"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "פֿון דער גרוב"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "פֿון די טיפֿענישן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:55.741296905Z",
+  "model": "glm-5.3"
+}

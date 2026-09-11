@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "ווײַל ווער איז אל אַחוץ יהוה, און ווער איז אַ צור אַחוץ אונדזער אלהים?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "אַחוץ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "און ווער"
+    },
+    {
+      "surface": "צור",
+      "gloss": "אַ צור"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "אַחוץ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "אונדזער אלהים"
+    }
+  ],
+  "timestamp": "2026-09-10T21:37:44.626677599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און עזריה האָט געבאָרן ⟨את⟩ חלץ, און חלץ האָט געבאָרן ⟨את⟩ אלעשה.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "און עזריה"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "חלץ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "חלץ"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "און חלץ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אלעשה"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "אלעשה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:04.588999174Z",
+  "model": "glm-5.3"
+}

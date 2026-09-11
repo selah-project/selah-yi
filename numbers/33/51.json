@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "רעד צו די קינדער פֿון ישׂראל און זאָג צו זיי: ווען איר גייט אַריבער ⟨את⟩ דעם ירדן קיין לאַנד כנען —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "רעד"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "און זאָג"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "צו זיי"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "איר"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "גייט אַריבער"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם ירדן"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "דעם ירדן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "קיין"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "לאַנד"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "כנען"
+    }
+  ],
+  "timestamp": "2026-09-10T20:30:10.687657524Z",
+  "model": "glm-5.3"
+}

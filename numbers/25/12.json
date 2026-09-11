@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "דעריבער זאָג: הנני איך געב אים ⟨את⟩ מײַן ברית פֿון שלום.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "דעריבער"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "זאָג"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "הנני"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "איך געב"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "מײַן ברית פֿון שלום"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "מײַן ברית"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "פֿון שלום"
+    }
+  ],
+  "timestamp": "2026-09-10T20:25:05.848570932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "פֿאַרדרייט די מדינים ⟨את⟩ און שלאָגט ⟨את⟩ זיי.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "פֿאַרדרייט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "די מדינים"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "די מדינים"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "און שלאָגט"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ זיי"
+    }
+  ],
+  "timestamp": "2026-09-10T20:24:25.290232897Z",
+  "model": "glm-5.3"
+}

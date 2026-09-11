@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "אויך דאָזע זענען פֿאַר די חכמים: אָנקוקן פּנים אין משפּט איז נישט גוט.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "דאָזע"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "פֿאַר די חכמים"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "אָנקוקן"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "פּנים"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "אין משפּט"
+    },
+    {
+      "surface": "בל",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:31:57.430507856Z",
+  "model": "glm-5.3"
+}

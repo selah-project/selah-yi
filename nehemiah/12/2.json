@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "אמריה, מלוך, חטוש.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "אמריה"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "מלוך"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "חטוש"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:33.603165458Z",
+  "model": "glm-5.3"
+}

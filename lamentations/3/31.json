@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "ווייל נישט צום אייביקן וועט אדני פֿאַרשמאָדן.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווייל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "וועט פֿאַרשמאָדן"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "צום אייביקן"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:31.734859195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "ארור זאלסטו זײַן אין דער שטאָט, און ארור זאלסטו זײַן אויפֿן פֿעלד.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ארור זאלסטו זײַן"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "אין דער שטאָט"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "און ארור זאלסטו זײַן"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "אויפֿן פֿעלד"
+    }
+  ],
+  "timestamp": "2026-09-10T20:44:35.904800323Z",
+  "model": "glm-5.3"
+}

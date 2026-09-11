@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 68,
+  "translation": "פֿאַרן חזר, פֿון דוד, אַ מזמור, אַ ליד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן חזר"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "אַ מזמור"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "אַ ליד"
+    }
+  ],
+  "timestamp": "2026-09-11T04:25:54.380020310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 89,
+  "translation": "געבענטשט זײַן יהוה פֿאַר אייביק; אמן, און אמן.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "געבענטשט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "פֿאַר אייביק"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "אמן"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "און אמן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:09:25.622954902Z",
+  "model": "glm-5.3"
+}

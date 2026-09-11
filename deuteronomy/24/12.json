@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "און אויב ער איז אַן אָרעמער מאַן, זאָלסטו נישט ליגן מיט זײַן משכון.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "און אויב"
+    },
+    {
+      "surface": "איש",
+      "gloss": "מאַן"
+    },
+    {
+      "surface": "עני",
+      "gloss": "אָרעמער"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער איז"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "זאָלסטו ליגן"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "מיט זײַן משכון"
+    }
+  ],
+  "timestamp": "2026-09-10T20:42:56.218595844Z",
+  "model": "glm-5.3"
+}

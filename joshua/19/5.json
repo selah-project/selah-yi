@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און צקלג, און בית המרכבות, און חצר סוסה.",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "און צקלג"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "און בית"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "המרכבות"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "און חצר"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "סוסה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:47.689178401Z",
+  "model": "glm-5.3"
+}

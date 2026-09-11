@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און מוצא האָט געהאַט ⟨את⟩ בנעא; און רפיה זײַן זון, אלעשה זײַן זון, אצל זײַן זון.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "און מוצא"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "בנעא"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "בנעא"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "און רפיה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "אלעשה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "אצל"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:35:15.374224437Z",
+  "model": "glm-5.3"
+}

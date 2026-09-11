@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 121,
+  "translation": "יהוה איז דײַן היטער, יהוה איז דײַן שאָטן אויף דײַן רעכטער האַנט.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "דײַן היטער"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "דײַן שאָטן"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "יד",
+      "gloss": "האַנט"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "דײַן רעכטער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:18:43.428388750Z",
+  "model": "glm-5.3"
+}

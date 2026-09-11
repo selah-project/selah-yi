@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 35,
+  "translation": "כאַפּ דעם מגן און די צנה, און שטיי אויף צו מײַן הילף.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "כאַפּ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "מגן"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "און צנה"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "און שטיי אויף"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "צו מײַן הילף"
+    }
+  ],
+  "timestamp": "2026-09-10T23:55:34.411401934Z",
+  "model": "glm-5.3"
+}

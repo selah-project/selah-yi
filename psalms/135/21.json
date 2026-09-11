@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 135,
+  "translation": "געזעגנט זײַ יהוה פֿון ציון, דער וואוינט אין ירושלים. לויבט יה!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "געזעגנט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "פֿון ציון"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "דער וואוינט"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "אין ירושלים"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "לויבט"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:19:49.634975148Z",
+  "model": "glm-5.3"
+}

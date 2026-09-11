@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "קינדער פֿון לבנה, קינדער פֿון חגבה, קינדער פֿון עקוב.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "לבנה"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "חגבה"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "עקוב"
+    }
+  ],
+  "timestamp": "2026-09-11T01:16:27.491849147Z",
+  "model": "glm-5.3"
+}

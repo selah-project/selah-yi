@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "און פֿון אשר — ארויסגייער צום צבא, סדרנדיק די מלחמה — פֿערציק טויזנט.",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "און פֿון אשר"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "ארויסגייער"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "צבא"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "סדרנדיק"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "די מלחמה"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "פֿערציק"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "טויזנט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:37:58.972056013Z",
+  "model": "glm-5.3"
+}

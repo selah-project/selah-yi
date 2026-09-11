@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 36,
+  "translation": "און עשו האָט זיך באַזעצט אין באַרג שעיר; עשו — ער איז אדום.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "און האָט זיך באַזעצט"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "עשו"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "אין באַרג"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "שעיר"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "עשו"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "איז אדום"
+    }
+  ],
+  "timestamp": "2026-09-10T19:26:23.631325597Z",
+  "model": "glm-5.3"
+}

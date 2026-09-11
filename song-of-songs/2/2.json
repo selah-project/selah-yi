@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "ווי אַ שושנה צווישן די דאָרנען, אַזוי מײַן רעיה צווישן די טעכטער.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "ווי אַ שושנה"
+    },
+    {
+      "surface": "בין",
+      "gloss": "צווישן"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "די דאָרנען"
+    },
+    {
+      "surface": "כן",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "מײַן רעיה"
+    },
+    {
+      "surface": "בין",
+      "gloss": "צווישן"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "די טעכטער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:51:30.495928968Z",
+  "model": "glm-5.3"
+}

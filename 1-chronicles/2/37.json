@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און זבד האָט געבאָרן ⟨את⟩ אפלל, און אפלל האָט געבאָרן ⟨את⟩ עובד.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "און זבד"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אפלל"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "אפלל"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "און אפלל"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "עובד"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "עובד"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:04.588543883Z",
+  "model": "glm-5.3"
+}

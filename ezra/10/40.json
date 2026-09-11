@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "מכנדבי, ששי, שרי.",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "מכנדבי"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ששי"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "שרי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:18:40.748965028Z",
+  "model": "glm-5.3"
+}

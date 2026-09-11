@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און ⟨את⟩ אופיר, און ⟨את⟩ חוילה, און ⟨את⟩ יובב — אלע דאָס זײַנען די זין פֿון יקטן.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "אופיר"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "אופיר"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "חוילה"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "חוילה"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "יובב"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "יובב"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אלע"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "יקטן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:41.471987009Z",
+  "model": "glm-5.3"
+}

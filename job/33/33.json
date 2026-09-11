@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 33:33",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "אם נישט — הער צו מיר; זײַ שטיל, און איך װעל דיך לערנען חכמה.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "אם"
+    },
+    {
+      "surface": "אין",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "הער צו"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "זײַ שטיל"
+    },
+    {
+      "surface": "ואאלפך",
+      "gloss": "און איך װעל דיך לערנען"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:46:47.023336654Z",
+  "model": "glm-5.3"
+}

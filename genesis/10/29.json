@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און ⟨את⟩ אופֿיר און ⟨את⟩ חוילה און ⟨את⟩ יובב; אלע דאָס זײַנען געווען זין פֿון יקטן.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "אופֿיר"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "אופֿיר"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "חוילה"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "חוילה"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "יובב"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "יובב"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אלע"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין פֿון"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "יקטן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:06:35.652050387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "לעדן זײַן זון, עמיהוד זײַן זון, אלישמע זײַן זון.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "לעדן"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "עמיהוד"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "אלישמע"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:44.783465790Z",
+  "model": "glm-5.3"
+}

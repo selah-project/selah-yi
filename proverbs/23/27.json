@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "ווײַל אַ טיפֿע גרוב איז די זונה, און אַ שמאָלער ברונעם די נכרית.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "גרוב"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "טיפֿע"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "זונה"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "און אַ ברונעם"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "שמאָלע"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "נכרית"
+    }
+  ],
+  "timestamp": "2026-09-11T00:31:16.760846211Z",
+  "model": "glm-5.3"
+}

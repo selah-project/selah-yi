@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 146,
+  "translation": "יהוה װירד מלוכה פֿירן לעולם — דײַן אלהים, ציון — דור צו דור; הללו יה!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "וועט מלוכה פֿירן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "לעולם"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "דײַן אלהים"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ציון"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "דור צו"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "דור"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "הללו"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:21:40.132008160Z",
+  "model": "glm-5.3"
+}

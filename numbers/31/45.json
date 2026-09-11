@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "און עזלעך דרײַסיק טויזנט און פֿופֿן הונדערט",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "און עזלעך"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "דרײַסיק"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "טויזנט"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "און פֿופֿן"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    }
+  ],
+  "timestamp": "2026-09-11T02:37:22.091226235Z",
+  "model": "glm-5.3"
+}

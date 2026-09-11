@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און שלמיה, און נתן, און עדיה.",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "און שלמיה"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "און נתן"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "און עדיה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:18:40.748870833Z",
+  "model": "glm-5.3"
+}

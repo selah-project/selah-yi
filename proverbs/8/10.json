@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "נעמט מײַן מוסר און נישט כסף, און דעת אָנשטאָט אויסגעקליבן גאָלד.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "נעמט"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "מײַן מוסר"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "כסף"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "און דעת"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "פֿון גאָלד"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "אויסגעקליבן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:22.922438428Z",
+  "model": "glm-5.3"
+}

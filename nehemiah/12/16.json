@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "פֿון עדיא — זכריה; פֿון גנתון — משלם.",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "פֿון עדיא"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "זכריה"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "פֿון גנתון"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "משלם"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:58.039924996Z",
+  "model": "glm-5.3"
+}

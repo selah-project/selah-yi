@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "און איר וועט זײַן מיר צו אַ פֿאָלק, און איך וועל זײַן אײַך צו אלהים.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "און איר וועט זײַן"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "צו אַ פֿאָלק"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "און איך"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "וועל זײַן"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "אײַך"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "צו אלהים"
+    }
+  ],
+  "timestamp": "2026-09-10T22:46:20.946776608Z",
+  "model": "glm-5.3"
+}

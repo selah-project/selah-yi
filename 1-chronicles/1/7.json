@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און די זין פֿון יון: אלישה און תרשישה, כתים און רודנים.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "יון",
+      "gloss": "יון"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "אלישה"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "און תרשישה"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "כתים"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "און רודנים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:28.817634608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "פֿאַרן שבט פֿון בנימן — אלידד זון פֿון כסלון.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "פֿאַרן שבט"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "בנימן"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "אלידד"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "כסלון"
+    }
+  ],
+  "timestamp": "2026-09-10T20:29:48.337385438Z",
+  "model": "glm-5.3"
+}

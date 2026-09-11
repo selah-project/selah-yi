@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און עבדון, און זכרי, און חנן.",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "און עבדון"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "און זכרי"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "און חנן"
+    }
+  ],
+  "timestamp": "2026-09-11T14:47:09.903997262Z",
+  "model": "glm-5.3"
+}

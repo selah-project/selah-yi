@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 150,
+  "translation": "אַלע וואָס האָבן נשמה זאָלן לויבן יה; הללו־יה!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "וואָס האָבן נשמה"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "זאָלן לויבן"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "הללו־יה!"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:21:41.990011465Z",
+  "model": "glm-5.3"
+}

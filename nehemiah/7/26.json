@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די מענער פֿון בית לחם און פֿון נטפֿה, אַ הונדערט אַכציק און אַכט.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "די מענער פֿון"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "לחם"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "און פֿון נטפֿה"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "אַ הונדערט"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "אַכציק"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "און אַכט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:46.758262901Z",
+  "model": "glm-5.3"
+}

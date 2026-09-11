@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "עזר דער ערשטער, עובדיה דער צווייטער, אליאב דער דריטער.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "עזר"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "דער ערשטער"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "עובדיה"
+    },
+    {
+      "surface": "השני",
+      "gloss": "דער צווייטער"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "אליאב"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "דער דריטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:44.120840560Z",
+  "model": "glm-5.3"
+}

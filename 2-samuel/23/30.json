@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "בניהו דער פּרעתני; הדי פֿון די בעכער פֿון געש.",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "בניהו"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "דער פּרעתני"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "הדי"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "פֿון די בעכער פֿון"
+    },
+    {
+      "surface": "געש",
+      "gloss": "געש"
+    }
+  ],
+  "timestamp": "2026-09-10T21:38:03.128803234Z",
+  "model": "glm-5.3"
+}

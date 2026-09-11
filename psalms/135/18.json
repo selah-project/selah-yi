@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 135,
+  "translation": "װי זיי זײַנען זײַנע מאַכערס; אַזוי אַלע װאָס שטײערן זיך אױף זיי.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "װי זיי"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "זײַנען"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "זײַנע מאַכערס"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "װאָס"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "שטײערן זיך אױף"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "זיי"
+    }
+  ],
+  "timestamp": "2026-09-11T04:32:49.855722331Z",
+  "model": "glm-5.3"
+}

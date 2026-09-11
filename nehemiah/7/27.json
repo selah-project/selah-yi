@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די מענער פֿון ענתות, אַ הונדערט צוואַנציק און אַכט.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "די מענער פֿון"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ענתות"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "אַ הונדערט"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "צוואַנציק"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "און אַכט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:46.758438514Z",
+  "model": "glm-5.3"
+}

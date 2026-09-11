@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "הױכקײַט פֿון אויגן און אַ ברײַט האַרץ — דער פֿלוג פֿון רשעים איז חטא.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "הױכקײַט"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "פֿון אויגן"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "און אַ ברײַט"
+    },
+    {
+      "surface": "לב",
+      "gloss": "האַרץ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "דער פֿלוג"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "פֿון רשעים"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "חטא"
+    }
+  ],
+  "timestamp": "2026-09-11T00:30:40.083456266Z",
+  "model": "glm-5.3"
+}

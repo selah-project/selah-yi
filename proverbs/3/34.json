@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "אויב ⟨אם⟩ צו שפּאָטערס שפּאָטערט ער, און די עניוים באַקומען חן.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "אויב ⟨אם⟩"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "צו שפּאָטערס"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "שפּאָטערט"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "און די עניוים"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "באַקומען"
+    },
+    {
+      "surface": "חן",
+      "gloss": "חן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:23:40.359606114Z",
+  "model": "glm-5.3"
+}

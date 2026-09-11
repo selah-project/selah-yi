@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "די זין פֿון יהודה: פֿרץ, חצרון, כּרמי, חור און שובל.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "פֿון יהודה"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "פֿרץ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "חצרון"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "כּרמי"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "חור"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "און שובל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:33.266435612Z",
+  "model": "glm-5.3"
+}

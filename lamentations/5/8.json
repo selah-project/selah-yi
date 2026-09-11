@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "קנעכט האָבן געהערשט איבער אונדז; אַ מפֿלטה גיט עס נישט פֿון זייערע הענט.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "קנעכט"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "האָבן געהערשט"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "איבער אונדז"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "אַ מפֿלטה"
+    },
+    {
+      "surface": "אין",
+      "gloss": "גיט עס נישט"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "פֿון זייערע הענט"
+    }
+  ],
+  "timestamp": "2026-09-11T14:45:41.504487354Z",
+  "model": "glm-5.3"
+}

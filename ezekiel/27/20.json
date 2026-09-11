@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "דדן — דײַן הענדלער מיט טעפּעך צום רײַטן.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "דדן"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "דײַן הענדלער"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "מיט טעפּעך"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "פֿאַרברייטערטע"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "צום רײַטן"
+    }
+  ],
+  "timestamp": "2026-09-11T03:55:15.019549356Z",
+  "model": "glm-5.3"
+}

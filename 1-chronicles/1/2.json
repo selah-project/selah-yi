@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "קינן, מהללאל, ירד;",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "קינן"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "מהללאל"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ירד"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:54.795480297Z",
+  "model": "glm-5.3"
+}

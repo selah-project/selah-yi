@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "מײַן אויג האָט מײַן נפֿש אויסגעמאַטערט צוליב אַלע טעכטער פֿון מײַן שטאָט.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "מײַן אויג"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "האָט אויסגעמאַטערט"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "מײַן נפֿש"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "צוליב אַלע"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "טעכטער"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "פֿון מײַן שטאָט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:11.891480434Z",
+  "model": "glm-5.3"
+}

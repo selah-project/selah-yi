@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "אחז זײַן זון, חזקיהו זײַן זון, מנשה זײַן זון.",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "אחז"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "חזקיהו"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "מנשה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T04:57:40.604243278Z",
+  "model": "glm-5.3"
+}

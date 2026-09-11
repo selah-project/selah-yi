@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "אױך די קינדער פֿון נף און תחפנס האָבן דיך געשאָרן דײַן קאָפּ־שײדל.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "אױך"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "נף",
+      "gloss": "נף"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "און תחפנס"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "האָבן דיך געשאָרן"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "קאָפּ־שײדל"
+    }
+  ],
+  "timestamp": "2026-09-10T22:32:51.424465522Z",
+  "model": "glm-5.3"
+}

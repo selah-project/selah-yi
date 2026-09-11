@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 3:13",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "יהוה שטייט אויף צו ריבן, און שטייט צו דינען פֿעלקער.",
+  "tokens": [
+    {
+      "surface": "נצב",
+      "gloss": "שטייט אויף"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "צו ריבן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "און שטייט"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "צו דינען"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "פֿעלקער"
+    }
+  ],
+  "timestamp": "2026-09-10T22:08:53.852503215Z",
+  "model": "glm-5.3"
+}

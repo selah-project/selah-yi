@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "מיכא, רחוב, חשביה.",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "מיכא"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "רחוב"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "חשביה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:19.177744222Z",
+  "model": "glm-5.3"
+}

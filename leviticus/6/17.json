@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און יהוה האָט גערעדט צו משה זאגנדיק:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "זאגנדיק"
+    }
+  ],
+  "timestamp": "2026-09-10T19:57:28.743595630Z",
+  "model": "glm-5.3"
+}

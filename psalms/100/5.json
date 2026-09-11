@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 100,
+  "translation": "ווײַל יהוה איז גוט; צו נײַ איז זײַן חסד, און ביז דור און דור זײַן אמונה.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "צו נײַ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "זײַן חסד"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "און ביז"
+    },
+    {
+      "surface": "דר",
+      "gloss": "דור"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "און דור"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "זײַן אמונה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:11:10.921349286Z",
+  "model": "glm-5.3"
+}

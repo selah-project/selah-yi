@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "גייט צום דרום און דרייט זיך צום צפון — דרייט, דרייט גייט דער רוח, און אויף זײַנע קרײַזן קערט צוריק דער רוח.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "גייט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צום"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "דרום"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "און דרייט זיך"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צום"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "צפון"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "דרייט"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "דרייט"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "גייט"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "דער רוח"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "זײַנע קרײַזן"
+    },
+    {
+      "surface": "שב",
+      "gloss": "קערט צוריק"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "דער רוח"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:12.454224631Z",
+  "model": "glm-5.3"
+}

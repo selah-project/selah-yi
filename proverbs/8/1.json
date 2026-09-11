@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "רופֿט חכמה זיך נישט אָן, און תבונה גיט איר קול?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "רופֿט זיך אָן"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "און תבונה"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "גיט"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "איר קול"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:47.281423862Z",
+  "model": "glm-5.3"
+}

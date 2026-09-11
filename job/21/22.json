@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 21:22",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "האָט מען אַ לערן אל דעת, און ער ריכטער די הױכן?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "האָט מען אַ לערן אל"
+    },
+    {
+      "surface": "ילמד",
+      "gloss": "לערן"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "דעת"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "און ער"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "די הױכן"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "ריכטער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:42:22.128053213Z",
+  "model": "glm-5.3"
+}

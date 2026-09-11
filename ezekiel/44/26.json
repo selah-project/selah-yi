@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 44,
+  "translation": "און נאָך זײַן טהרה זאָלן זיי אים ציילן זיבן טעג.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "און נאָך"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "זײַן טהרה"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "זיבן"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "זאָלן זיי ציילן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    }
+  ],
+  "timestamp": "2026-09-10T23:21:00.996050315Z",
+  "model": "glm-5.3"
+}

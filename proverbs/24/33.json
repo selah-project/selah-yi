@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "אַ ביסל שלאָף, אַ ביסל דרימעריי, אַ ביסל פֿאַרשלאָגן די הענט, צו ליגן;",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "אַ ביסל"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "שלאָף"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "אַ ביסל"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "דרימעריי"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "אַ ביסל"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "פֿאַרשלאָגן"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "די הענט"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "צו ליגן"
+    }
+  ],
+  "timestamp": "2026-09-11T14:56:51.051396257Z",
+  "model": "glm-5.3"
+}

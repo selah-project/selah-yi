@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "מײַן דאָד איז לײַכטנדיק און רויט, אויסגעפֿאָנעט איבער אַ רבבה.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "מײַן דאָד"
+    },
+    {
+      "surface": "צח",
+      "gloss": "לײַכטנדיק"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "און רויט"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "אויסגעפֿאָנעט"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "איבער אַ רבבה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:51:10.573241270Z",
+  "model": "glm-5.3"
+}

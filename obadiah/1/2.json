@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "זע, קליין האָב איך געמאַכט דיך צווישן די פֿעלקער; ביזוי ביסטו זייער.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "קליין"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "האָב איך געמאַכט דיך"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "צווישן די פֿעלקער"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "ביזוי"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "זייער"
+    }
+  ],
+  "timestamp": "2026-09-10T23:31:49.422462633Z",
+  "model": "glm-5.3"
+}

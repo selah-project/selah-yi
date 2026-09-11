@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "שנאה וועקט אויף מחלוקות; און איבער אַלע פֿאַרברעכנס דעקט ליבשאַפֿט.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "שנאה"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "וועקט אויף"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "מחלוקות"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "און איבער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "פֿאַרברעכנס"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "דעקט"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ליבשאַפֿט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:26:02.194700862Z",
+  "model": "glm-5.3"
+}

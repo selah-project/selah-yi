@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "אין אָנהייב האָט אלהים באַשאַפֿן ⟨את⟩ דעם הימל און ⟨את⟩ די ערד.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "אין אָנהייב"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "האָט באַשאַפֿן"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם הימל"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "דעם הימל"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "די ערד"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "די ערד"
+    }
+  ],
+  "timestamp": "2026-09-10T19:09:47.593003921Z",
+  "model": "glm-5.3"
+}

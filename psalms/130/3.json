@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 130,
+  "translation": "אויב דו וואַכט אויף עוונות, יה — אדני, ווער וועט שטיין?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "אויב"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "עוונות"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "דו וואַכט אויף"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "וועט שטיין"
+    }
+  ],
+  "timestamp": "2026-09-11T00:18:58.057661357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און אויב די דרײַ דאָזיקע טוט ער איר נישט, גייט זי אַרויס אויפֿן בילעך, אָן געלט.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "און אויב"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "די דרײַ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "דאָזיקע"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "טוט ער"
+    },
+    {
+      "surface": "לה",
+      "gloss": "איר"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "גייט זי אַרויס"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "אויפֿן בילעך"
+    },
+    {
+      "surface": "אין",
+      "gloss": "אָן"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "געלט"
+    }
+  ],
+  "timestamp": "2026-09-10T19:45:10.339551459Z",
+  "model": "glm-5.3"
+}

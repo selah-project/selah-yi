@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "אביעזר דער ענתתי, מבני דער חשתי,",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "אביעזר"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "דער ענתתי"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "מבני"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "דער חשתי"
+    }
+  ],
+  "timestamp": "2026-09-10T21:37:58.416420278Z",
+  "model": "glm-5.3"
+}

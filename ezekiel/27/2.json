@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "און דו, מענטשנזון, הייב אויף א קינה איבער צור,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "און דו"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "מענטש"
+    },
+    {
+      "surface": "שא",
+      "gloss": "הייב אויף"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "צר",
+      "gloss": "צור"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "קינה"
+    }
+  ],
+  "timestamp": "2026-09-10T23:12:26.201460273Z",
+  "model": "glm-5.3"
+}

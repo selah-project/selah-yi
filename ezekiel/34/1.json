@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 34:1",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "און דאָס וואָרט פֿון יהוה איז געקומען צו מיר, זאָגנדיק:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און … איז געקומען"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "זאָגנדיק"
+    }
+  ],
+  "timestamp": "2026-09-10T23:15:29.965320340Z",
+  "model": "glm-5.3"
+}

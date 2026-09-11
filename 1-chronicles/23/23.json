@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "די זין פֿון מושי: מחלי און עדר און ירמות — דרײַ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "מושי"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "מחלי"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "און עדר"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "און ירמות"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "דרײַ"
+    }
+  ],
+  "timestamp": "2026-09-11T01:42:21.620469641Z",
+  "model": "glm-5.3"
+}

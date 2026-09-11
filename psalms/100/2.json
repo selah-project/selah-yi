@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 100,
+  "translation": "דינט ⟨את⟩ יהוה מיט פֿרייד; קומט פֿאַר זײַן פּנים מיט געזאַנג.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "דינט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יהוה"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "מיט פֿרייד"
+    },
+    {
+      "surface": "באו",
+      "gloss": "קומט"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "פֿאַר זײַן פּנים"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "מיט געזאַנג"
+    }
+  ],
+  "timestamp": "2026-09-11T00:12:02.341333251Z",
+  "model": "glm-5.3"
+}

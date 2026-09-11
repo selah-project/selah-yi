@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און די גאַנצע ערד איז געווען איין לשון און איינע ווערטער.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און איז געווען"
+    },
+    {
+      "surface": "כל",
+      "gloss": "גאַנצע"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ערד"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "לשון"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "איין"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "און ווערטער"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "איינע"
+    }
+  ],
+  "timestamp": "2026-09-10T19:15:16.643864424Z",
+  "model": "glm-5.3"
+}

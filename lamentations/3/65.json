@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "דו וועסט זיי געבן אַ פֿאַרדעקט הארץ, דײַן קללה זאָל זײַן אויף זיי.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "דו וועסט געבן"
+    },
+    {
+      "surface": "להם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "פֿאַרדעקט"
+    },
+    {
+      "surface": "לב",
+      "gloss": "הארץ"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "דײַן קללה"
+    },
+    {
+      "surface": "להם",
+      "gloss": "אויף זיי"
+    }
+  ],
+  "timestamp": "2026-09-11T00:54:55.996584576Z",
+  "model": "glm-5.3"
+}

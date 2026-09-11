@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און אַלץ דאָס איז מיר נישט כּדאַי, אין אַלע צײַטן וואָס איך זע ⟨את⟩ מרדכי היהודי זיצן אין תּור המלך.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "און אַלץ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "איז נישט"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "כּדאַי"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "אין אַלע"
+    },
+    {
+      "surface": "עת",
+      "gloss": "צײַטן"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "מרדכי"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "מרדכי"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "היהודי"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "זיצן"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "אין תּור"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "המלך"
+    }
+  ],
+  "timestamp": "2026-09-11T01:01:54.485330583Z",
+  "model": "glm-5.3"
+}

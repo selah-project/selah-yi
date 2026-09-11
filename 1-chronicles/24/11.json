@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "דער נײַנטער צו ישוע, דער צענטער צו שכניהו.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "צו ישוע"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "דער נײַנטער"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "צו שכניהו"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "דער צענטער"
+    }
+  ],
+  "timestamp": "2026-09-11T05:00:53.705019104Z",
+  "model": "glm-5.3"
+}

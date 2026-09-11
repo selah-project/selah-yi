@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "בניה, בדיה, כלהי.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "בניה"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "בדיה"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "כלהי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:18:39.036484118Z",
+  "model": "glm-5.3"
+}

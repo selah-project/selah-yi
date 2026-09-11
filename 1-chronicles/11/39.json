@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "צלק דער עמוני, נחרי דער ברתי, וואָס טראָגט די כלים פֿון יואב זון פֿון צרויה;",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "צלק"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "דער עמוני"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "נחרי"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "דער ברתי"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "טראָגט"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "די כלים"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "יואב"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "צרויה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:31.509805107Z",
+  "model": "glm-5.3"
+}

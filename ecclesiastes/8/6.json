@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "ווײַל צו יעדן חפֿץ איז דאָ אַ צײַט און אַ משפּט; ווײַל די רעה פֿונעם מענטש איז גרויס אויף אים.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "צו יעדן"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "חפֿץ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "איז דאָ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "צײַט"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "און משפּט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "רעה"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "פֿונעם מענטש"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "גרויס"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "אויף אים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:01:27.294629107Z",
+  "model": "glm-5.3"
+}

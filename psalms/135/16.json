@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 135,
+  "translation": "אַ מויל האָבן זיי, און זיי רעדן נישט; אויגן האָבן זיי, און זיי זען נישט.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "אַ מויל"
+    },
+    {
+      "surface": "להם",
+      "gloss": "האָבן זיי"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "רעדן"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "אויגן"
+    },
+    {
+      "surface": "להם",
+      "gloss": "האָבן זיי"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "זען"
+    }
+  ],
+  "timestamp": "2026-09-11T04:33:46.826270338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "און דאָס וואָרט פֿון יהוה איז געקומען צו מיר, און געזאָגט:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און עס איז געווען"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "און געזאָגט"
+    }
+  ],
+  "timestamp": "2026-09-10T23:14:40.969328294Z",
+  "model": "glm-5.3"
+}

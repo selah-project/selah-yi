@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 108,
+  "translation": "גיב אונדז הילף פֿון צרה, און נישטיק איז די ראַטעוונג פֿון מענטש.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "גיב"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "אונדז"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "הילף"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "פֿון צרה"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "און נישטיק"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ראַטעוונג"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "פֿון מענטש"
+    }
+  ],
+  "timestamp": "2026-09-11T04:31:34.730747357Z",
+  "model": "glm-5.3"
+}

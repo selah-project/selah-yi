@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "די שטים פֿון יהוה האַקט אויס פֿלאַמען פֿון פֿייער.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "די שטים"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "האַקט אויס"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "פֿלאַמען"
+    },
+    {
+      "surface": "אש",
+      "gloss": "פֿון פֿייער"
+    }
+  ],
+  "timestamp": "2026-09-10T23:52:57.362557597Z",
+  "model": "glm-5.3"
+}

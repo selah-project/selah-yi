@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און יהוה אלהים האָט גערופֿן צו דעם מענטש און געזאָגט צו אים: וווּ ביסט דו?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "האָט גערופֿן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "דעם מענטש"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "און געזאָגט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "צו אים"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "וווּ ביסט דו"
+    }
+  ],
+  "timestamp": "2026-09-10T19:10:20.767407609Z",
+  "model": "glm-5.3"
+}

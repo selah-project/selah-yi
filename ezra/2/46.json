@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "קינדער פֿון חגב, קינדער פֿון שמלי, קינדער פֿון חנן.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "חגב"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "שמלי"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "חנן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:16:27.492074568Z",
+  "model": "glm-5.3"
+}

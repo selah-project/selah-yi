@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און יהוד, און בני ברק, און גת רמון.",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "און יהוד"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "און בני"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ברק"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "און גת"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "רמון"
+    }
+  ],
+  "timestamp": "2026-09-10T20:56:32.225583227Z",
+  "model": "glm-5.3"
+}

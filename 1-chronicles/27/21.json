@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 27:21",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "איבער דעם חצי שבט פֿון מנשה אין גלעד: ידו בן זכריהו; איבער בנימין: יעשיאל בן אבנר.",
+  "tokens": [
+    {
+      "surface": "לחצי",
+      "gloss": "איבער דעם חצי"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "שבט פֿון מנשה"
+    },
+    {
+      "surface": "גלעדה",
+      "gloss": "אין גלעד"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ידו"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "זכריהו"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "איבער בנימין"
+    },
+    {
+      "surface": "יעשיאל",
+      "gloss": "יעשיאל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "אבנר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:44:39.141922478Z",
+  "model": "glm-5.3"
+}

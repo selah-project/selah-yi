@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "די אומגעטרײַע פֿרױ — אַנשטאָט איר מאַן נעמט זי ⟨את⟩ פֿרעמדע.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "די פֿרױ"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "די אומגעטרײַע"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "אַנשטאָט"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "איר מאַן"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "נעמט זי"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "פֿרעמדע"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "פֿרעמדע"
+    }
+  ],
+  "timestamp": "2026-09-11T03:51:47.962560212Z",
+  "model": "glm-5.3"
+}

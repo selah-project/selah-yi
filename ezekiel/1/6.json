@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און פֿיר פּנים צו איינער, און פֿיר פֿליגלען צו איינער פֿון זיי.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "און פֿיר"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "פּנים"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "צו איינער"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "און פֿיר"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "פֿליגלען"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "צו איינער"
+    },
+    {
+      "surface": "להם",
+      "gloss": "פֿון זיי"
+    }
+  ],
+  "timestamp": "2026-09-10T22:58:40.869647012Z",
+  "model": "glm-5.3"
+}

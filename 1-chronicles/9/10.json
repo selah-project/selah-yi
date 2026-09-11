@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און פֿון די כהנים: ידעיה און יהויריב און יכין.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "און פֿון"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "די כהנים"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ידעיה"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "און יהויריב"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "און יכין"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:39.480338664Z",
+  "model": "glm-5.3"
+}

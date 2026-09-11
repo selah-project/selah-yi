@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "גייען צוויי צוזאַמען, חוץ אויב זיי האָבן זיך געטראָפֿן?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "גייען"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "צוזאַמען"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "חוץ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "אויב"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "האָבן זיך געטראָפֿן"
+    }
+  ],
+  "timestamp": "2026-09-11T04:07:31.641600060Z",
+  "model": "glm-5.3"
+}

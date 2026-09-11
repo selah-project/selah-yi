@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 119,
+  "translation": "און איך וועל היטן דײַן תּורה אײַביק, לעולם־וועד.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "און איך וועל היטן"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "דײַן תּורה"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "אײַביק"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "לעולם"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "וועד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:16:29.211133681Z",
+  "model": "glm-5.3"
+}

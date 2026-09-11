@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 48,
+  "translation": "שרעק, און גרוב, און פֿאַל איז אויף דיר, באַוווינער פֿון מואב, נאום יהוה.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "שרעק"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "און גרוב"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "און פֿאַל"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "איז אויף דיר"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "באַוווינער"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "פֿון מואב"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "נאום"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T22:55:51.524544320Z",
+  "model": "glm-5.3"
+}

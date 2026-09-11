@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "און בית הערבה, און צמרים, און בית אל.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "און בית"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "הערבה"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "און צמרים"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "און בית"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:05.674934513Z",
+  "model": "glm-5.3"
+}

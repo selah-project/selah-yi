@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "שמעיה, יויריב, ידעיה,",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "שמעיה"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "און יויריב"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ידעיה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:18.976902246Z",
+  "model": "glm-5.3"
+}

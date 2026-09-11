@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "א ציגן־באָק פֿאַר אַ חטאה.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "באָק"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ציגן־"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "א"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "פֿאַר אַ חטאה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:15:38.416957678Z",
+  "model": "glm-5.3"
+}

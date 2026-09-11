@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "די ווערטער פֿון קהלת, זון פֿון דוד, מלך אין ירושלים.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "די ווערטער"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "קהלת"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "דוד"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "אין ירושלים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:35.197553287Z",
+  "model": "glm-5.3"
+}

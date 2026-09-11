@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און כוש האָט געהאַט ⟨את⟩ נמרוד; ער האָט אָנגעהויבן צו זײַן אַ גיבור אין דער ערד.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "און כוש"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "נמרוד"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "נמרוד"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "החל",
+      "gloss": "האָט אָנגעהויבן"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "צו זײַן"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "אַ גיבור"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אין דער ערד"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:53.528361353Z",
+  "model": "glm-5.3"
+}

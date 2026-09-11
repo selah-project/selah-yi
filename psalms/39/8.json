@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 39,
+  "translation": "און יעצט, וואָס דערוואַרט איך, אדני? מײַן תּוחלת איז אויף דיר.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "און יעצט"
+    },
+    {
+      "surface": "מה",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "דערוואַרט איך"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "מײַן תּוחלת"
+    },
+    {
+      "surface": "לך",
+      "gloss": "אויף דיר"
+    },
+    {
+      "surface": "היא",
+      "gloss": "זי איז"
+    }
+  ],
+  "timestamp": "2026-09-10T23:57:06.704786008Z",
+  "model": "glm-5.3"
+}

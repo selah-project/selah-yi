@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 62,
+  "translation": "נאָר צו אלהים איז שטיל מײַן נפֿש; פֿון אים קומט מײַן ישועה.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "נאָר"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "שטיל"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "מײַן נפֿש"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "פֿון אים"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "מײַן ישועה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:02:07.639179448Z",
+  "model": "glm-5.3"
+}

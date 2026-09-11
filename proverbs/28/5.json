@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "בייזע מענטשן פֿאַרשטייען נישט משפט, און די וואָס זוכן יהוה פֿאַרשטייען אַלץ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "מענטשן"
+    },
+    {
+      "surface": "רע",
+      "gloss": "בייזע"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "פֿאַרשטייען"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "משפט"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "און זוכן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "פֿאַרשטייען"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלץ"
+    }
+  ],
+  "timestamp": "2026-09-11T00:34:00.337758979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "זון פֿון מענטש, לאָז וויסן ⟨את⟩ ירושלים ⟨את⟩ אירע תועבות.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "פֿון מענטש"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "לאָז וויסן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ירושלים"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ירושלים"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אירע תועבות"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "אירע תועבות"
+    }
+  ],
+  "timestamp": "2026-09-10T23:05:04.925613825Z",
+  "model": "glm-5.3"
+}

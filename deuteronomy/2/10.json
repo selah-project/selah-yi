@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די אמים האָבן פֿריִער געוואוינט דאָרטן, אַ פֿאלק גרויס און רב און הויך ווי די ענקים.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "די אמים"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "פֿריִער"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "האָבן געוואוינט"
+    },
+    {
+      "surface": "בה",
+      "gloss": "דאָרטן"
+    },
+    {
+      "surface": "עם",
+      "gloss": "אַ פֿאלק"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרויס"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "און רב"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "און הויך"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "ווי די ענקים"
+    }
+  ],
+  "timestamp": "2026-09-10T20:31:45.035479503Z",
+  "model": "glm-5.3"
+}

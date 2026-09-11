@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "אלעזר האָט געהאַט ⟨את⟩ פינחס; פינחס האָט געהאַט ⟨את⟩ אבישוע.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "אלעזר"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "פינחס"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "פינחס"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "פינחס"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אבישוע"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "אבישוע"
+    }
+  ],
+  "timestamp": "2026-09-11T04:57:47.659065441Z",
+  "model": "glm-5.3"
+}

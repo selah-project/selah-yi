@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "און די מענטשן פֿון סדם זײַנען געווען רעע און חטאים פֿאַר יהוה מאָד.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "און די מענטשן פֿון"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "סדם"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "רעע"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "און חטאים"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "פֿאַר יהוה"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "מאָד"
+    }
+  ],
+  "timestamp": "2026-09-10T19:14:16.210432507Z",
+  "model": "glm-5.3"
+}

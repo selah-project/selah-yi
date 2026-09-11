@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "א כף פֿון גאָלד, איינע, פֿון צען ⟨שקל⟩, פֿול מיט קטורת.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "א כף"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "איינע"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "פֿון צען"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "פֿון גאָלד"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "פֿול"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "מיט קטורת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:14:19.660428039Z",
+  "model": "glm-5.3"
+}

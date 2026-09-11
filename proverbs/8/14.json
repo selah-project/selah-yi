@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "צו מיר איז עצה און תושיה; איך בין בינה, צו מיר איז גבורה.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "עצה"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "און תושיה"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "בינה"
+    },
+    {
+      "surface": "לי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "גבורה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:26.694007814Z",
+  "model": "glm-5.3"
+}

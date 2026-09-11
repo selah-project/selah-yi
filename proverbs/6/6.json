@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "גיי צו דער נמלה, פֿוילער; זע אירע וועגן און ווער קלוג.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "גיי"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "דער נמלה"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "פֿוילער"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "אירע וועגן"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "און ווער קלוג"
+    }
+  ],
+  "timestamp": "2026-09-11T00:24:49.861784342Z",
+  "model": "glm-5.3"
+}

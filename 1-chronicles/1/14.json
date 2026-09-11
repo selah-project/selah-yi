@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און ⟨את⟩ דעם יבוסי, און ⟨את⟩ דעם אמרי, און ⟨את⟩ דעם גרגשי.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "דעם יבוסי"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "דעם יבוסי"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "דעם אמרי"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "דעם אמרי"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "דעם גרגשי"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "דעם גרגשי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:46.751472032Z",
+  "model": "glm-5.3"
+}

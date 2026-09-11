@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "אויך אָן דעת איז די נפֿשׁ נישט גוט, און וואָס איז האַסטיק מיט די פֿיס, פֿאַרפֿעלט זיך.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "אָן"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "דעת"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפֿשׁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "האַסטיק"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "מיט די פֿיס"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "פֿאַרפֿעלט זיך"
+    }
+  ],
+  "timestamp": "2026-09-11T14:44:18.451041502Z",
+  "model": "glm-5.3"
+}

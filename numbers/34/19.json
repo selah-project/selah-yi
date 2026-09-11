@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "און דאָס זײַנען די נעמען פֿון די מענטשן: פֿאַרן שבט יהודה, כלב זון פֿון יפנה.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "און דאָס"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "נעמען"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "די מענטשן"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "פֿאַרן שבט"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "יהודה"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "כלב"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "יפנה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:30:07.695767098Z",
+  "model": "glm-5.3"
+}

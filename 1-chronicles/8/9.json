@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און ער האָט געהאַט קינדער פֿון חדש זײַן ווײַב: ⟨את⟩ יובב, און ⟨את⟩ צביא, און ⟨את⟩ מישא, און ⟨את⟩ מלכם.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "האָט געהאַט קינדער"
+    },
+    {
+      "surface": "מן",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "חדש"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "זײַן ווײַב"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יובב"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "יובב"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "צביא"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "צביא"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "מישא"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "מישא"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "מלכם"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "מלכם"
+    }
+  ],
+  "timestamp": "2026-09-11T04:58:53.504728782Z",
+  "model": "glm-5.3"
+}

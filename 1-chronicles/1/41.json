@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "די זין פֿון ענה: דישון; און די זין פֿון דישון: חמרן און אשבן און יתרן און כרן.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ענה"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "דישון"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "דישון"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "חמרן"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "און אשבן"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "און יתרן"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "און כרן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:40.392998581Z",
+  "model": "glm-5.3"
+}

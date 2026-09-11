@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און חצרון האָט געהאַט ⟨את⟩ רם, און רם האָט געהאַט ⟨את⟩ עמינדב.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "און חצרון"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "רם"
+    },
+    {
+      "surface": "רם",
+      "gloss": "רם"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "און רם"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "עמינדב"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "עמינדב"
+    }
+  ],
+  "timestamp": "2026-09-11T04:46:04.978339119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און די זין פֿון עלא: ארח, און חניאל, און רציא.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "פֿון עלא"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ארח"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "און חניאל"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "און רציא"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:44.879288568Z",
+  "model": "glm-5.3"
+}

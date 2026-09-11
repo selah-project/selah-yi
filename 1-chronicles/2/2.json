@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "דן, יוסף און בנימין, נפתלי, גד און אשר.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "דן"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "יוסף"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "און בנימין"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "נפתלי"
+    },
+    {
+      "surface": "גד",
+      "gloss": "גד"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "און אשר"
+    }
+  ],
+  "timestamp": "2026-09-11T04:58:46.539013814Z",
+  "model": "glm-5.3"
+}

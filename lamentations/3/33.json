@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "ווייל נישט פֿון זײַן האַרץ האָט ער געפּלאָגט, און געקלאָגט נישט די קינדער פֿון אַ מענטש.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווייל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "געפּלאָגט"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "פֿון זײַן האַרץ"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "געקלאָגט"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער"
+    },
+    {
+      "surface": "איש",
+      "gloss": "פֿון אַ מענטש"
+    }
+  ],
+  "timestamp": "2026-09-11T04:45:17.322406389Z",
+  "model": "glm-5.3"
+}

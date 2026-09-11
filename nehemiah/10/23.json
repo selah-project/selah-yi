@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "פלטיה, חנן, עניה;",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "פלטיה"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "חנן"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "עניה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:10.534760993Z",
+  "model": "glm-5.3"
+}

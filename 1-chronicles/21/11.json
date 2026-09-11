@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און גד איז געקומען צו דוד און האָט אים געזאָגט: אזוי האָט יהוה געזאָגט: נעם פֿאַר זיך —",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "און איז געקומען"
+    },
+    {
+      "surface": "גד",
+      "gloss": "גד"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "דוד"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "כה",
+      "gloss": "אזוי"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "נעם"
+    },
+    {
+      "surface": "לך",
+      "gloss": "פֿאַר זיך"
+    }
+  ],
+  "timestamp": "2026-09-11T01:40:47.586149728Z",
+  "model": "glm-5.3"
+}

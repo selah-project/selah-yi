@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "הויך פֿון הויכן, האָט קהלת געזאָגט, הויך פֿון הויכן — אַלץ איז הויך.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "הויך"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "פֿון הויכן"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "קהלת"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "הויך"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "פֿון הויכן"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "אַלץ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "הויך"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:35.197786122Z",
+  "model": "glm-5.3"
+}

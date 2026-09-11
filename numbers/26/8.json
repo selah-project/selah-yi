@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 26,
+  "translation": "און די קינדער פֿון פלוא: אליאב.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די קינדער"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "פֿון פלוא"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "אליאב"
+    }
+  ],
+  "timestamp": "2026-09-10T20:25:43.304269014Z",
+  "model": "glm-5.3"
+}

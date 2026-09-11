@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 119,
+  "translation": "גוטס האָסטו געטון מיט דײַן קנעכט, יהוה, לויט דײַן וואָרט.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "גוטס"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "האָסטו געטון"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "דײַן קנעכט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "לויט דײַן וואָרט"
+    }
+  ],
+  "timestamp": "2026-09-11T04:31:15.796815543Z",
+  "model": "glm-5.3"
+}

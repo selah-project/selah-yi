@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און דוד האָט געגעבן אָרנן פֿאַר דעם אָרט שקלים זהב לויט געוויכט — זעקס הונדערט.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "האָט געגעבן"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "דוד"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "אָרנן"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "פֿאַר דעם אָרט"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "שקלים"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "זהב"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "לויט געוויכט"
+    },
+    {
+      "surface": "שש",
+      "gloss": "זעקס"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    }
+  ],
+  "timestamp": "2026-09-11T05:02:36.922032518Z",
+  "model": "glm-5.3"
+}

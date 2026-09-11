@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 16:13",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "שפתי צדק זײַנען דער רצון פֿון מלכים, און ווער רעדט ישרים — אים ליבט מען.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "רצון"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "מלכים"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "שפתי"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "צדק"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "און ווער רעדט"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ישרים"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ליבט מען אים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:28:42.390251371Z",
+  "model": "glm-5.3"
+}

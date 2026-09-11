@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "ווײַל קיין מענטש איז נישט קיין צדיק אויף דער ערד, וואָס טוט גוט און זינדיקט נישט.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "קיין מענטש"
+    },
+    {
+      "surface": "אין",
+      "gloss": "איז נישט"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "קיין צדיק"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אויף דער ערד"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "טוט"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "זינדיקט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:57.387745361Z",
+  "model": "glm-5.3"
+}

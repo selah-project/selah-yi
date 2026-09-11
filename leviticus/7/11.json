@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און דאָס איז די תורה פֿון דעם זבח שלמים וואָס מען ברענגט צו יהוה.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "און דאָס"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "די תורה פֿון"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "דעם זבח"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "שלמים"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "מען ברענגט צו"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "צו יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:57:24.640056961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 106,
+  "translation": "וואונדער אין לאַנד חם, שרעקלעכע מעשׂים אויף ים סוף.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "וואונדער"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אין לאַנד"
+    },
+    {
+      "surface": "חם",
+      "gloss": "חם"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "שרעקלעכע מעשׂים"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ים"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "סוף"
+    }
+  ],
+  "timestamp": "2026-09-11T00:13:30.364033595Z",
+  "model": "glm-5.3"
+}

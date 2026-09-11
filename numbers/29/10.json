@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "אַן עשרון פֿאַר יעדן לעמל, צו די זיבן לעמלעך.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "אַן עשרון"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "פֿאַר יעדן"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "לעמל"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "יעדן"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "צו די זיבן"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "לעמלעך"
+    }
+  ],
+  "timestamp": "2026-09-10T20:26:31.882598946Z",
+  "model": "glm-5.3"
+}

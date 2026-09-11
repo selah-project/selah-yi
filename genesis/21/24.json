@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און אברהם האָט געזאָגט: איך וועל שווערן.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "אברהם"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "וועל שווערן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:18:57.205304906Z",
+  "model": "glm-5.3"
+}

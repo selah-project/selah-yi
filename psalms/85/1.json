@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 85,
+  "translation": "פֿאַרן מנצח, פֿאַר די זין פֿון קרח, אַ מזמור.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿאַר די זין פֿון"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "קרח"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "אַ מזמור"
+    }
+  ],
+  "timestamp": "2026-09-11T00:08:08.296165899Z",
+  "model": "glm-5.3"
+}

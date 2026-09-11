@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "און עשו האָט געזאָגט: איך האָב גענוג, מײַן ברודער; זאָל דיר זײַן וואָס דיר איז.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "עשו"
+    },
+    {
+      "surface": "יש",
+      "gloss": "איך האָב"
+    },
+    {
+      "surface": "לי",
+      "gloss": "פֿאַר מיר"
+    },
+    {
+      "surface": "רב",
+      "gloss": "גענוג"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "מײַן ברודער"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "זאָל זײַן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר איז"
+    }
+  ],
+  "timestamp": "2026-09-10T19:24:23.664190916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "דער ברודער פֿון מיכה: ישיה; פֿון די זין פֿון ישיה: זכריהו.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "דער ברודער"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "מיכה"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ישיה"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿון די זין פֿון"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ישיה"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "זכריהו"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:37.990503370Z",
+  "model": "glm-5.3"
+}

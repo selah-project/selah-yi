@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 64,
+  "translation": "פֿאַרן מנצח, א מזמור פֿון דוד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:02:27.683049569Z",
+  "model": "glm-5.3"
+}

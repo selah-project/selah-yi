@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "חכמה איז בעסער ווי קריגס־געצייג, און איין חוטא פֿאַרניכטעט פֿיל גוטס.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "איז בעסער"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "ווי קריגס־"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "געצייג"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "און אַ חוטא"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "פֿאַרניכטעט"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "גוטס"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "פֿיל"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:30.242937680Z",
+  "model": "glm-5.3"
+}

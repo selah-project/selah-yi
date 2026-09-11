@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און אצינד איז די מצוה דאָס זעלבע פֿאַר אײַך, די כהנים.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "און אצינד"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "פֿאַר אײַך"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "די מצוה"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "דאָס זעלבע"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "די כהנים"
+    }
+  ],
+  "timestamp": "2026-09-10T23:46:38.157526453Z",
+  "model": "glm-5.3"
+}

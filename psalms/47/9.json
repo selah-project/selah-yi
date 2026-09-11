@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 47,
+  "translation": "אלהים הערשט איבער די גוים, אלהים זיצט אויף זײַן הייליקן טראָן.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "הערשט"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "די גוים"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "זיצט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "טראָן"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "זײַן הייליקן"
+    }
+  ],
+  "timestamp": "2026-09-10T23:57:37.948247347Z",
+  "model": "glm-5.3"
+}

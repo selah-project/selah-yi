@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "אַזוי האָט געזאָגט אדני יהוה צבאות: גיי, קום צו דעם סוכן דאָזיקן, צו שבנא, וואָס איז איבער דעם הויז.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "צבאות"
+    },
+    {
+      "surface": "לך",
+      "gloss": "גיי"
+    },
+    {
+      "surface": "בא",
+      "gloss": "קום"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "דעם סוכן"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "דאָזיקן"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "שבנא"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "דעם הויז"
+    }
+  ],
+  "timestamp": "2026-09-11T14:35:22.511803580Z",
+  "model": "glm-5.3"
+}

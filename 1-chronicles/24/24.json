@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "זין פֿון עזיאל: מיכה; פֿון די זין פֿון מיכה — שמור.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "זין"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "עזיאל"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "מיכה"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿון די זין"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "מיכה"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "שמור"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:33.080168589Z",
+  "model": "glm-5.3"
+}

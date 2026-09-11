@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "די זין פֿון השם דער גזוני, יונתן זון פֿון שגה דער הררי;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "השם",
+      "gloss": "השם"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "דער גזוני"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "יונתן"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "שגה"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "דער הררי"
+    }
+  ],
+  "timestamp": "2026-09-11T04:59:24.852917017Z",
+  "model": "glm-5.3"
+}

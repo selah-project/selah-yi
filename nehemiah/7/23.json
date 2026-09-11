@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 7:23",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון בצי, דרײַ הונדערט צוואַנציק און פֿיר.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "פֿון בצי"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "צוואַנציק"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "און פֿיר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:49.103976335Z",
+  "model": "glm-5.3"
+}

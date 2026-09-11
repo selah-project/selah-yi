@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און בעז האָט געהאַט ⟨את⟩ עובד, און עובד האָט געהאַט ⟨את⟩ ישי.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "און בעז"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "עובד"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "עובד"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "און עובד"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ישי"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ישי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:18.494062428Z",
+  "model": "glm-5.3"
+}

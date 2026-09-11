@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 86,
+  "translation": "ווײַל דו ביסט גרויס און טוסט נפֿלאות — דו ביסט אלהים, נאָר דו אַליין.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרויס"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "טוסט"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "נפֿלאות"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "נאָר דו אַליין"
+    }
+  ],
+  "timestamp": "2026-09-11T04:29:30.274018627Z",
+  "model": "glm-5.3"
+}

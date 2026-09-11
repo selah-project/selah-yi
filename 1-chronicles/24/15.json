@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "דער זיבעצנטער צו חזיר, דער אַכצנטער צו הפיצץ.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "צו חזיר"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "זיבן"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "עשר"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "צו הפיצץ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "אַכט"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "עשר"
+    }
+  ],
+  "timestamp": "2026-09-11T05:02:31.874837566Z",
+  "model": "glm-5.3"
+}

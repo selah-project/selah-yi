@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "פֿאַר דעם מנצח, אויף דער אַכטער, אַ מזמור פֿון דוד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַר דעם מנצח"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "דער אַכטער"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "אַ מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    }
+  ],
+  "timestamp": "2026-09-10T23:49:24.449353954Z",
+  "model": "glm-5.3"
+}

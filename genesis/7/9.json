@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "צוויי צוויי זײַנען געקומען צו נח, אַרײַן אין דער תּבֿה, זכר און נקבֿה, ווי אלהים האָט געהייסן ⟨את⟩ נח.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "באו",
+      "gloss": "זײַנען געקומען"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "נח",
+      "gloss": "נח"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אַרײַן אין"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "דער תּבֿה"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "זכר"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "און נקבֿה"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "האָט געהייסן"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "נח"
+    },
+    {
+      "surface": "נח",
+      "gloss": "נח"
+    }
+  ],
+  "timestamp": "2026-09-10T19:11:42.427567632Z",
+  "model": "glm-5.3"
+}

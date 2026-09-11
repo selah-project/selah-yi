@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "הער דו, מײַן זון, און זײַ קלוג, און פֿיר דײַן האַרץ אויפֿן וועג.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "הער"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "בני",
+      "gloss": "מײַן זון"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "און זײַ קלוג"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "און פֿיר"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "אויפֿן וועג"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "דײַן האַרץ"
+    }
+  ],
+  "timestamp": "2026-09-11T14:45:13.457156440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "הערט דאָס וואָרט פֿון יהוה, הויז יעקב, און אַלע משפּחות פֿונעם הויז פֿון ישׂראל.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "הערט"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "בית",
+      "gloss": "הויז"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "און אַלע"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "משפּחות"
+    },
+    {
+      "surface": "בית",
+      "gloss": "הויז"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-11T03:28:52.929847478Z",
+  "model": "glm-5.3"
+}

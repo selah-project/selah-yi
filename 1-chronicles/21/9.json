@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און יהוה האָט גערעדט צו גד, דודס חוזה, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "גד",
+      "gloss": "גד"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "חוזה"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "דודס"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:40:47.585627005Z",
+  "model": "glm-5.3"
+}

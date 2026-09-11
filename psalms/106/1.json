@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 106,
+  "translation": "לויט יה! דאַנקט יהוה, ווײַל ער איז גוט, ווײַל פֿאַר אייביק איז זײַן חסד.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "לויט"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "דאַנקט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "פֿאַר אייביק"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "זײַן חסד"
+    }
+  ],
+  "timestamp": "2026-09-11T04:31:17.330456467Z",
+  "model": "glm-5.3"
+}

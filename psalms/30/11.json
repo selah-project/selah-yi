@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "הער, יהוה, און געב מיר חן; יהוה, זײַ מײַן העלפֿער.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "הער"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "און געב מיר חן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "היה",
+      "gloss": "זײַ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "העלפֿער"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מײַן \/ מיר"
+    }
+  ],
+  "timestamp": "2026-09-10T23:52:47.867709586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און דער מלאך פֿון יהוה האָט מכּבֿיד געווען צו יהושע, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "און האָט מכּבֿיד געווען"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "דער מלאך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "צו יהושע"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T04:12:14.797012032Z",
+  "model": "glm-5.3"
+}

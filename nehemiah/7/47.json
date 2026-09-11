@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון קירס, די קינדער פֿון סיעא, די קינדער פֿון פדון,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "קירס"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "סיעא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "פדון"
+    }
+  ],
+  "timestamp": "2026-09-11T04:55:43.444273826Z",
+  "model": "glm-5.3"
+}

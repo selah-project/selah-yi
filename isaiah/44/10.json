@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 44,
+  "translation": "ווער האט געפארמט א גאט, און א געגאסענעם פסל, וואס נוצט גארנישט?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "האט געפארמט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "א גאט"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "און א פסל"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "געגאסענעם"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "כדי נישט"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "נוצט"
+    }
+  ],
+  "timestamp": "2026-09-10T22:24:16.707889086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון חנן, די קינדער פֿון גדל, די קינדער פֿון גחר.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "חנן"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "גדל"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "גחר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:45.996218395Z",
+  "model": "glm-5.3"
+}

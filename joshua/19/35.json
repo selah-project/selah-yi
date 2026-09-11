@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 19:35",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און די באַפֿעסטיקטע שטעט: הצדים, צר, און חמת, רקת און כנרת.",
+  "tokens": [
+    {
+      "surface": "וערי",
+      "gloss": "און די שטעט"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "באַפֿעסטיקטע"
+    },
+    {
+      "surface": "הצדים",
+      "gloss": "הצדים"
+    },
+    {
+      "surface": "צר",
+      "gloss": "צר"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "און חמת"
+    },
+    {
+      "surface": "רקת",
+      "gloss": "רקת"
+    },
+    {
+      "surface": "וכנרת",
+      "gloss": "און כנרת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:56:25.532517211Z",
+  "model": "glm-5.3"
+}

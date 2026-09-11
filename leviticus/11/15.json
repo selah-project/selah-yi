@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "⟨את⟩ יעדן עורב לויט זײַן מין.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יעדן עורב"
+    },
+    {
+      "surface": "כל",
+      "gloss": "יעדן"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "עורב"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "לויט זײַן מין"
+    }
+  ],
+  "timestamp": "2026-09-10T19:59:30.588867219Z",
+  "model": "glm-5.3"
+}

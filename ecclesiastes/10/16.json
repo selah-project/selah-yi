@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "אוי צו דיר, לאַנד, ווען דײַן מלך איז אַ יונגער, און דײַנע שרים עסן שוין אינעם פֿרי מאָרגן!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "אוי"
+    },
+    {
+      "surface": "לך",
+      "gloss": "צו דיר"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "לאַנד"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "ווען דײַן מלך"
+    },
+    {
+      "surface": "נער",
+      "gloss": "אַ יונגער"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "און דײַנע שרים"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "אינעם פֿרי מאָרגן"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "עסן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:53.250776239Z",
+  "model": "glm-5.3"
+}

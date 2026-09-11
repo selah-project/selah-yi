@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "הלוחש, פלחא, שובק,",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "הלוחש"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "פלחא"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "שובק"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:20.396348236Z",
+  "model": "glm-5.3"
+}

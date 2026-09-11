@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און זע, זי רעדט נאָך מיטן מלך, און נתן דער נביא איז געקומען.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "און זע"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "נאָך"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "זי רעדט"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "מיטן מלך"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "און נתן"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "דער נביא"
+    },
+    {
+      "surface": "בא",
+      "gloss": "איז געקומען"
+    }
+  ],
+  "timestamp": "2026-09-11T02:59:35.980080533Z",
+  "model": "glm-5.3"
+}

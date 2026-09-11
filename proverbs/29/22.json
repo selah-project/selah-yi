@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "אַ צאָרנפֿולער מאַן רערט אויף מחלוקת, און א בעל חימה האָט פֿיל פּשע.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "מאַן"
+    },
+    {
+      "surface": "אף",
+      "gloss": "צאָרנפֿולער"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "רערט אויף"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "מחלוקת"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "א בעל"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "חימה"
+    },
+    {
+      "surface": "רב",
+      "gloss": "פֿיל"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "פּשע"
+    }
+  ],
+  "timestamp": "2026-09-11T00:33:29.105019905Z",
+  "model": "glm-5.3"
+}

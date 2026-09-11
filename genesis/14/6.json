@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "און ⟨את⟩ די חרים אין זייער בארג שעיר, ביז איל פארן, וואָס איז איבער דער מדבר.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "די חרים"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "די חרים"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "אין זייער בארג"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "שעיר"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "איל",
+      "gloss": "איל"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "פארן"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "דער מדבר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:14:36.778281447Z",
+  "model": "glm-5.3"
+}

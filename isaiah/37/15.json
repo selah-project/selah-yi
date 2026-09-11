@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 37,
+  "translation": "און חזקיהו האָט געבעטן צו יהוה, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "האָט געבעטן"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "חזקיהו"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T14:34:09.778779079Z",
+  "model": "glm-5.3"
+}

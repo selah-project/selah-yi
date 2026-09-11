@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און נח האָט געטון גלײַך צו אַלעמאָל וואָס יהוה האָט אים געצוווּן.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "און האָט געטון"
+    },
+    {
+      "surface": "נח",
+      "gloss": "נח"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "גלײַך צו אַלעמאָל"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "האָט אים געצוווּן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:12:25.594977115Z",
+  "model": "glm-5.3"
+}

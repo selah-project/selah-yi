@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "דאָס איז די תּורה פֿאַר יעדן נגע פֿון צרעת און פֿאַרן נתק,",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "איז די תּורה"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "פֿאַר יעדן"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "נגע"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "פֿון צרעת"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "און פֿאַרן נתק"
+    }
+  ],
+  "timestamp": "2026-09-10T20:01:38.458087215Z",
+  "model": "glm-5.3"
+}

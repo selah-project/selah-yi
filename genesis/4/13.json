@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און קין האָט געזאָגט צו יהוה: גרויס איז מײַן עוון, צו טראָגן.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "קין",
+      "gloss": "קין"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרויס"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "מײַן עוון"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "צו טראָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:10:43.311490721Z",
+  "model": "glm-5.3"
+}

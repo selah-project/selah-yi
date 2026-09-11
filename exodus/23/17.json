@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "דרײַ מאָל אין יאָר זאָל זיך ווײַזן אַלע דײַנע זכרים פֿאַר פּני האדון יהוה.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "מאָל"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "אין יאָר"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "זאָל זיך ווײַזן"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "דײַנע זכרים"
+    },
+    {
+      "surface": "אל",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "פני",
+      "gloss": "פּני"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "האדון"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T14:23:57.292677981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און ווען עס פֿאַלט פֿון זייער נבֿלה אויף סײַן זרע וואָס מען זייט, איז עס טהור.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "און ווען"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "עס פֿאַלט"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "פֿון זייער נבֿלה"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "כל",
+      "gloss": "סײַן"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "זרע"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "געזייט"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "מען זייט"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "טהור"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "עס איז"
+    }
+  ],
+  "timestamp": "2026-09-10T19:59:48.935241358Z",
+  "model": "glm-5.3"
+}

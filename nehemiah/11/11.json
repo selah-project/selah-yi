@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 11:11",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "שריה בן חלקיה בן משלם בן צדוק בן מריות בן אחיטוב, נגיד פֿון בית האלהים.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "שריה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "חלקיה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "משלם"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "צדוק"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "מריות"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "אחיטוב"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "נגיד"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "האלהים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:03.529103927Z",
+  "model": "glm-5.3"
+}

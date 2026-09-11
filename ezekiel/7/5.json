@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "אַזוי האָט געזאָגט אדני יהוה: אַ רעה, אַן איינציקע רעה — זע, זי קומט.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "אַ רעה"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "אַן איינציקע"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "רעה"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "באה",
+      "gloss": "זי קומט"
+    }
+  ],
+  "timestamp": "2026-09-10T23:00:26.221993618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "זעט, זיי זאָגן צו מיר: וווּ איז דבֿר יהוה? ער זאָל יאָ קומען!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "זעט"
+    },
+    {
+      "surface": "המה",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "זאָגן"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "איה",
+      "gloss": "וווּ איז"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דבֿר"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ער זאָל קומען"
+    },
+    {
+      "surface": "נא",
+      "gloss": "יאָ"
+    }
+  ],
+  "timestamp": "2026-09-11T03:34:38.943235936Z",
+  "model": "glm-5.3"
+}

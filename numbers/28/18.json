@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "אין דעם ערשטן טאָג אַ מקרא קדש; כל מלאכת עבודה זאלט איר נישט טון.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "אין דעם טאָג"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "דעם ערשטן"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "מקרא"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "קדש"
+    },
+    {
+      "surface": "כל",
+      "gloss": "כל"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "מלאכת"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "עבודה"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "זאלט איר טון"
+    }
+  ],
+  "timestamp": "2026-09-10T20:27:02.086530800Z",
+  "model": "glm-5.3"
+}

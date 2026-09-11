@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "די פּלאַגע פֿון די נאַרן מאַט זיי אָפּ, ווײַל זיי ווייסן נישט צו גיין צו דער שטאָט.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "די פּלאַגע"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "פֿון די נאַרן"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "מאַט זיי אָפּ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "זיי ווייסן"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "צו גיין"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "דער שטאָט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:53.250620836Z",
+  "model": "glm-5.3"
+}

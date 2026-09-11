@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "און יהוה האָט גערעדט צו משה, זאגענדיק:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "זאגענדיק"
+    }
+  ],
+  "timestamp": "2026-09-10T20:00:59.978651381Z",
+  "model": "glm-5.3"
+}

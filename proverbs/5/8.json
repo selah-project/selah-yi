@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 5:8",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "האַלט דײַן וועג ווײַט פֿון איר, און קום נישט נאָנט צו דער טיר פֿון איר הויז.",
+  "tokens": [
+    {
+      "surface": "הרחק",
+      "gloss": "האַלט ווײַט"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "פֿון איר"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "דײַן וועג"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און קום נישט"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "נאָנט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "דער טיר"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "פֿון איר הויז"
+    }
+  ],
+  "timestamp": "2026-09-11T14:43:16.210391462Z",
+  "model": "glm-5.3"
+}

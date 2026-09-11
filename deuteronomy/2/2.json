@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און יהוה האט גערעדט צו מיר און געזאָגט:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "און געזאָגט"
+    }
+  ],
+  "timestamp": "2026-09-10T20:31:41.029349809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און דאס ווארט פון יהוה איז געקומען צו מיר, צו זאגן:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און … איז געקומען"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאס ווארט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פון יהוה"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאגן"
+    }
+  ],
+  "timestamp": "2026-09-10T23:07:57.709187911Z",
+  "model": "glm-5.3"
+}

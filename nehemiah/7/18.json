@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 7:18",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון אדניקם, זעקס הונדערט זעכציק און זיבן.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "אדניקם"
+    },
+    {
+      "surface": "שש",
+      "gloss": "זעקס"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "זעכציק"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "און זיבן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:45.778383798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "פֿאַר גד — אליסף, זון פֿון דעואל.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "פֿאַר גד"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "אליסף"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "דעואל"
+    }
+  ],
+  "timestamp": "2026-09-10T20:11:06.260217575Z",
+  "model": "glm-5.3"
+}

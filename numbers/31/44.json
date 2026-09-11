@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "און בהמות־רינד 36 טויזנט.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "און בהמות־רינד"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "זעקס"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "און דרײַציג"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "טויזנט"
+    }
+  ],
+  "timestamp": "2026-09-11T02:35:35.299553187Z",
+  "model": "glm-5.3"
+}

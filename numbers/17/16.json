@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "און יהוה האט גערעדט צו משה לאָזן זאָגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און ... האט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לאָזן זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:20:54.310853493Z",
+  "model": "glm-5.3"
+}

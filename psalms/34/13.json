@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "ווער איז דער מאַן וואָס באַגערט לעבן, ליבט טעג צו זען גוטס?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "דער מאַן"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "וואָס באַגערט"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "לעבן"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ליבט"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "צו זען"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוטס"
+    }
+  ],
+  "timestamp": "2026-09-11T04:20:25.415904577Z",
+  "model": "glm-5.3"
+}

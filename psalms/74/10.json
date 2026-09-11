@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 74,
+  "translation": "ביז ווען, אלהים, װײַל דער צר שמד? װײַל דער אויב פֿאַרשמאַכט דײַן נאָמען לנצח?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "שמד"
+    },
+    {
+      "surface": "צר",
+      "gloss": "דער צר"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "פֿאַרשמאַכט"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "דער אויב"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "דײַן נאָמען"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "לנצח"
+    }
+  ],
+  "timestamp": "2026-09-11T04:27:23.323516695Z",
+  "model": "glm-5.3"
+}

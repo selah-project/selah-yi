@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "צו בײַגן דאָס משפּט פֿון אַ גבֿר, פֿאַרן פּנים פֿון עליון —",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "צו בײַגן"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "דאָס משפּט"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "אַ גבֿר"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "פֿאַרן"
+    },
+    {
+      "surface": "פני",
+      "gloss": "פּנים"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "עליון"
+    }
+  ],
+  "timestamp": "2026-09-11T04:46:15.892465951Z",
+  "model": "glm-5.3"
+}

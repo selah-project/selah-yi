@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "מצרים האָבן מיר געגעבן די האַנט, אשור — צו זײַן זאַט מיט ברויט.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "מצרים"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "האָבן מיר געגעבן"
+    },
+    {
+      "surface": "יד",
+      "gloss": "די האַנט"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "אשור"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "צו זײַן זאַט"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "מיט ברויט"
+    }
+  ],
+  "timestamp": "2026-09-11T04:47:31.502023695Z",
+  "model": "glm-5.3"
+}

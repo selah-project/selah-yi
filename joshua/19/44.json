@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און אלתקה, און גבתון, און בעלת.",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "און אלתקה"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "און גבתון"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "און בעלת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:51.717777513Z",
+  "model": "glm-5.3"
+}

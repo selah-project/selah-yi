@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און זי האָט אים געבאָרן זין: ⟨את⟩ יעוש, ⟨את⟩ שמריה און ⟨את⟩ זהם.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "און זי האָט געבאָרן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "זין"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יעוש"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "יעוש"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "שמריה"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "שמריה"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "זהם"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "זהם"
+    }
+  ],
+  "timestamp": "2026-09-11T01:50:29.866027504Z",
+  "model": "glm-5.3"
+}

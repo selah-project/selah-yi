@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און דער ים־שטריך וועט זײַן געגנטן פֿאַר הירטן און פֿענקער פֿאַר שעפֿס.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "און עס וועט זײַן"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "שטריך"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ים"
+    },
+    {
+      "surface": "נות",
+      "gloss": "געגנטן"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "הירטן"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "און פֿענקער"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "שעפֿס"
+    }
+  ],
+  "timestamp": "2026-09-11T04:10:14.813740357Z",
+  "model": "glm-5.3"
+}

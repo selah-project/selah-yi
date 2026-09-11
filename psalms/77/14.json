@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 77,
+  "translation": "אלהים, אין קדושה איז דײַן וועג; ווער איז אַ גרויסער אל ווי אלהים?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "אין קדושה"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "איז דײַן וועג"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אַן אל"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרויסער"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "ווי אלהים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:05:16.163466852Z",
+  "model": "glm-5.3"
+}

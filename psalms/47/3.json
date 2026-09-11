@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 47,
+  "translation": "װען יהוה עליון איז פֿאַרכּשרומדיק, אַ גרויסער מלך איבער די גאַנצע ערד.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "װען"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "עליון"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "פֿאַרכּשרומדיק"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרויסער"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "די גאַנצע"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ערד"
+    }
+  ],
+  "timestamp": "2026-09-11T04:22:29.664239618Z",
+  "model": "glm-5.3"
+}

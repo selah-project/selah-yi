@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 137,
+  "translation": "ווי זאָלן מיר זינגען ⟨את⟩ אַ ליד פֿון יהוה אויף אַ פֿרעמדער ערד?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "זאָלן מיר זינגען"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אַ ליד פֿון יהוה"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "אַ ליד"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "אַ ערד"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "פֿרעמדער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:20:28.739964423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "אַלע וועגן פֿון א מענטש זײַנען רײַן אין זײַנע אויגן, און יהוה וועגט די רוחות.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "וועגן"
+    },
+    {
+      "surface": "איש",
+      "gloss": "פֿון א מענטש"
+    },
+    {
+      "surface": "זך",
+      "gloss": "רײַן"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "אין זײַנע אויגן"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "און וועגט"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "די רוחות"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:28:47.820543014Z",
+  "model": "glm-5.3"
+}

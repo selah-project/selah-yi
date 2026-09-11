@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "רייכטום העלפֿט נישט אין טאָג פון עברה; און צדקה ראַט אויס פון טויט.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "העלפֿט"
+    },
+    {
+      "surface": "הון",
+      "gloss": "רייכטום"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "אין טאָג"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "עברה"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "און צדקה"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ראַט אויס"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "פון טויט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:20.478392582Z",
+  "model": "glm-5.3"
+}

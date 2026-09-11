@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "ווײַל איר זײַט נאָך נישט געקומען ביז איצטער צו דער מנוחה און צו דער נחלה וואָס יהוה אלהיך גיט דיר.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "איר זײַט געקומען"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "איצטער"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "צו דער מנוחה"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און צו"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "דער נחלה"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "אלהיך"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "גיט"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    }
+  ],
+  "timestamp": "2026-09-10T20:39:51.176555153Z",
+  "model": "glm-5.3"
+}

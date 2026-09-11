@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "צו היטן די וועגן פֿון משפט, און דעם וועג פֿון זײַנע חסידים היט ער.",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "צו היטן"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "די וועגן"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "פֿון משפט"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "און דעם וועג"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "פֿון זײַנע חסידים"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "היט ער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:23:19.839977270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 48,
+  "translation": "און אויף קריתים, און אויף בית גמול, און אויף בית מעון.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "קריתים"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "גמול"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "מעון"
+    }
+  ],
+  "timestamp": "2026-09-10T22:55:42.415222857Z",
+  "model": "glm-5.3"
+}

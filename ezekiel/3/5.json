@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "ווײַל נישט צו אַ פֿאָלק מיט טיפֿע ליפּן און שווערער לשון ביסטו געשיקט, נאָר צו דעם הויז פֿון ישׂראל.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "עם",
+      "gloss": "אַ פֿאָלק"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "טיפֿע"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ליפּן"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "און שווערער"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "לשון"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ביסטו"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "געשיקט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "בית",
+      "gloss": "דעם הויז פֿון"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-10T23:01:23.170101442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און די זין פֿון הלם, זײַן ברודער: צופח און ימנע און שלש און עמל.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "פֿון הלם"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "זײַן ברודער"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "צופח"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "און ימנע"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "און שלש"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "און עמל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:30.065864188Z",
+  "model": "glm-5.3"
+}

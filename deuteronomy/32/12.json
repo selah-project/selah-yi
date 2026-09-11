@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 32,
+  "translation": "יהוה אַליין האָט אים געפֿירט, און קיין פֿרעמד אל איז נישט געװען מיט אים.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "אַליין"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "האָט אים געפֿירט"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "און קיין ... איז נישט"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "מיט אים"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "פֿרעמד"
+    }
+  ],
+  "timestamp": "2026-09-11T02:43:40.023334402Z",
+  "model": "glm-5.3"
+}

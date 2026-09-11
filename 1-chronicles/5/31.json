@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און אבישוע האָט געהאַט ⟨את⟩ בוקי, און בוקי האָט געהאַט ⟨את⟩ עזי.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "און אבישוע"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "בוקי"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "בוקי"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "און בוקי"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "עזי"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "עזי"
+    }
+  ],
+  "timestamp": "2026-09-11T04:58:04.549775484Z",
+  "model": "glm-5.3"
+}

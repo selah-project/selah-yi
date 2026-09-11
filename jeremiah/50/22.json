@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 50,
+  "translation": "א קול פֿון מלחמה אין דער ערד, און אַ גרויסער שבר.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "א קול"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "פֿון מלחמה"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אין דער ערד"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "און שבר"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "אַ גרויסער"
+    }
+  ],
+  "timestamp": "2026-09-10T22:56:28.266434625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "אַ גרויל פֿאַר יהוה איז יעדער הויך־לב; האַנט צו האַנט — ער װעט נישט אָפּגערייניקט װערן.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "אַ גרויל"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿאַר יהוה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "יעדער"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "הויך"
+    },
+    {
+      "surface": "לב",
+      "gloss": "לב"
+    },
+    {
+      "surface": "יד",
+      "gloss": "האַנט"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "צו האַנט"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "אָפּגערייניקט װערן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:28:45.827518046Z",
+  "model": "glm-5.3"
+}

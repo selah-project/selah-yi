@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "איר זאָלט נישט עסן קײן תועבה.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "זאָלט עסן"
+    },
+    {
+      "surface": "כל",
+      "gloss": "קײן"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "תועבה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:37:52.986931817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "שלם זײַן זון, מבשם זײַן זון, משמע זײַן זון.",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "שלם"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "מבשם"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "משמע"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T04:58:13.139028465Z",
+  "model": "glm-5.3"
+}

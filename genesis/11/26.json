@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און תרח האָט געלעבט זיבעציק יאָר, און האָט געהאַט ⟨את⟩ אברם, ⟨את⟩ נחור און ⟨את⟩ הרן.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "האָט געלעבט"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "תרח"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "זיבעציק"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "און האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אברם"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "אברם"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "נחור"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "נחור"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "הרן"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "הרן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:14:14.452569349Z",
+  "model": "glm-5.3"
+}

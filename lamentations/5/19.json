@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "דו, יהוה, זיצט ביז נצח; דײַן שטול פֿאר דור און דור.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ביז נצח"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "זיצט"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "דײַן שטול"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "פֿאר דור"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "און דור"
+    }
+  ],
+  "timestamp": "2026-09-11T00:57:49.236355994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און די זין פֿון עזיאל: מישאל און אלצפֿן און סתרי.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "פֿון עזיאל"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "מישאל"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "און אלצפֿן"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "און סתרי"
+    }
+  ],
+  "timestamp": "2026-09-10T19:36:12.044916745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "מענטש־זון, פֿרעג אַ חידה און זאָג אַ משל צו דעם בית ישׂראל.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "מענטש"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "פֿרעג"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "אַ חידה"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "און זאָג אַ משל"
+    },
+    {
+      "surface": "משל",
+      "gloss": "אַ משל"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-11T15:10:49.776231546Z",
+  "model": "glm-5.3"
+}

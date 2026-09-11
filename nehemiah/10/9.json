@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "מעזיה, בלגי, שמעיה — דאָס זײַנען די כּהנים.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "מעזיה"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "בלגי"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "שמעיה"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "דאָס זײַנען"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "די כּהנים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:19.177001117Z",
+  "model": "glm-5.3"
+}

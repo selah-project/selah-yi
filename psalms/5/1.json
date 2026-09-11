@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "פֿאַרן מנצח, אויף ⟨די⟩ נחילות, א מזמור פֿון דוד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "נחילות"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    }
+  ],
+  "timestamp": "2026-09-10T23:47:37.337655569Z",
+  "model": "glm-5.3"
+}

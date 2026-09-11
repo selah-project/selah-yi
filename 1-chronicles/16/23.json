@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "זינגט פֿאַר יהוה, די גאַנצע ערד; פֿאַרציילט פֿון טאָג צו טאָג זײַן ישועה.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "זינגט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "פֿאַר יהוה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "די גאַנצע"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ערד"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "פֿאַרציילט"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "פֿון טאָג"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יום",
+      "gloss": "טאָג"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "זײַן ישועה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:36:46.828132204Z",
+  "model": "glm-5.3"
+}

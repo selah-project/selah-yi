@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "מהרי הנטפתי, חלד זון פֿון בענה הנטפתי.",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "מהרי"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "דער נטפֿתי'ער"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "חלד"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "פֿון בענה"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "דער נטפֿתי'ער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:35:13.623611406Z",
+  "model": "glm-5.3"
+}

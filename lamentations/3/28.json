@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "ער זיצט אַליין און שווייגט, ווײַל עס איז אויפֿגעלייגט אויף אים.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ער זיצט"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "אַליין"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "און שווייגט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "איז אויפֿגעלייגט"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "אויף אים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:56:00.579642489Z",
+  "model": "glm-5.3"
+}

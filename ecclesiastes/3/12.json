@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "איך ווייס, אַז עס איז נישטאָ קיין גוטס אין זיי, נאָר זיך צו פֿרייען און גוטס טון אין זײַן לעבן.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "איך ווייס"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "אין",
+      "gloss": "עס איז נישטאָ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוטס"
+    },
+    {
+      "surface": "בם",
+      "gloss": "אין זיי"
+    },
+    {
+      "surface": "כי",
+      "gloss": "נאָר"
+    },
+    {
+      "surface": "אם",
+      "gloss": "נאָר"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "זיך צו פֿרייען"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "און צו טון"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוטס"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "אין זײַן לעבן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:35.257934878Z",
+  "model": "glm-5.3"
+}

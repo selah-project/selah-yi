@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "איך, חכמה, וואוינע מיט ערמה, און דעת פֿון מזמות טרעף איך.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "וואוינע"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "מיט ערמה"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "און דעת"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "פֿון מזמות"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "טרעף איך"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:22.922675943Z",
+  "model": "glm-5.3"
+}

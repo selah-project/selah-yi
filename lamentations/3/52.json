@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "געיאגד האָבן מיך מײַנע פֿיינט ווי אַ פֿויגל, אומזיסט.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "געיאגד האָבן זיי ליגן אין לאָג"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "געיאגד האָבן מיך"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ווי אַ פֿויגל"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "מײַנע פֿיינט"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "אומזיסט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:11.891629265Z",
+  "model": "glm-5.3"
+}

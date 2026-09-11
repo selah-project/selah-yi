@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 58,
+  "translation": "פֿאַרן חזר, אל תשחת ⟨זאָגט מען נישט צעשטערן⟩, פֿון דוד, א מכתם.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן חזר"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל תשחת"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "אל תשחת"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "א מכתם"
+    }
+  ],
+  "timestamp": "2026-09-11T00:00:37.639384292Z",
+  "model": "glm-5.3"
+}

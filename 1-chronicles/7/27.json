@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "נון זײַן זון, יהושע זײַן זון.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "נון"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "יהושע"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:44.783563992Z",
+  "model": "glm-5.3"
+}

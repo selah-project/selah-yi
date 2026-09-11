@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "אַלמנה און יתום זאָלט איר נישט דריקן.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "קיין"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "אַלמנה"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "און יתום"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "זאָלט איר דריקן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:45:13.945909188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "און ⟨את⟩ דעם נגב, און ⟨את⟩ דעם עק־פֿלאַך, דאָס טאָל פֿון ירחו, די שטאָט פֿון די תמרים, ביז צער.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דעם נגב"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "נגב"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דעם עק־פֿלאַך"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "עק־פֿלאַך"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "דאָס טאָל"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ירחו"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "די שטאָט"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "פֿון די תמרים"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "צער",
+      "gloss": "צער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:48:07.336887019Z",
+  "model": "glm-5.3"
+}

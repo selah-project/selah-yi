@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "דאָס קער איך צוריק אויף מײַן האַרץ, דעריבער האָפֿן איך.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "קער איך צוריק"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "מײַן האַרץ"
+    },
+    {
+      "surface": "על",
+      "gloss": "דעריבער"
+    },
+    {
+      "surface": "כן",
+      "gloss": "דעריבער"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "האָפֿן איך"
+    }
+  ],
+  "timestamp": "2026-09-11T04:46:34.273472880Z",
+  "model": "glm-5.3"
+}

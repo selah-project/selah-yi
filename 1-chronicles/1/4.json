@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "נח, שם, חם און יפת.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "נח"
+    },
+    {
+      "surface": "שם",
+      "gloss": "שם"
+    },
+    {
+      "surface": "חם",
+      "gloss": "חם"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "און יפת"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:54.795794342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "טובער זײַנען די צוויי פֿון דעם איינציקן, ווײַל זיי האָבן אַ גוטן שכר פֿאַר זייער עמל.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "טובער"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "די צוויי"
+    },
+    {
+      "surface": "מן",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "דעם איינציקן"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "יש",
+      "gloss": "זיי האָבן"
+    },
+    {
+      "surface": "להם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "שכר"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוטן"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "פֿאַר זייער עמל"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:16.520636291Z",
+  "model": "glm-5.3"
+}

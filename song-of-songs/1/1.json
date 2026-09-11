@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "דאָס ליד פֿון לידער, וואָס געהערט צו שלמה.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ליד"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "פֿון לידער"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "צו שלמה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:51:23.559286988Z",
+  "model": "glm-5.3"
+}

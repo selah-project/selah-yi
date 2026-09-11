@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 35,
+  "translation": "און אליהו האָט געענטפֿערט און געזאָגט:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "האָט געענטפֿערט"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "אליהו"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "און געזאָגט"
+    }
+  ],
+  "timestamp": "2026-09-11T04:43:39.534683228Z",
+  "model": "glm-5.3"
+}

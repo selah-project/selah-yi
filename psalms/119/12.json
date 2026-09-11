@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 119,
+  "translation": "געזעגנט ביסטו, יהוה; לערן מיך דײַנע חוקים.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "געזעגנט"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ביסטו"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "לערן מיך"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "דײַנע חוקים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:16:55.687942235Z",
+  "model": "glm-5.3"
+}

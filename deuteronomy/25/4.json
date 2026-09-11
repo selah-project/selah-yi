@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "זאָלסט נישט פֿאַרמאַכן דעם מויל פֿון אַן אָקס ווען ער דרעשט דאָס תּבן.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "זאָלסט פֿאַרמאַכן דעם מויל"
+    },
+    {
+      "surface": "שור",
+      "gloss": "אָקס"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ווען ער דרעשט דאָס תּבן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:43:15.444524571Z",
+  "model": "glm-5.3"
+}

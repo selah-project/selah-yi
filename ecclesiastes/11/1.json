@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "שיק דײַן ברויט אויף פֿנים פֿון די וואסער, ווײַל אין אַ סך טעג װעסטו עס געפֿינען.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "שיק"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "דײַן ברויט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "פני",
+      "gloss": "פֿנים"
+    },
+    {
+      "surface": "המים",
+      "gloss": "פֿון די וואסער"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "אין אַ סך"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "װעסטו עס געפֿינען"
+    }
+  ],
+  "timestamp": "2026-09-11T04:48:13.257387579Z",
+  "model": "glm-5.3"
+}

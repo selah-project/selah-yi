@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "ווײַל אלהים וועט ברענגען ⟨את⟩ יעדן מעשה אין משפט, אויף יעדן באַהאַלטענעם זאַך, סײַ גוט סײַ רע.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יעדן מעשה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "יעדן"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "מעשה"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "וועט ברענגען"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "אין משפט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "כל",
+      "gloss": "יעדן"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "באַהאַלטענעם זאַך"
+    },
+    {
+      "surface": "אם",
+      "gloss": "סײַ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "סײַ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "רע"
+    }
+  ],
+  "timestamp": "2026-09-11T14:45:43.815618059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און ⟨את⟩ עובל, און ⟨את⟩ אבימאל, און ⟨את⟩ שבא.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "עובל"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "עובל"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "אבימאל"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "אבימאל"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "שבא"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "שבא"
+    }
+  ],
+  "timestamp": "2026-09-10T19:13:54.085927110Z",
+  "model": "glm-5.3"
+}

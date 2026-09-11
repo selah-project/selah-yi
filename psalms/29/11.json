@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "יהוה גיט כּוח זײַן פֿאָלק; יהוה בענטשט ⟨את⟩ זײַן פֿאָלק מיט שלום.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "עז",
+      "gloss": "כּוח"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "זײַן פֿאָלק"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "גיט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "בענטשט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "זײַן פֿאָלק"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "זײַן פֿאָלק"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "מיט שלום"
+    }
+  ],
+  "timestamp": "2026-09-11T04:17:47.795988858Z",
+  "model": "glm-5.3"
+}

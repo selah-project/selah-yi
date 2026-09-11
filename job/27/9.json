@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "וועט אל הערן זײַן געשרײַ, ווען די צרה וועט אויף אים קומען?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "זײַן געשרײַ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "וועט הערן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "וועט קומען"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "אויף אים"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "צרה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:44:22.031780840Z",
+  "model": "glm-5.3"
+}

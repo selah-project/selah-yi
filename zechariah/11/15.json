@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און יהוה האָט געזאָגט צו מיר: נעם נאָך אײַך די כלים פֿון אַ נאַרישן הירט.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "נאָך"
+    },
+    {
+      "surface": "קח",
+      "gloss": "נעם"
+    },
+    {
+      "surface": "לך",
+      "gloss": "אײַך"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "כלים"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "הירט"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "נאַרישן"
+    }
+  ],
+  "timestamp": "2026-09-10T23:45:31.759128717Z",
+  "model": "glm-5.3"
+}

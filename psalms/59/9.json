@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 59,
+  "translation": "און דו, יהוה, וועסט לאַכן צו זיי; וועסט שפּאָטן פֿון אַלע גוים.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "און דו"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "וועסט לאַכן"
+    },
+    {
+      "surface": "למו",
+      "gloss": "צו זיי"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "וועסט שפּאָטן"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "פֿון אַלע"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "גוים"
+    }
+  ],
+  "timestamp": "2026-09-11T04:24:40.353511968Z",
+  "model": "glm-5.3"
+}

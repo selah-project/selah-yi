@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "שלום, אמריה, יוסף.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "שלום"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "אמריה"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "יוסף"
+    }
+  ],
+  "timestamp": "2026-09-11T01:19:26.003382497Z",
+  "model": "glm-5.3"
+}

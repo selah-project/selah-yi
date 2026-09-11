@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "נאָר ⟨את⟩ זײַן בלוט זאָלסטו נישט עסן; אויף דער ערד זאָלסטו עס אויסגיסן ווי וואַסער.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "נאָר"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "זײַן בלוט"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "זײַן בלוט"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "זאָלסטו עסן"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "דער ערד"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "זאָלסטו עס אויסגיסן"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ווי וואַסער"
+    }
+  ],
+  "timestamp": "2026-09-11T02:39:22.605051210Z",
+  "model": "glm-5.3"
+}

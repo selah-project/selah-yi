@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "און יהוה האט גערעדט צו משה לאמר:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און יהוה האט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לאמר"
+    }
+  ],
+  "timestamp": "2026-09-10T20:09:24.066657827Z",
+  "model": "glm-5.3"
+}

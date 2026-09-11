@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "און משה האָט געזאָגט צו קרח: הערט, ביטע, קינדער פֿון לוי.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "קרח"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "הערט"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ביטע"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "לוי"
+    }
+  ],
+  "timestamp": "2026-09-11T02:32:06.434954689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "ווי שיין און ווי נעמלעך ביסטו, ליבע, מיט תענוגים!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "שיין ביסטו"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "און ווי"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "נעמלעך"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ליבע"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "מיט תענוגים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:53:13.445562786Z",
+  "model": "glm-5.3"
+}

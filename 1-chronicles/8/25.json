@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און יפדיה און פניאל, זין פֿון ששק.",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "און יפדיה"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "און פניאל"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין פֿון"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ששק"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:41.949242020Z",
+  "model": "glm-5.3"
+}

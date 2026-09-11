@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און יעדע מנחה פֿון א כהן זאָל גאַנץ זײַן; זי זאָל נישט געגעסן ווערן.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "און יעדע"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "מנחה"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "פֿון א כהן"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "גאַנץ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "זאָל זײַן"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "זאָל געגעסן ווערן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:58:23.549078654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 39,
+  "translation": "און די דריטע ריי: לשם, שבו און אחלמה.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "און די ריי"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "דריטע"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "לשם"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "שבו"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "און אחלמה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:54:54.614568432Z",
+  "model": "glm-5.3"
+}

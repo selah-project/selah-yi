@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "און ברכיה און אלקנה זײַנען געווען טיר־היטער פֿאַר דער ארון.",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "און ברכיה"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "און אלקנה"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "טיר־היטער"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "פֿאַר דער ארון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:37:18.242943195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "חלץ דער פֿלטי, עירא זון פֿון עקש דער תקועי,",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "חלץ"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "דער פֿלטי"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "עירא"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "עקש"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "דער תקועי"
+    }
+  ],
+  "timestamp": "2026-09-10T21:37:58.416277318Z",
+  "model": "glm-5.3"
+}

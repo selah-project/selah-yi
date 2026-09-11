@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "איך קען נישט אליין טראָגן ⟨את⟩ דעם גאַנצן עם הזה, װאָר ער איז צו שװער פֿאַר מיר.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "איך קען"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "אליין"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "טראָגן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם גאַנצן עם הזה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "דעם גאַנצן"
+    },
+    {
+      "surface": "העם",
+      "gloss": "עם"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "הזה"
+    },
+    {
+      "surface": "כי",
+      "gloss": "װאָר"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "צו שװער"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "פֿאַר מיר"
+    }
+  ],
+  "timestamp": "2026-09-10T20:19:16.409503424Z",
+  "model": "glm-5.3"
+}

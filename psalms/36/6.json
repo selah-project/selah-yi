@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 36,
+  "translation": "יהוה, אין די הימל איז דײַן חסד, דײַן אמונה ביז די וואלקנס.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "אין די הימל"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "דײַן חסד"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "דײַן אמונה"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "די וואלקנס"
+    }
+  ],
+  "timestamp": "2026-09-10T23:54:58.749099691Z",
+  "model": "glm-5.3"
+}

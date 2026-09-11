@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און אחיה, חנן, ענן,",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "און אחיה"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "חנן"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ענן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:20.396715615Z",
+  "model": "glm-5.3"
+}

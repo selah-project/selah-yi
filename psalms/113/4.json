@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 113,
+  "translation": "הויך איבער אַלע פֿעלקער איז יהוה, איבער די הימלען זײַן כּבֿוד.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "הויך"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "פֿעלקער"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "די הימלען"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "זײַן כּבֿוד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:14:34.424071914Z",
+  "model": "glm-5.3"
+}

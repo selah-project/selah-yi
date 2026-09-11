@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 15:25",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "און חצור חדתה, און קריות חצרון — דאָס איז חצור.",
+  "tokens": [
+    {
+      "surface": "וחצור",
+      "gloss": "און חצור"
+    },
+    {
+      "surface": "חדתה",
+      "gloss": "חדתה"
+    },
+    {
+      "surface": "וקריות",
+      "gloss": "און קריות"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "חצרון"
+    },
+    {
+      "surface": "היא",
+      "gloss": "דאָס איז"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "חצור"
+    }
+  ],
+  "timestamp": "2026-09-10T20:54:43.502518416Z",
+  "model": "glm-5.3"
+}

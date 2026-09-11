@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די קינדער פֿון יורה — הונדערט און צוועלף.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "יורה"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "און צוויי"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צען"
+    }
+  ],
+  "timestamp": "2026-09-11T01:14:33.889649311Z",
+  "model": "glm-5.3"
+}

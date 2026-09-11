@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "דער נײַנצנטער צו מלותי, ער, זײַנע זין און זײַנע ברידער — צוועלף.",
+  "tokens": [
+    {
+      "surface": "לתשעה",
+      "gloss": "דער נײַנצנטער"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צען"
+    },
+    {
+      "surface": "למלותי",
+      "gloss": "צו מלותי"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "זײַנע זין"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "און זײַנע ברידער"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צען"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:53.871582534Z",
+  "model": "glm-5.3"
+}

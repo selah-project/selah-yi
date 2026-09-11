@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "מחשבות פֿון צדיקים ⟨זײַנען⟩ משפט; תחבלות פֿון רשעים ⟨זײַנען⟩ מרמה.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "מחשבות"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "צדיקים"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "משפט"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "תחבלות"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "רשעים"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "מרמה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:26:57.419506328Z",
+  "model": "glm-5.3"
+}

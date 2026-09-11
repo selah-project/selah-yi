@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 26:1",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 26,
+  "translation": "און איוב האָט געענטפֿערט און געזאָגט:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "האָט געענטפֿערט"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "איוב"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "און געזאָגט"
+    }
+  ],
+  "timestamp": "2026-09-11T04:43:01.757013120Z",
+  "model": "glm-5.3"
+}

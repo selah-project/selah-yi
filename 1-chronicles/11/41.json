@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "אוריה החתי, זבד זון פֿון אחלי;",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "אוריה"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "החתי"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "זבד"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "אחלי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:31.679617323Z",
+  "model": "glm-5.3"
+}

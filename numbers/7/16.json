@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "איין ציגן־באָק פֿאַר א חטא־אָפּפֿער.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ציגן־באָק"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "פֿון די ציגן"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "פֿאַר א חטא־אָפּפֿער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:13:37.469516642Z",
+  "model": "glm-5.3"
+}

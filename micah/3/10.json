@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "בויענדיק ציון מיט בלוט און ירושלים מיט עוולה.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "בויענדיק"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ציון"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "מיט בלוט"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "און ירושלים"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "מיט עוולה"
+    }
+  ],
+  "timestamp": "2026-09-10T23:32:39.326740622Z",
+  "model": "glm-5.3"
+}

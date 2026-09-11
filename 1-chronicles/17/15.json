@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "לויט אַלע די דבֿרים האָט נתן אַזוי גערעדט צו דויד, און לויט דעם גאַנצן חזון.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "לויט אַלע"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "דבֿרים"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "די"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "און לויט אַלע"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "דעם גאַנצן חזון"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "דעם"
+    },
+    {
+      "surface": "כן",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "האָט גערעדט"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "נתן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "דויד"
+    }
+  ],
+  "timestamp": "2026-09-11T14:56:27.647560509Z",
+  "model": "glm-5.3"
+}

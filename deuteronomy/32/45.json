@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 32,
+  "translation": "און משה האָט געענדיקט צו רעדן ⟨את⟩ די גאַנצע דברים האלה צו גאַנץ ישׂראל.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "האָט געענדיקט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "צו רעדן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "די גאַנצע דברים"
+    },
+    {
+      "surface": "כל",
+      "gloss": "די גאַנצע"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "דברים"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "האלה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "כל",
+      "gloss": "גאַנץ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-11T02:43:47.055808930Z",
+  "model": "glm-5.3"
+}

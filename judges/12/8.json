@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "און נאָך אים האָט געריכטעט ⟨את⟩ ישׂראל אבצן פֿון בית לחם.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "האָט געריכטעט"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "נאָך אים"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ישׂראל"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "אבצן"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "פֿון בית"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "לחם"
+    }
+  ],
+  "timestamp": "2026-09-10T21:05:48.388878443Z",
+  "model": "glm-5.3"
+}

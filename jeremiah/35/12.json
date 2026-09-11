@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 35,
+  "translation": "און דאָס וואָרט פֿון יהוה איז געקומען צו ירמיהו, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און עס איז געשען"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ירמיהו"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T22:48:44.862926977Z",
+  "model": "glm-5.3"
+}

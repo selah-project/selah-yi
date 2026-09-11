@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "פֿון אַ קנעכט ווען ער רעגירט, און פֿון אַ נאַר ווען ער זעטיגט זיך מיט ברויט —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "אַ קנעכט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "ער רעגירט"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "און פֿון אַ נאַר"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ער זעטיגט זיך"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "מיט ברויט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:32:48.104320198Z",
+  "model": "glm-5.3"
+}

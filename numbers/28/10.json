@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "אַן עלה פֿון שבת אויף זײַן שבת, איבער די תמיד־עלה און איר גיסור.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "אַן עלה"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "פֿון שבת"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "אויף זײַן שבת"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "עלה"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "תמיד"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "און איר גיסור"
+    }
+  ],
+  "timestamp": "2026-09-10T20:26:25.080949962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "יראת יהוה איז דער אָנהייב פֿון דעת; חכמה און מוסר טורעם אוילים",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "יראת"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "דער אָנהייב"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "פֿון דעת"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "און מוסר"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "אוילים"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "טורעם"
+    }
+  ],
+  "timestamp": "2026-09-11T00:22:54.595200414Z",
+  "model": "glm-5.3"
+}

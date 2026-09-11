@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 39,
+  "translation": "פֿאַרן מנצח, לידיתון, א מזמור פֿון דוד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "לידיתון"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    }
+  ],
+  "timestamp": "2026-09-10T23:56:46.148604671Z",
+  "model": "glm-5.3"
+}

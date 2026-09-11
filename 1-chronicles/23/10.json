@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "און די זין פֿון שמעי: יחת, זינא, ויעוש און בריעה. דאָס זײַנען די זין פֿון שמעי — פֿיר.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "פֿון שמעי"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "יחת"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "זינא"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ויעוש"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "און בריעה"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "פֿון שמעי"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "פֿיר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:53.624498491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 35,
+  "translation": "דער גאל הדם — ער זאל טויטן ⟨את⟩ דעם רוצח; ווען ער טרעפט אים, זאל ער אים טויטן.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "גאל"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "הדם"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "זאל טויטן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם רוצח"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "דעם רוצח"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "ווען ער טרעפט"
+    },
+    {
+      "surface": "בו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "זאל ער אים טויטן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:38:03.256378317Z",
+  "model": "glm-5.3"
+}

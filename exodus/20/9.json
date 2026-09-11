@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "זעקס טעג זאָלסטו אַרבעטן און טאָן דײַן גאַנץ מלאכה;",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "זעקס"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "זאָלסטו אַרבעטן"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "און טאָן"
+    },
+    {
+      "surface": "כל",
+      "gloss": "גאַנץ"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "דײַן מלאכה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:43:56.659743794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און אדמה, און הרמה, און חצור.",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "און אדמה"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "און הרמה"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "און חצור"
+    }
+  ],
+  "timestamp": "2026-09-10T20:56:25.532695158Z",
+  "model": "glm-5.3"
+}

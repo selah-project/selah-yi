@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 48,
+  "translation": "און אויפֿן גבול פֿון זבולן, פֿון דער מזרח־זײַט ביז צו דער מערב־זײַט, גד איין חלק.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "און אויפֿן"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "גבול"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "פֿון זבולן"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "פֿון דער זײַט"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "מזרח"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז צו"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "זײַט"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "מערב"
+    },
+    {
+      "surface": "גד",
+      "gloss": "גד"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין חלק"
+    }
+  ],
+  "timestamp": "2026-09-10T23:23:38.762803366Z",
+  "model": "glm-5.3"
+}

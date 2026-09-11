@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "דרום דעריבער בײַפֿל איך דיר צו זאָגן: דרײַ שטעט זאָלסטו אָפּטיילן פֿאַר זיך.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "כן",
+      "gloss": "דעריבער"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "בײַפֿל דיר"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "שטעט"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "זאָלסטו אָפּטיילן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "פֿאַר זיך"
+    }
+  ],
+  "timestamp": "2026-09-10T20:41:19.419696458Z",
+  "model": "glm-5.3"
+}

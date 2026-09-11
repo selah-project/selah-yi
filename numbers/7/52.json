@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "איין ציג־באָק פֿאַר א חטאת.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ציג־באָק"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "פֿון די ציגן"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "פֿאַר א חטאת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:14:38.342176982Z",
+  "model": "glm-5.3"
+}

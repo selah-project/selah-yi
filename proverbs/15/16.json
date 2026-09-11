@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "גוט איז אַ ביסל מיט דער יראה פֿון יהוה, מער װי אַ גרױסער אוצר און מהומה דערין.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "אַ ביסל"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "מיט דער יראה פֿון"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "װי אַן אוצר"
+    },
+    {
+      "surface": "רב",
+      "gloss": "גרױסער"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "און מהומה"
+    },
+    {
+      "surface": "בו",
+      "gloss": "דערין"
+    }
+  ],
+  "timestamp": "2026-09-11T00:28:23.648301332Z",
+  "model": "glm-5.3"
+}

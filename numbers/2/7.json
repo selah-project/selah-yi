@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "דער שבט פֿון זבולן, און דער נשיא פֿון די קינדער פֿון זבולן איז אליאב, זון פֿון חלן.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "שבט"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "זבולן"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "און דער נשיא"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿון די קינדער"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "זבולן"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "אליאב"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "חלן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:29:06.724698279Z",
+  "model": "glm-5.3"
+}

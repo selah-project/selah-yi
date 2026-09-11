@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און די ווערטער, וואָס איך באַפֿעל דיר הײַנט, זאָלן זײַן אויף דײַן האַרץ.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "און … זאָלן זײַן"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "די ווערטער"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "די־"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "באַפֿעל דיר"
+    },
+    {
+      "surface": "היום",
+      "gloss": "הײַנט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "דײַן האַרץ"
+    }
+  ],
+  "timestamp": "2026-09-10T20:33:29.972052260Z",
+  "model": "glm-5.3"
+}

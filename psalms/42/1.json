@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 42,
+  "translation": "פֿאַרן מנצח, אַ משכיל, פֿון בני קרח.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "אַ משכיל"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿון בני"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "קרח"
+    }
+  ],
+  "timestamp": "2026-09-10T23:57:22.450317177Z",
+  "model": "glm-5.3"
+}

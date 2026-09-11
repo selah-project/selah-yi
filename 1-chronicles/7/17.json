@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און די זין פֿון אולם: בדן. דאָס זײַנען די זין פֿון גלעד, זון פֿון מכיר, זון פֿון מנשה.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "אולם"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "בדן"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "דאָס זײַנען"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "גלעד"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "מכיר"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "מנשה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:49.684213946Z",
+  "model": "glm-5.3"
+}

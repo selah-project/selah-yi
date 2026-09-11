@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "דו האָסט זיך באַהאַלטן אין אַ וואָלקן, אַז דאָס געבעט זאָל נישט דורכגיין.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "האָסט זיך באַהאַלטן"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "אין אַ וואָלקן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "זיך"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "דורכגיין"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "דאָס געבעט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:09.429463690Z",
+  "model": "glm-5.3"
+}

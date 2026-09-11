@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "די זין פֿון שובל: עלין, מנחת, עיבל, שפי און אונם; און די זין פֿון צבעון: איה און ענה.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "שובל"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "עלין"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "און מנחת"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "און עיבל"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "שפי"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "און אונם"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "צבעון"
+    },
+    {
+      "surface": "איה",
+      "gloss": "איה"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "און ענה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:44.489164811Z",
+  "model": "glm-5.3"
+}

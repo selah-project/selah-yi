@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "קוקט צו מיר און זײַט פארשטויט, און לײגט א האנט אויפן מויל.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "קוקט צו"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "און זײַט פארשטויט"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "און לײגט"
+    },
+    {
+      "surface": "יד",
+      "gloss": "א האנט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויפן"
+    },
+    {
+      "surface": "פה",
+      "gloss": "מויל"
+    }
+  ],
+  "timestamp": "2026-09-11T00:42:37.242810915Z",
+  "model": "glm-5.3"
+}

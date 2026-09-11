@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און ער זאָל נעמען אַ פֿרוי אין אירער בתולים־צײַט.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "און ער"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "אַ פֿרוי"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "אין אירער בתולים־צײַט"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "זאָל נעמען"
+    }
+  ],
+  "timestamp": "2026-09-11T02:28:23.859048130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "וווּ דער דבֿר פֿון אַ מלך איז שלטון, און ווער קען צו אים זאָגן: וואָס טוסטו?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "וווּ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דבֿר"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "שלטון"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "און ווער"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "קען זאָגן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "צו אים"
+    },
+    {
+      "surface": "מה",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "טוסטו"
+    }
+  ],
+  "timestamp": "2026-09-11T04:47:49.715486030Z",
+  "model": "glm-5.3"
+}

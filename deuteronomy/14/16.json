@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "⟨את⟩ דער כוס, און ⟨את⟩ דער ינשוף, און דער תנשמת,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דער כוס"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "דער כוס"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דער ינשוף"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "דער ינשוף"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "און דער תנשמת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:37:45.186729361Z",
+  "model": "glm-5.3"
+}

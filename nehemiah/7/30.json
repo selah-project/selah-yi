@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די מענער פֿון הרמה און גבע — זעקס הונדערט צוואַנציק און איין ⟨איינער⟩.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "די מענער"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "פֿון הרמה"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "און גבע"
+    },
+    {
+      "surface": "שש",
+      "gloss": "זעקס"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "צוואַנציג"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "און איין"
+    }
+  ],
+  "timestamp": "2026-09-11T01:25:00.429062193Z",
+  "model": "glm-5.3"
+}

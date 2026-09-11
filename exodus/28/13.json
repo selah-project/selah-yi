@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "און דו זאָלסט מאַכן אײַנפֿאַסונגען פֿון גאָלד.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "און דו זאָלסט מאַכן"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "אײַנפֿאַסונגען"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "גאָלד"
+    }
+  ],
+  "timestamp": "2026-09-10T19:48:44.977865803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "טאָג צו טאָג לײַכט אַרויס רעד; און נאַכט צו נאַכט וײַזט ווייסן צו.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "טאָג"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "צו טאָג"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "לײַכט אַרויס"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "רעד"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "און נאַכט"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "צו נאַכט"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "ווייסט צו"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ווייסן"
+    }
+  ],
+  "timestamp": "2026-09-10T23:51:51.743067741Z",
+  "model": "glm-5.3"
+}

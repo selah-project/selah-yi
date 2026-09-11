@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "דאָס אַלע גײט צו איין אָרט; דאָס אַלע איז געװען פֿון שטױב, און דאָס אַלע קערט זיך צוריק צום שטױב.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "דאָס אַלע"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "גײט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "אָרט"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "דאָס אַלע"
+    },
+    {
+      "surface": "היה",
+      "gloss": "איז געװען"
+    },
+    {
+      "surface": "מן",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "שטױב"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "און דאָס אַלע"
+    },
+    {
+      "surface": "שב",
+      "gloss": "קערט זיך צוריק"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צום"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "שטױב"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:44.995451402Z",
+  "model": "glm-5.3"
+}

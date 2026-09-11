@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 99,
+  "translation": "יהוה אין ציון איז גרויס, און הויך איז ער איבער אַלע פֿעלקער.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "אין ציון"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "איז גרויס"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "און הויך"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "איז ער"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "פֿעלקער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:11:46.504945044Z",
+  "model": "glm-5.3"
+}

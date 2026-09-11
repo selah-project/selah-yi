@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "לפני שברון — גאון, און לפני כּשלון — הויך פֿון רוח.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "לפני"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "שברון"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "גאון"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "און לפני"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "כּשלון"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "הויך"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "פֿון רוח"
+    }
+  ],
+  "timestamp": "2026-09-11T00:28:49.295771430Z",
+  "model": "glm-5.3"
+}

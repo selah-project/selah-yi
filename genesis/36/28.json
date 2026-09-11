@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 36,
+  "translation": "דאָס זײַנען די קינדער פֿון דישן: עוץ און ארן.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "דאָס זײַנען"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "דישן"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "עוץ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "און ארן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:25:56.674570351Z",
+  "model": "glm-5.3"
+}

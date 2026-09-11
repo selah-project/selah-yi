@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "ווײַל וואָס האָט דער חכם מער ווי דער נאַר? און וואָס האָט דער ארעמער, וואָס ווייסט צו גיין פֿאַר די לעבעדיקע?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "מה",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "מער"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "דער חכם"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "דער נאַר"
+    },
+    {
+      "surface": "מה",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "דער ארעמער"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ווייסט"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "צו גיין"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "די לעבעדיקע"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:42.042561229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "זין פֿון מררי: מחלי, לבני זײַן זון, שמעי זײַן זון, עזה זײַן זון.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "זין פֿון"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "מררי"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "מחלי"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "לבני"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "שמעי"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "עזה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:09.593961127Z",
+  "model": "glm-5.3"
+}

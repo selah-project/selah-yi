@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און די זין פֿון יון: אלישה, און תרשיש, כתים און דדנים.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "יון",
+      "gloss": "פֿון יון"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "אלישה"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "און תרשיש"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "כתים"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "און דדנים"
+    }
+  ],
+  "timestamp": "2026-09-10T19:12:59.351377147Z",
+  "model": "glm-5.3"
+}

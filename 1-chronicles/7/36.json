@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די זין פֿון צופח: סוח און חרנפר און שועל און ברי און ימרה.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "פֿון צופח"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "סוח"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "און חרנפר"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "און שועל"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "און ברי"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "און ימרה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:30.066019612Z",
+  "model": "glm-5.3"
+}

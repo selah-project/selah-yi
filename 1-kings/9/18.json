@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און ⟨את⟩ בעלת און ⟨את⟩ תמר אין מדבר, אין לאַנד.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "בעלת"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "בעלת"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "תמר אין מדבר"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "תמר"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "אין מדבר"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אין לאַנד"
+    }
+  ],
+  "timestamp": "2026-09-10T21:44:34.694559328Z",
+  "model": "glm-5.3"
+}

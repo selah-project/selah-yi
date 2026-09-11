@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "וואָס בלאָזט אויס אמונה, דערציילט צדק; און אַ עד פֿון שקרים — מרמה.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "בלאָזט אויס"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "אמונה"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "דערציילט"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "צדק"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "און אַ עד"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "פֿון שקרים"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "מרמה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:06.928673992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "און משה האָט געהערט און איז געפֿאַלן אויף זײַן פּנים.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "האָט געהערט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "איז געפֿאַלן"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "זײַן פּנים"
+    }
+  ],
+  "timestamp": "2026-09-11T02:32:30.813167485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און דער מלך שלמה איז געווען מלך איבער גאַנץ ישׂראל.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און … איז געווען"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "דער מלך"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "שלמה"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "גאַנץ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-10T21:41:12.921203691Z",
+  "model": "glm-5.3"
+}

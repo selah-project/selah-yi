@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 14:19",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "שלעכטע בויען זיך פֿאַר גוטע, און רשעים בײַ די טויערן פֿון אַ צדיק.",
+  "tokens": [
+    {
+      "surface": "שחו",
+      "gloss": "בויען זיך"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "שלעכטע"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "גוטע"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "און רשעים"
+    },
+    {
+      "surface": "על",
+      "gloss": "בײַ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "די טויערן פֿון"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "אַ צדיק"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:45.953911380Z",
+  "model": "glm-5.3"
+}

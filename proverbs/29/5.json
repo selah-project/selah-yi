@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "אַ מאַן וואָס גלאַטט זײַן נאענטן, שפּאַנט אַ נעץ פֿאַר זײַנע טריט.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "אַ מאַן"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "גלאַטט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "זײַן נאענטן"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "אַ נעץ"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "שפּאַנט"
+    },
+    {
+      "surface": "על",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "זײַנע טריט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:33:39.643614101Z",
+  "model": "glm-5.3"
+}

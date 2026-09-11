@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 9:24",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "הן, טעג קומען, זאָגט יהוה, און איך וועל באַזוכן אויף אַלע בנימ־מיל אין ערלה.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "הן"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "באים",
+      "gloss": "קומען"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "זאָגט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "און איך וועל באַזוכן"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "מול",
+      "gloss": "בנימ־מיל"
+    },
+    {
+      "surface": "בערלה",
+      "gloss": "אין ערלה"
+    }
+  ],
+  "timestamp": "2026-09-11T14:54:44.237535237Z",
+  "model": "glm-5.3"
+}

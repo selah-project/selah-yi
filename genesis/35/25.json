@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 35,
+  "translation": "און די זין פֿון בלהה, רחלס דינסטמיידל: דן און נפֿתלי.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "פֿון בלהה"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "דינסטמיידל"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "רחלס"
+    },
+    {
+      "surface": "דן",
+      "gloss": "דן"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "און נפֿתלי"
+    }
+  ],
+  "timestamp": "2026-09-10T19:26:51.738910740Z",
+  "model": "glm-5.3"
+}

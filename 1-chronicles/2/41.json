@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און שלום האָט געהאַט ⟨את⟩ יקמיה, און יקמיה האָט געהאַט ⟨את⟩ אלישמע.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "און שלום"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יקמיה"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "יקמיה"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "און יקמיה"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אלישמע"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "אלישמע"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:59.083253017Z",
+  "model": "glm-5.3"
+}

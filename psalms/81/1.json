@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 81,
+  "translation": "פֿאַרן מנצח, אויף דער גתית, פֿאַר אסף.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "דער גתית"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "פֿאַר אסף"
+    }
+  ],
+  "timestamp": "2026-09-11T00:07:08.336642718Z",
+  "model": "glm-5.3"
+}

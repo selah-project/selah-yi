@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "ער זאָל געבן די באַק דעם וואָס שלאָגט אים, ער זאָל זיך סאַטירן מיט שפּאָט.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "זאָל געבן"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "דעם וואָס שלאָגט אים"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "די באַק"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "זאָל זיך סאַטירן"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "מיט שפּאָט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:31.734737257Z",
+  "model": "glm-5.3"
+}

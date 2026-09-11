@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 116,
+  "translation": "חנון איז יהוה און צדיק, און אונדזער אלהים רחמט.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "חנון"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "און צדיק"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "און אונדזער אלהים"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "רחמט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:16:25.493654950Z",
+  "model": "glm-5.3"
+}

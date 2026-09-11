@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "ווײַל לענג פֿון טעג און יאָרן פֿון לעבן און שלום וועלן זיי דיר צולייגן.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "לענג"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "פֿון טעג"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "און יאָרן"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "פֿון לעבן"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "און שלום"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "וועלן זיי צולייגן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    }
+  ],
+  "timestamp": "2026-09-11T00:24:17.777716594Z",
+  "model": "glm-5.3"
+}

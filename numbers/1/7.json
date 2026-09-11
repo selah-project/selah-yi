@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "פֿאַר יהודה — נחשון, זון פֿון עמינדב.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "פֿאַר יהודה"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "נחשון"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "עמינדב"
+    }
+  ],
+  "timestamp": "2026-09-10T20:10:26.173842878Z",
+  "model": "glm-5.3"
+}

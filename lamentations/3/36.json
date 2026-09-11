@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "צו פֿאַרדריין אַ מענטש אין זײַן משפּט־זאַך — אדני האָט עס נישט געזען ⟨אַזוי נישט געהייסן⟩.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "צו פֿאַרדריין"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "אַ מענטש"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "אין זײַן משפּט־זאַך"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "געזען"
+    }
+  ],
+  "timestamp": "2026-09-11T04:46:15.892704007Z",
+  "model": "glm-5.3"
+}

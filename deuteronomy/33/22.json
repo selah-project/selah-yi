@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "און וועגן דן האָט ער געזאָגט: דן איז אַ יונגער לייב; ער שפּרינגט אַרויס פֿון הבֿשן.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "און וועגן דן"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט ער געזאָגט"
+    },
+    {
+      "surface": "דן",
+      "gloss": "דן"
+    },
+    {
+      "surface": "גור",
+      "gloss": "אַ יונגער"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "לייב"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "ער שפּרינגט אַרויס"
+    },
+    {
+      "surface": "מן",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "הבֿשן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:46:41.593289617Z",
+  "model": "glm-5.3"
+}

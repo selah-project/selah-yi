@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "און בית פעור און די הענג פֿון הפסגה און בית הישמות.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "און בית"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "פעור"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "און די הענג"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "פֿון הפסגה"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "און בית"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "הישמות"
+    }
+  ],
+  "timestamp": "2026-09-10T20:53:23.434378989Z",
+  "model": "glm-5.3"
+}

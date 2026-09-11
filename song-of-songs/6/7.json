@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "ווי אַ שײַבל פֿון אַ רימאָנע איז דײַן שלאָף, הינטער דײַן שטערן־טוך.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "ווי אַ שײַבל"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "פֿון אַ רימאָנע"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "דײַן שלאָף"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "הינטער"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "דײַן שטערן־טוך"
+    }
+  ],
+  "timestamp": "2026-09-11T00:51:42.775552409Z",
+  "model": "glm-5.3"
+}

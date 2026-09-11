@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "אַן אשם איז עס; שולדיק איז ער געווען, שולדיק צו יהוה.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "אַן אשם"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "איז עס"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "שולדיק איז ער געווען"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "שולדיק"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "צו יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:57:56.227891901Z",
+  "model": "glm-5.3"
+}

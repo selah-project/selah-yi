@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 86,
+  "translation": "ווײַל דו, אדני, ביסט גוט און מוחל, און פֿון גרויס חסד צו אַלע וואָס רופֿן דיך.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "און מוחל"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "און פֿון גרויס"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "חסד"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "צו אַלע"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "וואָס רופֿן דיך"
+    }
+  ],
+  "timestamp": "2026-09-11T00:08:28.095752675Z",
+  "model": "glm-5.3"
+}

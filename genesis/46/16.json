@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 46,
+  "translation": "און די זין פֿון גד: צפיון און חגי, שוני און אצבן, ערי און ארודי און אראלי.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "גד",
+      "gloss": "גד"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "צפיון"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "און חגי"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "שוני"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "און אצבן"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ערי"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "און ארודי"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "און אראלי"
+    }
+  ],
+  "timestamp": "2026-09-10T19:32:03.868155584Z",
+  "model": "glm-5.3"
+}

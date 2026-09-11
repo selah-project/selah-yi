@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "און אַ נחלה זאָל אים נישט זײַן צווישן זײַנע ברידער; יהוה — ער איז זײַן נחלה, ווי ער האָט צו אים גערעדט.",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "און אַ נחלה"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "זאָל זײַן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "צווישן"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "זײַנע ברידער"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "זײַן נחלה"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "האָט גערעדט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "צו אים"
+    }
+  ],
+  "timestamp": "2026-09-10T20:41:38.092167338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און שעלבין, און אילון, און יתלה.",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "און שעלבין"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "און אילון"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "און יתלה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:51.717517815Z",
+  "model": "glm-5.3"
+}

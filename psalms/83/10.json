@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 83,
+  "translation": "טוט צו זיי ווי מדין, ווי סיסרא, ווי יבין, בײַם טײַך קישון.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "טוט צו"
+    },
+    {
+      "surface": "להם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "ווי מדין"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "ווי סיסרא"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "ווי יבין"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "בײַם טײַך"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "קישון"
+    }
+  ],
+  "timestamp": "2026-09-11T00:06:52.851718425Z",
+  "model": "glm-5.3"
+}

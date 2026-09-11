@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 48,
+  "translation": "א ליד, א מזמור, פֿון די זין פֿון קרח.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "א ליד"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿון די זין פֿון"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "קרח"
+    }
+  ],
+  "timestamp": "2026-09-10T23:58:41.501041944Z",
+  "model": "glm-5.3"
+}

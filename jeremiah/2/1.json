@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און דאָס וואָרט פֿון יהוה איז געוואָרן צו מיר, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און … איז געוואָרן"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T03:28:39.322626316Z",
+  "model": "glm-5.3"
+}

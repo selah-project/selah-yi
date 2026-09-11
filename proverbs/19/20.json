@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "הער עצה און נעם אָן מוסר, כּדי דו זאָלסט זײַן חכם אין דײַן לעצטן סוף.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "הער"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "עצה"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "און נעם אָן"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "מוסר"
+    },
+    {
+      "surface": "למען",
+      "gloss": "כּדי"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "דו זאָלסט זײַן חכם"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "אין דײַן לעצטן סוף"
+    }
+  ],
+  "timestamp": "2026-09-11T04:36:57.027899297Z",
+  "model": "glm-5.3"
+}

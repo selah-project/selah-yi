@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 21:29",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "אַ רשע־מאַן האַרט זײַן פּנים; אָבער דער ישר — ער גראַדט זײַנע וועגן.",
+  "tokens": [
+    {
+      "surface": "העז",
+      "gloss": "האַרט"
+    },
+    {
+      "surface": "איש",
+      "gloss": "מאַן"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "רשע"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "זײַן פּנים"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "דער ישר"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "גראַדט"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "זײַנע וועגן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:30:22.517472698Z",
+  "model": "glm-5.3"
+}

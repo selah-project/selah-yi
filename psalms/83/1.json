@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 83,
+  "translation": "א ליד, א מזמור פֿון אסף.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "א ליד"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "פֿון אסף"
+    }
+  ],
+  "timestamp": "2026-09-11T04:27:05.954745890Z",
+  "model": "glm-5.3"
+}

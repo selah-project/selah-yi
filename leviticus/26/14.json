@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 26,
+  "translation": "אויב אבער איר וועט מיר נישט געהערן, און נישט טון ⟨את⟩ אַלע די מצות האָבן די־געהייסן דאָ",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "אויב אבער"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "וועט געהערן"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "טון"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אַלע די מצות"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "די מצות"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "דאָס-דאָ"
+    }
+  ],
+  "timestamp": "2026-09-10T20:09:57.161702948Z",
+  "model": "glm-5.3"
+}

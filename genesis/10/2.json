@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "די זין פֿון יפֿת: גמר, און מגוג, און מדי, און יון, און תבל, און משך און תירס.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "פֿון יפֿת"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "גמר"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "און מגוג"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "און מדי"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "און יון"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "און תבל"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "און משך"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "און תירס"
+    }
+  ],
+  "timestamp": "2026-09-10T19:12:59.351101433Z",
+  "model": "glm-5.3"
+}

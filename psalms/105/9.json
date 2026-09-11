@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 105,
+  "translation": "וואָס ער האָט געשניטן ⟨את⟩ אברהם, און זײַן שבועה צו יצחק.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "האָט געשניטן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אברהם"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "אברהם"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "און זײַן שבועה"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "צו יצחק"
+    }
+  ],
+  "timestamp": "2026-09-11T00:13:08.360962125Z",
+  "model": "glm-5.3"
+}

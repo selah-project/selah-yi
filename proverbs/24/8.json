@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "װער טראַכט צו טון רע — אים װעט מען רופֿן אַ בעל מזמות.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "װער טראַכט"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "צו טון רע"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "אַ בעל"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "מזמות"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "װעט מען רופֿן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:31:11.947937973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און שרי איז געווען אומפרוכפירט — קיין קינד האט זי נישט געהאט.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "איז געווען"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "שרי"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "אומפרוכפירט"
+    },
+    {
+      "surface": "אין",
+      "gloss": "קיין … נישט"
+    },
+    {
+      "surface": "לה",
+      "gloss": "זי"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "קינד"
+    }
+  ],
+  "timestamp": "2026-09-10T19:15:26.479665906Z",
+  "model": "glm-5.3"
+}

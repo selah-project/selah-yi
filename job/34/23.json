@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "װאָרום ער שטעלט אַ מענטש נישט אָן צײַט ⟨זאָל ער גיין⟩ צו אל אין משפּט.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "װאָרום"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "איש",
+      "gloss": "אַ מענטש"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ער שטעלט אָן"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "צײַט"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "צו גיין"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "אין משפּט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:47:24.088163077Z",
+  "model": "glm-5.3"
+}

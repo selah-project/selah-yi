@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "ווײַל נישט פֿאַר אייביק איז חסן, און אפֿשר איז אַ נזר פֿאַר דור און דור.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "פֿאַר אייביק"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "חסן"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "און אפֿשר"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "אַ נזר"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "פֿאַר דור"
+    },
+    {
+      "surface": "דור",
+      "gloss": "און דור"
+    }
+  ],
+  "timestamp": "2026-09-11T04:38:51.868152281Z",
+  "model": "glm-5.3"
+}

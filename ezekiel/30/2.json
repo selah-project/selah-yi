@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 30:2",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "זון פֿון מענטש, זײַ נביא און זאָג: אַזוי האָט געזאָגט אדני יהוה: הוילט, אוי צום טאָג!",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "פֿון מענטש"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "זײַ נביא"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "און זאָג"
+    },
+    {
+      "surface": "כה",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "הוילט"
+    },
+    {
+      "surface": "הה",
+      "gloss": "אוי"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "צום טאָג"
+    }
+  ],
+  "timestamp": "2026-09-10T23:13:42.253209622Z",
+  "model": "glm-5.3"
+}

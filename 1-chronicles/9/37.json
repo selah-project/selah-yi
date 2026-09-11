@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און גדור, און אחיו, און זכריה, און מקלות.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "און גדור"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "און אחיו"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "און זכריה"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "און מקלות"
+    }
+  ],
+  "timestamp": "2026-09-11T01:35:04.653462284Z",
+  "model": "glm-5.3"
+}

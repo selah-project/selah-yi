@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און כנען האָט געבוירן ⟨את⟩ צידון זײַן בכור און ⟨את⟩ חת.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "און כנען"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "האָט געבוירן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "צידון"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "צידון"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "זײַן בכור"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "חת"
+    },
+    {
+      "surface": "חת",
+      "gloss": "חת"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:46.751211492Z",
+  "model": "glm-5.3"
+}

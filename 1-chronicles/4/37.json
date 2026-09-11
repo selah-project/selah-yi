@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און זיזא זון שפעי, זון אלון, זון ידיה, זון שמרי, זון שמעיה.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "און זיזא"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "שפעי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "אלון"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "ידיה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "שמרי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "שמעיה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:53.617907309Z",
+  "model": "glm-5.3"
+}

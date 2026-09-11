@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "און דוד האָט געהערט אין מדבר, אַז נבל שערט ⟨את⟩ זײַן עדר.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "און האָט געהערט"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "דוד"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "אין מדבר"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "שערט"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "נבל"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "זײַן עדר"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "זײַן עדר"
+    }
+  ],
+  "timestamp": "2026-09-11T02:54:07.857504308Z",
+  "model": "glm-5.3"
+}

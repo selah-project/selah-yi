@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "nehemiah 7:43",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די לויים: בני ישוע, בני קדמיאל, בני הודוה — זיבן און זעכציק.",
+  "tokens": [
+    {
+      "surface": "הלוים",
+      "gloss": "די לויים"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "ישוע"
+    },
+    {
+      "surface": "לקדמיאל",
+      "gloss": "קדמיאל"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "להודוה",
+      "gloss": "הודוה"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "זיבן און זעכציק"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "(און פיר)"
+    }
+  ],
+  "timestamp": "2026-09-11T14:46:59.004769379Z",
+  "model": "glm-5.3"
+}

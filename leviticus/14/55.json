@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "און פֿאַר צרעת פֿון ⟨אַ⟩ קלייד און פֿאַר ⟨אַ⟩ הויז,",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "און פֿאַר צרעת"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "פֿון קלייד"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "און פֿאַר הויז"
+    }
+  ],
+  "timestamp": "2026-09-11T15:39:02.221084129Z",
+  "model": "glm-5.3"
+}

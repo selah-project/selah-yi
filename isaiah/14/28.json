@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "אין דעם יאָר פֿון דעם טויט פֿון מלך אחז איז געווען דער משא הזה.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "אין דעם יאָר"
+    },
+    {
+      "surface": "מות",
+      "gloss": "פֿון דעם טויט"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "פֿון מלך"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "אחז"
+    },
+    {
+      "surface": "היה",
+      "gloss": "איז געווען"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "דער משא"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "הזה"
+    }
+  ],
+  "timestamp": "2026-09-10T22:12:25.393196236Z",
+  "model": "glm-5.3"
+}

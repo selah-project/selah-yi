@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 47,
+  "translation": "ס'איז דער מלך פֿון דער גאַנצער ערד אלהים; זינגט אַ משכיל־ליד.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ס'איז"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "דער מלך"
+    },
+    {
+      "surface": "כל",
+      "gloss": "גאַנצער"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ערד"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "זינגט"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "אַ משכיל־ליד"
+    }
+  ],
+  "timestamp": "2026-09-10T23:58:28.882960049Z",
+  "model": "glm-5.3"
+}

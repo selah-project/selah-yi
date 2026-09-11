@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 103,
+  "translation": "ווײַל ער קענט אונדזער יצר; ער געדענקט אַז מיר זײַנען שטויב.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "קענט"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "אונדזער יצר"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ער געדענקט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "שטויב"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "מיר זײַנען"
+    }
+  ],
+  "timestamp": "2026-09-11T00:12:02.845741332Z",
+  "model": "glm-5.3"
+}

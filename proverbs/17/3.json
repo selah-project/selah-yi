@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "אַ מצרףֿ פֿאַר זילבער און אַ כור פֿאַר גאָלד, און יהוה בוחן לעבער.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "אַ מצרףֿ"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "פֿאַר זילבער"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "און אַ כור"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "פֿאַר גאָלד"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "און בוחן"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "לעבער"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:29:07.046427483Z",
+  "model": "glm-5.3"
+}

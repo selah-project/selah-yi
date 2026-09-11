@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "דער מלך פֿון דור אין נפֿת־דור, איינער; דער מלך פֿון די גוים אין גלגל, איינער;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "דור",
+      "gloss": "דור"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "אין נפֿת־"
+    },
+    {
+      "surface": "דור",
+      "gloss": "דור"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "די גוים"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "אין גלגל"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:53:10.451186934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "זי האָט אים גוטס געטאָן און נישט שלעכטס, אַלע טעג פֿון איר לעבן.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "זי האָט אים געטאָן"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוטס"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "רע",
+      "gloss": "שלעכטס"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "פֿון איר לעבן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:34:32.041279172Z",
+  "model": "glm-5.3"
+}

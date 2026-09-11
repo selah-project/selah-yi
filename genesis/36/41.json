@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 36,
+  "translation": "אלוף אהליבמה, אלוף אלה, אלוף פינן.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "אהליבמה"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "אלה"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "פינון"
+    }
+  ],
+  "timestamp": "2026-09-11T02:12:30.947812347Z",
+  "model": "glm-5.3"
+}

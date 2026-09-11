@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "װי גוט זײַנען דײַן געצעלטן, יעקב, דײַן װאױנונגען, ישׂראל!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "װי"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "גוט זײַנען"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "דײַן געצעלטן"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "דײַן װאױנונגען"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-10T20:24:45.574190716Z",
+  "model": "glm-5.3"
+}

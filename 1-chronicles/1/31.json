@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "יטור, נפיש און קדמה — דאָס זײַנען די זין פֿון ישמעאל.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "יטור"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "נפיש"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "און קדמה"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "הם",
+      "gloss": "זײַנען"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "פֿון ישמעאל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:08.653439914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "אצם דער זעקסטער, דוד דער זיבעטער.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "אצם"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "דער זעקסטער"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "דוד"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "דער זיבעטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:32.809463816Z",
+  "model": "glm-5.3"
+}

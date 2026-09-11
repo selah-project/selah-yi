@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "ווער איז דאָס וואָס האָט געזאָגט און עס איז געוואָרן, ווען אדני האָט נישט געהייסן?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "זה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "און עס איז געוואָרן"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "האָט געהייסן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:32.876409350Z",
+  "model": "glm-5.3"
+}

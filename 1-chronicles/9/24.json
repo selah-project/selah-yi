@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "צו פֿיר זײַטן זײַנען געווען די טיר־היטערס: מזרח, ים־זײַט, צפון און דרום.",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "צו פֿיר"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "זײַטן"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "זײַנען געווען"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "די טיר־היטערס"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "מזרח"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ים־זײַט"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "צפון"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "און דרום"
+    }
+  ],
+  "timestamp": "2026-09-11T01:35:03.643002974Z",
+  "model": "glm-5.3"
+}

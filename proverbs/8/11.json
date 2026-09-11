@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "ווײַל חכמה איז בעסער פֿון פּנינים, און אַלע חפֿצים זײַנען נישט גלײַך צו איר.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "בעסער"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "פֿון פּנינים"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "און אַלע"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "חפֿצים"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "זײַנען גלײַך"
+    },
+    {
+      "surface": "בה",
+      "gloss": "צו איר"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:22.922562962Z",
+  "model": "glm-5.3"
+}

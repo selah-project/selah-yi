@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "װאָר זײער גואל איז שטאַרק, ער װעט פֿירן ⟨את⟩ זײער משפּט ⟨את⟩ מיט דיר.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "װאָר"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "זײער גואל"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "שטאַרק"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ער װעט פֿירן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "זײער משפּט"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "זײער משפּט"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ מיט דיר"
+    }
+  ],
+  "timestamp": "2026-09-11T00:31:10.170839517Z",
+  "model": "glm-5.3"
+}

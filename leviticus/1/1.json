@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און ער האָט גערופֿן צו משה, און יהוה האָט גערעדט צו אים פֿון דעם אָהל מועד, לומר:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "און ער האָט גערופֿן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "צו אים"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "פֿון דעם אָהל"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "מועד"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לומר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:56:50.140628898Z",
+  "model": "glm-5.3"
+}

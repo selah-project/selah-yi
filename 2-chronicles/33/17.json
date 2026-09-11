@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "אָבער דער עם האָט נאָך געשאַכפֿט אויף די במות, נאָר פֿאַר יהוה זייער אלהים.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "אָבער"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "נאָך"
+    },
+    {
+      "surface": "העם",
+      "gloss": "דער עם"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "געשאַכפֿט"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "אויף די במות"
+    },
+    {
+      "surface": "רק",
+      "gloss": "נאָר"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "פֿאַר יהוה"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "זייער אלהים"
+    }
+  ],
+  "timestamp": "2026-09-11T02:02:09.318855576Z",
+  "model": "glm-5.3"
+}

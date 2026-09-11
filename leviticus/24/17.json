@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "און אַ מאַן, ווען ער שלאָגט די נפֿש פֿון אַ מענטש, טויט זאָל ער געטאָט ווערן.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "און אַ מאַן"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ער שלאָגט"
+    },
+    {
+      "surface": "כל",
+      "gloss": "די"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפֿש"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "פֿון אַ מענטש"
+    },
+    {
+      "surface": "מות",
+      "gloss": "טויט"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "זאָל ער געטאָט ווערן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:08:35.717728860Z",
+  "model": "glm-5.3"
+}

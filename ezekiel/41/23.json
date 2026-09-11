@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 41,
+  "translation": "און צוויי טירן פֿאַרן היכל און פֿאַרן קודש.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "און צוויי"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "טירן"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "פֿאַרן היכל"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "און פֿאַרן קודש"
+    }
+  ],
+  "timestamp": "2026-09-10T23:18:49.294174267Z",
+  "model": "glm-5.3"
+}

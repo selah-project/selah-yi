@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 96,
+  "translation": "זינגט פֿאַר יהוה אַ נײַ ליד, זינגט פֿאַר יהוה, די גאַנצע ערד.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "זינגט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "פֿאַר יהוה"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "אַ ליד"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "נײַ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "זינגט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "פֿאַר יהוה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "די גאַנצע"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ערד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:10:11.812254618Z",
+  "model": "glm-5.3"
+}

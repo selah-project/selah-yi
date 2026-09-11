@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און משובב, און ימלך, און יושה זון פֿון אמציה —",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "און משובב"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "און ימלך"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "און יושה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "אמציה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:28.299773732Z",
+  "model": "glm-5.3"
+}

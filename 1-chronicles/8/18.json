@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און ישמרי און יזליה און יובב, זין פֿון אלפעל.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "און ישמרי"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "און יזליה"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "און יובב"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין פֿון"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "אלפעל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:18.721431427Z",
+  "model": "glm-5.3"
+}

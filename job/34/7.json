@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "װער איז אַ גבר װי איוב, װאָס טרינקט לעגעריי װי װאַסער?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "װער"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "אַ גבר"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "װי איוב"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "װאָס טרינקט"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "לעגעריי"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "װי װאַסער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:47:58.113836806Z",
+  "model": "glm-5.3"
+}

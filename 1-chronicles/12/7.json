@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 12:7",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "אלקנה און ישיהו און עזראל און יועזר און ישבעם, די קרחים.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "אלקנה"
+    },
+    {
+      "surface": "וישיהו",
+      "gloss": "און ישיהו"
+    },
+    {
+      "surface": "ועזראל",
+      "gloss": "און עזראל"
+    },
+    {
+      "surface": "ויועזר",
+      "gloss": "און יועזר"
+    },
+    {
+      "surface": "וישבעם",
+      "gloss": "און ישבעם"
+    },
+    {
+      "surface": "הקרחים",
+      "gloss": "די קרחים"
+    }
+  ],
+  "timestamp": "2026-09-11T14:56:01.578213464Z",
+  "model": "glm-5.3"
+}

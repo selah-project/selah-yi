@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 134,
+  "translation": "יהוה זאל דיך בענטשן פֿון ציון, דער מאַכער פֿון הימל און ערד.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "זאל דיך בענטשן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "פֿון ציון"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "דער מאַכער"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "הימל"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "און ערד"
+    }
+  ],
+  "timestamp": "2026-09-11T04:32:34.931488426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "אחיאם זון פון שכר דער הררי, אליפל זון פון אור.",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "אחיאם"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "שכר"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "דער הררי"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "אליפל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אור",
+      "gloss": "אור"
+    }
+  ],
+  "timestamp": "2026-09-11T04:59:04.599674966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "און אבֿרהם האָט זיך געבויגן פֿאַרן פֿאָלק פֿון דער ערד.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "האָט זיך געבויגן"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "אבֿרהם"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "עם",
+      "gloss": "פֿאָלק"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "פֿון דער ערד"
+    }
+  ],
+  "timestamp": "2026-09-10T19:17:51.414285401Z",
+  "model": "glm-5.3"
+}

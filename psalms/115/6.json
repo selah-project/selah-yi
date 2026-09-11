@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 115,
+  "translation": "אזנים האָבן זיי, און זיי הערן נישט; א נאָז האָבן זיי, און זיי ריעכן נישט.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "אזנים"
+    },
+    {
+      "surface": "להם",
+      "gloss": "האָבן זיי"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "הערן"
+    },
+    {
+      "surface": "אף",
+      "gloss": "א נאָז"
+    },
+    {
+      "surface": "להם",
+      "gloss": "האָבן זיי"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "ריעכן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:15:24.722460766Z",
+  "model": "glm-5.3"
+}

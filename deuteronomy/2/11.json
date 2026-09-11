@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "רפאים ווערן זיי גערעכנט, אויך זיי, ווי די ענקים; און די מואבים רופֿן זיי אמים.",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "רפאים"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ווערן גערעכנט"
+    },
+    {
+      "surface": "אף",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "הם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "ווי די ענקים"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "און די מואבים"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "רופֿן"
+    },
+    {
+      "surface": "להם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "אמים"
+    }
+  ],
+  "timestamp": "2026-09-10T20:31:45.035623174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "חריף, ענתות, נובי,",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "חריף"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ענתות"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "נובי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:20.520567732Z",
+  "model": "glm-5.3"
+}

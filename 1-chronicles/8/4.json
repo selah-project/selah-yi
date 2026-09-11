@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און אבישוע, און נעמן, און אחוח.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "און אבישוע"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "און נעמן"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "און אחוח"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:41.509538984Z",
+  "model": "glm-5.3"
+}

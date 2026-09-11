@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 55,
+  "translation": "איך וועל רופֿן צו אלהים, און יהוה וועט מיר העלפֿן.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "וועל איך רופֿן"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "און יהוה"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "וועט מיר העלפֿן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:00:05.394312946Z",
+  "model": "glm-5.3"
+}

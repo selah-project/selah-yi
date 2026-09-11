@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "מגפיעש, משולם, חזיר;",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "מגפיעש"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "משולם"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "חזיר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:10.534394535Z",
+  "model": "glm-5.3"
+}

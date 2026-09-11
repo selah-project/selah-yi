@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און פֿון חושים האָט ער אָפּגעזוגט ⟨את⟩ אביטוב און ⟨את⟩ אלפעל.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "און פֿון חושים"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט ער אָפּגעזוגט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אביטוב"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "אביטוב"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "אלפעל"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "אלפעל"
+    }
+  ],
+  "timestamp": "2026-09-11T04:59:10.947611429Z",
+  "model": "glm-5.3"
+}

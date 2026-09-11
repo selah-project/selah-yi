@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און דו זאלסט נישט ענטפֿערן קעגן דײַן נאָענטן אַן עדות פֿון שוא.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ענטפֿערן"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "קעגן דײַן נאָענטן"
+    },
+    {
+      "surface": "עד",
+      "gloss": "עדות"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "פֿון שוא"
+    }
+  ],
+  "timestamp": "2026-09-10T20:33:10.163258050Z",
+  "model": "glm-5.3"
+}

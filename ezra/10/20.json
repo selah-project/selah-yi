@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און פֿון די קינדער פֿון אמר: חנני און זבדיה.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "און פֿון די קינדער פֿון"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "אמר"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "חנני"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "און זבדיה"
+    }
+  ],
+  "timestamp": "2026-09-11T04:55:24.423060388Z",
+  "model": "glm-5.3"
+}

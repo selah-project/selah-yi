@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 92,
+  "translation": "א מזמור, א ליד פֿאַרן טאָג פֿון שבת.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "א ליד"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "פֿאַרן טאָג"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "פֿון שבת"
+    }
+  ],
+  "timestamp": "2026-09-11T00:10:31.322766712Z",
+  "model": "glm-5.3"
+}

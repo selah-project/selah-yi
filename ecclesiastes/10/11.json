@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "אויב דער נחש בײַסט אָן אָן אַ לחש, האָט דער בעל־הלשון קיין יתרון נישט.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "אויב"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "בײַסט אָן"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "דער נחש"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "אָן"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "לחש"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "האָט נישט"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "יתרון"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "צו דעם בעל"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "הלשון"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:43.830704943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און יהודה וועט זיצן לעולם, און ירושלים דור צו דור.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "און יהודה"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "לעולם"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "וועט זיצן"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "און ירושלים"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "דור"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "צו דור"
+    }
+  ],
+  "timestamp": "2026-09-11T14:40:15.202308649Z",
+  "model": "glm-5.3"
+}

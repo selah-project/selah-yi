@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "פֿון עזרא — משלם; פֿון אמריה — יהוחנן.",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "פֿון עזרא"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "משלם"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "פֿון אמריה"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "יהוחנן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:58.039082186Z",
+  "model": "glm-5.3"
+}

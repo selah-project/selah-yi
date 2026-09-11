@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "כּמעט בין איך געווען אין אַלע רע, אינעם קהל און אין דער עדה.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "כּמעט"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "בין איך געווען"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "אין אַלע"
+    },
+    {
+      "surface": "רע",
+      "gloss": "רע"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "אינעם"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "קהל"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "און אין דער עדה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:23:46.433216837Z",
+  "model": "glm-5.3"
+}

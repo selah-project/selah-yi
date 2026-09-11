@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "די משלי פֿון שלמה, זון פֿון דוד, מלך פֿון ישׂראל;",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "משלי"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "שלמה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "דוד"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך פֿון"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    }
+  ],
+  "timestamp": "2026-09-11T04:35:54.360004247Z",
+  "model": "glm-5.3"
+}

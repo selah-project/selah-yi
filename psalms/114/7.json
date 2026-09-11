@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 114,
+  "translation": "פֿון פֿאַרן אדון — ציטער, ערד! פֿון פֿאַרן אלוה פֿון יעקב!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "פֿון פֿאַרן"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "אדון"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ציטער"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ערד"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "פֿון פֿאַרן"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "אלוה"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    }
+  ],
+  "timestamp": "2026-09-11T00:15:26.431300428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און קהל צוזאַם ⟨את⟩ די גאַנצע עדה צו דער טיר פֿון אוהל מועד.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "די גאַנצע עדה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "גאַנצע"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "עדה"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "קהל צוזאַם"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "טיר"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "אוהל"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "מועד"
+    }
+  ],
+  "timestamp": "2026-09-10T19:58:49.328926849Z",
+  "model": "glm-5.3"
+}

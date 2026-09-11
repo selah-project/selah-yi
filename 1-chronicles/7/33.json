@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און די זין פֿון יפלט: פסך און במהל און עשות — דאָס זײַנען די זין פֿון יפלט.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "פֿון יפלט"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "פסך"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "און במהל"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "און עשות"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "פֿון יפלט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:30.065463233Z",
+  "model": "glm-5.3"
+}

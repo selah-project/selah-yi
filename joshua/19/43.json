@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און אילון, און תמנתה, און עקרון.",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "און אילון"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "און תמנתה"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "און עקרון"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:51.717645535Z",
+  "model": "glm-5.3"
+}

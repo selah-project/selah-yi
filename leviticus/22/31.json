@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "און איר זאָלט היטן מײַנע מצות און טון זיי ⟨את⟩; איך בין יהוה.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "און איר זאָלט היטן"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "מײַנע מצות"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "און טון"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "זיי (מײַנע מצות)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:07:15.072342384Z",
+  "model": "glm-5.3"
+}

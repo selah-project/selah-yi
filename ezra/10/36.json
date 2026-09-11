@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "וניה, מרמות, אלישיב.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "וניה"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "מרמות"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "אלישיב"
+    }
+  ],
+  "timestamp": "2026-09-11T01:18:39.036577972Z",
+  "model": "glm-5.3"
+}

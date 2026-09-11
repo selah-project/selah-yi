@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 54,
+  "translation": "זע, אלהים העלפֿט מיר; אדני איז בײַ די װאָס שטיצן מײַן נפֿש.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "העלפֿט"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "בײַ די װאָס שטיצן"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "מײַן נפֿש"
+    }
+  ],
+  "timestamp": "2026-09-11T00:00:00.205060565Z",
+  "model": "glm-5.3"
+}

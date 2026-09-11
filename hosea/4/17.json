@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "צוגעבונדן צו געצים איז אפרים — לאָזט אים.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "צוגעבונדן"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "געצים"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "אפרים"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "לאָזט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    }
+  ],
+  "timestamp": "2026-09-11T04:03:23.386518185Z",
+  "model": "glm-5.3"
+}

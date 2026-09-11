@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "א מאַן פֿון מאַנגל ליבט פֿרייד; ווער ליבט ווײַן און אויל ווערט נישט רײַך.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "א מאַן"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "פֿון מאַנגל"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ליבט"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "פֿרייד"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ליבט"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ווײַן"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "און אויל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "ווערט רײַך"
+    }
+  ],
+  "timestamp": "2026-09-11T00:30:43.541159500Z",
+  "model": "glm-5.3"
+}

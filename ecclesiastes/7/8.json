@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "גוט איז דער סוף פֿון א דבר ווי זײַן אָנהייב; גוט איז א לאַנגער רוח ווי א הויכער רוח.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "דער סוף"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "פֿון א דבר"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ווי זײַן אָנהייב"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "א לאַנגער"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "רוח"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ווי א הויכער"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "רוח"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:00.430351472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 121,
+  "translation": "בײַ טאָג זאָל די זון דיך נישט שלאָגן, און דער לבֿנה בײַ נאַכט.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "בײַ טאָג"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "די זון"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "זאָל שלאָגן"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "און דער לבֿנה"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "בײַ נאַכט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:18:43.428615415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "און משה האָט געבראַכט נאָנט ⟨את⟩ זייער משפּט פֿאַר יהוה.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "האָט געבראַכט נאָנט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "זייער משפּט"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "זייער משפּט"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T02:36:18.057315472Z",
+  "model": "glm-5.3"
+}

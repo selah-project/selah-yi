@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "אויך דאָס האָב איך געזען: חכמה תחת דער זון, און זי איז גרויס בײַ מיר.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "זה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "האָב איך געזען"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "תחת"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "דער זון"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "און גרויס"
+    },
+    {
+      "surface": "היא",
+      "gloss": "זי"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "בײַ מיר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:29.815197445Z",
+  "model": "glm-5.3"
+}

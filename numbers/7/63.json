@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "אן אַקס, א זון פֿון רינדפֿעך, א וודער, א לאָמב, א זון פֿון א יאָר, פֿאַר אַ עלָה.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "אַקס"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "אן"
+    },
+    {
+      "surface": "בן",
+      "gloss": "א זון פֿון"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "רינדפֿעך"
+    },
+    {
+      "surface": "איל",
+      "gloss": "וודער"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "א"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "לאָמב"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "א"
+    },
+    {
+      "surface": "בן",
+      "gloss": "א זון פֿון"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "א יאָר"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "פֿאַר אַ עלָה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:15:38.416822413Z",
+  "model": "glm-5.3"
+}

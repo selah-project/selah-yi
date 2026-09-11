@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און עברן און רחב און חמון און קנה, ביז צידון רבה.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "און עברן"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "און רחב"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "און חמון"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "און קנה"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "צידון"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "רבה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:56:17.190125534Z",
+  "model": "glm-5.3"
+}

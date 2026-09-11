@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "איך געהער צו מײַן דוד, און מײַן דוד צו מיר — דער וואָס היט צווישן די שושנים.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "צו מײַן דוד"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "און מײַן דוד"
+    },
+    {
+      "surface": "לי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "דער וואָס היט"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "צווישן די שושנים"
+    }
+  ],
+  "timestamp": "2026-09-11T04:45:53.753444379Z",
+  "model": "glm-5.3"
+}

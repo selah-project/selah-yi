@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "ריהם זיך נישט מיטן מאָרגן־טאָג, ווײַל דו ווייסט נישט וואָס א טאָג קען געבוירן ווערן.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ריהם זיך"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "מיטן טאָג"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "מאָרגן"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "דו ווייסט"
+    },
+    {
+      "surface": "מה",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "קען געבוירן ווערן"
+    },
+    {
+      "surface": "יום",
+      "gloss": "א טאָג"
+    }
+  ],
+  "timestamp": "2026-09-11T04:38:49.785311800Z",
+  "model": "glm-5.3"
+}

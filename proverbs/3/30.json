@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "רייב זיך נישט מיט אַ מענטשן איבער נישטיקן, ווען ער האָט דיר נישט געטאָן קיין רעה.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "רייב זיך"
+    },
+    {
+      "surface": "עם",
+      "gloss": "מיט"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "אַ מענטשן"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "איבער נישטיקן"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "האָט דיר געטאָן"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "קיין רעה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:24:26.528486662Z",
+  "model": "glm-5.3"
+}

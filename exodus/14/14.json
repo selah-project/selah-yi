@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "יהוה וועט קריגן פֿאַר אײַך, און איר וועט שווײַגן.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "וועט קריגן"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "פֿאַר אײַך"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "און איר"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "וועט שווײַגן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:41:24.129368399Z",
+  "model": "glm-5.3"
+}

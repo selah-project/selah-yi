@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און איוב האָט געזאָגט אין ענטפֿער:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "אין ענטפֿער"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "איוב"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "האָט געזאָגט"
+    }
+  ],
+  "timestamp": "2026-09-11T04:41:00.403187338Z",
+  "model": "glm-5.3"
+}

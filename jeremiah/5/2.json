@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און אויב זיי זאָגן „חי יהוה\" — אויב דערשט זעלבסט שווערן זיי לויער.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "און אויב"
+    },
+    {
+      "surface": "חי",
+      "gloss": "חי"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "זיי זאָגן"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "דערשט זעלבסט"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "לויער"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "זיי שווערן"
+    }
+  ],
+  "timestamp": "2026-09-10T22:36:24.877919810Z",
+  "model": "glm-5.3"
+}

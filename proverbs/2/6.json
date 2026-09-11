@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "ווײַל יהוה גיט חכמה; פֿון זײַן מויל קומט דעת און תבונה.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "גיט"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "פֿון זײַן מויל"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "דעת"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "און תבונה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:23:19.839652052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "איין פֿר, א זון פֿון דער רינדער־הערדע, איין איל, איין כבש, א זון פֿון א יאָר, פֿאַר אַ עלה.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "פֿר"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "בן",
+      "gloss": "א זון"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "רינדער־הערדע"
+    },
+    {
+      "surface": "איל",
+      "gloss": "איל"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "כבש"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "בן",
+      "gloss": "א זון"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "פֿון א יאָר"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "פֿאַר אַ עלה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:13:36.851229750Z",
+  "model": "glm-5.3"
+}

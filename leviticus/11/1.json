@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און יהוה האָט גערעדט צו משה און צו אהרן, צו זאָגן צו זיי:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און צו"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "אהרן"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "צו זיי"
+    }
+  ],
+  "timestamp": "2026-09-10T20:00:42.488808131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און איך האָב געזאָגט צו אײַך אין דער צײַט, צו זאָגן: איך קען נישט אַליין טראָגן ⟨את⟩ אײַך.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "און איך האָב געזאָגט"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "צו אײַך"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "אין דער צײַט"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "היא"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "קען"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "אַליין"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "טראָגן"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "אײַך"
+    }
+  ],
+  "timestamp": "2026-09-10T20:31:30.160597966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "ווײַל ווער קען עסן, און ווער קען זיך געבן צו דעם, אַחוץ פֿון מיר?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "קען עסן"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "און ווער"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "קען זיך געבן צו דעם"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "אַחוץ פֿון"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "מיר"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:20.039471570Z",
+  "model": "glm-5.3"
+}

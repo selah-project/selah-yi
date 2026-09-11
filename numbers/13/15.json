@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "פֿאַרן שבט גד: גאואל, זון פֿון מכי.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "פֿאַרן שבט"
+    },
+    {
+      "surface": "גד",
+      "gloss": "גד"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "גאואל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "מכי"
+    }
+  ],
+  "timestamp": "2026-09-10T20:17:29.748216665Z",
+  "model": "glm-5.3"
+}

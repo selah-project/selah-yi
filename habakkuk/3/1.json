@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "אַ תפלה פון חבקוקן, דער נביא, אויף שגיונות.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "תפלה"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "פון חבקוקן"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "דער נביא"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "שגיונות"
+    }
+  ],
+  "timestamp": "2026-09-10T23:40:33.048481846Z",
+  "model": "glm-5.3"
+}

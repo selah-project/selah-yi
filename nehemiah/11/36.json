@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און פֿון די לויים — מחלקות פֿון יהודה צו בנימין.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "און פֿון"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "די לויים"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "מחלקות"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "פֿון יהודה"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "צו בנימין"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:14.900351789Z",
+  "model": "glm-5.3"
+}

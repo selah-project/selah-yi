@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 105,
+  "translation": "זוכט יהוה און זײַן שטאַרקייט; זוכט זײַן פּנים שטענדיק.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "זוכט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "און זײַן שטאַרקייט"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "זוכט"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "זײַן פּנים"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "שטענדיק"
+    }
+  ],
+  "timestamp": "2026-09-11T00:13:26.764401103Z",
+  "model": "glm-5.3"
+}

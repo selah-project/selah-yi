@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 36,
+  "translation": "און ⟨את⟩ בשמת, טאָכטער פֿון ישמעאל, שוועסטער פֿון נביות.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "בשמת"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "בשמת"
+    },
+    {
+      "surface": "בת",
+      "gloss": "טאָכטער"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "פֿון ישמעאל"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "שוועסטער"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "פֿון נביות"
+    }
+  ],
+  "timestamp": "2026-09-10T19:26:31.286734553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "יאָ, נאָר קעגן מיר קערט ער צוריק; ער ווענדט זײַן האַנט דעם גאַנצן טאָג.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "יאָ, נאָר"
+    },
+    {
+      "surface": "בי",
+      "gloss": "קעגן מיר"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "קערט ער צוריק"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ער ווענדט"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "זײַן האַנט"
+    },
+    {
+      "surface": "כל",
+      "gloss": "דעם גאַנצן"
+    },
+    {
+      "surface": "היום",
+      "gloss": "טאָג"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:42.875915827Z",
+  "model": "glm-5.3"
+}

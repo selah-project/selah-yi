@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 48,
+  "translation": "און אויף דיבון, און אויף נבו, און אויף בית דבלתים.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "דיבון"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "נבו"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "דבלתים"
+    }
+  ],
+  "timestamp": "2026-09-10T22:55:42.415109275Z",
+  "model": "glm-5.3"
+}

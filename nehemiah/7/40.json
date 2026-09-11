@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון אמר, אַ טויזנט צוואַנציק־און־פֿופֿציק.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "אמר"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "אַ טויזנט"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "פֿופֿציק"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "און צוויי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:25:05.547085106Z",
+  "model": "glm-5.3"
+}

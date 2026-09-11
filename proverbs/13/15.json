@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "גוטער פֿאַרשטאַנד גיט חן, און דער וועג פֿון בוגדים איז אייביק־שװער.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "פֿאַרשטאַנד"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוטער"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "גיט"
+    },
+    {
+      "surface": "חן",
+      "gloss": "חן"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "און דער וועג"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "פֿון בוגדים"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "אייביק־שװער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:21.667462775Z",
+  "model": "glm-5.3"
+}

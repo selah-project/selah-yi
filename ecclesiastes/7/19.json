@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די חכמה גיט מאַכט דעם חכם, מער ווי צען הערשער וואָס זײַנען געווען אין דער שטאָט.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "די חכמה"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "גיט מאַכט"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "דעם חכם"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "מער ווי צען"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "הערשער"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "היו",
+      "gloss": "זײַנען געווען"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "אין דער שטאָט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:57.387520601Z",
+  "model": "glm-5.3"
+}

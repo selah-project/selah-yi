@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "איין ציגן־באָק פֿאַר א חטא־אָפֿער.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ציגן־באָק"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "פֿון ציגן"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "פֿאַר א חטא־אָפֿער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:15:42.161501348Z",
+  "model": "glm-5.3"
+}

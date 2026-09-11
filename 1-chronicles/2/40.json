@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און אלעשה האָט געבאָרן ⟨את⟩ ססמי, און ססמי האָט געבאָרן ⟨את⟩ שלום.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "און אלעשה"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ססמי"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "ססמי"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "און ססמי"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "שלום"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "שלום"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:04.589168275Z",
+  "model": "glm-5.3"
+}

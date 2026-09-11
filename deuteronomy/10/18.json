@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "ער טוט משפּט פֿאַרן יתום און דער אלמנה, און ער ליבט דעם גר, צו געבן אים ברויט און אַ קלייד.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ער טוט"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "משפּט"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "פֿאַרן יתום"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "און דער אלמנה"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "און ער ליבט"
+    },
+    {
+      "surface": "גר",
+      "gloss": "דעם גר"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "צו געבן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ברויט"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "און אַ קלייד"
+    }
+  ],
+  "timestamp": "2026-09-11T02:40:08.407249297Z",
+  "model": "glm-5.3"
+}

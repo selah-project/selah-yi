@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "(די מענער פֿון דער צבא האָבן גערויבט, יעדער פֿאַר זיך.)",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "די מענער"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "פֿון דער צבא"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "האָבן גערויבט"
+    },
+    {
+      "surface": "איש",
+      "gloss": "יעדער"
+    },
+    {
+      "surface": "לו",
+      "gloss": "פֿאַר זיך"
+    }
+  ],
+  "timestamp": "2026-09-10T20:27:50.419036891Z",
+  "model": "glm-5.3"
+}

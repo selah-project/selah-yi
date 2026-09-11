@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "דער שווער פֿון משה האָט געזאָגט צו אים: נישט גוט איז דער זאַך וואָס דו טוסט.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "שווער"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "צו אים"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "דער זאַך"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "טוסט"
+    }
+  ],
+  "timestamp": "2026-09-10T19:43:58.199524713Z",
+  "model": "glm-5.3"
+}

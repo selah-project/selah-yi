@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "משמנה דער פֿערטער, ירמיה דער פֿינפֿטער.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "משמנה"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "דער פֿערטער"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ירמיה"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "דער פֿינפֿטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:44.120998499Z",
+  "model": "glm-5.3"
+}

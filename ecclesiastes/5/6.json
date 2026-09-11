@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "ווייל באַ אַ סך חלומות זײַנען דאָ הויכן און פֿיל ווערטער; אבער ירא זײַן זאָלסטו ⟨את⟩ אלהים.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווייל"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "באַ אַ סך"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "חלומות"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "און הויכן"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "און ווערטער"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "פֿיל"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אבער"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אלהים"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ירא זײַן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:52.358758501Z",
+  "model": "glm-5.3"
+}

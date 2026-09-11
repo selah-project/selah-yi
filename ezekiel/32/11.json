@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 32,
+  "translation": "װאָרום אַזױ האָט געזאָגט אדני יהוה: דאָס שװערד פֿון דעם מלך פֿון בבל װעט דיך קומען.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "װאָרום"
+    },
+    {
+      "surface": "כה",
+      "gloss": "אַזױ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "דאָס שװערד"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "בבל"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "װעט דיך קומען"
+    }
+  ],
+  "timestamp": "2026-09-10T23:14:13.380367727Z",
+  "model": "glm-5.3"
+}

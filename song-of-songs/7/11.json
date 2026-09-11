@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "איך געהער צו מײַן דוד, און זײַן תּשוקה איז אויף מיר.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "צו מײַן דוד"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "און אויף מיר"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "זײַן תּשוקה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:53:04.215490542Z",
+  "model": "glm-5.3"
+}

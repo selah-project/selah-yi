@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און אין ישוע, און אין מולדה, און אין בית פלט.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "און אין ישוע"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "און אין מולדה"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "און אין בית"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "פלט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:39.303997008Z",
+  "model": "glm-5.3"
+}

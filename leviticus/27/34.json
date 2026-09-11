@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "דאָס זײַנען די מצות װאָס יהוה האָט געבאָטן ⟨את⟩ משה פֿאַר די קינדער פֿון ישׂראל אויף הר סיני.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "דאָס זײַנען"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "די מצות"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "װאָס"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "האָט געבאָטן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "משה"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "אויף הר"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "סיני"
+    }
+  ],
+  "timestamp": "2026-09-10T20:09:48.714636140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און אסתר האָט געזאָגט צו התך און אים באַפֿוילן צו מרדכי:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "אסתר"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "צו התך"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "און אים באַפֿוילן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "מרדכי"
+    }
+  ],
+  "timestamp": "2026-09-11T04:49:17.485733553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "פֿון לאַכטן האָב איך געזאָגט: נאַריש; און פֿון פֿרייד — וואָס טוט זי?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "פֿון לאַכטן"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "האָב איך געזאָגט"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "נאַריש"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "און פֿון פֿרייד"
+    },
+    {
+      "surface": "מה",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "זה",
+      "gloss": "זי"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "טוט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:10.990088395Z",
+  "model": "glm-5.3"
+}

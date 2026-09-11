@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 43,
+  "translation": "איך, איך בין יהוה, און אָן מיר איז נישטאָ קיין מושיע.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "און נישטאָ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "אָן מיר"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "קיין מושיע"
+    }
+  ],
+  "timestamp": "2026-09-10T22:22:08.314333663Z",
+  "model": "glm-5.3"
+}

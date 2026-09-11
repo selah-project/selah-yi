@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "די שטימע פֿון יהוה ⟨איז⟩ מיט כּח; די שטימע פֿון יהוה ⟨איז⟩ מיט הדר.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "די שטימע"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "מיט כּח"
+    },
+    {
+      "surface": "קול",
+      "gloss": "די שטימע"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "מיט הדר"
+    }
+  ],
+  "timestamp": "2026-09-11T04:18:44.225088448Z",
+  "model": "glm-5.3"
+}

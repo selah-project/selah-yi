@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 32,
+  "translation": "ווײַל דער חלק פֿון יהוה איז זײַן פֿאלק; יעקב איז דער מאָס־שטריק פֿון זײַן ירושה.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "חלק"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "זײַן פֿאלק"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "מאָס־שטריק"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "זײַן ירושה"
+    }
+  ],
+  "timestamp": "2026-09-11T02:43:32.913454572Z",
+  "model": "glm-5.3"
+}

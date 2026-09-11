@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 37,
+  "translation": "הער אויף מיט כּעס און לאָז אָפּ חימה; גליע נישט — ס'פֿירט נאָר צו בייזטאָן.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "הער אויף מיט"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "כּעס"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "און לאָז אָפּ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "חימה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "גליע"
+    },
+    {
+      "surface": "אך",
+      "gloss": "נאָר"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "צו בייזטאָן"
+    }
+  ],
+  "timestamp": "2026-09-10T23:55:31.434727304Z",
+  "model": "glm-5.3"
+}

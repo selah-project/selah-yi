@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "פֿאַר חרם דער דריטער, פֿאַר שערים דער פֿערטער.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "פֿאַר חרם"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "דער דריטער"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "פֿאַר שערים"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "דער פֿערטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:42:20.489312860Z",
+  "model": "glm-5.3"
+}

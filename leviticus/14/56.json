@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "און פֿאַר אַ שאת און פֿאַר אַ ספחת און פֿאַר אַ בהרת.",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "און פֿאַר אַ שאת"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "און פֿאַר אַ ספחת"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "און פֿאַר אַ בהרת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:01:38.458361562Z",
+  "model": "glm-5.3"
+}

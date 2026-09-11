@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די מענער פֿון מכמס — הונדערט צוואַנציק און צוויי.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "די מענער"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "פֿון מכמס"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "און צוואַנציק"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "און צוויי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:25:00.429195153Z",
+  "model": "glm-5.3"
+}

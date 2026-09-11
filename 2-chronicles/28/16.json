@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "אין יענער צײַט האט דער מלך אחז געשיקט צו די מלכים פֿון אַשור, אים צו העלפֿן.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "אין צײַט"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "יענער"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "האט געשיקט"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "דער מלך"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "אחז"
+    },
+    {
+      "surface": "על",
+      "gloss": "צו"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "די מלכים"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "פֿון אַשור"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "צו העלפֿן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:59:32.490075497Z",
+  "model": "glm-5.3"
+}

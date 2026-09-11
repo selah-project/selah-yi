@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און יקים און זכרי און זבדי.",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "און יקים"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "און זכרי"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "און זבדי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:18.721572734Z",
+  "model": "glm-5.3"
+}

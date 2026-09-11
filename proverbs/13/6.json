@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "צדקה היט דעם תּם זײַן וועג, און רשעה דרייט איבער די חטאה.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "צדקה"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "היט"
+    },
+    {
+      "surface": "תם",
+      "gloss": "דעם תּם"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "זײַן וועג"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "און רשעה"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "דרייט איבער"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "די חטאה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:26:39.806435315Z",
+  "model": "glm-5.3"
+}

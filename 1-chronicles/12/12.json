@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "עתי דער זעקסטער, אליאל דער זיבעטער.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "עתי"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "דער זעקסטער"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "אליאל"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "דער זיבעטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:44.121098455Z",
+  "model": "glm-5.3"
+}

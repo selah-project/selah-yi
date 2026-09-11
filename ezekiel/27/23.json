@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 27:23",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "חרן, כנה און עדן — די סוחרים פֿון שבא, אשור (און) כלמד זײַנען געווען דײַנע סוחרים.",
+  "tokens": [
+    {
+      "surface": "חרן",
+      "gloss": "חרן"
+    },
+    {
+      "surface": "וכנה",
+      "gloss": "כנה"
+    },
+    {
+      "surface": "ועדן",
+      "gloss": "און עדן"
+    },
+    {
+      "surface": "רכלי",
+      "gloss": "סוחרים"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "פֿון שבא"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "אשור"
+    },
+    {
+      "surface": "כלמד",
+      "gloss": "כלמד"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "דײַנע סוחרים"
+    }
+  ],
+  "timestamp": "2026-09-10T23:12:05.800997660Z",
+  "model": "glm-5.3"
+}

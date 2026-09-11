@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "דורך מיר הערשן שרים, און נדיבים, אַלע שופֿטים פֿון צדק.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "דורך מיר"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "שרים"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "הערשן"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "און נדיבים"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "שופֿטים"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "צדק"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:26.694429901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "ווײַל גרויס איז יהוה און זײַר געלויבט, און שרעקלעך איז ער איבער אַלע געטער.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרויס"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "און געלויבט"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "זײַר"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "און שרעקלעך"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "געטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:37:56.981354135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 73,
+  "translation": "און זיי זאָגן: ווי קען אל וויסן, און איז דאָ דעת בעליון?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "און זיי זאָגן"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "קען וויסן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "און איז דאָ"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "דעת"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "בעליון"
+    }
+  ],
+  "timestamp": "2026-09-11T00:04:46.047679875Z",
+  "model": "glm-5.3"
+}

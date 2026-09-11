@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "nehemiah 7:45",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די טיר־היטער: בני שלום, בני אטר, בני טלמון, בני עקוב, בני חטיטא, בני שובי — א הונדערט און אַכט און דרײַסיג.",
+  "tokens": [
+    {
+      "surface": "השערים",
+      "gloss": "די טיר־היטער"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "שלום"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "אטר"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "טלמן",
+      "gloss": "טלמון"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "עקוב"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "חטיטא",
+      "gloss": "חטיטא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "שובי"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "א הונדערט"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "דרײַסיג"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "און אַכט"
+    }
+  ],
+  "timestamp": "2026-09-11T14:46:59.006729336Z",
+  "model": "glm-5.3"
+}

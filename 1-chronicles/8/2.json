@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "נחה דער פֿערטער, און רפא דער פֿינפֿטער.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "נחה"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "דער פֿערטער"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "און רפא"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "דער פֿינפֿטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:41.509247093Z",
+  "model": "glm-5.3"
+}

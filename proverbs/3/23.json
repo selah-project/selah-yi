@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "דאַן וועסטו גיין בטח דײַן וועג, און דײַן פֿוס וועט נישט אָנשטויסן.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "דאַן"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "וועסטו גיין"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "בטח"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "דײַן וועג"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "און דײַן פֿוס"
+    },
+    {
+      "surface": "לא",
+      "gloss": "וועט נישט"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "אָנשטויסן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:23:21.003547682Z",
+  "model": "glm-5.3"
+}

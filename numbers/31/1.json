@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "און יהוה האָט גערעדט צו משה זאָגנדיק:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "זאָגנדיק"
+    }
+  ],
+  "timestamp": "2026-09-10T20:28:39.089880352Z",
+  "model": "glm-5.3"
+}

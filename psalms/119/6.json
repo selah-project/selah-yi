@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 119,
+  "translation": "דאַן וועל איך זיך נישט שעמען, ווען איך קוק אויף אַלע דײַנע מצוות.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "דאַן"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "וועל איך זיך שעמען"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "ווען איך קוק"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "דײַנע מצוות"
+    }
+  ],
+  "timestamp": "2026-09-11T00:16:29.677336011Z",
+  "model": "glm-5.3"
+}

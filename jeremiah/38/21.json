@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 38,
+  "translation": "און אויב דו װילסט נישט אַרױסגיין, דאָס איז דאָס װאָרט װאָס יהוה האָט מיר געװיזן:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "און אויב"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "װילסט נישט"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "אַרױסגיין"
+    },
+    {
+      "surface": "זה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "װאָרט"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "װאָס"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "האָט מיר געװיזן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T22:52:18.787319915Z",
+  "model": "glm-5.3"
+}

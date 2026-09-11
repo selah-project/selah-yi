@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און שאול איז געשטארבן, און בעל חנן, זון פֿון עכבור, האָט געקעניגט אין זײַן אָרט.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "איז געשטארבן"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "שאול"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "האָט געקעניגט"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "אין זײַן אָרט"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "בעל"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "חנן"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "עכבור"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:49.184473093Z",
+  "model": "glm-5.3"
+}

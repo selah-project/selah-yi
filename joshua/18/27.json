@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "און רקם און ירפאל און תראלה.",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "און רקם"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "און ירפאל"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "און תראלה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:24.858150526Z",
+  "model": "glm-5.3"
+}

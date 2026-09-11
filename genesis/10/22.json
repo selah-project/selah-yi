@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "די זין פֿון שם: עילם און אשור און ארפּכשד און לוד און ארם.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "שם",
+      "gloss": "פֿון שם"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "עילם"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "און אשור"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "און ארפּכשד"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "און לוד"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "און ארם"
+    }
+  ],
+  "timestamp": "2026-09-10T19:13:45.813598965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "דער מלך פֿון לבנה, איינער; דער מלך פֿון עדלם, איינער;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "דער מלך"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "פֿון לבנה"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "דער מלך"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "פֿון עדלם"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:53:06.383216206Z",
+  "model": "glm-5.3"
+}

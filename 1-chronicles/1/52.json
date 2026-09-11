@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "אלוף אהליבמה, אלוף אלה, אלוף פּינן.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "אהליבמה"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "אלה"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "פּינן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:49.185294871Z",
+  "model": "glm-5.3"
+}

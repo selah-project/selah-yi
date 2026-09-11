@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "געדענק מײַן עני און מײַן מרוד — דאָס לענה און דער ראָש.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "געדענק"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "מײַן עני"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "און מײַן מרוד"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "דאָס לענה"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "און דער ראָש"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:31.938357962Z",
+  "model": "glm-5.3"
+}

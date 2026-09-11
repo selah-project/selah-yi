@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און זבדיה און משלם און חזקי און חבר.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "און זבדיה"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "און משלם"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "און חזקי"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "און חבר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:18.721151740Z",
+  "model": "glm-5.3"
+}

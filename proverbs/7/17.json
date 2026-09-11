@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "איך האָב אָנגעשפּריצט מײַן בעט — מאָר, אַלאָעס און צימעט.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "איך האָב אָנגעשפּריצט"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "מײַן בעט"
+    },
+    {
+      "surface": "מר",
+      "gloss": "מאָר"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "אַלאָעס"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "און צימעט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:43.711640319Z",
+  "model": "glm-5.3"
+}

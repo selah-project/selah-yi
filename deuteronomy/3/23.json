@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און איך האָב זיך אויסגעבעטן בײַ יהוה אין דער צײַט ההיא, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "האָב איך זיך אויסגעבעטן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "בײַ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "אין דער צײַט"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ההיא"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:32:46.255270421Z",
+  "model": "glm-5.3"
+}

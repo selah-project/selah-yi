@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון חרם: אַ טויזנט זיבעצן.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "חרם"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "אַ טויזנט"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "זיבן"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "עשר — זיבעצן"
+    }
+  ],
+  "timestamp": "2026-09-11T04:56:55.222925237Z",
+  "model": "glm-5.3"
+}

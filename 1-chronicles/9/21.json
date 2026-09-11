@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "זכריה בן משלמיה איז געווען טיר־היטער בײַם פּתח פֿון דעם אָהל מועד.",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "זכריה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "משלמיה"
+    },
+    {
+      "surface": "שער",
+      "gloss": "טיר־היטער"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "פּתח"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "אָהל"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "מועד"
+    }
+  ],
+  "timestamp": "2026-09-11T01:35:03.642423049Z",
+  "model": "glm-5.3"
+}

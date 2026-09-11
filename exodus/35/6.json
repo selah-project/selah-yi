@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 35,
+  "translation": "און תכלת און ארגמן און תולעת שני, און שש און ציגן־האָר.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "און תכלת"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "און ארגמן"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "און תולעת"
+    },
+    {
+      "surface": "שני",
+      "gloss": "שני"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "און שש"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "און ציגן־האָר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:51:34.258182017Z",
+  "model": "glm-5.3"
+}

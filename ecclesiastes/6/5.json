@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "אפֿילו די זון האָט ער נישט געזען, און ער האָט נישט געוואוסט; האָט דער דאָזיקער מער רו ווי דער יענער.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "אפֿילו"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "די זון"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "געזען"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "געוואוסט"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "רו"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "דער דאָזיקער"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ווי דער יענער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:42.041909845Z",
+  "model": "glm-5.3"
+}

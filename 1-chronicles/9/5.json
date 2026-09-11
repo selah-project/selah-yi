@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און פֿון די שילונער: עשיה דער בכור און זײַנע זין.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "און פֿון"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "די שילונער"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "עשיה"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "דער בכור"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "און זײַנע זין"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:55.011476155Z",
+  "model": "glm-5.3"
+}

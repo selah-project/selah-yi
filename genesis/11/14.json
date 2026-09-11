@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און שלח האָט געלעבט דרײַ און דרײַציק יאָר, און האָט געהאַט ⟨את⟩ עבר.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "און שלח"
+    },
+    {
+      "surface": "חי",
+      "gloss": "האָט געלעבט"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "דרײַציק"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "עבר"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "עבר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:14:04.352526478Z",
+  "model": "glm-5.3"
+}

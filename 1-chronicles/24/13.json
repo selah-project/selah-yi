@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "דער דרײַצנטער פֿאַר חפּה, דער פֿערצנטער פֿאַר ישבאב.",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "פֿאַר חפּה"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צן"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "פֿאַר ישבאב"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "פֿיר"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צן"
+    }
+  ],
+  "timestamp": "2026-09-11T05:01:07.477259885Z",
+  "model": "glm-5.3"
+}

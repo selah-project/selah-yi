@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 148,
+  "translation": "בערג און אַלע היגלעך, פֿרוכטביימער און אַלע ארזים,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "בערג"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "און אַלע"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "היגלעך"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ביימער"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "פֿרוכט־"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "און אַלע"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ארזים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:21:51.594592902Z",
+  "model": "glm-5.3"
+}

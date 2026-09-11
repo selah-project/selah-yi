@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 136,
+  "translation": "דאַנקט יהוה, ווײַל ער איז גוט, ווײַל צו נצח איז זײַן חסד.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "דאַנקט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "צו נצח"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "זײַן חסד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:20:16.354890854Z",
+  "model": "glm-5.3"
+}

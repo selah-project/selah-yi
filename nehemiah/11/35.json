@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "לד, און אונו, גײַ פֿון די חרשים.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "לד"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "און אונו"
+    },
+    {
+      "surface": "גי",
+      "gloss": "גײַ"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "פֿון די חרשים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:14.900184973Z",
+  "model": "glm-5.3"
+}

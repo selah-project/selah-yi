@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "בענא בן חושי, אין אשר און אין בעלות.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "בענא"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "חושי"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "אין אשר"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "און אין בעלות"
+    }
+  ],
+  "timestamp": "2026-09-10T21:40:11.719362301Z",
+  "model": "glm-5.3"
+}

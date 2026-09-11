@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 92,
+  "translation": "און דו ביסט הויך אויף אייביק, יהוה.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "און דו"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "הויך"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "אויף אייביק"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:10:08.553594768Z",
+  "model": "glm-5.3"
+}

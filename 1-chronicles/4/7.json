@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און די זין פֿון חלאה: צרת, יצחר און אתנן.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "פֿון חלאה"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "צרת"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "יצחר"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "און אתנן"
+    }
+  ],
+  "timestamp": "2026-09-11T04:57:45.943603599Z",
+  "model": "glm-5.3"
+}

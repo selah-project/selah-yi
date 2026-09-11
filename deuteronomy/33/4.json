@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "אַ תּורה האָט משה אונדז געגעבן צו געהאַלטן — אַ ירושה פֿאַר די קהילה פֿון יעקב.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "אַ תּורה"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "האָט געגעבן צו געהאַלטן"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "אונדז"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "אַ ירושה"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "פֿאַר די קהילה"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "פֿון יעקב"
+    }
+  ],
+  "timestamp": "2026-09-10T20:48:04.271160866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און ⟨את⟩ דער דאה, און ⟨את⟩ די איה לויט איר מין.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דער דאה"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "דער דאה"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "די איה"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "די איה"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "לויט איר מין"
+    }
+  ],
+  "timestamp": "2026-09-10T19:59:30.588725962Z",
+  "model": "glm-5.3"
+}

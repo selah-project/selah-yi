@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 20:29",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "די תפארת פון בחורים איז זייער כוח, און דער הדר פון זקנים איז שיבה.",
+  "tokens": [
+    {
+      "surface": "תפארת",
+      "gloss": "תפארת"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "בחורים"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "זייער כוח"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "און דער הדר"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "פון זקנים"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "שיבה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:29:44.956495466Z",
+  "model": "glm-5.3"
+}

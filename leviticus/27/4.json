@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "און אויב זי איז אַ נקבה, זאָל דײַן אָפּשאַצונג זײַן דרײַסיק שקל.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "און אויב"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "אַ נקבה"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "זי איז"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "זאָל זײַן"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "דײַן אָפּשאַצונג"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "דרײַסיק"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "שקל"
+    }
+  ],
+  "timestamp": "2026-09-10T20:11:04.761198773Z",
+  "model": "glm-5.3"
+}

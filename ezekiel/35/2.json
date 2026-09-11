@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 35,
+  "translation": "זון פֿון מענטש, שטעל דײַן פּנים אויף דעם באַרג שעיר, און נביא־זאָג אויף אים:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "פֿון מענטש"
+    },
+    {
+      "surface": "שים",
+      "gloss": "שטעל"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "דײַן פּנים"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הר",
+      "gloss": "דעם באַרג"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "שעיר"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "און נביא־זאָג"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "אויף אים"
+    }
+  ],
+  "timestamp": "2026-09-10T23:16:23.725963386Z",
+  "model": "glm-5.3"
+}

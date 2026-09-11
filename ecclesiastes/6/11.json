@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "ווײַל ס׳איז דאָ זאַכן פֿיל, וואָס מערן דעם הויך — וואָס איז איבעריק פֿאַרן מענטשן?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ס׳איז דאָ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "זאַכן"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "פֿיל"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "וואָס מערן"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "הויך"
+    },
+    {
+      "surface": "מה",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "איז איבעריק"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "פֿאַרן מענטשן"
+    }
+  ],
+  "timestamp": "2026-09-11T04:48:49.084988538Z",
+  "model": "glm-5.3"
+}

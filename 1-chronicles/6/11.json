@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "אלקנה — די זין פֿון אלקנה: צופי זײַן זון און נחת זײַן זון.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "אלקנה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "אלקנה"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "צופי"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "און נחת"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:32.979332207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די קינדער פֿון גבר — נײַן און נײַציג.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "גבר"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "נײַציג"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "און פֿינף"
+    }
+  ],
+  "timestamp": "2026-09-11T01:14:33.889941152Z",
+  "model": "glm-5.3"
+}

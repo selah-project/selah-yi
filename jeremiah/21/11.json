@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און צום הויז פֿון מלך יהודה: הערט דאָס וואָרט פֿון יהוה.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "און צום הויז"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "יהודה"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "הערט"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T22:42:00.280169434Z",
+  "model": "glm-5.3"
+}

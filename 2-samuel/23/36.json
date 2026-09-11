@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "יגאל זון פֿון נתן פֿון צובה; בני דער גדי.",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "יגאל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "נתן"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "פֿון צובה"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "דער גדי"
+    }
+  ],
+  "timestamp": "2026-09-10T21:38:09.447035084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "דעם נאַרן שטעלט מען אויף הויכע אָרט אַ סך, און רײַכע זיצן אין דער נידריגקייט.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "שטעלט מען"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "דעם נאַרן"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "אויף הויכע אָרט"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "אַ סך"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "און רײַכע"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "אין דער נידריגקייט"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "זיצן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:14.782369105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "גבעון און הרמה און בארות.",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "גבעון"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "און הרמה"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "און בארות"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:24.857729172Z",
+  "model": "glm-5.3"
+}

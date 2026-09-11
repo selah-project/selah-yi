@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "און יוידע האָט געהאַט ⟨את⟩ יונתן; און יונתן האָט געהאַט ⟨את⟩ ידוע.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "און יוידע"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יונתן"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "יונתן"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "און יונתן"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ידוע"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ידוע"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:06.926432163Z",
+  "model": "glm-5.3"
+}

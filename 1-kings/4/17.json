@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "יהושפט זון פֿון פרוחַ אין יששכר.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "יהושפט"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "פֿון פרוחַ"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "אין יששכר"
+    }
+  ],
+  "timestamp": "2026-09-11T02:59:13.611538793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "אַלע טעג וואָס ער זעט זיך אָפּ פֿאַר יהוה, זאָל ער נישט צוגיין צו קיין טויטער נפֿש.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "ער זעט זיך אָפּ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "פֿאַר יהוה"
+    },
+    {
+      "surface": "על",
+      "gloss": "צו"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפֿש"
+    },
+    {
+      "surface": "מת",
+      "gloss": "טויטער"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "זאָל ער צוגיין"
+    }
+  ],
+  "timestamp": "2026-09-10T20:13:52.366461169Z",
+  "model": "glm-5.3"
+}

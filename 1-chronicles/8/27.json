@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און יערשיה, און אליה, און זכרי, זין פֿון ירחם.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "און יערשיה"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "און אליה"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "און זכרי"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין פֿון"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ירחם"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:41.949635420Z",
+  "model": "glm-5.3"
+}

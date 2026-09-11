@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 82,
+  "translation": "איך האָב געזאָגט: אלהים זייט איר, און זין פֿון עליון — איר אַלע.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "האָב געזאָגט"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "איר"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "און זין פֿון"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "עליון"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "איר אַלע"
+    }
+  ],
+  "timestamp": "2026-09-11T00:06:43.606118105Z",
+  "model": "glm-5.3"
+}

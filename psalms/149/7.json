@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 149,
+  "translation": "צו טון נקמה אין די פעלקער, תוכחות אין די לעומים;",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "צו טון"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "נקמה"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "אין די פעלקער"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "תוכחות"
+    },
+    {
+      "surface": "בל",
+      "gloss": "אין די"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "לעומים"
+    }
+  ],
+  "timestamp": "2026-09-11T14:43:05.918093197Z",
+  "model": "glm-5.3"
+}

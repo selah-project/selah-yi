@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 36,
+  "translation": "אלוף קנז, אלוף תימן, אלוף מבצר.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "קנז"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "תימן"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "אלוף"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "מבצר"
+    }
+  ],
+  "timestamp": "2026-09-11T02:12:30.948051666Z",
+  "model": "glm-5.3"
+}

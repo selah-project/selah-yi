@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "אויב פֿון יאָר היובל הייליקט ער זײַן פֿעלד, ווי דײַן שאַץ וועט ער שטיין.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "אויב"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "פֿון יאָר"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "היובל"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "הייליקט"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "זײַן פֿעלד"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "ווי דײַן שאַץ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "וועט ער שטיין"
+    }
+  ],
+  "timestamp": "2026-09-10T20:11:30.899730584Z",
+  "model": "glm-5.3"
+}

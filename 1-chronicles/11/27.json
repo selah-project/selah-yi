@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "שמות דער הרורי, חלץ דער פלוני.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "שמות"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "דער הרורי"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "חלץ"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "דער פלוני"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:57.815571121Z",
+  "model": "glm-5.3"
+}

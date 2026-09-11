@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "משיזבאל, צדוק, ידוע;",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "משיזבאל"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "צדוק"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ידוע"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:10.534624686Z",
+  "model": "glm-5.3"
+}

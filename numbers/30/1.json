@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "און משה האט גערעדט צו די קינדער פֿון ישׂראל לויט אַלעם וואָס יהוה האט געהייסן ⟨את⟩ משה.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "האט גערעדט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "לויט אַלעם"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "האט געהייסן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "משה"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:28:47.341797664Z",
+  "model": "glm-5.3"
+}

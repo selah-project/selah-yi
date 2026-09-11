@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 128,
+  "translation": "זע, אַזױ װעט געבענטשט װערן דער מאַן װאָס ירא איז יהוה.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַזױ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "אַזױ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "װעט געבענטשט װערן"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "דער מאַן"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ירא איז"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T04:33:40.849811069Z",
+  "model": "glm-5.3"
+}

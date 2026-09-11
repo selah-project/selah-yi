@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "אַלע טייכן גייען צום ים, און דער ים ווערט נישט פֿול; צום אָרט וווּ די טייכן גייען, דאָרט קערן זיי צוריק צו גיין.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "טייכן"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "גייען"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צום"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ים"
+    },
+    {
+      "surface": "והים",
+      "gloss": "און דער ים"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "איז נישט"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "פֿול"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צום"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "אָרט"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "וווּ די טייכן"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "גייען"
+    },
+    {
+      "surface": "שם",
+      "gloss": "דאָרט"
+    },
+    {
+      "surface": "הם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "קערן צוריק"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "צו גיין"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:12.454417778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און נח איז געווען אַ זון פֿון פֿינף הונדערט יאָר, און נח האָט געבוירן ⟨את⟩ שם, ⟨את⟩ חם און ⟨את⟩ יפת.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "איז געווען"
+    },
+    {
+      "surface": "נח",
+      "gloss": "נח"
+    },
+    {
+      "surface": "בן",
+      "gloss": "אַ זון פֿון"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "פֿינף"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "האָט געבוירן"
+    },
+    {
+      "surface": "נח",
+      "gloss": "נח"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "שם"
+    },
+    {
+      "surface": "שם",
+      "gloss": "שם"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "חם"
+    },
+    {
+      "surface": "חם",
+      "gloss": "חם"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "יפת"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "יפת"
+    }
+  ],
+  "timestamp": "2026-09-11T02:07:59.403403321Z",
+  "model": "glm-5.3"
+}

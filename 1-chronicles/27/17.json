@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "איבער לוי — חשביה בן קמואל; איבער אהרן — צדוק.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "איבער לוי"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "חשביה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "קמואל"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "איבער אהרן"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "צדוק"
+    }
+  ],
+  "timestamp": "2026-09-11T05:03:14.360732393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "גוט איז צו האָפֿן און שטיל זײַן אויף די ישועה פֿון יהוה.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "און האָפֿן"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "און שטיל זײַן"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "אויף די ישועה פֿון"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:56:00.579341090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און עבר האָט געלעבט פֿיר און דרײַציק יאָר, און האָט געהאַט ⟨את⟩ פלג.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "האָט געלעבט"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "עבר"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "פֿיר"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "און דרײַציק"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "פלג"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "פלג"
+    }
+  ],
+  "timestamp": "2026-09-10T19:14:04.352866638Z",
+  "model": "glm-5.3"
+}

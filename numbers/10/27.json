@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און איבער דעם צבא פֿון שבט פֿון די קינדער פֿון נפתלי — אחירע זון פֿון עינן.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "און איבער"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "צבא"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "שבט"
+    },
+    {
+      "surface": "בני",
+      "gloss": "פֿון די קינדער"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "פֿון נפתלי"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "אחירע"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "פֿון עינן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:15:49.512150653Z",
+  "model": "glm-5.3"
+}

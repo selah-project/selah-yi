@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "פֿאַרן שבט פֿון זבולון: גדיאל, זון פֿון סודי.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "פֿאַרן שבט פֿון"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "זבולון"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "גדיאל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "סודי"
+    }
+  ],
+  "timestamp": "2026-09-10T20:17:32.133858025Z",
+  "model": "glm-5.3"
+}

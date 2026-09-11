@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 46:13",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 46,
+  "translation": "און די זין פֿון יששכר: תולע און פוה און יוב און שמרון.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "יששכר"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "תולע"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "און פוה"
+    },
+    {
+      "surface": "ויוב",
+      "gloss": "און יוב"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "און שמרון"
+    }
+  ],
+  "timestamp": "2026-09-10T19:32:03.867523425Z",
+  "model": "glm-5.3"
+}

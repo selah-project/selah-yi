@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "שרוג, נחור, תרח,",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "שרוג"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "נחור"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "תרח"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:36.486048467Z",
+  "model": "glm-5.3"
+}

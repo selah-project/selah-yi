@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "בן שלום, בן צדוק, בן אחיטוב.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "שלום"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "צדוק"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "אחיטוב"
+    }
+  ],
+  "timestamp": "2026-09-11T01:18:09.225903445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 26:18",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 26,
+  "translation": "לפּרבֿר, למערב, פֿיר; אויף דער מסלה צוויי; לפּרבֿר.",
+  "tokens": [
+    {
+      "surface": "לפרבר",
+      "gloss": "לפּרבֿר"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "למערב"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "פֿיר"
+    },
+    {
+      "surface": "למסלה",
+      "gloss": "אויף דער מסלה"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "לפרבר",
+      "gloss": "לפּרבֿר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:43:58.986215674Z",
+  "model": "glm-5.3"
+}

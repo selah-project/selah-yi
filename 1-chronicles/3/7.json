@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און נגה און נפג און יפיע.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "און נגה"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "און נפג"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "און יפיע"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:09.196879260Z",
+  "model": "glm-5.3"
+}

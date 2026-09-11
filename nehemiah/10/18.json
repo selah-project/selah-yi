@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "אטר, חזקיה, עזור,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "אטר"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "חזקיה"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "עזור"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:20.520112420Z",
+  "model": "glm-5.3"
+}

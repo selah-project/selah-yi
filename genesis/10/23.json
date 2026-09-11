@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און די זין פֿון ארם: עוץ און חול און גתר און מש.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "פֿון ארם"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "עוץ"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "און חול"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "און גתר"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "און מש"
+    }
+  ],
+  "timestamp": "2026-09-10T19:13:45.813770403Z",
+  "model": "glm-5.3"
+}

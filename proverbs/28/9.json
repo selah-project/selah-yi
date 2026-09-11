@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "װער טוט אַװעק זײַן אױר פֿון הערן תּורה, אױך זײַן תּפֿילה איז אַ תּועבה.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "טוט אַװעק"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "זײַן אױר"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "פֿון הערן"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "תּורה"
+    },
+    {
+      "surface": "גם",
+      "gloss": "אױך"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "זײַן תּפֿילה"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "אַ תּועבה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:33:15.364384266Z",
+  "model": "glm-5.3"
+}

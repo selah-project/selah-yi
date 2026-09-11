@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "ווער ליבט מוסר, ליבט דעת; און ווער פארכט תוכחה איז א בהמה'דיקער.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ליבט"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "מוסר"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ליבט"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "דעת"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "און פארכט"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "תוכחה"
+    },
+    {
+      "surface": "בער",
+      "gloss": "איז א בהמה'דיקער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:16.786044173Z",
+  "model": "glm-5.3"
+}

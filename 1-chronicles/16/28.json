@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 16:28",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "געבט צו יהוה, משפּחות פֿון די פֿעלקער; געבט צו יהוה כּבֿוד און תּקף.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "געבט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "צו יהוה"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "משפּחות"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "פֿון די פֿעלקער"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "געבט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "צו יהוה"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "כּבֿוד"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "און תּקף"
+    }
+  ],
+  "timestamp": "2026-09-11T01:37:56.983825893Z",
+  "model": "glm-5.3"
+}

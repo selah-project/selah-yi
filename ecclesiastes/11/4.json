@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "ווער ער וואַרט אויף דעם ווינט, זייט ער נישט; און ווער קוקט אויף די וואָלקנעס, שניידט ער נישט.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "וואַרט"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "אויף דעם ווינט"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "זייט ער"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "און … קוקט"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "אויף די וואָלקנעס"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "שניידט ער"
+    }
+  ],
+  "timestamp": "2026-09-11T04:47:16.504667668Z",
+  "model": "glm-5.3"
+}

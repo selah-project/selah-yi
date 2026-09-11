@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "און יהוה האָט גערעדט צו משה און צו אהרן אויף הר ההר, בײַם גרענעץ פֿון לאַנד אדום, און געזאָגט:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און צו"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "אהרן"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "אויף הר"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ההר"
+    },
+    {
+      "surface": "על",
+      "gloss": "בײַ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "גרענעץ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "לאַנד"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "אדום"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "און געזאָגט"
+    }
+  ],
+  "timestamp": "2026-09-11T02:33:44.284529757Z",
+  "model": "glm-5.3"
+}

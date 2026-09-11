@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און יואל, און יהוא זון פֿון יושביה, זון פֿון שריה, זון פֿון עשיאל —",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "און יואל"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "און יהוא"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "יושביה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "שריה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "עשיאל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:28.299940198Z",
+  "model": "glm-5.3"
+}

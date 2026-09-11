@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און מיכאל, און ישפּה, און יוחא — זין פֿון בריעה.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "און מיכאל"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "און ישפּה"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "און יוחא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "פֿון בריעה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:06.532279089Z",
+  "model": "glm-5.3"
+}

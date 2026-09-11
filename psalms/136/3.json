@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 136,
+  "translation": "דאַנקט די הררי׳ן פֿון די הררי׳ן, ווײַל צו נצח איז זײַן חסד.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "דאַנקט"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "די הררי׳ן פֿון"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "די הררי׳ן"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "צו נצח"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "זײַן חסד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:20:16.355258505Z",
+  "model": "glm-5.3"
+}

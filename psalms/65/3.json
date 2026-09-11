@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 65,
+  "translation": "הערער פֿון תּפֿילה, צו דיר וועט אַלע בשר קומען.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "הערער"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "פֿון תּפֿילה"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "צו דיר"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "בשר"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "וועט קומען"
+    }
+  ],
+  "timestamp": "2026-09-11T00:02:37.392746339Z",
+  "model": "glm-5.3"
+}

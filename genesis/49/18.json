@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 49:18",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 49,
+  "translation": "אויף דײַן ישועה האָב איך געוואַרט, יהוה.",
+  "tokens": [
+    {
+      "surface": "לישועתך",
+      "gloss": "אויף דײַן ישועה"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "האָב איך געוואַרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:34:49.408283745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "און עס איז געווען דבר יהוה צו ירמיהו פֿון ⟨את⟩ יהוה, צו זאָגן",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און עס איז געווען"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דבר"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ירמיהו"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "פֿון ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T22:49:26.844948135Z",
+  "model": "glm-5.3"
+}

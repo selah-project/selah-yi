@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "און משה, עבד פֿון יהוה, איז דאָרט געשטאָרבן אין לאַנד מואב, לויטן וואָרט פֿון יהוה.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "און … איז געשטאָרבן"
+    },
+    {
+      "surface": "שם",
+      "gloss": "דאָרט"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "עבד"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אין לאַנד"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "מואב"
+    },
+    {
+      "surface": "על",
+      "gloss": "לויט"
+    },
+    {
+      "surface": "פי",
+      "gloss": "וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:48:29.746850650Z",
+  "model": "glm-5.3"
+}

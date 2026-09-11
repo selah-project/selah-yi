@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און אחיטוב האָט געבאָרן ⟨את⟩ צדוק, און צדוק האָט געבאָרן ⟨את⟩ שלום.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "און אחיטוב"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "צדוק"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "צדוק"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "און צדוק"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "שלום"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "שלום"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:08.642516579Z",
+  "model": "glm-5.3"
+}

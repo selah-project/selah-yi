@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "די ברכה פֿון יהוה — זי מאַכט רײַך, און ער לײָגט צו קיין צרה דערצו.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "די ברכה"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "היא",
+      "gloss": "זי"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "מאַכט רײַך"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "לײָגט צו"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "קיין צרה"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "דערצו"
+    }
+  ],
+  "timestamp": "2026-09-11T14:43:09.921309223Z",
+  "model": "glm-5.3"
+}

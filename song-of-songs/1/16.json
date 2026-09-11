@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "זע, שיין ביסטו, מײַן געליבטער, אויך נעמלעך; אויך אונדזער בעט איז בלומענדיק־גרין.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "זע"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "שיין"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "מײַן געליבטער"
+    },
+    {
+      "surface": "אף",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "נעמלעך"
+    },
+    {
+      "surface": "אף",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "אונדזער בעט"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "בלומענדיק־גרין"
+    }
+  ],
+  "timestamp": "2026-09-11T00:50:48.210413683Z",
+  "model": "glm-5.3"
+}

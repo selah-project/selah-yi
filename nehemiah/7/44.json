@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די זינגער: בני אסף — א הונדערט און אַכט און פערציק.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "די זינגער"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "אסף"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "א הונדערט"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "פערציק"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "און אַכט"
+    }
+  ],
+  "timestamp": "2026-09-11T14:46:59.005410805Z",
+  "model": "glm-5.3"
+}

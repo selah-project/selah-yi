@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "אַ צײַט צו וויינען, און אַ צײַט צו לאַכן; אַ צײַט צו ווײַזמען, און אַ צײַט צו רקודן.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "אַ צײַט"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "צו וויינען"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "און אַ צײַט"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "צו לאַכן"
+    },
+    {
+      "surface": "עת",
+      "gloss": "אַ צײַט"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "צו ווײַזמען"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "און אַ צײַט"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "צו רקודן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:43.824540627Z",
+  "model": "glm-5.3"
+}

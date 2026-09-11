@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און עובד האָט געבאָרן ⟨את⟩ יהוא, און יהוא האָט געבאָרן ⟨את⟩ עזריה.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "און עובד"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יהוא"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "יהוא"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "און יהוא"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געבאָרן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "עזריה"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "עזריה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:04.588804994Z",
+  "model": "glm-5.3"
+}

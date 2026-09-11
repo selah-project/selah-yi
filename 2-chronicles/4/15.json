@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "⟨את⟩ דעם איינעם ים, און ⟨את⟩ די צוועלף בקר דורכן אונטער אים.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם איינעם ים"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ים"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "דעם איינעם"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "די צוועלף בקר"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "די בקר"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוועלף"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צוועלף"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "דורכן אונטער אים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:47:02.379329322Z",
+  "model": "glm-5.3"
+}

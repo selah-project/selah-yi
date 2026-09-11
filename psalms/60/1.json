@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 60,
+  "translation": "פארן מנצח, אויף שושן עדות, א מכתם פון דוד, צו לערנען.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פארן מנצח"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "שושן"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "עדות"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "א מכתם"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פון דוד"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "צו לערנען"
+    }
+  ],
+  "timestamp": "2026-09-11T00:01:33.796607894Z",
+  "model": "glm-5.3"
+}

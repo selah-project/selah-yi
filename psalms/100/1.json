@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 100,
+  "translation": "א מזמור פֿון דאַנק: רופֿט אויס צו יהוה, די גאַנצע ערד.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "פֿון דאַנק"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "רופֿט אויס"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "צו יהוה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "די גאַנצע"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ערד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:12:02.341117679Z",
+  "model": "glm-5.3"
+}

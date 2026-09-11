@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "און דו זאָלסט לייגן אין די ארון ⟨את⟩ די עדות וואָס איך וועל דיר געבן.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "און דו זאָלסט לייגן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אין"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "די ארון"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "די עדות"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "די עדות"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "איך וועל געבן"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "דיר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:47:34.487700472Z",
+  "model": "glm-5.3"
+}

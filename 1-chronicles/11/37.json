@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "חצרו דער כרמלי, נערי זון פֿון אזבי;",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "חצרו"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "דער כרמלי"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "נערי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "אזבי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:31.509429973Z",
+  "model": "glm-5.3"
+}

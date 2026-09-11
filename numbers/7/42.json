@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "אין זעקסטן טאָג: דער נשיא פֿאַר די קינדער פון גד — אליסף, זון פון דעואל.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "אין טאָג"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "זעקסטן"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "דער נשיא"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿאַר די קינדער פון"
+    },
+    {
+      "surface": "גד",
+      "gloss": "גד"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "אליסף"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פון"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "דעואל"
+    }
+  ],
+  "timestamp": "2026-09-10T20:14:19.089704942Z",
+  "model": "glm-5.3"
+}

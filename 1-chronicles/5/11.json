@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און די קינדער פֿון גד זײַנען געזעסן זיי קעגן איבער, אין דער ערד הבשן, ביז סלכה.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די קינדער פֿון"
+    },
+    {
+      "surface": "גד",
+      "gloss": "גד"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "זיי קעגן איבער"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "זײַנען געזעסן"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אין דער ערד"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "הבשן"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "סלכה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:47.820547190Z",
+  "model": "glm-5.3"
+}

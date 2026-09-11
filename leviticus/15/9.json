@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "און דער גאַנצער זאַטל וואָס דער זב רייט דערויף, ווערט טמא.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "און דער גאַנצער"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "זאַטל"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "רייט"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "דערויף"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "דער זב"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ווערט טמא"
+    }
+  ],
+  "timestamp": "2026-09-10T20:04:17.867270251Z",
+  "model": "glm-5.3"
+}

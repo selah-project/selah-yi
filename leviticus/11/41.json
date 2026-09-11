@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און אַלץ וואָס שרעקט זיך אויף דער ערד איז אַ שקץ; מען טאָר עס נישט עסן.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "און אַלץ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "וואָס שרעקט זיך"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "שרעקנדיק"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "דער ערד"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "אַ שקץ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "איז עס"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "מען טאָר עסן"
+    }
+  ],
+  "timestamp": "2026-09-11T14:25:30.299487440Z",
+  "model": "glm-5.3"
+}

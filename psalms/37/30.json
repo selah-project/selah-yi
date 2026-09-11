@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 37,
+  "translation": "דער מויל פֿון א צדיק מאַכט חכמה, און זײַן צונג רעדט משפט.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "דער מויל"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "פֿון א צדיק"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "מאַכט"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "און זײַן צונג"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "רעדט"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "משפט"
+    }
+  ],
+  "timestamp": "2026-09-10T23:56:00.837042741Z",
+  "model": "glm-5.3"
+}

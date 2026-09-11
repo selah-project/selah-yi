@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "און ווען דו הערסט אויף צו נדרן, וועט נישט זײַן אין דיר קיין חטא.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "און ווען"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "דו הערסט אויף"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "צו נדרן"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "וועט זײַן"
+    },
+    {
+      "surface": "בך",
+      "gloss": "אין דיר"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "קיין חטא"
+    }
+  ],
+  "timestamp": "2026-09-10T20:42:48.077383476Z",
+  "model": "glm-5.3"
+}

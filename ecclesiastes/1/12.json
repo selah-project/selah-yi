@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "איך, קהלת, בין געװען מלך אױבער ישׂראל אין ירושלים.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "קהלת"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "בין געװען"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "על",
+      "gloss": "אױבער"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "אין ירושלים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:11.454538434Z",
+  "model": "glm-5.3"
+}

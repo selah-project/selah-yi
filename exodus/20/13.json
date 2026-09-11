@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "דו זאלסט נישט דערמאָרדן.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "דו זאלסט דערמאָרדן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:42:30.907430060Z",
+  "model": "glm-5.3"
+}

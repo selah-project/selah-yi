@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "פֿאַר נפֿתּלי — אחירע, זון פֿון עינן.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "פֿאַר נפֿתּלי"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "אחירע"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "עינן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:11:06.260335706Z",
+  "model": "glm-5.3"
+}

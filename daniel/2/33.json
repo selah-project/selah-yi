@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "זײַנע שאָנקען פֿון אײַזן, זײַנע פֿיס — טייל פֿון אײַזן און טייל פֿון לײַם.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "זײַנע שאָנקען"
+    },
+    {
+      "surface": "די",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "אײַזן"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "זײַנע פֿיס"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "טייל"
+    },
+    {
+      "surface": "די",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "אײַזן"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "און טייל"
+    },
+    {
+      "surface": "די",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "לײַם"
+    }
+  ],
+  "timestamp": "2026-09-11T01:07:54.244282961Z",
+  "model": "glm-5.3"
+}

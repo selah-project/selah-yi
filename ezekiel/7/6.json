@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "אַ קץ קומט, געקומען איז דער קץ; ער האָט זיך אויפֿגעוועקט קעגן דיר — זע, ער קומט.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "אַ קץ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "קומט"
+    },
+    {
+      "surface": "בא",
+      "gloss": "געקומען איז"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "דער קץ"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "ער האָט זיך אויפֿגעוועקט"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "קעגן דיר"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ער קומט"
+    }
+  ],
+  "timestamp": "2026-09-10T23:00:26.222181185Z",
+  "model": "glm-5.3"
+}

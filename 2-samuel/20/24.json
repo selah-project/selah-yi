@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 20:24",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "און אדורם איבערן מאַס, און יהושפֿט בן אחילוד דער מזכיר.",
+  "tokens": [
+    {
+      "surface": "ואדרם",
+      "gloss": "און אדורם"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבערן"
+    },
+    {
+      "surface": "המס",
+      "gloss": "מאַס"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "און יהושפֿט"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "אחילוד"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "דער מזכיר"
+    }
+  ],
+  "timestamp": "2026-09-10T21:35:32.017131961Z",
+  "model": "glm-5.3"
+}

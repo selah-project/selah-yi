@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "פֿון ערוער, וואָס איז אויף דער ברעג פֿון דעם טייך ארנון, און ביזן באַרג שיאן — ער איז חרמון.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "פֿון ערוער"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "דער ברעג פֿון"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "דעם טייך"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ארנון"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "און ביזן"
+    },
+    {
+      "surface": "הר",
+      "gloss": "באַרג"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "שיאן"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "חרמון"
+    }
+  ],
+  "timestamp": "2026-09-10T20:34:09.377382286Z",
+  "model": "glm-5.3"
+}

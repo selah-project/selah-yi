@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "שכניה, רחום, מרמות.",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "שכניה"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "רחום"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "מרמות"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:33.603346703Z",
+  "model": "glm-5.3"
+}

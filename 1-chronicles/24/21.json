@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "פֿאַר רחביהו: פֿון די זין פֿון רחביהו — דער ערשטער, ישיה.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "פֿאַר רחביהו"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿון די זין"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "רחביהו"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "דער ערשטער"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ישיה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:33.079609134Z",
+  "model": "glm-5.3"
+}

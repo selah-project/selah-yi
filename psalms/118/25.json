@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 118,
+  "translation": "איך בעט דיך, יהוה, הושיע איצט; איך בעט דיך, יהוה, הצלח איצט.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "איך בעט דיך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "הושיע"
+    },
+    {
+      "surface": "נא",
+      "gloss": "איצט"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "איך בעט דיך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "הצלח"
+    },
+    {
+      "surface": "נא",
+      "gloss": "איצט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:16:17.998465390Z",
+  "model": "glm-5.3"
+}

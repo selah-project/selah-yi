@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 49,
+  "translation": "שמעון און לוי, ברידער — כלי פֿון חמס זײַנען זייערע שווערדן.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "שמעון"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "און לוי"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ברידער"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "כלי"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "חמס"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "זייערע שווערדן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:34:52.779237818Z",
+  "model": "glm-5.3"
+}

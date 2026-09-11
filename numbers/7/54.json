@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "אינעם אַכטן טאָג: דער נשיא פֿון די זין פֿון מנשה, גמליאל, זון פֿון פדה צור.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "אינעם טאָג"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "אַכטן"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "דער נשיא"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿון די זין"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "מנשה"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "גמליאל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "פדה"
+    },
+    {
+      "surface": "צור",
+      "gloss": "צור"
+    }
+  ],
+  "timestamp": "2026-09-10T20:14:19.660123943Z",
+  "model": "glm-5.3"
+}

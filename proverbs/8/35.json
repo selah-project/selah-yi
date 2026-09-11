@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "ווײַל ווער עס טרעפֿט מיר, טרעפֿט לעבן, און געווינט רצון פֿון יהוה.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "ווער עס טרעפֿט מיר"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "טרעפֿט"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "לעבן"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "און געווינט"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "רצון"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "פֿון יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:35.062016562Z",
+  "model": "glm-5.3"
+}

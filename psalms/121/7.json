@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 121,
+  "translation": "יהוה וועט דיך היטן פֿון אַלעם רע; ער וועט היטן ⟨את⟩ דײַן נפֿש.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "וועט דיך היטן"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "פֿון אַלעם"
+    },
+    {
+      "surface": "רע",
+      "gloss": "רע"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "וועט היטן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דײַן נפֿש"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "דײַן נפֿש"
+    }
+  ],
+  "timestamp": "2026-09-11T00:18:43.428732094Z",
+  "model": "glm-5.3"
+}

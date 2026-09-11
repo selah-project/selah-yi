@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און בית לבאות און שרוחן — דרײַצן שטעט און זייערע דערפֿער.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "און בית"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "לבאות"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "און שרוחן"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "שטעט"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "צען"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "און זייערע דערפֿער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:47.689402660Z",
+  "model": "glm-5.3"
+}

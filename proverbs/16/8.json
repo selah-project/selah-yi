@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "גוט איז אַ ביסל מיט צדקה, פֿון אַן איבערפֿלוס פֿון תבואות אָן משפט.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "אַ ביסל"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "מיט צדקה"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "פֿון אַן איבערפֿלוס"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "פֿון תבואות"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "אָן"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "משפט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:28:45.828016062Z",
+  "model": "glm-5.3"
+}

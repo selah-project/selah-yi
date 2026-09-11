@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "חלק ווי חלק זאָלן זיי עסן, חוץ פֿון זײַנע פֿאַרקויפֿטע זאַכן, לויט די אבות.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "חלק"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "ווי חלק"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "זאָלן זיי עסן"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "חוץ"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "פֿון זײַנע פֿאַרקויפֿטע זאַכן"
+    },
+    {
+      "surface": "על",
+      "gloss": "לויט"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "די אבות"
+    }
+  ],
+  "timestamp": "2026-09-10T20:40:30.952360345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 130,
+  "translation": "ווײַל בײַ דיר איז די סליחה, למען מען זאָל דיך פֿאַרכטן.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "בײַ דיר"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "די סליחה"
+    },
+    {
+      "surface": "למען",
+      "gloss": "למען"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "מען זאָל דיך פֿאַרכטן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:18:58.057787375Z",
+  "model": "glm-5.3"
+}

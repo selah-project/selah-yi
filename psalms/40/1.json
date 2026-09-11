@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 40,
+  "translation": "פֿאַרן מנצח, פֿון דוד, א מזמור.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    }
+  ],
+  "timestamp": "2026-09-10T23:56:56.449357074Z",
+  "model": "glm-5.3"
+}

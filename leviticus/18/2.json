@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "רעד צו די קינדער פֿון ישׂראל און זאָג זיי: איך בין יהוה אײַער אלהים.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "רעד"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "און זאָג"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "אײַער אלהים"
+    }
+  ],
+  "timestamp": "2026-09-11T02:26:24.156633747Z",
+  "model": "glm-5.3"
+}

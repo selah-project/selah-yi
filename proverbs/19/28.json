@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 19:28",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "אַ עד פֿון בליעל שפּאָטט משפּט, און דער מױל פֿון רשעים שלינגט אָן אָן.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "אַ עד"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "פֿון בליעל"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "שפּאָטט"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "משפּט"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "און דער מױל"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "פֿון רשעים"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "שלינגט"
+    },
+    {
+      "surface": "און",
+      "gloss": "אָן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:29:41.954252220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "זיי נישט פֿאַר מיר צו אַ שרעק; דו ביסט מײַן אָפּבאַך אין טאָג פֿון רעה.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "לי",
+      "gloss": "פֿאַר מיר"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "צו אַ שרעק"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "מײַן אָפּבאַך"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "אין טאָג"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "פֿון רעה"
+    }
+  ],
+  "timestamp": "2026-09-11T03:33:38.687656997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און מכיר האָב איך געגעבן ⟨את⟩ גלעד.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "און מכיר"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "האָב איך געגעבן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "גלעד"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "גלעד"
+    }
+  ],
+  "timestamp": "2026-09-10T20:32:56.245355894Z",
+  "model": "glm-5.3"
+}

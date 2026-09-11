@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 47,
+  "translation": "און יעקב האָט געבענטשט ⟨את⟩ פרעה, און איז ארויס פֿון פֿאַר פרעה.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "און האָט געבענטשט"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "פרעה"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "פרעה"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "און איז ארויס"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "פֿון פֿאַר"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "פרעה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:32:51.229089551Z",
+  "model": "glm-5.3"
+}

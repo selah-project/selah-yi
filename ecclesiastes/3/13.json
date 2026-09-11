@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און אויך יעדער מענטש, וואס עסט און טרינקט און זעט גוטס אין אלע זײַן עמל — אַ מתנה פֿון אלהים איז ⟨דאָס⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "און אויך"
+    },
+    {
+      "surface": "כל",
+      "gloss": "יעדער"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "מענטש"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "וואס עסט"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "און טרינקט"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "און זעט"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוטס"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "אין אלע"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "זײַן עמל"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "אַ מתנה"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "פֿון אלהים"
+    },
+    {
+      "surface": "היא",
+      "gloss": "איז"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:42.152847033Z",
+  "model": "glm-5.3"
+}

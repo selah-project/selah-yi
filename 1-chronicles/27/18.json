@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "איבער יהודה — אליהו, פֿון די ברידער פֿון דוד; איבער יששכר — עמרי בן מיכאל.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "איבער יהודה"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "אליהו"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "פֿון די ברידער פֿון"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "דוד"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "איבער יששכר"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "עמרי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "מיכאל"
+    }
+  ],
+  "timestamp": "2026-09-11T05:03:14.361017280Z",
+  "model": "glm-5.3"
+}

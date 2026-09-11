@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 94,
+  "translation": "יהוה ווייסט די מחשבות פֿונעם מענטש, אַז זיי זײַנען הויך.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ווייסט"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "די מחשבות"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "פֿונעם מענטש"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "המה",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "הויך"
+    }
+  ],
+  "timestamp": "2026-09-11T00:09:43.429604177Z",
+  "model": "glm-5.3"
+}

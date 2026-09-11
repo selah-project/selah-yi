@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "חרם, מרמות, עבדיה,",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "חרם"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "מרמות"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "עבדיה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:58.873791901Z",
+  "model": "glm-5.3"
+}

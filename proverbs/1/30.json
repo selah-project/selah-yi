@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "זיי האָבן נישט געוואָלט מײַן עצה; זיי האָבן פֿאַראַכט אַל מײַן תּוכחה.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "געוואָלט"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "מײַן עצה"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "פֿאַראַכט"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַל"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "מײַן תּוכחה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:23:16.512978077Z",
+  "model": "glm-5.3"
+}

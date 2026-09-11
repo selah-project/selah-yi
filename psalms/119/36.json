@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 119,
+  "translation": "נײַג מײַן האַרץ צו דײַנע עדות, און נישט צו גזל־געווינסט.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "נײַג"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "מײַן האַרץ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "דײַנע עדות"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און נישט צו"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "גזל־געווינסט"
+    }
+  ],
+  "timestamp": "2026-09-11T04:31:49.546136675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "יעדער בעט וואָס דער זב ליגט דערויף ווערט טמא, און יעדער כלי וואָס ער זיצט דערויף ווערט טמא.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "יעדער"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "בעט"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ליגט"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "דערויף"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "דער זב"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ווערט טמא"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "און יעדער"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "כלי"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ער זיצט"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "דערויף"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ווערט טמא"
+    }
+  ],
+  "timestamp": "2026-09-10T20:03:04.003470236Z",
+  "model": "glm-5.3"
+}

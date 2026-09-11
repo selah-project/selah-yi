@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "קינדער פֿון בקבוק, קינדער פֿון חקופא, קינדער פֿון חרחור.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "בקבוק"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "חקופא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "חרחור"
+    }
+  ],
+  "timestamp": "2026-09-11T01:25:06.520289379Z",
+  "model": "glm-5.3"
+}

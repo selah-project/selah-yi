@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "אײַזן שאַרפֿט אײַזן, און אַ מאַן שאַרפֿט דאָס פּנים פֿון זײַן רעהו.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "אײַזן"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "אײַזן"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "שאַרפֿט"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "און אַ מאַן"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "שאַרפֿט"
+    },
+    {
+      "surface": "פני",
+      "gloss": "דאָס פּנים"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "פֿון זײַן רעהו"
+    }
+  ],
+  "timestamp": "2026-09-11T00:33:05.208214559Z",
+  "model": "glm-5.3"
+}

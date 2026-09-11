@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "און דו וועסט ווערן משוגע פֿון דעם בליק פֿון דײַנע אויגן, וואָס דו וועסט זען.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "וועסט ווערן"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "משוגע"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "פֿון דעם בליק"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "דײַנע אויגן"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "וועסט זען"
+    }
+  ],
+  "timestamp": "2026-09-10T20:45:26.833614631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "און פילע טעג זיינען געווען פאר ישראל אָן אלהי אמת, און אָן א כהן מורה, און אָן תורה.",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "און טעג"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "פילע"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "פאר ישראל"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "אָן"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "אלהי"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "אמת"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "און אָן"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "א כהן"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "מורה"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "און אָן"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "תורה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:53:14.273146165Z",
+  "model": "glm-5.3"
+}

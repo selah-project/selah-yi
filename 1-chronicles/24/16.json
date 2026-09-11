@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "דער ניינצנטער צו פתחיה, דער צוואַנציקסטער צו יחזקאל.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "צו פתחיה"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "נײַן"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "עשר"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "צו יחזקאל"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "צוואַנציק"
+    }
+  ],
+  "timestamp": "2026-09-11T05:02:31.875449964Z",
+  "model": "glm-5.3"
+}

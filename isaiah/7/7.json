@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "אַזוי האָט געזאָגט אדני יהוה: עס וועט נישט שטיין, און עס וועט נישט זײַן.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "וועט נישט שטיין"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "וועט זײַן"
+    }
+  ],
+  "timestamp": "2026-09-10T22:08:56.901844164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "און דאָס וואָרט פֿון יהוה איז געקומען צו מיר, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און איז געקומען"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T22:43:07.455092250Z",
+  "model": "glm-5.3"
+}

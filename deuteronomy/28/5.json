@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "געזעליגט זאָל זײַן דײַן קאָרב און דײַן טייג־געפֿעס.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "געזעליגט"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "דײַן קאָרב"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "און דײַן טייג־געפֿעס"
+    }
+  ],
+  "timestamp": "2026-09-10T20:44:33.089069295Z",
+  "model": "glm-5.3"
+}

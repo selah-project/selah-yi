@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און די זין פֿון גמר: אשכנז, און ריפֿת און תגרמה.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "פֿון גמר"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "אשכנז"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "און ריפֿת"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "און תגרמה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:12:59.351249766Z",
+  "model": "glm-5.3"
+}

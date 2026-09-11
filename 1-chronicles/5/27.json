@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "די זין פֿון לוי: גרשון, קהת און מררי.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "פֿון לוי"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "גרשון"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "קהת"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "און מררי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:45.154890791Z",
+  "model": "glm-5.3"
+}

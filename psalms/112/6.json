@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 112,
+  "translation": "ווײַל צו נצח וועט ער נישט וואַקלען; לזכר נצח וועט דער צדיק בלײַבן.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "צו נצח"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "וועט ער וואַקלען"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "לזכר"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "נצח"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "וועט בלײַבן"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "דער צדיק"
+    }
+  ],
+  "timestamp": "2026-09-11T00:14:52.694487367Z",
+  "model": "glm-5.3"
+}

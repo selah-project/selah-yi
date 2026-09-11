@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און איבער דעם חיל פֿון שבט פֿון קינדער פֿון מנשה — גמליאל זון פֿון פדהצור.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "און איבער"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "חיל"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "פֿון שבט"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "פֿון מנשה"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "גמליאל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "פדהצור"
+    },
+    {
+      "surface": "צור",
+      "gloss": "פדהצור"
+    }
+  ],
+  "timestamp": "2026-09-10T20:15:33.994255067Z",
+  "model": "glm-5.3"
+}

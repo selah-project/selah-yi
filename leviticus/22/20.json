@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "אַלץ וואָס האָט אין זיך אַ מום זאָלט איר נישט מקריב זײַן, ווײַל עס וועט אײַך נישט צו רצון זײַן.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "אַלץ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "בו",
+      "gloss": "אין זיך"
+    },
+    {
+      "surface": "מום",
+      "gloss": "אַ מום"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "זאָלט איר מקריב זײַן"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "צו רצון"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "עס וועט זײַן"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "אײַך"
+    }
+  ],
+  "timestamp": "2026-09-11T02:28:44.114796229Z",
+  "model": "glm-5.3"
+}

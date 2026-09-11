@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 47,
+  "translation": "פֿאַרן מנצח, פֿאַר די זין פֿון קרח, אַ מזמור.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "פֿאַר די זין"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "פֿון קרח"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "אַ מזמור"
+    }
+  ],
+  "timestamp": "2026-09-11T04:23:26.770612871Z",
+  "model": "glm-5.3"
+}

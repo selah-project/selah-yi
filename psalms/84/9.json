@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 84,
+  "translation": "יהוה אלהים צבאות, הער מײַן תּפֿילה; שטעל דײַן אויער, אלהי יעקב. סלה.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "צבאות"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "הער"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "מײַן תּפֿילה"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "שטעל דײַן אויער"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "אלהי"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "סלה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:08:05.501708990Z",
+  "model": "glm-5.3"
+}

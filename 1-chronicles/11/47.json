@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "אליאל, און עובד, און יעשיאל דער מצבי.",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "אליאל"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "און עובד"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "און יעשיאל"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "דער מצבי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:57.583087250Z",
+  "model": "glm-5.3"
+}

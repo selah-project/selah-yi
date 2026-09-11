@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 26,
+  "translation": "די טיר דרייט זיך אויף איר שאַרניר, און דער פֿוילער אויף זײַן בעט.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "די טיר"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "דרייט זיך"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "איר שאַרניר"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "און דער פֿוילער"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "זײַן בעט"
+    }
+  ],
+  "timestamp": "2026-09-11T04:38:20.458721212Z",
+  "model": "glm-5.3"
+}

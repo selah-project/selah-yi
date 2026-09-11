@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 17:11",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "און דאָס וואָרט פֿון יהוה איז געקומען צו מיר און געזאגט:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און איז געקומען"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "און געזאגט"
+    }
+  ],
+  "timestamp": "2026-09-10T23:04:54.646375149Z",
+  "model": "glm-5.3"
+}

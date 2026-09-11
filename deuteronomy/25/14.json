@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "נישט זאָל זײַן אין דײַן הויז אַן איפֿה און אַן איפֿה, אַ גרויסע און אַ קלײַנע.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "זאָל זײַן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "אין דײַן הויז"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "אַן איפֿה"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "און אַן איפֿה"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "אַ גרויסע"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "און אַ קלײַנע"
+    }
+  ],
+  "timestamp": "2026-09-10T20:43:09.709425045Z",
+  "model": "glm-5.3"
+}

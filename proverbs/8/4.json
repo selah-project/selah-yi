@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "צו אײַך, איר מענטשן, רופֿ איך, און מײַן קול איז צו די קינדער פֿון אָדם.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "צו אײַך"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "איר מענטשן"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "רופֿ איך"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "און מײַן קול"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די קינדער"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "פֿון אָדם"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:47.281886318Z",
+  "model": "glm-5.3"
+}

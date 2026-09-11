@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 148,
+  "translation": "לויבט יה! לויבט ⟨את⟩ יהוה פֿון די הימלען, לויבט אים אין די הײכן!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "לויבט"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "לויבט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יהוה"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "מן",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "די הימלען"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "לויבט אים"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "אין די הײכן"
+    }
+  ],
+  "timestamp": "2026-09-11T04:34:08.120640634Z",
+  "model": "glm-5.3"
+}

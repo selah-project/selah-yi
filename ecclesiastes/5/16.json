@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "אויך אַלע זײַנע טעג עסט ער אין פֿינצטער, און כּעס פֿיל, און זײַן קראַנקהײַט און צאָרן.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "זײַנע טעג"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "אין פֿינצטער"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "עסט ער"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "און כּעס"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "פֿיל"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "און זײַן קראַנקהײַט"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "און צאָרן"
+    }
+  ],
+  "timestamp": "2026-09-11T14:45:59.181648446Z",
+  "model": "glm-5.3"
+}

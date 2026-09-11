@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "אפֿילו ווען איך שרײַ און רוף צו הילף, האָט ער פֿאַרשטאָפּט מײַן תּפֿילה.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "אפֿילו"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "איך שרײַ"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "און רוף צו הילף"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "האָט ער פֿאַרשטאָפּט"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "מײַן תּפֿילה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:02.685138294Z",
+  "model": "glm-5.3"
+}

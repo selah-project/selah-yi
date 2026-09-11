@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "דער תּאַווה פֿון צדיקים איז נאָר גוט; די תּקווה פֿון רשעים איז עבֿרה.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "דער תּאַווה"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "פֿון צדיקים"
+    },
+    {
+      "surface": "אך",
+      "gloss": "נאָר"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "די תּקווה"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "פֿון רשעים"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "עבֿרה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:26:53.933747238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "און דאָס וואָרט פֿון יהוה איז געקומען צו יהוא בן חנני קעגן בעשא, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און איז געווען"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "יהוא"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "חנני"
+    },
+    {
+      "surface": "על",
+      "gloss": "קעגן"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "בעשא"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T03:03:41.747896614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "און יהוה האָט גערעדט צו מנשה און צו זײַן פֿאָלק, און זיי האָבן נישט געהערט.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "מנשה"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און צו"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "זײַן פֿאָלק"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "האָבן געהערט"
+    }
+  ],
+  "timestamp": "2026-09-11T02:01:25.518773986Z",
+  "model": "glm-5.3"
+}

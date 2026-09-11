@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "און זי האָט אים געבאָרן ⟨את⟩ זמרן און ⟨את⟩ יקשן און ⟨את⟩ מדן און ⟨את⟩ מדין און ⟨את⟩ ישבק און ⟨את⟩ שוח.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "און זי האָט אים געבאָרן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "זמרן"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "זמרן"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "יקשן"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "יקשן"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "מדן"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "מדן"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "מדין"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "מדין"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "ישבק"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "ישבק"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "שוח"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "שוח"
+    }
+  ],
+  "timestamp": "2026-09-11T14:22:05.021465320Z",
+  "model": "glm-5.3"
+}

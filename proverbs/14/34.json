@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "צדקה הויכט א גוי, און חסד פון לאומים איז חטאה.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "צדקה"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "הויכט"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "א גוי"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "און חסד"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "פון לאומים"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "איז חטאה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:50.861211665Z",
+  "model": "glm-5.3"
+}

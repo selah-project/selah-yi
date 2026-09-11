@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "זד יהיר — לץ איז זײַן נאָמען, וואָס טוט אין עבֿרה פֿון זדון.",
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "זד"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "יהיר"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "לץ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "זײַן נאָמען"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "טוט"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "אין עבֿרה פֿון"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "זדון"
+    }
+  ],
+  "timestamp": "2026-09-11T04:36:26.050009359Z",
+  "model": "glm-5.3"
+}

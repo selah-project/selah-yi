@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און יהוה האט גערעדט צו משה, צו זאגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און האט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאגן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:05:27.104004083Z",
+  "model": "glm-5.3"
+}

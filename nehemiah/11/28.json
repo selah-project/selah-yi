@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און אין צקלג, און אין מכנה און זייערע טעכטער.",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "און אין צקלג"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "און אין מכנה"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "און זייערע טעכטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:39.304438682Z",
+  "model": "glm-5.3"
+}

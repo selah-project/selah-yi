@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און די זין פֿון יהללאל: זיף און זיפֿה, תיריא און אשראל.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "פֿון יהללאל"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "זיף"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "און זיפֿה"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "תיריא"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "און אשראל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:17.671037474Z",
+  "model": "glm-5.3"
+}

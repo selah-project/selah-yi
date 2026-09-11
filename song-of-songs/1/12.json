@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "ווײַל דער מלך איז אין זײַן קרײַז, האָט מײַן נערד געגעבן זײַן ריח.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "דער מלך איז"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "אין זײַן קרײַז"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "מײַן נערד"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "האָט געגעבן"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "זײַן ריח"
+    }
+  ],
+  "timestamp": "2026-09-11T00:50:44.388323758Z",
+  "model": "glm-5.3"
+}

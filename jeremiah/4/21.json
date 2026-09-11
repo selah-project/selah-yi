@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "ביז ווען וועל איך זען דאָס צייכן, וועל איך הערן די שטימע פֿון אַ שופֿר?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "וועל איך זען"
+    },
+    {
+      "surface": "נס",
+      "gloss": "דאָס צייכן"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "וועל איך הערן"
+    },
+    {
+      "surface": "קול",
+      "gloss": "די שטימע"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "פֿון אַ שופֿר"
+    }
+  ],
+  "timestamp": "2026-09-10T22:34:34.612226736Z",
+  "model": "glm-5.3"
+}

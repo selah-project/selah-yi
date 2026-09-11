@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "רעד צו דער עדה און זאג: שטייט אויף פֿון אַרום דעם משכן פֿון קרח, דתן און אבירם.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "רעד"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "דער עדה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "און זאג"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "שטייט אויף"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "פֿון אַרום"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "דעם משכן"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "פֿון קרח"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "דתן"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "און אבירם"
+    }
+  ],
+  "timestamp": "2026-09-11T02:31:48.207503500Z",
+  "model": "glm-5.3"
+}

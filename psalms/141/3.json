@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 141,
+  "translation": "שטעל, יהוה, אַ וואַכט פֿאַר מײַן מויל; היט די טיר פון מײַנע ליפּן.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "שטעל"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "אַ וואַכט"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "פֿאַר מײַן מויל"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "היט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "דל",
+      "gloss": "די טיר"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "פון מײַנע ליפּן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:21:20.977466523Z",
+  "model": "glm-5.3"
+}

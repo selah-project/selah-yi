@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 26:28",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 26,
+  "translation": "די זין פֿון יוסף לויט זייערע משפּחות: מנשה און אפֿרים.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "יוסף"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "לויט זייערע משפּחות"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "מנשה"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "און אפֿרים"
+    }
+  ],
+  "timestamp": "2026-09-10T20:25:21.193991266Z",
+  "model": "glm-5.3"
+}

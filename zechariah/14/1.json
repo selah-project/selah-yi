@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "זע, א טאָג קומט פֿאַר יהוה, און דײַן שלל וועט צעטיילט ווערן אין דײַן מיטן.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "יום",
+      "gloss": "א טאָג"
+    },
+    {
+      "surface": "בא",
+      "gloss": "קומט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "פֿאַר יהוה"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "און וועט צעטיילט ווערן"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "דײַן שלל"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "אין דײַן מיטן"
+    }
+  ],
+  "timestamp": "2026-09-11T14:55:08.936178268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 91,
+  "translation": "אויף שחל און פתן וועסטו טרעטן; כפיר און תנין וועסטו צעטרעטן.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "שחל"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "און פתן"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "וועסטו טרעטן"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "וועסטו צעטרעטן"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "כפיר"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "און תנין"
+    }
+  ],
+  "timestamp": "2026-09-11T04:30:04.113091721Z",
+  "model": "glm-5.3"
+}

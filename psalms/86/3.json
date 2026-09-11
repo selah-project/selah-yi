@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 86,
+  "translation": "גיב מיר חן, אדני, ווײַל צו דיר רוף איך דעם גאַנצן טאָג.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "גיב מיר חן"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "צו דיר"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "רוף איך"
+    },
+    {
+      "surface": "כל",
+      "gloss": "דעם גאַנצן"
+    },
+    {
+      "surface": "היום",
+      "gloss": "טאָג"
+    }
+  ],
+  "timestamp": "2026-09-11T00:09:11.050793461Z",
+  "model": "glm-5.3"
+}

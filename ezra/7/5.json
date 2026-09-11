@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "זון פֿון אבישוע, זון פֿון פינחס, זון פֿון אלעזר, זון פֿון אהרן דער כּהן, דער ראש.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "אבישוע"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "פינחס"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "אלעזר"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "אהרן"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "דער כּהן"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "דער ראש"
+    }
+  ],
+  "timestamp": "2026-09-11T04:54:44.247945289Z",
+  "model": "glm-5.3"
+}

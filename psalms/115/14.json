@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 115,
+  "translation": "יהוה זאָל אײַך צולייגן, אײַך און אײַערע קינדער.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "זאָל צולייגן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "אײַך"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "אײַך"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "און אויף"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "אײַערע קינדער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:15:55.742556304Z",
+  "model": "glm-5.3"
+}

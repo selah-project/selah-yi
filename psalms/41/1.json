@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 41,
+  "translation": "פארן מנצח, א מזמור פון דוד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פארן מנצח"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פון דוד"
+    }
+  ],
+  "timestamp": "2026-09-10T23:56:52.843180184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "עין רמון, און עתר, און עשן — פֿיר שטעט און זייערע דערפֿער.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "עין"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "רמון"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "און עתר"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "און עשן"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "שטעט"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "פֿיר"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "און זייערע דערפֿער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:47.689549807Z",
+  "model": "glm-5.3"
+}

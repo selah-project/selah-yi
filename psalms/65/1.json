@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 65,
+  "translation": "פֿאַרן מנצח, א מזמור פֿון דוד, א ליד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "א ליד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:02:37.392426293Z",
+  "model": "glm-5.3"
+}

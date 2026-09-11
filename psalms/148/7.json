@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 148,
+  "translation": "לויבט ⟨את⟩ יהוה פֿון דער ערד, תנינים און אַלע תהומות.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "לויבט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יהוה"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "מן",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "דער ערד"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "תנינים"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "און אַלע"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "תהומות"
+    }
+  ],
+  "timestamp": "2026-09-11T00:22:41.222895837Z",
+  "model": "glm-5.3"
+}

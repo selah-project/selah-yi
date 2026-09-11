@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 69,
+  "translation": "פארן מנצח, אויף שושנים, אַ תּהילה פון דוד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פארן מנצח"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "שושנים"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פון דוד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:03:55.650173670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און עס איז געווען ערב, און עס איז געווען בקר — יום פֿערטער.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "עס איז געווען"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ערב"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "עס איז געווען"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "בקר"
+    },
+    {
+      "surface": "יום",
+      "gloss": "יום"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "פֿערטער"
+    }
+  ],
+  "timestamp": "2026-09-10T19:09:47.353615202Z",
+  "model": "glm-5.3"
+}

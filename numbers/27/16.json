@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "זאל יהוה, דער אלהים פון די רוחות פון אלע פלייש, באשטעלן אן איש איבער דער עדה,",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "זאל באשטעלן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "דער אלהים פון"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "די רוחות"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "פון אלע"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "פלייש"
+    },
+    {
+      "surface": "איש",
+      "gloss": "אן איש"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "דער עדה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:27:01.049505006Z",
+  "model": "glm-5.3"
+}

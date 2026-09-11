@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און שפם און חפם, זין פֿון עיר; חשם, זין פֿון אחר.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "און שפם"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "און חפם"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין פֿון"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "עיר"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "חשם"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין פֿון"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "אחר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:50.935510549Z",
+  "model": "glm-5.3"
+}

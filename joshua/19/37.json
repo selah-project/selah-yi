@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און קדש, און אדרעי, און עין חצור.",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "און קדש"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "און אדרעי"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "און עין"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "חצור"
+    }
+  ],
+  "timestamp": "2026-09-11T02:45:37.320415572Z",
+  "model": "glm-5.3"
+}

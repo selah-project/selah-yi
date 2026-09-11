@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 50,
+  "translation": "און די הימל דערציילן זײַן צדק, ווײַל אלהים איז דער ריכטער — סלה.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "און דערציילן"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "די הימל"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "זײַן צדק"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "דער ריכטער"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "איז"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "סלה"
+    }
+  ],
+  "timestamp": "2026-09-10T23:58:20.621206092Z",
+  "model": "glm-5.3"
+}

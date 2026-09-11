@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "עירא דער יתרי, גרב דער יתרי.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "עירא"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "דער יתרי"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "גרב"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "דער יתרי"
+    }
+  ],
+  "timestamp": "2026-09-11T02:59:08.103352487Z",
+  "model": "glm-5.3"
+}

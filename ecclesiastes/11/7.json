@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און דאָס ליכט איז זיס, און גוט פֿאַר די אויגן צו זען ⟨את⟩ די זון.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "און דאָס ליכט איז זיס"
+    },
+    {
+      "surface": "האור",
+      "gloss": "דאָס ליכט"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "און גוט"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "פֿאַר די אויגן"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "צו זען"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "די זון"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "די זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:01:39.184996208Z",
+  "model": "glm-5.3"
+}

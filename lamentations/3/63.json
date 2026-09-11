@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "זייער זיצן און זייער אויפשטיין — קוק אָן; איך בין זייער שפּאָט־ליד.",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "זייער זיצן"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "און זייער אויפשטיין"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "קוק אָן"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "זייער שפּאָט־ליד"
+    }
+  ],
+  "timestamp": "2026-09-11T04:46:34.989613417Z",
+  "model": "glm-5.3"
+}

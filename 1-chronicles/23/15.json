@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "די זין פֿון משה: גרשם און אליעזר.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "משה",
+      "gloss": "פֿון משה"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "גרשם"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "און אליעזר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:58.178542112Z",
+  "model": "glm-5.3"
+}

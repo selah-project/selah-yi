@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "גיבור און קריגסמאַן, ריכטער און נביא, און קוסם און זקן.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "גיבור"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "און"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "קריגסמאַן"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ריכטער"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "און נביא"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "און קוסם"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "און זקן"
+    }
+  ],
+  "timestamp": "2026-09-10T22:08:16.474232839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און די זין פֿון חם: כוש און מצרים און פּוט און כנען.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "חם",
+      "gloss": "חם"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "כוש"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "און מצרים"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "און פּוט"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "און כנען"
+    }
+  ],
+  "timestamp": "2026-09-10T19:12:45.792320962Z",
+  "model": "glm-5.3"
+}

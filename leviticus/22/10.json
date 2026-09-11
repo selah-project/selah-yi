@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "און קיין זר זאָל נישט עסן קודש; אַ תושב פֿון אַ כהן און אַ שכיר זאָלן נישט עסן קודש.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "און קיין"
+    },
+    {
+      "surface": "זר",
+      "gloss": "זר"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "זאָל עסן"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "קודש"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "אַ תושב"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "פֿון אַ כהן"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "און אַ שכיר"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "זאָלן עסן"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "קודש"
+    }
+  ],
+  "timestamp": "2026-09-10T20:06:21.774345546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "בעסער וואָס דו זאָלסט נישט געבן, ווי צו געבן און נישט באַצאָלן.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "בעסער"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "דו זאָלסט געבן"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ווי צו געבן"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "באַצאָלן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:32.566918712Z",
+  "model": "glm-5.3"
+}

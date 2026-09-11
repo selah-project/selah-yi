@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 72,
+  "translation": "געענדיקט זײַנען די תּפֿילות פֿון דוד, זון פֿון ישׁי.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "געענדיקט זײַנען"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "די תּפֿילות"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "דוד"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ישׁי"
+    }
+  ],
+  "timestamp": "2026-09-11T00:04:29.482678089Z",
+  "model": "glm-5.3"
+}

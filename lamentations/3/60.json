@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "דו האָסט געזען אַלע זייער נקמות, אַלע זייער מחשבות וועגן מיר.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "דו האָסט געזען"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "זייער נקמות"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "זייער מחשבות"
+    },
+    {
+      "surface": "לי",
+      "gloss": "וועגן מיר"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:32.371784318Z",
+  "model": "glm-5.3"
+}

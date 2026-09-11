@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "א משא פֿון בבל, וואָס ישעיהו בן אמוץ האָט געזען.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "א משא"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "פֿון בבל"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "האָט געזען"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ישעיהו"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "אמוץ"
+    }
+  ],
+  "timestamp": "2026-09-11T14:34:32.293148858Z",
+  "model": "glm-5.3"
+}

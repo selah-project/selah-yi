@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און די זין פֿון נדב: סלד און אפּים; און סלד איז געשטאָרבן אָן קינדער.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "נדב"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "סלד"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "און אפּים"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "און ער איז געשטאָרבן"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "סלד"
+    },
+    {
+      "surface": "לא",
+      "gloss": "אָן"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "קינדער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:47.284823111Z",
+  "model": "glm-5.3"
+}

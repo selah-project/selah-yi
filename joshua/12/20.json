@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "דער מלך פֿון שמרון מראון, איינער; דער מלך פֿון אכשף, איינער.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "שמרון"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "מראון"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "אכשף"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:53:09.506465718Z",
+  "model": "glm-5.3"
+}

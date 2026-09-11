@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און חנניה, און עילם, און ענתתיה.",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "און חנניה"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "און עילם"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "און ענתתיה"
+    }
+  ],
+  "timestamp": "2026-09-11T14:47:09.904571887Z",
+  "model": "glm-5.3"
+}

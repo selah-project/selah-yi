@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און ישׂראל האָט זיך באַזעצט אין דער ערד פֿון דעם אמרי.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "האָט זיך באַזעצט"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אין דער ערד"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "פֿון דעם אמרי"
+    }
+  ],
+  "timestamp": "2026-09-10T20:23:48.658122251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "איין צענגלער פֿון די ציגן פֿאַר אַ חטא־קרבן.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "צענגלער"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "פֿון די ציגן"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "פֿאַר אַ חטא־קרבן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:15:37.526199308Z",
+  "model": "glm-5.3"
+}

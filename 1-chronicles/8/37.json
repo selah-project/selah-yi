@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און מוצא האָט געהאַט ⟨את⟩ בנעא; רפה זײַן זון, אלעשה זײַן זון, אצל זײַן זון.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "און מוצא"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "בנעא"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "בנעא"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "רפה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "אלעשה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "אצל"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:35.173417295Z",
+  "model": "glm-5.3"
+}

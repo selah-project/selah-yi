@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "און פֿאַרן שבט פֿון די קינדער פֿון אשר, דער נשיא אחיהוד זון פֿון שלמי.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "און פֿאַרן שבט"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אשר"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "נשיא"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "אחיהוד"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "שלמי"
+    }
+  ],
+  "timestamp": "2026-09-10T20:29:44.894721075Z",
+  "model": "glm-5.3"
+}

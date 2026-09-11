@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "קיין און וועט נישט געשען צום צדיק, און די רשעים זײַנען פֿול מיט רע.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "וועט געשען"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "צום צדיק"
+    },
+    {
+      "surface": "כל",
+      "gloss": "קיין"
+    },
+    {
+      "surface": "און",
+      "gloss": "און"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "און די רשעים"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "זײַנען פֿול"
+    },
+    {
+      "surface": "רע",
+      "gloss": "מיט רע"
+    }
+  ],
+  "timestamp": "2026-09-11T00:26:47.608907551Z",
+  "model": "glm-5.3"
+}

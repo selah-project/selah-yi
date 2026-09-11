@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "לכיש, און בצקת, און עגלון,",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "לכיש"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "און בצקת"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "און עגלון"
+    }
+  ],
+  "timestamp": "2026-09-10T20:54:40.767734491Z",
+  "model": "glm-5.3"
+}

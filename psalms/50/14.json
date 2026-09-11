@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 50,
+  "translation": "שאַכט צו אלהים אַ תּודה, און צאָל דײַנע נדרים דעם עליון.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "שאַכט"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "צו אלהים"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "אַ תּודה"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "און צאָל"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "דעם עליון"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "דײַנע נדרים"
+    }
+  ],
+  "timestamp": "2026-09-10T23:59:00.711302539Z",
+  "model": "glm-5.3"
+}

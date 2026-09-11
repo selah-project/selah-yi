@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "פֿון מחלי: אלעזר, און עס זײַנען אים נישט געווען קיין קינדער.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "פֿון מחלי"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "אלעזר"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "היה",
+      "gloss": "געווען"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "קיין קינדער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:37.991042565Z",
+  "model": "glm-5.3"
+}

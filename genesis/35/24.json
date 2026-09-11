@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 35,
+  "translation": "די זין פֿון רחל: יוסף און בנימין.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "פֿון רחל"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "יוסף"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "און בנימין"
+    }
+  ],
+  "timestamp": "2026-09-10T19:26:30.177983494Z",
+  "model": "glm-5.3"
+}

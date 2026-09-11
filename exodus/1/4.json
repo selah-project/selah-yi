@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "דן און נפתלי, גד און אשר.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "דן"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "און נפתלי"
+    },
+    {
+      "surface": "גד",
+      "gloss": "גד"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "און אשר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:35:01.649565923Z",
+  "model": "glm-5.3"
+}

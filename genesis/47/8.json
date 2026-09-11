@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 47,
+  "translation": "און פֿרעה האָט געזאָגט צו יעקב: ווי פֿיל זײַנען די טעג פֿון די יאָרן פֿון דײַן לעבן?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "פֿרעה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ווי פֿיל"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "טעג"
+    },
+    {
+      "surface": "שני",
+      "gloss": "יאָרן"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "דײַן לעבן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:13:27.823298887Z",
+  "model": "glm-5.3"
+}

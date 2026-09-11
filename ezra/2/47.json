@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "קינדער פֿון גדל, קינדער פֿון גחר, קינדער פֿון ראיה.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "גדל"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "גחר"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ראיה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:16:27.492185866Z",
+  "model": "glm-5.3"
+}

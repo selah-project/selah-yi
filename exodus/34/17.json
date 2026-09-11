@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "אלהי געשאָלצענע בילד זאָלסטו דיר נישט מאַכן.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "אלהי"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "געשאָלצענע בילד"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "זאָלסטו מאַכן"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:52:10.875213940Z",
+  "model": "glm-5.3"
+}

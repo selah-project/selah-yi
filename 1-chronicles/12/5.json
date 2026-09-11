@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "און ירמיה, און יחזיאל, און יוחנן, און יוזבד דער גדרתי;",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "און ירמיה"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "און יחזיאל"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "און יוחנן"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "און יוזבד"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "דער גדרתי"
+    }
+  ],
+  "timestamp": "2026-09-11T04:59:58.420554554Z",
+  "model": "glm-5.3"
+}

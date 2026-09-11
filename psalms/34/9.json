@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 34,
+  "translation": "טעמט און זעט אַז גוט איז יהוה; צום גליק פֿון דעם מאַן וואָס באַשיצט זיך בײַ אים!",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "טעמט"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "און זעט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "צום גליק פֿון"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "דער מאַן"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "באַשיצט זיך"
+    },
+    {
+      "surface": "בו",
+      "gloss": "בײַ אים"
+    }
+  ],
+  "timestamp": "2026-09-10T23:54:27.677100811Z",
+  "model": "glm-5.3"
+}

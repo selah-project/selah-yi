@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 40:16",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 40,
+  "translation": "און גדליהו בן אחיקם האָט געזאָגט צו יוחנן בן קרח: טו נישט טון ⟨את⟩ דעם דבר הזה, װאָרים דו רעדסט לשקר איבער ישמעאל.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט געזאָגט"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "גדליהו"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "אחיקם"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "יוחנן"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "קרח"
+    },
+    {
+      "surface": "אל",
+      "gloss": "טו נישט"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "טון"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם דבר הזה"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "דעם דבר"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "הזה"
+    },
+    {
+      "surface": "כי",
+      "gloss": "װאָרים"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "לשקר"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "רעדסט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ישמעאל"
+    }
+  ],
+  "timestamp": "2026-09-10T22:52:05.493351375Z",
+  "model": "glm-5.3"
+}

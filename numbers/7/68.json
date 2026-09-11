@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "איין גאָלדענע כף פֿון צען שקל, פֿול קטורת.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "כף"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "איין"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "צען"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "גאָלדענע"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "פֿול"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "קטורת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:15:42.503569604Z",
+  "model": "glm-5.3"
+}

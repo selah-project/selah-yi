@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 82,
+  "translation": "שטיי אויף, אלהים, ריכט די ערד, ווײַל דו וועסט ירשנען אין אַלע פֿעלקער.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "שטיי אויף"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ריכט"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "די ערד"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "וועסט ירשנען"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "אין אַלע"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "פֿעלקער"
+    }
+  ],
+  "timestamp": "2026-09-11T00:06:43.606341643Z",
+  "model": "glm-5.3"
+}

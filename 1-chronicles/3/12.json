@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "אמציהו זײַן זון, עזריה זײַן זון, יותם זײַן זון.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "אמציהו"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "עזריה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "יותם"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:06.995070665Z",
+  "model": "glm-5.3"
+}

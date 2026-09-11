@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "די שיינע און די צאַרטע האָב איך פֿאַרגלײַכט, די טאָכטער ציון.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "די שיינע"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "און די צאַרטע"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "האָב איך פֿאַרגלײַכט"
+    },
+    {
+      "surface": "בת",
+      "gloss": "טאָכטער"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ציון"
+    }
+  ],
+  "timestamp": "2026-09-10T22:36:24.341603078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "דו גייסט אַריבער הײַנט ⟨את⟩ דעם גרענעץ פֿון מואב, ⟨את⟩ ער:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "גייסט אַריבער"
+    },
+    {
+      "surface": "היום",
+      "gloss": "הײַנט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם גרענעץ פֿון מואב"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "גרענעץ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "פֿון מואב"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ער"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ער"
+    }
+  ],
+  "timestamp": "2026-09-11T02:37:22.389612058Z",
+  "model": "glm-5.3"
+}

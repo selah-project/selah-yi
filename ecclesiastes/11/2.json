@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "גיב אַ חלק צו זיבן און אויך צו אַכט, ווײַל דו װײסט נישט װאָס װעט זײַן רעות אויף דער ערד.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "גיב"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "אַ חלק"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "צו זיבן"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "און אויך"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "צו אַכט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "דו װײסט"
+    },
+    {
+      "surface": "מה",
+      "gloss": "װאָס"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "װעט זײַן"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "רעות"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "דער ערד"
+    }
+  ],
+  "timestamp": "2026-09-11T04:48:13.257644843Z",
+  "model": "glm-5.3"
+}

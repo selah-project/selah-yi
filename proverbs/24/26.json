@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "ליפֿן קוסט מען דעם וואס ענטפֿערט גראָדע ווערטער.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ליפֿן"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "קוסט מען"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "דעם וואס ענטפֿערט"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ווערטער"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "גראָדע"
+    }
+  ],
+  "timestamp": "2026-09-11T00:31:43.950612928Z",
+  "model": "glm-5.3"
+}

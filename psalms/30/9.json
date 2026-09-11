@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "צו דיר, יהוה, רוף איך, און צו אדני בעט איך פֿאַר גנד.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "צו דיר"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "רוף איך"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און צו"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "בעט איך פֿאַר גנד"
+    }
+  ],
+  "timestamp": "2026-09-10T23:52:47.867156113Z",
+  "model": "glm-5.3"
+}

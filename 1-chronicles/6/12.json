@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "אליאב זײַן זון, ירחם זײַן זון, אלקנה זײַן זון.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "אליאב"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ירחם"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "אלקנה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:32.979497050Z",
+  "model": "glm-5.3"
+}

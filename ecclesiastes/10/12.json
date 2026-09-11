@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "די ווערטער פֿונעם מויל פֿון אַ חכם זײַנען חן; און די לעפֿן פֿון אַ כסיל פֿאַרשלינגען אים.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "די ווערטער"
+    },
+    {
+      "surface": "פי",
+      "gloss": "פֿונעם מויל"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "חכם"
+    },
+    {
+      "surface": "חן",
+      "gloss": "חן"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "און די לעפֿן"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "כסיל"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "פֿאַרשלינגען אים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:43.830871078Z",
+  "model": "glm-5.3"
+}

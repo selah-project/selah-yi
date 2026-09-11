@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "און נישט ⟨את⟩ מיט אײַך בלויז שנײַ איך ⟨את⟩ דעם בונד הזה און ⟨את⟩ דעם שבועה הזה;",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ מיט אײַך"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "בלויז"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "שנײַ איך"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם בונד"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "דעם בונד"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "הזה"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "דעם שבועה"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "דעם שבועה"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "הזה"
+    }
+  ],
+  "timestamp": "2026-09-11T14:28:02.934570559Z",
+  "model": "glm-5.3"
+}

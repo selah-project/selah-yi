@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 66,
+  "translation": "אָוון, אויב איך האָב געזען אין מײַן האַרצן — אדני וועט נישט הערן.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "אָוון"
+    },
+    {
+      "surface": "אם",
+      "gloss": "אויב"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "האָב איך געזען"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "אין מײַן האַרצן"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "וועט הערן"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    }
+  ],
+  "timestamp": "2026-09-11T00:01:55.538504564Z",
+  "model": "glm-5.3"
+}

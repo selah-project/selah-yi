@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "אויך אויפֿן וועג, ווען דער סכל גייט, פֿעלט אים זײַן האַרץ, און ער זאָגט צו אַלעמען אַז ער איז אַ סכל.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "אויפֿן וועג"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "ווען דער סכל"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "גייט"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "זײַן האַרץ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "פֿעלט"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "און ער זאָגט"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "צו אַלעמען"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "אַ סכל"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער איז"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:07.893567388Z",
+  "model": "glm-5.3"
+}

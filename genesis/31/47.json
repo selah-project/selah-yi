@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "און לבן האָט אים גערופֿן יגר שהדותא, און יעקב האָט אים גערופֿן גלעד.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "און האָט גערופֿן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "לבן"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "יגר"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "שהדותא"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "און יעקב"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "האָט גערופֿן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "גלעד"
+    }
+  ],
+  "timestamp": "2026-09-10T19:25:19.610824356Z",
+  "model": "glm-5.3"
+}

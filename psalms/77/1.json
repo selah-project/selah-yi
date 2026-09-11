@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 77,
+  "translation": "פֿאַרן מנצח, אויף ידיתון, פֿאַר אסף, א מזמור.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "ידיתון"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "פֿאַר אסף"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    }
+  ],
+  "timestamp": "2026-09-11T04:27:15.475478569Z",
+  "model": "glm-5.3"
+}

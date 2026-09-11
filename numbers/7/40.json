@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "אַן איינציקער ציגן־באָק, פֿאַר אַ חטאת.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ציגן־באָק"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ציגן"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "אַן איינציקער"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "פֿאַר אַ חטאת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:13:42.194232799Z",
+  "model": "glm-5.3"
+}

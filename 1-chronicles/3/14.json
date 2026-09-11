@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "אמון זײַן זון, יאשיהו זײַן זון.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "אמון"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "יאשיהו"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T04:57:40.604822480Z",
+  "model": "glm-5.3"
+}

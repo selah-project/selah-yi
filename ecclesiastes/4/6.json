@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "בעסער אַ פֿולע האַנט מיט רואִקייט ווי צוויי פֿולע פֿיסט מיט מיאות און אַ געשטרעב פֿון רוח.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "בעסער"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "אַ פֿולע"
+    },
+    {
+      "surface": "כף",
+      "gloss": "האַנט"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "מיט רואִקייט"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ווי צוויי פֿולע"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "פֿיסט"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "מיט מיאות"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "און אַ געשטרעב"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "פֿון רוח"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:33.749963025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "וואָס זי האָט נישט קיין קצין, קיין שטר און קיין מושל.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "אין",
+      "gloss": "האָט נישט"
+    },
+    {
+      "surface": "לה",
+      "gloss": "זי"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "קיין קצין"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "קיין שטר"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "און קיין מושל"
+    }
+  ],
+  "timestamp": "2026-09-11T00:24:49.861952241Z",
+  "model": "glm-5.3"
+}

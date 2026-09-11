@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "און נח האָט געפֿונען חן אין די אויגן פֿון יהוה.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "און נח"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "האָט געפֿונען"
+    },
+    {
+      "surface": "חן",
+      "gloss": "חן"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "אין די אויגן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:12:08.458348691Z",
+  "model": "glm-5.3"
+}

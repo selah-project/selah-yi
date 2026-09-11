@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די מענער פֿון בית אל און העי — הונדערט צוואַנציק און דרײַ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "די מענער"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "און העי"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "צוואַנציג"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "און דרײַ"
+    }
+  ],
+  "timestamp": "2026-09-11T01:25:00.429342121Z",
+  "model": "glm-5.3"
+}

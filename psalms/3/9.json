@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "פֿון יהוה איז די ישועה; אויף דײַן פֿאָלק דײַן ברכה. סלה.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "איז די ישועה"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "דײַן פֿאָלק"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "דײַן ברכה"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "סלה"
+    }
+  ],
+  "timestamp": "2026-09-10T23:46:32.925302737Z",
+  "model": "glm-5.3"
+}

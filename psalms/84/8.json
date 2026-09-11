@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 84,
+  "translation": "זיי גייען פֿון כּוח צו כּוח, יראה וועט זיך וויַזן צו אלהים אין ציון.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "זיי גייען"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "פֿון כּוח"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "כּוח"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "יראה וועט זיך וויַזן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "אין ציון"
+    }
+  ],
+  "timestamp": "2026-09-11T00:09:12.724014644Z",
+  "model": "glm-5.3"
+}

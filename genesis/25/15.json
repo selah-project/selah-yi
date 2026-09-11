@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "חדד, און תימא, יטור, נפיש, און קדמה.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "חדד"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "און תימא"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "יטור"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "נפיש"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "און קדמה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:20:26.535444516Z",
+  "model": "glm-5.3"
+}

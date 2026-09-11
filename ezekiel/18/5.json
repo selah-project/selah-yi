@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "און אַ מאַן, ווען ער איז אַ גערעכטער און טוט משפט און גערעכטיקייט —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "און אַ מאַן"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ער איז"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "אַ גערעכטער"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "און טוט"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "משפט"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "און גערעכטיקייט"
+    }
+  ],
+  "timestamp": "2026-09-10T23:06:33.471813802Z",
+  "model": "glm-5.3"
+}

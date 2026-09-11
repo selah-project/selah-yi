@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 136,
+  "translation": "און צו עוג, מלך פֿון בשן, ווײַל צו אייביק איז זײַן חסד.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "און צו עוג"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "פֿון בשן"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "צו אייביק"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "זײַן חסד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:20:11.516089132Z",
+  "model": "glm-5.3"
+}

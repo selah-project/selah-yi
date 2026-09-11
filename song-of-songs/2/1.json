@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "איך בין אַ בלום פֿון השרון, אַ שושנה פֿון די טאָלן.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "בלום"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "פֿון השרון"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "שושנה"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "פֿון די טאָלן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:51:30.495642206Z",
+  "model": "glm-5.3"
+}

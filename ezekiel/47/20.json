@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 47,
+  "translation": "און די מערב־זײַט: דער גרויסער ים פֿון גרענעץ ביז נאָך קעגן לבוא חמת — דאָס איז די מערב־זײַט.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "און זײַט"
+    },
+    {
+      "surface": "ים",
+      "gloss": "מערב"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ים"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "גרויסער"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "פֿון גרענעץ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "נאָך קעגן"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "לבוא"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "חמת"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "דאָס איז"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "זײַט"
+    },
+    {
+      "surface": "ים",
+      "gloss": "מערב"
+    }
+  ],
+  "timestamp": "2026-09-10T23:21:49.964222248Z",
+  "model": "glm-5.3"
+}

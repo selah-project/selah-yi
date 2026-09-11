@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "און חשבה און אהל און ברכיה און חסדיה, יושב חסד — חמש ⟨אין צאָל⟩.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "און חשבה"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "און אהל"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "און ברכיה"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "און חסדיה"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "יושב"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "חסד"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "חמש"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:31.924445945Z",
+  "model": "glm-5.3"
+}

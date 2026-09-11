@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "דער עלפֿטער צו אלישיב, דער צוועלפֿטער צו יקים.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "צו אלישיב"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "עלף"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "־צען"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "צו יקים"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "־צען"
+    }
+  ],
+  "timestamp": "2026-09-11T05:00:53.705684505Z",
+  "model": "glm-5.3"
+}

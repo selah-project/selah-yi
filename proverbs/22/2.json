@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "רײַכער און אָרעמער טרעפֿן זיך; דער מאַכער פֿון אַלע איז יהוה.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "רײַכער"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "און אָרעמער"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "טרעפֿן זיך"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "דער מאַכער"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "פֿון אַלע"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-09-11T00:30:44.059752576Z",
+  "model": "glm-5.3"
+}

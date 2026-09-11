@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "פֿון דרײַ זאַכן ציטערט די ערד, און פֿון פֿיר קען זי נישט טראָגן.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ציטערט"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "די ערד"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "און פֿון"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "פֿיר"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "קען זי"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "טראָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:32:48.104020180Z",
+  "model": "glm-5.3"
+}

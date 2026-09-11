@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "און צו שמעיהו הנחלמי זאָלסטו רעדן, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "און צו"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "שמעיהו"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "הנחלמי"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "זאָלסטו רעדן"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T22:47:31.701759122Z",
+  "model": "glm-5.3"
+}

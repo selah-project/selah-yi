@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "דו זאלסט נישט פֿלייגן מיט אַן אָקס און מיט אַן אייזל צוזאַמען.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "זאלסט פֿלייגן"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "מיט אַן אָקס"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "און מיט אַן אייזל"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "צוזאַמען"
+    }
+  ],
+  "timestamp": "2026-09-10T20:40:31.753264723Z",
+  "model": "glm-5.3"
+}

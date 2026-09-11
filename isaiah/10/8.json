@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "ווייל ער זאָגט: זיינען מײַנע שרים נישט אַלע צוזאַמען מלכים?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווייל"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ער זאָגט"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "איז נישט"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "מײַנע שרים"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "אַלע צוזאַמען"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "מלכים"
+    }
+  ],
+  "timestamp": "2026-09-10T22:11:10.846179520Z",
+  "model": "glm-5.3"
+}

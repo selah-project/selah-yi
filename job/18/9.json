@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 18:9",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "אַ פּח כאַפּט דעם עקב, און צמים ווערן שטאַרק אויף אים.",
+  "tokens": [
+    {
+      "surface": "יאחז",
+      "gloss": "כאַפּט"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "דעם עקב"
+    },
+    {
+      "surface": "פח",
+      "gloss": "אַ פּח"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "ווערן שטאַרק"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "אויף אים"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "צמים"
+    }
+  ],
+  "timestamp": "2026-09-11T14:44:27.145707121Z",
+  "model": "glm-5.3"
+}

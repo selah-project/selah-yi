@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "די מענער פֿון ענתות, הונדערט עשרים און אַכט.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "די מענער פֿון"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ענתות"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "עשרים"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "און אַכט"
+    }
+  ],
+  "timestamp": "2026-09-11T01:13:56.352382686Z",
+  "model": "glm-5.3"
+}

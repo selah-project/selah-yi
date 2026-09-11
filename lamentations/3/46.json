@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "אָפּגעריסן קעגן אונדז האָבן זייער מויל אַלע אונדזערע פֿיינט.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "אָפּגעריסן"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "קעגן אונדז"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "זייער מויל"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "אונדזערע פֿיינט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:03.939564921Z",
+  "model": "glm-5.3"
+}

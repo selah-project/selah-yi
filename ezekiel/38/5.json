@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 38,
+  "translation": "פּרס, כוש און פוט ⟨את⟩ מיט זײַ; אַלע זײַנען מיט מגן און העלם.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "פּרס"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "כוש"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "און פוט"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ מיט זײַ",
+      "marks": "פּרס, כוש און פוט"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "אַלע זײַנען"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "מגן"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "און העלם"
+    }
+  ],
+  "timestamp": "2026-09-11T14:38:08.771766380Z",
+  "model": "glm-5.3"
+}

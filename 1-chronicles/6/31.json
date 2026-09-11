@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "זון פֿון אמצי, זון פֿון בני, זון פֿון שמר.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "אמצי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "שמר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:05.833224993Z",
+  "model": "glm-5.3"
+}

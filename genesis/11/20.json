@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און רעו האָט געלעבט צוויי און דרײַסיק יאָר, און האָט געהאַט ⟨את⟩ שרוג.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "האָט געלעבט"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "רעו"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "און דרײַסיק"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "און האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "שרוג"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "שרוג"
+    }
+  ],
+  "timestamp": "2026-09-10T19:14:06.953585469Z",
+  "model": "glm-5.3"
+}

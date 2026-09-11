@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "און יהוה האָט גערעדט צו משה לאָזן זאָגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און... האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לאָזן זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:08:14.742953630Z",
+  "model": "glm-5.3"
+}

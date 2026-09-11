@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "דאָס וואָרט וואָס ישעיהו בן אמוץ האָט געזען אויף יהודה און ירושלים.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "האָט געזען"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ישעיהו"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "אמוץ"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "יהודה"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "און ירושלים"
+    }
+  ],
+  "timestamp": "2026-09-10T22:08:20.153976154Z",
+  "model": "glm-5.3"
+}

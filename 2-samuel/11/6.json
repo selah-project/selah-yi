@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און דוד האט געשיקט צו יואב: שיק צו מיר ⟨את⟩ אוריה החתי. און יואב האט געשיקט ⟨את⟩ אוריה צו דוד.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "האט געשיקט"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "דוד"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "יואב"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "שיק"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "צו מיר"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אוריה החתי"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "אוריה"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "החתי"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "האט געשיקט"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "יואב"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אוריה"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "אוריה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "דוד"
+    }
+  ],
+  "timestamp": "2026-09-10T21:30:28.428192913Z",
+  "model": "glm-5.3"
+}

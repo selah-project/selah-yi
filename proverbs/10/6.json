@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "ברכות זײַנען אויפֿן קאָפּ פֿונעם צדיק, און דער מויל פֿון רשעים באַדעקט חמס.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "ברכות"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "אויפֿן קאָפּ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "צדיק"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "און דער מויל"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "רשעים"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "באַדעקט"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "חמס"
+    }
+  ],
+  "timestamp": "2026-09-11T04:35:22.194587192Z",
+  "model": "glm-5.3"
+}

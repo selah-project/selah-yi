@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "פֿאַרן שבט נפֿתלי: נחבי, זון פֿון ופֿסי.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "פֿאַרן שבט"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "נפֿתלי"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "נחבי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "ופֿסי"
+    }
+  ],
+  "timestamp": "2026-09-10T20:17:29.748085748Z",
+  "model": "glm-5.3"
+}

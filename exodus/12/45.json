@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "אַ תושב און אַ שכיר זאָלן נישט עסן דערפֿון.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "אַ תושב"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "און אַ שכיר"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "זאָלן עסן"
+    },
+    {
+      "surface": "בו",
+      "gloss": "דערפֿון"
+    }
+  ],
+  "timestamp": "2026-09-11T02:15:41.162398480Z",
+  "model": "glm-5.3"
+}

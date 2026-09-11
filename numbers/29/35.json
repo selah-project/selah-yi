@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 29,
+  "translation": "אויפֿן אַכטן טאָג זאָל זײַן אײַער עצרת; קיין מלאכת עבודה זאָלט איר נישט טון.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "אויפֿן טאָג"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "אַכטן"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "עצרת"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "זאָל זײַן"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "אײַער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "קיין"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "מלאכת"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "עבודה"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "זאָלט טון"
+    }
+  ],
+  "timestamp": "2026-09-11T14:27:27.614552418Z",
+  "model": "glm-5.3"
+}

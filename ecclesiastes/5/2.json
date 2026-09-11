@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "ווײַל דער חלום קומט פֿון אַ גרויסן עסק, און די שטימע פֿון אַ כּסיל — פֿון אַ גרויסן סך דבֿרים.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "בא",
+      "gloss": "קומט"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "דער חלום"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "פֿון אַ גרויסן"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "עסק"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "און די שטימע"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "פֿון אַ כּסיל"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "פֿון אַ גרויסן סך"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "דבֿרים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:32.566585360Z",
+  "model": "glm-5.3"
+}

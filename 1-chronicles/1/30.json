@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "משמע, און דומה, משא, חדד און תימא.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "משמע"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "און דומה"
+    },
+    {
+      "surface": "משא",
+      "gloss": "משא"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "חדד"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "און תימא"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:08.653306332Z",
+  "model": "glm-5.3"
+}

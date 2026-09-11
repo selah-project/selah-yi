@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "לחם זײַן אלהים — פֿון קדשי הקדשים און פֿון הקדשים זאָל ער עסן.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "לחם"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "זײַן אלהים"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "פֿון קדשי"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "הקדשים"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "און פֿון"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "הקדשים"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "זאָל ער עסן"
+    }
+  ],
+  "timestamp": "2026-09-11T14:24:21.076095742Z",
+  "model": "glm-5.3"
+}

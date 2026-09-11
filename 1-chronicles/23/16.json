@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "די זין פֿון גרשום: שבואל דער ראש.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "פֿון גרשום"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "שבואל"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "דער ראש"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:58.178657137Z",
+  "model": "glm-5.3"
+}

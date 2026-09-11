@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "שטעל, יהוה, אַ שרעה אויף זיי; זאָלן די גוים וויסן אַז מענטשן זײַנען זיי. סלה",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "שטעל"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "אַ שרעה"
+    },
+    {
+      "surface": "להם",
+      "gloss": "אויף זיי"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "זאָלן … וויסן"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "די גוים"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "מענטשן"
+    },
+    {
+      "surface": "המה",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "סלה"
+    }
+  ],
+  "timestamp": "2026-09-10T23:48:52.837217235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "נישט אַזוי איז מײַן דינער משה; אין מײַן גאַנצן הויז איז ער נאמן.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "כן",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "מײַן דינער"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "אין מײַן גאַנצן"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "הויז"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "נאמן"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    }
+  ],
+  "timestamp": "2026-09-11T02:32:00.998600846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "בינד זיי אויף דײַן האַרץ שטענדיק, פֿעסט זיי אויף דײַן האַלדז.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "בינד זיי"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "דײַן האַרץ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "שטענדיק"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "פֿעסט זיי"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "דײַן האַלדז"
+    }
+  ],
+  "timestamp": "2026-09-11T00:25:09.060880313Z",
+  "model": "glm-5.3"
+}

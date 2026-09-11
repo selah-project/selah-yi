@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 36,
+  "translation": "דאָס זײַנען די זין פֿון עשו, און דאָס זײַנען זייערע אלופים; ער איז אדום.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "עשו"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "און דאָס"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "זייערע אלופים"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "אדום"
+    }
+  ],
+  "timestamp": "2026-09-11T02:12:00.675674887Z",
+  "model": "glm-5.3"
+}

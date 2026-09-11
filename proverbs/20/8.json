@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "אַ מלך וואָס זיצט אויף אַ כסא פֿון משפּט — זערט מיט זײַנע אויגן אַלע בייזע.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "אַ מלך"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "זיצט"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "אַ כסא"
+    },
+    {
+      "surface": "דין",
+      "gloss": "פֿון משפּט"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "זערט"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "מיט זײַנע אויגן"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "רע",
+      "gloss": "בייזע"
+    }
+  ],
+  "timestamp": "2026-09-11T00:29:57.382950421Z",
+  "model": "glm-5.3"
+}

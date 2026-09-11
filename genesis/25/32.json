@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "און עשו האָט געזאָגט: זע, איך גיי צו שטאַרבן, און צו וואָס דאַרף מיר די בכורה?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "עשו"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "גיי"
+    },
+    {
+      "surface": "למות",
+      "gloss": "צו שטאַרבן"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "און צו וואָס"
+    },
+    {
+      "surface": "זה",
+      "gloss": "די"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "בכורה"
+    }
+  ],
+  "timestamp": "2026-09-10T19:20:13.940464552Z",
+  "model": "glm-5.3"
+}

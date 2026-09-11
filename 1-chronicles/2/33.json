@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און די זין פֿון יונתן: פלת און זזא. דאָס זײַנען געווען די זין פֿון ירחמאל.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "יונתן"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "פלת"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "און זזא"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "היו",
+      "gloss": "זײַנען געווען"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ירחמאל"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:40.773405848Z",
+  "model": "glm-5.3"
+}

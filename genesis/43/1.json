@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 43,
+  "translation": "און דער הונגער איז געווען שווער אין לאנד.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "און דער הונגער"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "איז געווען שווער"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אין לאנד"
+    }
+  ],
+  "timestamp": "2026-09-10T19:30:23.769207483Z",
+  "model": "glm-5.3"
+}

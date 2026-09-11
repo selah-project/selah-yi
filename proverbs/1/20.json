@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "חכמה רופֿט אין גאַס, אין די ברייטע ערטער גיט זי איר קול.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "אין גאַס"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "רופֿט"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "אין די ברייטע ערטער"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "גיט"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "איר קול"
+    }
+  ],
+  "timestamp": "2026-09-11T00:22:52.357845779Z",
+  "model": "glm-5.3"
+}

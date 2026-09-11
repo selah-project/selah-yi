@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "אַלע ריינע פֿייגל זאָלט איר עסן.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "פֿייגל"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ריינע"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "זאָלט איר עסן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:37:41.372288286Z",
+  "model": "glm-5.3"
+}

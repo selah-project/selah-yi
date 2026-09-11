@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 145,
+  "translation": "גוט איז יהוה צו אַלעמען, און זײַנע רחמים איבער אַלע זײַנע מעשים.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "צו אַלעמען"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "און זײַנע רחמים"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "זײַנע מעשים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:22:07.347220420Z",
+  "model": "glm-5.3"
+}

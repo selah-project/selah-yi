@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און יהוה האָט גערעדט צו משה לאמור:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "און האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לאמור"
+    }
+  ],
+  "timestamp": "2026-09-11T02:31:12.598891529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 48,
+  "translation": "מיט אַ מזרח־ווינט צעבריצט דו די שיפֿן פֿון תרשיש.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "מיט אַ ווינט"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "מזרח"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "צעבריצט דו"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "די שיפֿן"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "פֿון תרשיש"
+    }
+  ],
+  "timestamp": "2026-09-10T23:58:43.073786883Z",
+  "model": "glm-5.3"
+}

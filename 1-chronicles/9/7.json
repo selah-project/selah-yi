@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און פֿון די קינדער פֿון בנימן: סלוא זון פֿון משלם, זון פֿון הודויה, זון פֿון הסנאה.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "און פֿון"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "בנימן"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "סלוא"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "משלם"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "הודויה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "הסנאה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:55.011842252Z",
+  "model": "glm-5.3"
+}

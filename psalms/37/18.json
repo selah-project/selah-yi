@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 37,
+  "translation": "יהוה קען די טעג פֿון תמימים, און זײַן ירושה איז אױבן־אױבן.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "קען"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "די טעג"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "תמימים"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "און זײַן ירושה"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "אױבן־אױבן"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "איז"
+    }
+  ],
+  "timestamp": "2026-09-10T23:56:06.177717561Z",
+  "model": "glm-5.3"
+}

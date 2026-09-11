@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "און אצינד זאגסטו: גיי, זאג דײַן האַר: זע, אליהו איז דאָ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "און אצינד"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "זאגסט"
+    },
+    {
+      "surface": "לך",
+      "gloss": "גיי"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "זאג"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "דײַן האַר"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "אליהו"
+    }
+  ],
+  "timestamp": "2026-09-10T21:49:55.344466279Z",
+  "model": "glm-5.3"
+}

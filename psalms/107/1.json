@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 107,
+  "translation": "זאגט דאַנק צו יהוה, ווײַל ער איז גוט, ווײַל פֿאַר אייביק איז זײַן חסד.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "זאגט דאַנק"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "צו יהוה"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "פֿאַר אייביק"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "זײַן חסד"
+    }
+  ],
+  "timestamp": "2026-09-11T04:32:21.645802087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "עירא דער יתרי, גרב דער יתרי.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "עירא"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "דער יתרי"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "גרב"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "דער יתרי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:31.509923128Z",
+  "model": "glm-5.3"
+}

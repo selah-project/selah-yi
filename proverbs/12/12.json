@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "באַגערט דער רשע די מצודה פֿון רעות; און די וואָרצל פֿון צדיקים גיט.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "באַגערט"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "דער רשע"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "די מצודה"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "פֿון רעות"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "און די וואָרצל פֿון"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "צדיקים"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "גיט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:26:50.640539138Z",
+  "model": "glm-5.3"
+}

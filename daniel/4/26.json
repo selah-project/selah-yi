@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "צום סוף פֿון צוועלף חדשים איז ער געגאַנגען אויפֿן היכל פֿון דער מלכות פֿון בבל.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "צום סוף"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "חדשים"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צען"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "היכל"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "דער מלכות"
+    },
+    {
+      "surface": "די",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "בבל"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "געגאַנגען"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "איז געווען"
+    }
+  ],
+  "timestamp": "2026-09-11T04:51:03.381576282Z",
+  "model": "glm-5.3"
+}

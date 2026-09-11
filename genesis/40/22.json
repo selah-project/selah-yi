@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 40,
+  "translation": "און ⟨את⟩ שר האופים האָט ער געהאַנגען, ווי יוסף האָט זיי פֿאַרטייטשט.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "שר האופים"
+    },
+    {
+      "surface": "שר",
+      "gloss": "שר"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "האופים"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "האָט ער געהאַנגען"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "האָט פֿאַרטייטשט"
+    },
+    {
+      "surface": "להם",
+      "gloss": "זיי"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "יוסף"
+    }
+  ],
+  "timestamp": "2026-09-10T19:28:04.586994720Z",
+  "model": "glm-5.3"
+}

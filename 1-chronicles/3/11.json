@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "יורם זײַן זון, אחזיהו זײַן זון, יואש זײַן זון.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "יורם"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "אחזיהו"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "יואש"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:06.994932895Z",
+  "model": "glm-5.3"
+}

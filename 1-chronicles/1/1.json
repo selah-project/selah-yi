@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "אדם, שת, אנושׁ;",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "אדם"
+    },
+    {
+      "surface": "שת",
+      "gloss": "שת"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "אנושׁ"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:54.795288772Z",
+  "model": "glm-5.3"
+}

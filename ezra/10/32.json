@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "בנימן, מלוך, שמריה.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "בנימן"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "מלוך"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "שמריה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:19:14.123461621Z",
+  "model": "glm-5.3"
+}

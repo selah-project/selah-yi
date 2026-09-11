@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 114,
+  "translation": "וואָס איז דיר, ים, אַז דו אַנטלויפסט? ירדן, אַז דו דרייסט דיך צוריק?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "לך",
+      "gloss": "דיר"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ים"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "דו אַנטלויפסט"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ירדן"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "דו דרייסט דיך"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "צוריק"
+    }
+  ],
+  "timestamp": "2026-09-11T00:15:26.431000652Z",
+  "model": "glm-5.3"
+}

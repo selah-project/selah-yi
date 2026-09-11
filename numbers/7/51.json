@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "איין פֿאַר, א זון פֿון דער רינדער־הערדע, איין איל, איין לאַמב, א זון פֿון א יאָר, פֿאַר אַן עלה.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "בן",
+      "gloss": "א זון"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "רינדער־הערדע"
+    },
+    {
+      "surface": "איל",
+      "gloss": "איל"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "לאַמב"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "בן",
+      "gloss": "א זון"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "פֿון א יאָר"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "פֿאַר אַן עלה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:14:38.342076856Z",
+  "model": "glm-5.3"
+}

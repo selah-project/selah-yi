@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "דאָס זײַנען די זין פֿון ישׂראל: ראובן, שמעון, לוי און יהודה, יששכר און זבולון.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ראובן"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "שמעון"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "לוי"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "און יהודה"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "יששכר"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "און זבולון"
+    }
+  ],
+  "timestamp": "2026-09-11T04:58:46.538776008Z",
+  "model": "glm-5.3"
+}

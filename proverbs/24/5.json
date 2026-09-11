@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "אַ חכם גבר איז שטאַרק אין עוז, און אַ מענטש פֿון דעת פֿאַרשטאַרקט כוח.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "גבר"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "חכם"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "אין עוז"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "און אַ מענטש"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "פֿון דעת"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "פֿאַרשטאַרקט"
+    },
+    {
+      "surface": "כח",
+      "gloss": "כוח"
+    }
+  ],
+  "timestamp": "2026-09-11T00:31:11.947453704Z",
+  "model": "glm-5.3"
+}

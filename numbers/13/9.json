@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "פֿאַרן שבט פֿון בנימין: פלטי, זון פֿון רפֿוא.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "פֿאַרן שבט פֿון"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "בנימין"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "פלטי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "רפֿוא"
+    }
+  ],
+  "timestamp": "2026-09-10T20:17:32.133559290Z",
+  "model": "glm-5.3"
+}

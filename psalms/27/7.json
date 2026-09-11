@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "הער, יהוה, מײַן קול ווען איך רוף; זײַ מיר גנדיק און ענטפֿער מיר.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "הער"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "מײַן קול"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "איך רוף"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "זײַ מיר גנדיק"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ענטפֿער מיר"
+    }
+  ],
+  "timestamp": "2026-09-11T14:41:14.985375135Z",
+  "model": "glm-5.3"
+}

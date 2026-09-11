@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "אברם — ער איז אברהם.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "אברם"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער איז"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "אברהם"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:36.486216967Z",
+  "model": "glm-5.3"
+}

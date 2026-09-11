@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און אויב עס ווערט אַ שאַדן — זאָלסטו געבן נפֿש תּחת נפֿש.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "און אויב"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "אַ שאַדן"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "עס ווערט"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "זאָלסטו געבן"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפֿש"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "תּחת"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפֿש"
+    }
+  ],
+  "timestamp": "2026-09-10T19:45:01.651876008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "ס׳איז פֿאַראַן אַ רעה וואָס איך האָב געזען תּחת דער זון, און זי איז שווער אויף דעם מענטשן.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ס׳איז פֿאַראַן"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "אַ רעה"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "איך האָב געזען"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "תּחת"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "דער זון"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "און זי איז שווער"
+    },
+    {
+      "surface": "היא",
+      "gloss": "זי"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "דעם מענטשן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:01:13.201781908Z",
+  "model": "glm-5.3"
+}

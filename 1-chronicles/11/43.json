@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "חנן זון פֿון מעכה, און יהושפט המתני;",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "חנן"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "מעכה"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "און יהושפט"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "המתני"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:31.680046914Z",
+  "model": "glm-5.3"
+}

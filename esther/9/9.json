@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און ⟨את⟩ פּרמשתא, און ⟨את⟩ אריסי, און ⟨את⟩ ארדי, און ⟨את⟩ ויזתא.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "פּרמשתא"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "פּרמשתא"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "אריסי"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "אריסי"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "ארדי"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "ארדי"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "ויזתא"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "ויזתא"
+    }
+  ],
+  "timestamp": "2026-09-11T01:04:56.780140888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "און נגה, און נפג, און יפיע,",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "און נגה"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "און נפג"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "און יפיע"
+    }
+  ],
+  "timestamp": "2026-09-11T01:37:31.115749746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "זון פֿון חשביה, זון פֿון אמציה, זון פֿון חלקיה.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "חשביה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "אמציה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "חלקיה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:05.833121200Z",
+  "model": "glm-5.3"
+}

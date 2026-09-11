@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און אין חצר שועל, און אין באר שבע און זייערע טעכטער.",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "און אין חצר"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "שועל"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "און אין באר"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "שבע"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "און זייערע טעכטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:39.304228200Z",
+  "model": "glm-5.3"
+}

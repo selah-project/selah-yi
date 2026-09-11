@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "ווען דו וועסט זיך נענען צו אַ שטאָט צו קריגן אויף איר, זאָלסטו איר אָנרופֿן צו שלום.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "דו וועסט זיך נענען"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "אַ שטאָט"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "צו קריגן"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "אויף איר"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "זאָלסטו אָנרופֿן"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "איר"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "צו שלום"
+    }
+  ],
+  "timestamp": "2026-09-10T20:40:18.822172936Z",
+  "model": "glm-5.3"
+}

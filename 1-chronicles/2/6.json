@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און די זין פֿון זרח: זמרי און איתן און הימן און כלכל און דרע — אַלע צוזאַמען פֿינף.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "פֿון זרח"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "זמרי"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "און איתן"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "און הימן"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "און כלכל"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "און דרע"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "אַלע צוזאַמען"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "פֿינף"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:42.693135682Z",
+  "model": "glm-5.3"
+}

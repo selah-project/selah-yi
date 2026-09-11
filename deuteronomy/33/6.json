@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "ראובן זאָל לעבן און נישט שטאַרבן, און זײַנע מענטשן זאָלן זײַן אַ צאָל.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "זאָל לעבן"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ראובן"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "שטאַרבן"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "און זאָל זײַן"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "זײַנע מענטשן"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "אַ צאָל"
+    }
+  ],
+  "timestamp": "2026-09-10T20:48:33.247113388Z",
+  "model": "glm-5.3"
+}

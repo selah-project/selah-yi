@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "יהודה און בנימין, און שמעיה און ירמיה,",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "יהודה"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "און בנימין"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "און שמעיה"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "און ירמיה"
+    }
+  ],
+  "timestamp": "2026-09-11T04:57:51.656679353Z",
+  "model": "glm-5.3"
+}

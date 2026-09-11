@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "שיקט אַ שטאָל פֿאַרן הערשער פֿון דער ערד, פֿון סלע אין מדבר, צום בארג פֿון דער טאָכטער ציון.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "שיקט"
+    },
+    {
+      "surface": "כר",
+      "gloss": "אַ שטאָל"
+    },
+    {
+      "surface": "משל",
+      "gloss": "הערשער"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ערד"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "פֿון סלע"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "אין מדבר"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "הר",
+      "gloss": "בארג"
+    },
+    {
+      "surface": "בת",
+      "gloss": "טאָכטער"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ציון"
+    }
+  ],
+  "timestamp": "2026-09-10T22:14:32.866481678Z",
+  "model": "glm-5.3"
+}

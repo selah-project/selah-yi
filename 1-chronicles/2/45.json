@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און דער זון פֿון שמי איז געווען מעון, און מעון איז געווען דער פֿאַטער פֿון בית צור.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "און דער זון"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "שמי"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "מעון"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "און מעון"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "דער פֿאַטער"
+    },
+    {
+      "surface": "בית",
+      "gloss": "פֿון בית"
+    },
+    {
+      "surface": "צור",
+      "gloss": "צור"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:28.032537937Z",
+  "model": "glm-5.3"
+}

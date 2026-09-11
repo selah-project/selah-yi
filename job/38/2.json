@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 38,
+  "translation": "ווער איז דער וואָס פֿאַרדונקלט עצה מיט ווערטער אָן דעת?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ווער"
+    },
+    {
+      "surface": "זה",
+      "gloss": "דער וואָס"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "פֿאַרדונקלט"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "עצה"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "מיט ווערטער"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "אָן"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "דעת"
+    }
+  ],
+  "timestamp": "2026-09-11T04:43:54.432910725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "ווער ער יאָגט נאָך צדקה און חסד, וועט געפֿינען לעבן, צדקה און כּבֿוד.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "יאָגט נאָך"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "צדקה"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "און חסד"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "וועט געפֿינען"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "לעבן"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "צדקה"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "און כּבֿוד"
+    }
+  ],
+  "timestamp": "2026-09-11T14:44:20.548476585Z",
+  "model": "glm-5.3"
+}

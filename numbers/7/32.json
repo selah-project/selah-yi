@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "איין גאָלדענע כף פֿון צען שקל, פֿול מיט קטרת.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "כף"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "איין"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "צען"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "גאָלדענע"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "פֿול"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "קטרת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:13:57.508556188Z",
+  "model": "glm-5.3"
+}

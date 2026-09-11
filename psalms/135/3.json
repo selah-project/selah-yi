@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 135,
+  "translation": "לויבט יה, ווײַל יהוה איז גוט; זינגט צו זײַן נאָמען, ווײַל ער איז נעמלעך.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "לויבט"
+    },
+    {
+      "surface": "יה",
+      "gloss": "יה"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "זינגט"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "צו זײַן נאָמען"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "נעמלעך"
+    }
+  ],
+  "timestamp": "2026-09-11T00:19:45.248233206Z",
+  "model": "glm-5.3"
+}

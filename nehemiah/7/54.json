@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "קינדער פֿון בצלית, קינדער פֿון מחידא, קינדער פֿון חרשא.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "בצלית"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "מחידא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "חרשא"
+    }
+  ],
+  "timestamp": "2026-09-11T01:25:06.520540621Z",
+  "model": "glm-5.3"
+}

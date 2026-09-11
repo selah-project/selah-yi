@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "פֿאַר יששכר — נתנאל, זון פֿון צוער.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "פֿאַר יששכר"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "נתנאל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "צוער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:10:26.173956370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און שלמה האָט געשיקט צו חירם, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "און האָט געשיקט"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "שלמה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "חירם"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T21:42:17.266275704Z",
+  "model": "glm-5.3"
+}

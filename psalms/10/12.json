@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "שטיי אויף, יהוה! אל, הויב דײַן האַנט! פֿאַרגעס נישט די אָרים!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "שטיי אויף"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "הויב"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "דײַן האַנט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "פֿאַרגעס"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "די אָרים"
+    }
+  ],
+  "timestamp": "2026-09-10T23:49:15.688326628Z",
+  "model": "glm-5.3"
+}

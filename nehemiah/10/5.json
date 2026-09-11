@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "חטוש, שבניה, מלוך,",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "חטוש"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "שבניה"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "מלוך"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:58.873497726Z",
+  "model": "glm-5.3"
+}

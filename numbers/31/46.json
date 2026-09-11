@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "און נפֿשות פֿון מענטשן זעכצן טויזנט",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "און נפֿשות"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "פֿון מענטשן"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "זעכצן"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "זעכצן"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "טויזנט"
+    }
+  ],
+  "timestamp": "2026-09-11T02:37:22.091447989Z",
+  "model": "glm-5.3"
+}

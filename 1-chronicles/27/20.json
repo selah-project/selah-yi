@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 27:20",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 27,
+  "translation": "פֿאַר די קינדער פֿון אפרים — הושע בן עזזיהו; פֿאַר דעם העלפֿט שבט פֿון מנשה — יואל בן פדיהו.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "פֿאַר די קינדער"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "אפרים"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "הושע"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "עזזיהו",
+      "gloss": "עזזיהו"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "פֿאַר דעם העלפֿט"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "שבט"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "פֿון מנשה"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "יואל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "פדיהו",
+      "gloss": "פדיהו"
+    }
+  ],
+  "timestamp": "2026-09-11T05:03:45.023106113Z",
+  "model": "glm-5.3"
+}

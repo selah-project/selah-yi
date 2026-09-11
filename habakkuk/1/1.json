@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "דער משא וואָס חבקוק דער נביא האָט געזען.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "דער משא"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "האָט געזען"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "חבקוק"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "דער נביא"
+    }
+  ],
+  "timestamp": "2026-09-10T23:36:11.797173364Z",
+  "model": "glm-5.3"
+}

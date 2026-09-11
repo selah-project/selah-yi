@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "שמה דער הררי, אחיאם זון פֿון שרר דער הררי.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "שמה"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "דער הררי"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "אחיאם"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "שרר"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "דער הררי"
+    }
+  ],
+  "timestamp": "2026-09-10T21:38:09.446576086Z",
+  "model": "glm-5.3"
+}

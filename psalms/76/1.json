@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 76,
+  "translation": "בײַם מנצח, אויף נגינות, אַ מזמור פֿון אסף, אַ ליד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "בײַם מנצח"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "אויף נגינות"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "אַ מזמור"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "פֿון אסף"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "אַ ליד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:05:10.321958958Z",
+  "model": "glm-5.3"
+}

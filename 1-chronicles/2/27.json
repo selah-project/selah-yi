@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און די זין פֿון רם, דער בכור פֿון ירחמאל, זײַנען געווען מעץ, און ימין, און עקר.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "זײַנען געווען"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "רם",
+      "gloss": "רם"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "דער בכור"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "פֿון ירחמאל"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "מעץ"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "און ימין"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "און עקר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:50.841460371Z",
+  "model": "glm-5.3"
+}

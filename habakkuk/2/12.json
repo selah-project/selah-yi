@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "אוי צו דעם וואָס בויט אַ שטאָט מיט בלוט, און גרינדעט אַ קריה מיט עװלה",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "אוי"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "בויט"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "אַ שטאָט"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "מיט בלוט"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "און גרינדעט"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "אַ קריה"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "מיט עװלה"
+    }
+  ],
+  "timestamp": "2026-09-10T23:35:22.844514287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 33,
+  "translation": "דאַנקט יהוה מיטן כינור, מיט נבל, צען־זײַטיק; שפּילט אים צו.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "דאַנקט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "מיטן כינור"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "מיט נבל"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "צען־זײַטיק"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "שפּילט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים צו"
+    }
+  ],
+  "timestamp": "2026-09-10T23:55:06.147133756Z",
+  "model": "glm-5.3"
+}

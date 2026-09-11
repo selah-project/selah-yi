@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "װען דו װערסט שטאַרק אין טאָג פֿון צרה — צענדיק איז דײַן כּח.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "דו װערסט שטאַרק"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "אין טאָג"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "פֿון צרה"
+    },
+    {
+      "surface": "צר",
+      "gloss": "צענדיק"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "דײַן כּח"
+    }
+  ],
+  "timestamp": "2026-09-11T00:31:32.592174455Z",
+  "model": "glm-5.3"
+}

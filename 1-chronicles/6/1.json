@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "די זין פֿון לוי: גרשם, קהת און מררי.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "פֿון לוי"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "גרשם"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "קהת"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "און מררי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:21.438237152Z",
+  "model": "glm-5.3"
+}

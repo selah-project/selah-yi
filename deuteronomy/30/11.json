@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 30,
+  "translation": "וואָר די מצוה די איך בײַט דיך הײַנט — זי איז נישט פֿאַרבאָרגן פֿון דיר, און זי איז נישט ווײַט.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "וואָר"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "די מצוה"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "די"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "בײַט דיך"
+    },
+    {
+      "surface": "היום",
+      "gloss": "הײַנט"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "פֿאַרבאָרגן"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "זי"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "פֿון דיר"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "ווײַט"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "זי"
+    }
+  ],
+  "timestamp": "2026-09-10T20:45:52.058252450Z",
+  "model": "glm-5.3"
+}

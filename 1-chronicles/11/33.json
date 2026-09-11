@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "עזמות דער בחרומי, אליחבא דער שעלבוני;",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "עזמות"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "דער בחרומי"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "אליחבא"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "דער שעלבוני"
+    }
+  ],
+  "timestamp": "2026-09-11T04:59:24.852586490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "זע, דאָס האָב איך געפֿונען, זאָגט קהלת: איינעס נאָך אַן אנדערן, צו געפֿינען חשבון.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "זע"
+    },
+    {
+      "surface": "זה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "האָב איך געפֿונען"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "זאָגט"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "קהלת"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "איינעס"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "נאָך אַן אנדערן"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "צו געפֿינען"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "חשבון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:00:43.152293201Z",
+  "model": "glm-5.3"
+}

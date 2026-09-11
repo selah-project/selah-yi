@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "דער מלך פֿון תרצה, איינער; אַלע מלכים צוזאַמען דרײַאוןדרײַסיק.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "תרצה"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "מלכים"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "דרײַאוןדרײַסיק"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "צוזאַמען"
+    }
+  ],
+  "timestamp": "2026-09-10T20:53:10.451353228Z",
+  "model": "glm-5.3"
+}

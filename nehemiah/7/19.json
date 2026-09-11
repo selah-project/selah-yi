@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון בגוי, צוויי טויזנט זעכציק און זיבן.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "בגוי"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "צוויי טויזנט"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "זעכציק"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "און זיבן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:45.778521096Z",
+  "model": "glm-5.3"
+}

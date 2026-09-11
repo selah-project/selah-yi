@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "און דער כהן וועט זען ⟨את⟩ דעם נגע, און וועט פֿאַרשליסן ⟨את⟩ דעם נגע זיבן טעג.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "וועט זען"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "דער כהן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם נגע"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "דעם נגע"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "און וועט פֿאַרשליסן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דעם נגע"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "דעם נגע"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "זיבן"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "טעג"
+    }
+  ],
+  "timestamp": "2026-09-10T20:02:51.458227744Z",
+  "model": "glm-5.3"
+}

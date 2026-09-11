@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "דער זיבעטער צו הקוץ, דער אַכטער צו אביָה.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "צו הקוץ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "דער זיבעטער"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "צו אביָה"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "דער אַכטער"
+    }
+  ],
+  "timestamp": "2026-09-11T05:00:53.237968230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און ⟨את⟩ עיבל, און ⟨את⟩ אבימאל, און ⟨את⟩ שבא.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "עיבל"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "עיבל"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "אבימאל"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "אבימאל"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "שבא"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "שבא"
+    }
+  ],
+  "timestamp": "2026-09-11T01:28:41.471609871Z",
+  "model": "glm-5.3"
+}

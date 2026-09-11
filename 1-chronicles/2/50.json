@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 2:50",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "דאָס זײַנען געווען די זין פֿון כלב: בן חור, בכור פֿון אפרתה — שובל, פֿאָטער פֿון קרית יערים.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "דאָס"
+    },
+    {
+      "surface": "היו",
+      "gloss": "זײַנען געווען"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "כלב"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "חור",
+      "gloss": "חור"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "בכור פֿון"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "אפרתה"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "שובל"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "פֿאָטער פֿון"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "קרית"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "יערים"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:24.929860354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "דײַר האט מען געוויזן צו וויסן, אַז יהוה — ער ⟨איז⟩ דער אלהים; ס׳איז נישטאָ קיין אַנדער אָן אים.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "דײַר"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "האט מען געוויזן"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "צו וויסן"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "דער אלהים"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ס׳איז נישטאָ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "קיין אַנדער"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "אָן אים"
+    }
+  ],
+  "timestamp": "2026-09-10T20:34:44.688227724Z",
+  "model": "glm-5.3"
+}

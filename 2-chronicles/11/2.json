@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און דאָס וואָרט פֿון יהוה איז געוואָרן צו שמעיהו, אַ מאַן פֿון אלהים, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "איז געוואָרן"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "שמעיהו"
+    },
+    {
+      "surface": "איש",
+      "gloss": "אַ מאַן"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "פֿון אלהים"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:51:08.425812622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "נישטאָ קײן דער װי דו, יהוה; גרױס ביסט דו, און גרױס איז דײַן נאָמען אין גבורה.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "נישטאָ קײן"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "דער װי דו"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "גרױס"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "און גרױס"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "דײַן נאָמען"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "אין גבורה"
+    }
+  ],
+  "timestamp": "2026-09-10T22:37:07.948260785Z",
+  "model": "glm-5.3"
+}

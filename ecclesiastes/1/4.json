@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "אַ דור גייט און אַ דור קומט, און די ערד שטייט אײַוויג.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "אַ דור"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "גייט"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "און אַ דור"
+    },
+    {
+      "surface": "בא",
+      "gloss": "קומט"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "און די ערד"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "אײַוויג"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "שטייט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:35.198180002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "דער פינפטער נתניהו, זיינע זין און זיינע ברידער, צוועלף.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "דער פינפטער"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "נתניהו"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "זיינע זין"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "און זיינע ברידער"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "צוויי"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "צען"
+    }
+  ],
+  "timestamp": "2026-09-11T01:41:35.126284355Z",
+  "model": "glm-5.3"
+}

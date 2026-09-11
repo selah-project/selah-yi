@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "אין יענע טעג איך, דניאל, בין געווען אין טרויער דרײַ וואָכן טעג.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "אין יענע טעג"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "יענע"
+    },
+    {
+      "surface": "אני",
+      "gloss": "איך"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "דניאל"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "בין געווען"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "אין טרויער"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "וואָכן"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "טעג"
+    }
+  ],
+  "timestamp": "2026-09-11T01:13:09.816850168Z",
+  "model": "glm-5.3"
+}

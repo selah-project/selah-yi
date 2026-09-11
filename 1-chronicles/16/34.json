@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "דאַנקט יהוה, ווײַל ער איז גוט, ווײַל ביז צו נצח איז זײַן חסד.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "דאַנקט"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ביז צו נצח"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "זײַן חסד"
+    }
+  ],
+  "timestamp": "2026-09-11T01:39:14.673852637Z",
+  "model": "glm-5.3"
+}

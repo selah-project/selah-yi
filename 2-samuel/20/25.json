@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "און שיא סופֿר, און צדוק און אביתר זײַנען געווען כהנים.",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "און שיא"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "סופֿר"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "און צדוק"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "און אביתר"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "כהנים"
+    }
+  ],
+  "timestamp": "2026-09-10T21:35:03.907386003Z",
+  "model": "glm-5.3"
+}

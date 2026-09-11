@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 46,
+  "translation": "וואָס געשען איז דאָס וואָרט פֿון יהוה צו ירמיהו דעם נביא וועגן די גויים:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "היה",
+      "gloss": "געשען איז"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דאָס וואָרט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ירמיהו"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "דעם נביא"
+    },
+    {
+      "surface": "על",
+      "gloss": "וועגן"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "די גויים"
+    }
+  ],
+  "timestamp": "2026-09-10T22:54:06.434413573Z",
+  "model": "glm-5.3"
+}

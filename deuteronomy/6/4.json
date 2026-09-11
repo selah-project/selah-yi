@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "הער, ישׂראל: יהוה אונדזער אלהים, יהוה איז איינער.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "הער"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "אונדזער אלהים"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איז איינער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:35:04.887060976Z",
+  "model": "glm-5.3"
+}

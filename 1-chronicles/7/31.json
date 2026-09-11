@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און די זין פֿון בריעה: חבר און מלכיאל — ער איז דער פֿאָטער פֿון ברזות.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "בריעה"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "חבר"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "און מלכיאל"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "דער פֿאָטער פֿון"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "ברזות"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:08.874984554Z",
+  "model": "glm-5.3"
+}

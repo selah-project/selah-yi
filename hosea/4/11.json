@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "זנות און ווײַן און תירוש נעמען אַוועק דאָס האַרץ.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "זנות"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "און ווײַן"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "און תירוש"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "נעמען אַוועק"
+    },
+    {
+      "surface": "לב",
+      "gloss": "דאָס האַרץ"
+    }
+  ],
+  "timestamp": "2026-09-10T23:23:34.553181647Z",
+  "model": "glm-5.3"
+}

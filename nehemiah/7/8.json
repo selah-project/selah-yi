@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "קינדער פֿון פרעש — צוויי טויזנט הונדערט צוויי און זיבעציק;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "פֿון פרעש"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "צוויי טויזנט"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "און זיבעציק"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "צוויי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:23:44.097889860Z",
+  "model": "glm-5.3"
+}

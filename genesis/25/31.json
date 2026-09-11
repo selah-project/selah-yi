@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "און יעקב האָט געזאָגט: פֿאַרקויף הײַנט ⟨את⟩ דײַן בכורה מיר.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "פֿאַרקויף"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "הײַנט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דײַן בכורה"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "דײַן בכורה"
+    },
+    {
+      "surface": "לי",
+      "gloss": "מיר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:20:13.940334487Z",
+  "model": "glm-5.3"
+}

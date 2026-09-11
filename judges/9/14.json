@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און אַלע ביימער האָבן געזאָגט צום דאָרנביים: גיי דו, זי מלך איבער אונדז.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "און האָבן געזאָגט"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלע"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ביימער"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צום"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "דאָרנביים"
+    },
+    {
+      "surface": "לך",
+      "gloss": "גיי"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "זי מלך"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "איבער אונדז"
+    }
+  ],
+  "timestamp": "2026-09-10T21:02:41.323404385Z",
+  "model": "glm-5.3"
+}

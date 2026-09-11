@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "זײַ נישט מיט גיכציט צו גיין פֿון זײַן פּנים אָוועק; שטיי נישט אין אַ רער זאַך, ווײַל אַלץ וואָס אים לוסט טוט ער.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "מיט גיכציט"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "פֿון זײַן פּנים"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "צו גיין"
+    },
+    {
+      "surface": "אל",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "שטיי"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "אין אַ זאַך"
+    },
+    {
+      "surface": "רע",
+      "gloss": "רער"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "כל",
+      "gloss": "אַלץ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "אים לוסט"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "טוט ער"
+    }
+  ],
+  "timestamp": "2026-09-11T04:47:49.715253786Z",
+  "model": "glm-5.3"
+}

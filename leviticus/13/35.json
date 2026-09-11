@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "און אויב דער נתק פֿאַשפּרייט זיך אין דער הויט נאָך זײַן ריינקייט,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "און אויב"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "פֿאַשפּרייט"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "זיך"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "דער נתק"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "אין דער הויט"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "נאָך"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "זײַן ריינקייט"
+    }
+  ],
+  "timestamp": "2026-09-10T20:02:04.764748593Z",
+  "model": "glm-5.3"
+}

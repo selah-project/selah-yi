@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 17,
+  "translation": "אויך צו באַשטראָפֿן דעם צדיק איז נישט גוט, צו שלאָגן נדיבים פֿאַר יושר.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "אויך"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "צו באַשטראָפֿן"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "דעם צדיק"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "צו שלאָגן"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "נדיבים"
+    },
+    {
+      "surface": "על",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "יושר"
+    }
+  ],
+  "timestamp": "2026-09-11T00:29:04.801196999Z",
+  "model": "glm-5.3"
+}

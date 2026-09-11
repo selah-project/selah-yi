@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "הושע, חנניה, חשוב;",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "הושע"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "חנניה"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "חשוב"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:10.534902400Z",
+  "model": "glm-5.3"
+}

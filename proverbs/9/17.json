@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "גנבענטע וואסער זײַנען זיס, און ברויט פֿון סתרים איז נעמלעך.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "וואסער"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "גנבענטע"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "זײַנען זיס"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "און ברויט"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "פֿון סתרים"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "איז נעמלעך"
+    }
+  ],
+  "timestamp": "2026-09-11T00:24:45.961690794Z",
+  "model": "glm-5.3"
+}

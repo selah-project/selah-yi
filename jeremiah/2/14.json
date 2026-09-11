@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "האָט ישׂראל געװען אַ קנעכט? איז ער אינעם הױז געבוירן? װי אַזױ איז ער געװאָרן אַ רױב?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "אַ קנעכט"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "אם",
+      "gloss": "איז"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "געבוירן"
+    },
+    {
+      "surface": "בית",
+      "gloss": "אינעם הױז"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "װי אַזױ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "איז געװאָרן"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "אַ רױב"
+    }
+  ],
+  "timestamp": "2026-09-10T22:32:51.424169853Z",
+  "model": "glm-5.3"
+}

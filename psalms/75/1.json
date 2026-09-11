@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 75,
+  "translation": "פֿאַרן מנצח, אל תשחת ⟨צעריט נישט⟩, א מזמור פֿאַר אסף, א ליד.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "פֿאַרן מנצח"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "תשחת ⟨צעריט נישט⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "פֿאַר אסף"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "א ליד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:05:33.294656907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "לבנה, און עתר און עשן.",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "לבנה"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "און עתר"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "און עשן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:54:54.237133088Z",
+  "model": "glm-5.3"
+}

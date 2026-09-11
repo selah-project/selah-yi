@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און ⟨את⟩ אדורים, און ⟨את⟩ לכיש, און ⟨את⟩ עזקה.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "אדורים"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "אדורים"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "לכיש"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "לכיש"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "און ⟨את⟩",
+      "marks": "עזקה"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "עזקה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:49:13.108060494Z",
+  "model": "glm-5.3"
+}

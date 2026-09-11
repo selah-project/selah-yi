@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 10:28",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "און פֿון די זין פֿון בבי — יהוחנן, חנניה, זבי, עתלי.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "און פֿון די זין"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "בבי"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "יהוחנן"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "חנניה"
+    },
+    {
+      "surface": "זבי",
+      "gloss": "זבי"
+    },
+    {
+      "surface": "עתלי",
+      "gloss": "עתלי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:18:58.393774391Z",
+  "model": "glm-5.3"
+}

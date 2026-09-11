@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 21,
+  "translation": "און ישׂראל האָט געשיקט שליחים צו סיחן, מלך פֿון די אמרי, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "און האָט געשיקט"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישׂראל"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "שליחים"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "סיחן"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "פֿון די אמרי"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:24:05.878307701Z",
+  "model": "glm-5.3"
+}

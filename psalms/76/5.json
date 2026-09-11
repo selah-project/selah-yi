@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 76,
+  "translation": "באַלעכטן ביסט דו, און גרויסער ווי די בערג פֿון רויב.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "באַלעכטן"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "דו"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "גרויסער"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "בערג"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "רויב"
+    }
+  ],
+  "timestamp": "2026-09-11T00:05:31.265557397Z",
+  "model": "glm-5.3"
+}

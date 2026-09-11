@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און הרבית, און קשיון, און אבץ.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "און הרבית"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "און קשיון"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "און אבץ"
+    }
+  ],
+  "timestamp": "2026-09-11T02:45:24.062874776Z",
+  "model": "glm-5.3"
+}

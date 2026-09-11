@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און שרוג האָט געלעבט דרײַסיג יאָר, און האָט געהאַט ⟨את⟩ נחור.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "האָט געלעבט"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "שרוג"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "דרײַסיג"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "און האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "נחור"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "נחור"
+    }
+  ],
+  "timestamp": "2026-09-10T19:13:46.258046233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "א גאָלדענע לעפֿל, צען שקל, פֿול קטורת.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "לעפֿל"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "א"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "צען שקל"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "גאָלדענע"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "פֿול"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "קטורת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:14:38.341957422Z",
+  "model": "glm-5.3"
+}

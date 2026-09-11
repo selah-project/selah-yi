@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "לויט אַלע די דבֿרים און לויט דעם גאַנצן חזיון האָט נתן אַזוי גערעדט צו דוד.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "לויט אַלע"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "די דבֿרים"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "די"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "און לויט"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "דעם גאַנצן חזיון"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "דעם"
+    },
+    {
+      "surface": "כן",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "גערעדט"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "נתן"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "דוד"
+    }
+  ],
+  "timestamp": "2026-09-10T21:29:07.017593082Z",
+  "model": "glm-5.3"
+}

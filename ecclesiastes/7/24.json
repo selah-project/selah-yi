@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "רחוק איז דאָס וואָס געשען איז, און טיף, טיף — װער קען עס געפֿינען?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "רחוק איז"
+    },
+    {
+      "surface": "מה",
+      "gloss": "דאָס וואָס"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "געשען איז"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "און טיף"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "טיף"
+    },
+    {
+      "surface": "מי",
+      "gloss": "װער"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "קען עס געפֿינען"
+    }
+  ],
+  "timestamp": "2026-09-11T00:59:59.396705617Z",
+  "model": "glm-5.3"
+}

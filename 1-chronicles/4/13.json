@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "און די זין פֿון קנז: עתניאל און שריה; און די זין פֿון עתניאל: חתת.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "פֿון קנז"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "עתניאל"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "און שריה"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "פֿון עתניאל"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "חתת"
+    }
+  ],
+  "timestamp": "2026-09-11T01:32:17.670391079Z",
+  "model": "glm-5.3"
+}

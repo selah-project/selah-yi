@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 39,
+  "translation": "און די צווייטע ריי: נפך, ספיר און יהלם.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "און די ריי"
+    },
+    {
+      "surface": "השני",
+      "gloss": "צווייטע"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "נפך"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ספיר"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "און יהלם"
+    }
+  ],
+  "timestamp": "2026-09-10T19:54:54.614448868Z",
+  "model": "glm-5.3"
+}

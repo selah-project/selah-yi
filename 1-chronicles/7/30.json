@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די זין פֿון אשר: ימנה און ישוה און ישוי און בריעה און שרח, זייער שוועסטער.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אשר"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ימנה"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "און ישוה"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "און ישוי"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "און בריעה"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "און שרח"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "זייער שוועסטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:08.874796686Z",
+  "model": "glm-5.3"
+}

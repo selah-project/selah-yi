@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און יהוה האָט מיר געוויזן פֿיר האַנטווערקער.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "און האָט מיר געוויזן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "פֿיר"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "האַנטווערקער"
+    }
+  ],
+  "timestamp": "2026-09-10T23:43:45.225729315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "אַלץ וואָס האָט נישט קיין פֿלאָסן און קיין שופּן אין די וואַסער — א שקץ איז עס בײַ אײַך.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "אַלץ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "אין",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "האָט"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "פֿלאָסן"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "און שופּן"
+    },
+    {
+      "surface": "במים",
+      "gloss": "אין די וואַסער"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "א שקץ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "איז עס"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "בײַ אײַך"
+    }
+  ],
+  "timestamp": "2026-09-10T19:59:25.963676080Z",
+  "model": "glm-5.3"
+}

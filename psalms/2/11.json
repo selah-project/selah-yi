@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "דינט ⟨את⟩ יהוה מיט יראה, און פֿרייט זיך מיט ציטערן.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "דינט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יהוה"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "מיט יראה"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "און פֿרייט זיך"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "מיט ציטערן"
+    }
+  ],
+  "timestamp": "2026-09-10T23:47:13.153797458Z",
+  "model": "glm-5.3"
+}

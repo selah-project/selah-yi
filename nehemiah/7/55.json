@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "קינדער פֿון ברקוס, קינדער פֿון סיסרא, קינדער פֿון תמח.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "ברקוס"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "סיסרא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "קינדער פֿון"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "תמח"
+    }
+  ],
+  "timestamp": "2026-09-11T01:25:06.520703940Z",
+  "model": "glm-5.3"
+}

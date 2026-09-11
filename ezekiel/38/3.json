@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 38:3",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 38,
+  "translation": "און זאָג: אַזוי האָט געזאָגט אדני יהוה: זע, איך בין אויף דיר, גוג, נשיא ראש משך און תבל:",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "און זאָג"
+    },
+    {
+      "surface": "כה",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "האָט געזאָגט"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "אדני"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "זע, איך בין"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "אויף דיר"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "גוג"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "נשיא"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ראש"
+    },
+    {
+      "surface": "משך",
+      "gloss": "משך"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "און תבל"
+    }
+  ],
+  "timestamp": "2026-09-10T23:18:06.178487552Z",
+  "model": "glm-5.3"
+}

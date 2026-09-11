@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 14,
+  "translation": "נארישע מאַכן אַ שפּאָט פֿון שולד; און צווישן די ישרים איז רצון.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "נארישע"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "מאַכן אַ שפּאָט"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "שולד"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "און צווישן"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "די ישרים"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "רצון"
+    }
+  ],
+  "timestamp": "2026-09-11T00:26:33.089889735Z",
+  "model": "glm-5.3"
+}

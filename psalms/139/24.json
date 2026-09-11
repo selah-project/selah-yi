@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 139,
+  "translation": "און זע אױב אַ װעג פֿון עצב איז אין מיר, און פֿיר מיך אין דעם עװלדיקן װעג.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "און זע"
+    },
+    {
+      "surface": "אם",
+      "gloss": "אױב"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "אַ װעג"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "פֿון עצב"
+    },
+    {
+      "surface": "בי",
+      "gloss": "אין מיר"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "און פֿיר מיך"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "אין דעם װעג"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "עװלדיקן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:20:51.447611845Z",
+  "model": "glm-5.3"
+}

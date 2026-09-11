@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 57,
+  "translation": "דערהויך זיך איבער די הימל, אלהים; איבער די גאַנצע ערד דײַן כּבֿוד.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "דערהויך זיך"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "די הימל"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "על",
+      "gloss": "איבער"
+    },
+    {
+      "surface": "כל",
+      "gloss": "די גאַנצע"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ערד"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "דײַן כּבֿוד"
+    }
+  ],
+  "timestamp": "2026-09-10T23:59:52.368378185Z",
+  "model": "glm-5.3"
+}

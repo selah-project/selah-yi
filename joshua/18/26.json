@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 18,
+  "translation": "און המצפה און הכפירה און המצה.",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "און המצפה"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "און הכפירה"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "און המצה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:24.858019730Z",
+  "model": "glm-5.3"
+}

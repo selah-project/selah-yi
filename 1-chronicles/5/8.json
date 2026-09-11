@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און בלע זון פֿון עזז, זון פֿון שמע, זון פֿון יואל — ער האָט געוואוינט אין ערער, ביז נבו און בעל מעון.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "און בלע"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "עזז"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "שמע"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "יואל"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "האָט געוואוינט"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "אין ערער"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "נבו"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "און בעל"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "מעון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:31:18.788312343Z",
+  "model": "glm-5.3"
+}

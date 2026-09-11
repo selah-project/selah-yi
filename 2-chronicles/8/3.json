@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און שלמה איז געגאנגען קיין חמת צובה, און האט זיך געשטארקט אויף איר.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "און איז געגאנגען"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "שלמה"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "חמת"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "צובה"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "און האט זיך געשטארקט"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "אויף איר"
+    }
+  ],
+  "timestamp": "2026-09-11T05:05:03.551493821Z",
+  "model": "glm-5.3"
+}

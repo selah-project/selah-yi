@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און אויך שלמה זיצט שוין אויף דעם טראָן פֿון דער מלכות.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "און אויך"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "זיצט"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "שלמה"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "טראָן"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "פֿון דער מלכות"
+    }
+  ],
+  "timestamp": "2026-09-10T21:39:35.348265130Z",
+  "model": "glm-5.3"
+}

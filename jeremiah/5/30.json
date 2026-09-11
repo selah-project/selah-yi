@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "אַ שמה און אַ שערורה איז געשען אין דער ערד.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "אַ שמה"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "און אַ שערורה"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "איז געשען"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "אין דער ערד"
+    }
+  ],
+  "timestamp": "2026-09-10T22:35:46.544700425Z",
+  "model": "glm-5.3"
+}

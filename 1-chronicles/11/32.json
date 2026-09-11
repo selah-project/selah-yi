@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "חורי פֿון די טייכן פֿון געש, אביאל הערבתי.",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "חורי"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "פֿון די טייכן"
+    },
+    {
+      "surface": "געש",
+      "gloss": "פֿון געש"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "אביאל"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "דער ערבתי'ער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:35:13.623930270Z",
+  "model": "glm-5.3"
+}

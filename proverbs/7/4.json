@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "זאָג צו דער חכמה: מײַן שוועסטער ביסט דו, און צו דער בינה רוף מודע ⟨קינספֿאָלק⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "זאָג"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "צו דער חכמה"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "מײַן שוועסטער"
+    },
+    {
+      "surface": "את",
+      "gloss": "ביסט דו"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "מודע"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "צו דער בינה"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "רוף"
+    }
+  ],
+  "timestamp": "2026-09-11T04:35:45.148912230Z",
+  "model": "glm-5.3"
+}

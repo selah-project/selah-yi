@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "די זין פֿון שם: עילם און אשור און ארפּכשד און לוד און ארם, און עוץ און חול און גתר און משך.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "שם",
+      "gloss": "שם"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "עילם"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "און אשור"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "און ארפּכשד"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "און לוד"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "און ארם"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "און עוץ"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "און חול"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "און גתר"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "און משך"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:11.883555322Z",
+  "model": "glm-5.3"
+}

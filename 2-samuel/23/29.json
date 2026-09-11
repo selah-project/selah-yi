@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 23:29",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "חלב, זון פֿון בענה, דער נטפֿתי; איתי, זון פֿון ריבי, פֿון גבעת בני בנימין.",
+  "tokens": [
+    {
+      "surface": "חלב",
+      "gloss": "חלב"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "בענה"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "דער נטפֿתי"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "איתי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון פֿון"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ריבי"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "פֿון גבעת"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "בנימין"
+    }
+  ],
+  "timestamp": "2026-09-10T21:38:03.128517164Z",
+  "model": "glm-5.3"
+}

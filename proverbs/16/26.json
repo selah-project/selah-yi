@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "אַ נפֿש וואָס שאַפֿט אַרבעט פֿאַר זיך, ווײַל איר מויל דרייט איר אָן.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "אַ נפֿש"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "וואָס שאַפֿט"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "אַרבעט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "פֿאַר זיך"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "דרייט אָן"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "איר"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "איר מויל"
+    }
+  ],
+  "timestamp": "2026-09-11T00:28:13.213861222Z",
+  "model": "glm-5.3"
+}

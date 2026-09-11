@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 6,
+  "translation": "מריות זײַן זון, אמריה זײַן זון, אחיטוב זײַן זון.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "מריות"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "אמריה"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "אחיטוב"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "זײַן זון"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:27.134705984Z",
+  "model": "glm-5.3"
+}

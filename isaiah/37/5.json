@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 37,
+  "translation": "און די קנעכט פֿון מלך חזקיהו זײַנען געקומען צו ישעיהו.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "זײַנען געקומען"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "קנעכט"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "פֿון מלך"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "חזקיהו"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ישעיהו"
+    }
+  ],
+  "timestamp": "2026-09-11T03:21:01.346272147Z",
+  "model": "glm-5.3"
+}

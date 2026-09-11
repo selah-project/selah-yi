@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 25,
+  "translation": "און יהוה האָט גערעדט צו משה אויפֿן באַרג סיני, צו זאָגן:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "און … האָט גערעדט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "אויפֿן באַרג"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "סיני"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "צו זאָגן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:09:21.979053515Z",
+  "model": "glm-5.3"
+}

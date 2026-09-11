@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "זינגט אים, שפּילט אים, דערציילט פֿון אַלע זײַנע וואונדערן.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "זינגט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "שפּילט"
+    },
+    {
+      "surface": "לו",
+      "gloss": "אים"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "דערציילט"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "פֿון אַלע"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "זײַנע וואונדערן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:36:57.269272137Z",
+  "model": "glm-5.3"
+}

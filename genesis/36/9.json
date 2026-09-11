@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 36,
+  "translation": "און דאָס זײַנען די תולדות פֿון עשו, פֿאָטער פֿון אדום, אין באַרג שעיר.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "און דאָס"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "תולדות"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "עשו"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "פֿאָטער פֿון"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "אדום"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "אין באַרג"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "שעיר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:26:13.217653062Z",
+  "model": "glm-5.3"
+}

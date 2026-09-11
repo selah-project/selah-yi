@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 108,
+  "translation": "א ליד, א מזמור פֿון דוד.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "א ליד"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "א מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    }
+  ],
+  "timestamp": "2026-09-11T00:14:39.080503943Z",
+  "model": "glm-5.3"
+}

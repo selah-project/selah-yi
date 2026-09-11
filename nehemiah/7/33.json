@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די מענער פֿון דער אַנדערער נבו, צוויי און פֿופֿציק.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "די מענער"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "נבו"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "אַנדערער"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "פֿופֿציק"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "צוויי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:24:43.410546385Z",
+  "model": "glm-5.3"
+}

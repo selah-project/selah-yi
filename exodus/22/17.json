@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 22,
+  "translation": "אַ מכשפֿה זאָלסטו נישט לאָזן לעבן.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "מכשפֿה"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "זאָלסטו לאָזן לעבן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:45:21.812654479Z",
+  "model": "glm-5.3"
+}

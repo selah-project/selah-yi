@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "ענתות, נב, ענניה.",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "ענתות"
+    },
+    {
+      "surface": "נב",
+      "gloss": "נב"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "ענניה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:27:15.797557235Z",
+  "model": "glm-5.3"
+}

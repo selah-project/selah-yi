@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 69,
+  "translation": "ראט מיך, אלהים, ווייל וואסער זענען געקומען ביז די נפש.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "ראט מיך"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווייל"
+    },
+    {
+      "surface": "באו",
+      "gloss": "זענען געקומען"
+    },
+    {
+      "surface": "מים",
+      "gloss": "וואסער"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ביז"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפש"
+    }
+  ],
+  "timestamp": "2026-09-11T00:03:55.650376417Z",
+  "model": "glm-5.3"
+}

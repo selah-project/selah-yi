@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 4,
+  "translation": "בן־אבינדב — די גאנצע נפת דאר; טפת, די טאכטער פון שלמה, איז געווען זײַן פרוי.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "בן־אבינדב"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "בן־אבינדב"
+    },
+    {
+      "surface": "כל",
+      "gloss": "די גאנצע"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "נפת"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "דאר"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "טפת"
+    },
+    {
+      "surface": "בת",
+      "gloss": "טאכטער"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "פון שלמה"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "איז געווען"
+    },
+    {
+      "surface": "לו",
+      "gloss": "זײַן"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "פרוי"
+    }
+  ],
+  "timestamp": "2026-09-10T21:39:50.341201882Z",
+  "model": "glm-5.3"
+}

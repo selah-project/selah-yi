@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "און דאָס פֿאָלק האָט גערוענט אויפֿן זיבעטן טאָג.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "האָט גערוענט"
+    },
+    {
+      "surface": "העם",
+      "gloss": "דאָס פֿאָלק"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "אויפֿן טאָג"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "זיבעטן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:43:58.625807307Z",
+  "model": "glm-5.3"
+}

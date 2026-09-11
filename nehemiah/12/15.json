@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "פֿון חרם — עדנא; פֿון מריות — חלקי.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "פֿון חרם"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "עדנא"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "פֿון מריות"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "חלקי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:26:58.039703763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "yi",
+  "chapter": 43,
+  "translation": "און ער האָט מיך געפֿירט צו דער טיר — די טיר וואָס זי קוקט אָן קעגן מזרח.",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "האָט מיך געפֿירט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "השער",
+      "gloss": "דער טיר"
+    },
+    {
+      "surface": "שער",
+      "gloss": "די טיר"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "וואָס"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "קוקט אָן"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "קעגן"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "מזרח"
+    }
+  ],
+  "timestamp": "2026-09-10T23:20:18.300857736Z",
+  "model": "glm-5.3"
+}

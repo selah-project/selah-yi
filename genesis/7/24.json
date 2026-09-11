@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און די וואסער האָבן געזיגט אויף דער ערד הונדערט און פֿופֿציק טעג.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "און האָבן געזיגט"
+    },
+    {
+      "surface": "המים",
+      "gloss": "די וואסער"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "דער ערד"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "פֿופֿציק"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "און הונדערט"
+    },
+    {
+      "surface": "יום",
+      "gloss": "טעג"
+    }
+  ],
+  "timestamp": "2026-09-10T19:12:36.670272105Z",
+  "model": "glm-5.3"
+}

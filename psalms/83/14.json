@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 83,
+  "translation": "מײַן אלהים, מאַך זיי ווי אַ ראָל, ווי שטרוי פֿאַרן ווינט.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "מײַן אלהים"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "מאַך זיי"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "ווי אַ ראָל"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ווי שטרוי"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "פֿאַר"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ווינט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:07:06.107087677Z",
+  "model": "glm-5.3"
+}

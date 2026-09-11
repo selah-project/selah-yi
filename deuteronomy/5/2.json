@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "יהוה אונדזער אלהים האָט מיט אונדז געמאַכט אַ ברית אין חורב.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "אונדזער אלהים"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "האָט געמאַכט"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "מיט אונדז"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "אַ ברית"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "אין חורב"
+    }
+  ],
+  "timestamp": "2026-09-10T20:34:38.460771477Z",
+  "model": "glm-5.3"
+}

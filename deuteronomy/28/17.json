@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "ארור זאָל זײַן דײַן מאַשקעס־קויב און דײַן טייג־שיסל.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ארור"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "דײַן מאַשקעס־קויב"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "און דײַן טייג־שיסל"
+    }
+  ],
+  "timestamp": "2026-09-11T02:41:58.150172938Z",
+  "model": "glm-5.3"
+}

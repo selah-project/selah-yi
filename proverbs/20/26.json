@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 20,
+  "translation": "אַ חכם מלך זיפֿט די רשעים, און ער דרייט איבער זיי דעם אופן.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "זיפֿט"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "די רשעים"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "אַ חכם"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ער דרייט איבער"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "איבער זיי"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "דעם אופן"
+    }
+  ],
+  "timestamp": "2026-09-11T14:56:48.278756133Z",
+  "model": "glm-5.3"
+}

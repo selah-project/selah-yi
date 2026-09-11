@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "די קינדער פֿון עילם, טויזנט צוויי הונדערט פֿופֿציק און פֿיר.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "די קינדער פֿון"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "עילם"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "טויזנט"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "צוויי הונדערט"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "פֿופֿציק"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "און פֿיר"
+    }
+  ],
+  "timestamp": "2026-09-11T01:23:00.174221241Z",
+  "model": "glm-5.3"
+}

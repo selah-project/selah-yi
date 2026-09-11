@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "זעט, איך שטעל הײַנט פֿאַר אײַך א ברכה און א קללה:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "זעט"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "שטעל"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "פֿאַר אײַך"
+    },
+    {
+      "surface": "היום",
+      "gloss": "הײַנט"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "א ברכה"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "און א קללה"
+    }
+  ],
+  "timestamp": "2026-09-10T20:35:53.216331551Z",
+  "model": "glm-5.3"
+}

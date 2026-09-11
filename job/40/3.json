@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "yi",
+  "chapter": 40,
+  "translation": "און איוב האָט געענטפֿערט ⟨את⟩ יהוה און געזאָגט:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "האָט געענטפֿערט"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "איוב"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "יהוה"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "און געזאָגט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:49:41.972971850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און קינן האָט געלעבט זיבעציק יאָר, און האָט געבוירן ⟨את⟩ מהללאל.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "האָט געלעבט"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "קינן"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "זיבעציק"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "האָט געבוירן"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "מהללאל"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "מהללאל"
+    }
+  ],
+  "timestamp": "2026-09-10T19:10:59.276820839Z",
+  "model": "glm-5.3"
+}

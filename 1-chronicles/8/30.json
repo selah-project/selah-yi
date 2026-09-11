@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 8,
+  "translation": "און זײַן עלטסטער זון עבדון, און צור, און קיש, און בעל, און נדב.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "און זײַן זון"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "עלטסטער"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "עבדון"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "און צור"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "און קיש"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "און בעל"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "און נדב"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:03.038436661Z",
+  "model": "glm-5.3"
+}

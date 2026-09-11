@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "און די זין פֿון מיכה: פיתון און מלך און תחרע.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין פֿון"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "מיכה"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "פיתון"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "און מלך"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "און תחרע"
+    }
+  ],
+  "timestamp": "2026-09-11T01:35:15.373700572Z",
+  "model": "glm-5.3"
+}

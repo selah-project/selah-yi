@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "און יהצה און קדמות און מפעת.",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "און יהצה"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "און קדמות"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "און מפעת"
+    }
+  ],
+  "timestamp": "2026-09-10T20:53:23.434158659Z",
+  "model": "glm-5.3"
+}

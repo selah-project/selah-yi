@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 10:33",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 10,
+  "translation": "פֿון די זין פֿון חשם: מתני, מתתה, זבד, אליפלט, ירמי, מנשה, שמעי.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "פֿון די זין"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "חשם"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "מתני"
+    },
+    {
+      "surface": "מתתה",
+      "gloss": "מתתה"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "זבד"
+    },
+    {
+      "surface": "אליפלט",
+      "gloss": "אליפלט"
+    },
+    {
+      "surface": "ירמי",
+      "gloss": "ירמי"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "מנשה"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "שמעי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:18:39.036120737Z",
+  "model": "glm-5.3"
+}

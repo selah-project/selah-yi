@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "יוחנן דער אַכטער, אלזבד דער נײַנטער.",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "יוחנן"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "דער אַכטער"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "אלזבד"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "דער נײַנטער"
+    }
+  ],
+  "timestamp": "2026-09-11T01:37:53.254100700Z",
+  "model": "glm-5.3"
+}

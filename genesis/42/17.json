@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 42,
+  "translation": "און ער האָט ⟨את⟩ זיי צונויפֿגענומען אין האַפֿט דרײַ טעג.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "און ער האָט צונויפֿגענומען"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ זיי"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אין"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "האַפֿט"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "דרײַ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "טעג"
+    }
+  ],
+  "timestamp": "2026-09-10T19:31:30.028734922Z",
+  "model": "glm-5.3"
+}

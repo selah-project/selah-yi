@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 12:13",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "דער מלך פֿון דביר, איינער; דער מלך פֿון גדר, איינער;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "דער מלך"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "פֿון דביר"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "דער מלך"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "פֿון גדר"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איינער"
+    }
+  ],
+  "timestamp": "2026-09-10T20:53:06.382795114Z",
+  "model": "glm-5.3"
+}

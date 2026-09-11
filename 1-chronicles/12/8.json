@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "און יועאלה און זבדיה, זין פֿון ירחם, פֿון גדור.",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "און יועאלה"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "און זבדיה"
+    },
+    {
+      "surface": "בני",
+      "gloss": "זין פֿון"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ירחם"
+    },
+    {
+      "surface": "מן",
+      "gloss": "פֿון"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "גדור"
+    }
+  ],
+  "timestamp": "2026-09-11T14:56:01.579035012Z",
+  "model": "glm-5.3"
+}

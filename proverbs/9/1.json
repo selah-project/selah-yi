@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "חכמה האט געבויט איר הויז, זי האט אויסגעהאקט אירע זיילן — זיבן.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "האט געבויט"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "איר הויז"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "האט אויסגעהאקט"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "אירע זיילן"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "זיבן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:26:14.092051722Z",
+  "model": "glm-5.3"
+}

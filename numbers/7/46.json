@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און איין ציגן־באָק פֿאַר אַ חטא־קרבן.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ציגן־באָק"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ציגן"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "פֿאַר אַ חטא־קרבן"
+    }
+  ],
+  "timestamp": "2026-09-10T20:14:44.894086777Z",
+  "model": "glm-5.3"
+}

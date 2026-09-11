@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "אבי־עלבון דער ערבתי; עזמות דער ברחמי.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "אבי־"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "עלבון"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "דער ערבתי"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "עזמות"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "דער ברחמי"
+    }
+  ],
+  "timestamp": "2026-09-10T21:38:03.129029456Z",
+  "model": "glm-5.3"
+}

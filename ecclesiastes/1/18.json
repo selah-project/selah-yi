@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "ווײַל אין פֿיל חכמה איז פֿיל כּעס־צער, און ווער עס מערט דעת, מערט ווייטאָג.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "אין פֿיל"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "רב",
+      "gloss": "פֿיל"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "כּעס־צער"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "און ווער עס מערט"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "דעת"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "מערט"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ווייטאָג"
+    }
+  ],
+  "timestamp": "2026-09-11T00:57:42.760572609Z",
+  "model": "glm-5.3"
+}

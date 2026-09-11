@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "ווײַל צו אױף צו, צו אױף צו, קױ אױף קױ, קױ אױף קױ, אַ ביסל דאָ, אַ ביסל דאָרט.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "צו",
+      "gloss": "צו"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "אױף צו"
+    },
+    {
+      "surface": "צו",
+      "gloss": "צו"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "אױף צו"
+    },
+    {
+      "surface": "קו",
+      "gloss": "קױ"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "אױף קױ"
+    },
+    {
+      "surface": "קו",
+      "gloss": "קױ"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "אױף קױ"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "אַ ביסל"
+    },
+    {
+      "surface": "שם",
+      "gloss": "דאָ"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "אַ ביסל"
+    },
+    {
+      "surface": "שם",
+      "gloss": "דאָרט"
+    }
+  ],
+  "timestamp": "2026-09-10T22:16:30.655735728Z",
+  "model": "glm-5.3"
+}

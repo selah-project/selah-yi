@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "גוט איז יהוה פֿאַר דעם וואָס וואַרט אויף אים, פֿאַר דער נפֿש וואָס זוכט אים.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "פֿאַר דעם וואָס וואַרט"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "פֿאַר דער נפֿש"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "זוכט אים"
+    }
+  ],
+  "timestamp": "2026-09-11T00:56:00.579133825Z",
+  "model": "glm-5.3"
+}

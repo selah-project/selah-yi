@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "װאָרום חרישה איז טוט זייער הארץ, און זייערע ליפּן רעדן פֿון אומגליק.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "װאָרום"
+    },
+    {
+      "surface": "שד",
+      "gloss": "חרישה"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "טוט חשב זײַן"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "זייער הארץ"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "און אומגליק"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "זייערע ליפּן"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "רעדן"
+    }
+  ],
+  "timestamp": "2026-09-11T00:31:40.528507205Z",
+  "model": "glm-5.3"
+}

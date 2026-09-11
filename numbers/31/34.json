@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "yi",
+  "chapter": 31,
+  "translation": "און עזלעך — איין און זעכציק טויזנט.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "און עזלעך"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "איין"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "און זעכציק"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "טויזנט"
+    }
+  ],
+  "timestamp": "2026-09-10T20:28:16.651992348Z",
+  "model": "glm-5.3"
+}

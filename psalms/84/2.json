@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 84,
+  "translation": "ווי ליבֿ איז דײַן משכן, יהוה צבאות!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ווי"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "ליבֿ"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "דײַן משכן"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "צבאות"
+    }
+  ],
+  "timestamp": "2026-09-11T00:09:19.431574889Z",
+  "model": "glm-5.3"
+}

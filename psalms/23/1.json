@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 23,
+  "translation": "אַ מזמור פֿון דוד: יהוה איז מײַן הירטל — נישט װעל איך פֿעלן.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "מזמור"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "פֿון דוד"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "מײַן הירטל"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "װעל איך פֿעלן"
+    }
+  ],
+  "timestamp": "2026-09-11T04:19:08.746178924Z",
+  "model": "glm-5.3"
+}

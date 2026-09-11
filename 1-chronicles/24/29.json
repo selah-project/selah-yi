@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 24,
+  "translation": "פֿאַר קיש: די זין פֿון קיש — ירחמאל.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "פֿאַר קיש"
+    },
+    {
+      "surface": "בני",
+      "gloss": "די זין פֿון"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "קיש"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ירחמאל"
+    }
+  ],
+  "timestamp": "2026-09-11T05:02:16.195459974Z",
+  "model": "glm-5.3"
+}

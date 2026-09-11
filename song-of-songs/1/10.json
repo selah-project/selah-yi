@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "שיין זײַנען דײַנע באַקן מיט רײַהן, דײַן האַלדז מיט קעטעלעך.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "שיין זײַנען"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "דײַנע באַקן"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "מיט רײַהן"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "דײַן האַלדז"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "מיט קעטעלעך"
+    }
+  ],
+  "timestamp": "2026-09-11T00:50:44.387897924Z",
+  "model": "glm-5.3"
+}

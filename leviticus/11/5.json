@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "און ⟨את⟩ דעם שפן, ווײַל ער ברענגט אויף די גרה, אָבער די פּרסה צעשפּאַלט ער נישט — טמא איז ער פֿאַר אײַך.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "דעם שפן"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "דעם שפן"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווײַל"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ברענגט אויף"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "די גרה"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "און די פּרסה"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "צעשפּאַלט"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "טמא"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ער"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "פֿאַר אײַך"
+    }
+  ],
+  "timestamp": "2026-09-11T02:24:25.471591240Z",
+  "model": "glm-5.3"
+}

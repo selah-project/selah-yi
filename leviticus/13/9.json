@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 13,
+  "translation": "אַ נגע פֿון צרעת ווען עס ווערט אין אַ מענטש, ווערט ער געבראַכט צום כהן.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "אַ נגע"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "פֿון צרעת"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ווען"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "עס ווערט"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "אין אַ מענטש"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ווערט ער געבראַכט"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "כהן"
+    }
+  ],
+  "timestamp": "2026-09-11T02:25:52.800328964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 5,
+  "translation": "און עזי האָט געהאַט ⟨את⟩ זרחיה, און זרחיה האָט געהאַט ⟨את⟩ מריות.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "און עזי"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "זרחיה"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "זרחיה"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "און זרחיה"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "האָט געהאַט"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "מריות"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "מריות"
+    }
+  ],
+  "timestamp": "2026-09-11T04:58:04.550027758Z",
+  "model": "glm-5.3"
+}

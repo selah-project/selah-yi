@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "yi",
+  "chapter": 16,
+  "translation": "װעט אַ מענטש זיך מאַכן אלהים? און זיי זײַנען נישט קיין אלהים?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "װעט מאַכן"
+    },
+    {
+      "surface": "לו",
+      "gloss": "זיך"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "אַ מענטש"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "אלהים"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "און זיי"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "קיין אלהים"
+    }
+  ],
+  "timestamp": "2026-09-11T03:35:29.405522541Z",
+  "model": "glm-5.3"
+}

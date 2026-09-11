@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "yi",
+  "chapter": 15,
+  "translation": "די פֿאַרכט פֿון יהוה איז מוסר פֿון חכמה, און פֿאַר כּבֿוד גייט עניוות.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "די פֿאַרכט"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "פֿון יהוה"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "מוסר"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "פֿון חכמה"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "און פֿאַר"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "כּבֿוד"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "עניוות"
+    }
+  ],
+  "timestamp": "2026-09-11T00:27:38.737669658Z",
+  "model": "glm-5.3"
+}

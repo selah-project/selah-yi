@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "און חצר שועל, און בלה, און עצם.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "און חצר"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "שועל"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "און בלה"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "און עצם"
+    }
+  ],
+  "timestamp": "2026-09-10T20:55:51.833736216Z",
+  "model": "glm-5.3"
+}

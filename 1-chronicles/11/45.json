@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 11,
+  "translation": "ידיעאל דער זון פֿון שמרי, און יחא זײַן ברודער, דער תיצי.",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "ידיעאל"
+    },
+    {
+      "surface": "בן",
+      "gloss": "זון"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "שמרי"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "און יחא"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "זײַן ברודער"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "דער תיצי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:34:57.582618683Z",
+  "model": "glm-5.3"
+}

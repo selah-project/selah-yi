@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 9,
+  "translation": "אין יעדן צײַט זאָלן דײַנע קליידער זײַן ווײַס, און אויל זאָל נישט פֿעלן אויף דײַן קאָפּ.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "אין יעדן"
+    },
+    {
+      "surface": "עת",
+      "gloss": "צײַט"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "זאָלן זײַן"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "דײַנע קליידער"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ווײַס"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "און אויל"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויף"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "דײַן קאָפּ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "זאָל נישט"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "פֿעלן"
+    }
+  ],
+  "timestamp": "2026-09-11T01:01:18.950198657Z",
+  "model": "glm-5.3"
+}

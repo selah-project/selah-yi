@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "מיר האָט ער געפֿירט ⟨את⟩ און געבראַכט אין פֿינצטערניש, און נישט אין ליכט.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "מיר"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "האָט געפֿירט"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "און געבראַכט"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "אין פֿינצטערניש"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "אור",
+      "gloss": "אין ליכט"
+    }
+  ],
+  "timestamp": "2026-09-11T00:55:42.875771525Z",
+  "model": "glm-5.3"
+}

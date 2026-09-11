@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 28,
+  "translation": "און יעקב איז אַרויס פֿון באר־שבע, און איז געגאַנגען קיין חרן.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "איז אַרויס"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "פֿון באר"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "שבע"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "איז געגאַנגען"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "קיין חרן"
+    }
+  ],
+  "timestamp": "2026-09-10T19:22:21.801115937Z",
+  "model": "glm-5.3"
+}

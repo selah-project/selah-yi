@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 83,
+  "translation": "גבל און עמון און עמלק, פּלשת צוזאמען מיט די באוואוינער פֿון צור.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "גבל"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "און עמון"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "און עמלק"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "פּלשת"
+    },
+    {
+      "surface": "עם",
+      "gloss": "צוזאמען מיט"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "די באוואוינער פֿון"
+    },
+    {
+      "surface": "צור",
+      "gloss": "צור"
+    }
+  ],
+  "timestamp": "2026-09-11T00:07:02.443413265Z",
+  "model": "glm-5.3"
+}

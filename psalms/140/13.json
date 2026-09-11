@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "yi",
+  "chapter": 140,
+  "translation": "איך ווייס אַז יהוה וועט טון דין פֿון עני, משפט פֿון אבֿיונים.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "איך ווייס"
+    },
+    {
+      "surface": "כי",
+      "gloss": "אַז"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "וועט טון"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "דין",
+      "gloss": "דין"
+    },
+    {
+      "surface": "עני",
+      "gloss": "עני"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "משפט"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "אבֿיונים"
+    }
+  ],
+  "timestamp": "2026-09-11T04:33:49.652470851Z",
+  "model": "glm-5.3"
+}

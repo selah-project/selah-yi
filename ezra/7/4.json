@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "בן זרחיה, בן עזי, בן בקי.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "זרחיה"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "עזי"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "בקי"
+    }
+  ],
+  "timestamp": "2026-09-11T01:18:09.226125219Z",
+  "model": "glm-5.3"
+}

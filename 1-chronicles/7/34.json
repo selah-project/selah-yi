@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 7,
+  "translation": "און די זין פֿון שמר: אחי און רוהגה, יחבה און ארם.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "און די זין"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "פֿון שמר"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "אחי"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "און רוהגה"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "יחבה"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "און ארם"
+    }
+  ],
+  "timestamp": "2026-09-11T01:33:30.065708393Z",
+  "model": "glm-5.3"
+}

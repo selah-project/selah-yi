@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "yi",
+  "chapter": 3,
+  "translation": "פֿאַר אַלץ אַ זמן, און אַ צײַט פֿאַר יעדן חפֿץ אונטער די הימלען.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "פֿאַר אַלץ"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "אַ זמן"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "און אַ צײַט"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "פֿאַר יעדן"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "חפֿץ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "אונטער"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "די הימלען"
+    }
+  ],
+  "timestamp": "2026-09-11T00:58:43.823805510Z",
+  "model": "glm-5.3"
+}

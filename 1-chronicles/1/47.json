@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און הדד איז געשטארבן, און שמלה פֿון משרקה האָט געקעניגט אין זײַן אָרט.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "איז געשטארבן"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "הדד"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "האָט געקעניגט"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "אין זײַן אָרט"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "שמלה"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "פֿון משרקה"
+    }
+  ],
+  "timestamp": "2026-09-11T01:29:18.873703179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "yi",
+  "chapter": 12,
+  "translation": "אַזוי זאָלט איר נישט טון פֿאַר יהוה אײַער אלהים.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "זאָלט איר טון"
+    },
+    {
+      "surface": "כן",
+      "gloss": "אַזוי"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "פֿאַר יהוה"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "אײַער אלהים"
+    }
+  ],
+  "timestamp": "2026-09-11T02:40:14.594192222Z",
+  "model": "glm-5.3"
+}

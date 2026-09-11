@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "yi",
+  "chapter": 2,
+  "translation": "און בת שבע האָט געזאָגט: גוט, איך װעל רעדן פֿאַר דיר צו דעם מלך.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "און … האָט געזאָגט"
+    },
+    {
+      "surface": "בת",
+      "gloss": "בת"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "שבע"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "גוט"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "איך"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "איך װעל רעדן"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "פֿאַר דיר"
+    },
+    {
+      "surface": "אל",
+      "gloss": "צו"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "דעם מלך"
+    }
+  ],
+  "timestamp": "2026-09-10T21:41:18.956162829Z",
+  "model": "glm-5.3"
+}

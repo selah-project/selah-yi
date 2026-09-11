@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "yi",
+  "chapter": 19,
+  "translation": "איר זאָלט נישט עסן אויפֿן דם; איר זאָלט נישט נחשות טון און נישט עוננות.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "איר זאָלט עסן"
+    },
+    {
+      "surface": "על",
+      "gloss": "אויפֿן"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "דם"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נישט"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "נחשות טון"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "און נישט"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "עוננות"
+    }
+  ],
+  "timestamp": "2026-09-10T20:06:14.894478866Z",
+  "model": "glm-5.3"
+}

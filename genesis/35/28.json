@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 35,
+  "translation": "און די טעג פֿון יצחק זײַנען געווען הונדערט יאָר און אַכציק יאָר.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "זײַנען געווען"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "די טעג"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "פֿון יצחק"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "הונדערט"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "און אַכציק"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "יאָר"
+    }
+  ],
+  "timestamp": "2026-09-10T19:26:51.739470958Z",
+  "model": "glm-5.3"
+}

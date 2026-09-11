@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "yi",
+  "chapter": 1,
+  "translation": "און עס איז געווען אָוונט, און עס איז געווען בוקר — דריטער טאָג.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "און עס איז געווען"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "אָוונט"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "און עס איז געווען"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "בוקר"
+    },
+    {
+      "surface": "יום",
+      "gloss": "טאָג"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "דריטער"
+    }
+  ],
+  "timestamp": "2026-09-10T19:09:36.038189947Z",
+  "model": "glm-5.3"
+}
