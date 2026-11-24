@@ -9,7 +9,7 @@
 - עפֿנט אַן **Issue** אין דער רעפּאָזיטאָריע:
   <https://github.com/selah-project/selah-yi>
 - אָדער, אויב איר קענט אַליין פֿאַרריכטן — עפֿנט אַ **Pull request**.
-- אָדער שרײַבט אונדז: <support@selahproject.com>
+- אָדער שרײַבט אונדז: <https://s33k3r.com/learn/support>
 
 ## וואָס דאַרף שטיין אין דער מעלדונג
 
@@ -49,7 +49,7 @@
 
 **English.** Contributions welcome: open an Issue or Pull request at
 <https://github.com/selah-project/selah-yi>, or write to
-<support@selahproject.com>. One file = one verse; token count equals
+<https://s33k3r.com/learn/support>. One file = one verse; token count equals
 gloss count; ⟨את⟩ markers are never deleted or added. The Name stands
 as יהוה itself, unpointed, at every seat — no avoidance apparatus ever
 takes its place (not ה׳, not השם, not אדושם, not אלוקים, not the
